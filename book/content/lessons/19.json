@@ -1,0 +1,166 @@
+{
+  "n": 19,
+  "title": "Definite Articles in Nominative",
+  "titleDe": "Bestimmte Artikel im Nominativ",
+  "level": "A1",
+  "sourceNote": "The auto-captions are garbled in several places (some example sentences could not be reconstructed). The explanation of the nominative case and the table of definite articles are clear; extra nouns and examples are marked as supplementary.",
+  "objectives": [
+    "I can explain what the nominative case and the subject are",
+    "I can use der, die, das and plural die",
+    "I know that every German noun has an article and starts with a capital letter",
+    "I can find the nominative with the questions Wer? and Was?"
+  ],
+  "vocab": [
+    { "de": "der Mann", "pl": "die Männer", "en": "man", "ar": "رجل", "note": "" },
+    { "de": "die Frau", "pl": "die Frauen", "en": "woman", "ar": "امرأة", "note": "" },
+    { "de": "das Baby", "pl": "die Babys", "en": "baby", "ar": "رضيع", "note": "" },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل", "note": "" },
+    { "de": "das Haus", "pl": "die Häuser", "en": "house", "ar": "بيت", "note": "" },
+    { "de": "der Wein", "pl": "die Weine", "en": "wine", "ar": "نبيذ", "note": "" },
+    { "de": "die Person", "pl": "die Personen", "en": "person", "ar": "شخص", "note": "" },
+    { "de": "die Sache", "pl": "die Sachen", "en": "thing", "ar": "شيء", "note": "" },
+    { "de": "der Satz", "pl": "die Sätze", "en": "sentence", "ar": "جملة", "note": "" },
+    { "de": "das Subjekt", "pl": "die Subjekte", "en": "subject", "ar": "فاعل", "note": "" },
+    { "de": "das Verb", "pl": "die Verben", "en": "verb", "ar": "فعل", "note": "" },
+    { "de": "der Artikel", "pl": "die Artikel", "en": "article", "ar": "أداة التعريف", "note": "" },
+    { "de": "das Substantiv / das Nomen", "pl": "die Substantive / die Nomen", "en": "noun", "ar": "اسم", "note": "" },
+    { "de": "der Nominativ", "pl": "–", "en": "nominative case", "ar": "حالة الرفع", "note": "" },
+    { "de": "der Hund", "pl": "die Hunde", "en": "dog", "ar": "كلب", "note": "", "sup": true },
+    { "de": "die Katze", "pl": "die Katzen", "en": "cat", "ar": "قطة", "note": "", "sup": true },
+    { "de": "das Auto", "pl": "die Autos", "en": "car", "ar": "سيارة", "note": "", "sup": true },
+    { "de": "der Tisch", "pl": "die Tische", "en": "table", "ar": "طاولة", "note": "", "sup": true },
+    { "de": "die Lampe", "pl": "die Lampen", "en": "lamp", "ar": "مصباح", "note": "", "sup": true },
+    { "de": "das Handy", "pl": "die Handys", "en": "mobile phone", "ar": "هاتف جوال", "note": "", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Wer ist das?", "en": "Who is that? (for a person)", "ar": "من هذا؟" },
+    { "de": "Was ist das?", "en": "What is that? (for a thing)", "ar": "ما هذا؟" }
+  ],
+  "patterns": [
+    { "form": "[Article] + [Noun] + [Verb] ...", "ex": "Der Mann ist groß.", "en": "The man is tall." },
+    { "form": "Wer ist das? – Das ist + [Name].", "ex": "Wer ist das? – Das ist Peter.", "en": "Who is that? – That is Peter." },
+    { "form": "Was ist das? – Das ist + [article + noun].", "ex": "Was ist das? – Das ist das Haus.", "en": "What is that? – That is the house." }
+  ],
+  "grammar": [
+    {
+      "title": "What is the nominative?",
+      "body": "A sentence is made of a **subject** and a **verb**. The subject is always in the **nominative case**, and the verb is conjugated to match the subject.\n\nThe subject can be a **noun** (Nomen / Substantiv) or a **pronoun** (ich, du, er ... – see lesson 11). A noun can be a person or a thing, singular or plural.",
+      "examples": [
+        { "de": "Sabine ist groß.", "en": "Sabine is tall." },
+        { "de": "Das Haus ist groß.", "en": "The house is big." }
+      ]
+    },
+    {
+      "title": "Find the nominative with Wer? and Was?",
+      "body": "Ask **Wer?** (who) for a person and **Was?** (what) for a thing. The answer is the nominative.",
+      "examples": [
+        { "de": "Wer ist das? – Das ist Peter.", "en": "Who is that? – That is Peter." },
+        { "de": "Was ist das? – Das ist das Haus.", "en": "What is that? – That is the house." }
+      ]
+    },
+    {
+      "title": "Every noun has an article and a capital letter",
+      "body": "In German **all nouns** have an article that stands before them, and **all nouns** start with a **capital letter** – common nouns and proper nouns alike.\n\nThere are three kinds of articles: the **definite** article (bestimmter Artikel: *the*), the **indefinite** article (unbestimmter Artikel: *a*) and the negative article (*kein*, *no*). In this lesson we only study the definite article in the nominative.",
+      "ar": "كل اسم في الألمانية له أداة ويبدأ بحرف كبير."
+    },
+    {
+      "title": "The definite articles (nominative)",
+      "body": "There are three genders in the singular: **masculine (der)**, **feminine (die)** and **neuter (das)**. In the plural the article is always **die**, whatever the gender – it looks like the feminine one.\n\nTip: learn every noun with its article. A simple way to remember: write **m** for *der*, **f** for *die* and **n** for *das*.",
+      "table": {
+        "head": ["", "Singular", "Plural"],
+        "rows": [
+          ["masculine", "der Mann", "die Männer"],
+          ["feminine", "die Frau", "die Frauen"],
+          ["neuter", "das Baby", "die Babys"]
+        ]
+      },
+      "ar": "المذكّر der، المؤنّث die، المحايد das، والجمع دائمًا die.",
+      "examples": [
+        { "de": "Der Mann ist groß.", "en": "The man is tall." },
+        { "de": "Die Frau trinkt Wein.", "en": "The woman drinks wine." },
+        { "de": "Das Baby ist süß.", "en": "The baby is cute." },
+        { "de": "Das Haus ist groß.", "en": "The house is big." },
+        { "de": "Die Kinder sind klein.", "en": "The children are small." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "die Mann", "right": "der Mann", "why": "*Mann* is masculine: *der*." },
+    { "wrong": "das Männer", "right": "die Männer", "why": "In the plural the article is always *die*." },
+    { "wrong": "der mann", "right": "der Mann", "why": "All German nouns start with a capital letter." }
+  ],
+  "pronunciation": [
+    { "de": "ä", "tip": "Like the 'e' in 'bed'. *Männer*, *Sätze*." },
+    { "de": "ie", "tip": "*ie* is a long 'ee': *die*, *vier*. But *ei* sounds like 'eye': *Wein*, *klein*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Who and what?",
+      "lines": [
+        { "who": "A", "de": "Wer ist das?", "en": "Who is that?" },
+        { "who": "B", "de": "Das ist Peter. Der Mann ist groß.", "en": "That is Peter. The man is tall." },
+        { "who": "A", "de": "Was ist das?", "en": "What is that?" },
+        { "who": "B", "de": "Das ist das Haus. Das Haus ist groß.", "en": "That is the house. The house is big." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn every noun together with its article, for example der Mann, die Frau, das Kind – never the noun alone.",
+  "comprehension": [
+    { "q": "What are the three definite articles in the singular?", "a": "der (masculine), die (feminine), das (neuter)." },
+    { "q": "Which article is used in the plural?", "a": "die, for all genders." },
+    { "q": "Which question words help you find the nominative?", "a": "Wer? (person) and Was? (thing)." },
+    { "q": "How does every German noun begin?", "a": "With a capital letter." }
+  ],
+  "exercises": [
+    {
+      "title": "Der, die or das?",
+      "type": "choose",
+      "instructions": "Choose the correct article.",
+      "items": [
+        { "q": "___ Hund ist groß. (der / die / das)", "a": "Der" },
+        { "q": "___ Katze ist klein. (der / die / das)", "a": "Die" },
+        { "q": "___ Auto ist schnell. (der / die / das)", "a": "Das" },
+        { "q": "___ Tisch ist alt. (der / die / das)", "a": "Der" },
+        { "q": "___ Lampe ist neu. (der / die / das)", "a": "Die" },
+        { "q": "___ Handy ist billig. (der / die / das)", "a": "Das" },
+        { "q": "___ Frau ist glücklich. (der / die / das)", "a": "Die" },
+        { "q": "___ Haus ist alt. (der / die / das)", "a": "Das" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Plural articles",
+      "type": "fill",
+      "instructions": "Write the plural article.",
+      "items": [
+        { "q": "___ Männer sind groß.", "a": "Die", "expl": "Plural = *die*." },
+        { "q": "___ Kinder sind klein.", "a": "Die" },
+        { "q": "___ Frauen sind glücklich.", "a": "Die" },
+        { "q": "___ Hunde sind schnell.", "a": "Die" },
+        { "q": "___ Babys sind süß.", "a": "Die" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Translate the sentences.",
+      "items": [
+        { "q": "The man is big.", "a": "Der Mann ist groß." },
+        { "q": "The woman is happy.", "a": "Die Frau ist glücklich." },
+        { "q": "The baby is small.", "a": "Das Baby ist klein." },
+        { "q": "The children are happy.", "a": "Die Kinder sind glücklich." },
+        { "q": "The house is old.", "a": "Das Haus ist alt." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "The subject of a sentence is in the nominative; the verb agrees with it.",
+    "Find the nominative with Wer? (person) and Was? (thing).",
+    "Every noun has an article and a capital letter.",
+    "Definite articles: der (m), die (f), das (n), die (plural).",
+    "Learn each noun together with its article."
+  ]
+}

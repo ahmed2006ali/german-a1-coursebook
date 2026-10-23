@@ -1,0 +1,195 @@
+{
+  "n": 43,
+  "title": "Being Unwell",
+  "titleDe": "Krank sein",
+  "level": "A1",
+  "sourceNote": "Transcript is auto-captioned; a few lines were garbled (for example 'Mein Kopf weh' is really 'Mein Kopf tut weh'). The body-part words are assumed from earlier lessons.",
+  "objectives": [
+    "I can name common illnesses and types of pain",
+    "I can say that I am ill and what hurts",
+    "I can say that I hurt or broke a body part",
+    "I can give simple advice using the Imperativ and wish someone well"
+  ],
+  "vocab": [
+    { "de": "die Krankheit", "pl": "die Krankheiten", "en": "illness", "ar": "مرض" },
+    { "de": "krank", "en": "ill, sick", "ar": "مريض" },
+    { "de": "die Schmerzen", "pl": "die Schmerzen", "en": "pain", "ar": "ألم", "note": "usually plural" },
+    { "de": "die Kopfschmerzen", "pl": "–", "en": "headache", "ar": "صداع", "note": "always plural" },
+    { "de": "die Rückenschmerzen", "pl": "–", "en": "back pain", "ar": "ألم في الظهر", "note": "always plural" },
+    { "de": "die Zahnschmerzen", "pl": "–", "en": "toothache", "ar": "ألم في الأسنان", "note": "always plural" },
+    { "de": "die Bauchschmerzen", "pl": "–", "en": "stomach ache", "ar": "ألم في البطن", "note": "always plural" },
+    { "de": "die Ohrenschmerzen", "pl": "–", "en": "earache", "ar": "ألم في الأذن", "note": "always plural" },
+    { "de": "die Halsschmerzen", "pl": "–", "en": "sore throat", "ar": "ألم في الحلق", "note": "always plural" },
+    { "de": "die Nackenschmerzen", "pl": "–", "en": "neck pain", "ar": "ألم في الرقبة", "note": "always plural" },
+    { "de": "das Fieber", "pl": "–", "en": "fever", "ar": "حمى" },
+    { "de": "die Grippe", "pl": "–", "en": "flu", "ar": "إنفلونزا" },
+    { "de": "der Schnupfen", "pl": "–", "en": "runny nose, cold", "ar": "زكام" },
+    { "de": "die Erkältung", "pl": "die Erkältungen", "en": "cold", "ar": "نزلة برد" },
+    { "de": "der Husten", "pl": "–", "en": "cough", "ar": "سعال" },
+    { "de": "das Asthma", "pl": "–", "en": "asthma", "ar": "ربو" },
+    { "de": "der Durchfall", "pl": "–", "en": "diarrhoea", "ar": "إسهال" },
+    { "de": "der Blutdruck", "pl": "–", "en": "blood pressure", "ar": "ضغط الدم" },
+    { "de": "das Übergewicht", "pl": "–", "en": "overweight", "ar": "زيادة الوزن" },
+    { "de": "der Ratschlag", "pl": "die Ratschläge", "en": "piece of advice", "ar": "نصيحة" },
+    { "de": "verletzen (sich)", "en": "to hurt oneself", "ar": "يجرح نفسه", "note": "ich habe mich verletzt" },
+    { "de": "brechen", "en": "to break", "ar": "يكسر", "note": "gebrochen" },
+    { "de": "weh tun", "en": "to hurt", "ar": "يؤلم", "note": "Mein Kopf tut weh." },
+    { "de": "sich ausruhen", "en": "to rest", "ar": "يستريح" },
+    { "de": "die Diät", "pl": "die Diäten", "en": "diet", "ar": "حمية", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Ich bin krank.", "en": "I am ill.", "ar": "أنا مريض." },
+    { "de": "Ich fühle mich nicht wohl.", "en": "I don't feel well.", "ar": "لا أشعر أنني بخير." },
+    { "de": "Mir geht es nicht gut.", "en": "I am not doing well.", "ar": "حالتي ليست جيدة." },
+    { "de": "Mir ist schlecht.", "en": "I feel sick (nauseous).", "ar": "أشعر بالغثيان." },
+    { "de": "Gute Besserung!", "en": "Get well soon!", "ar": "الشفاء العاجل!" },
+    { "de": "Viel trinken, viel schlafen, viel ausruhen!", "en": "Drink a lot, sleep a lot, rest a lot!" }
+  ],
+  "patterns": [
+    { "form": "Ich habe + [illness / pain].", "ex": "Ich habe Kopfschmerzen.", "en": "I have a headache." },
+    { "form": "Mir tut + [singular body part] + weh.", "ex": "Mir tut der Kopf weh.", "en": "My head hurts." },
+    { "form": "Mir tun + [plural body part] + weh.", "ex": "Mir tun die Ohren weh.", "en": "My ears hurt." },
+    { "form": "Ich habe mich + an + [body part] + verletzt.", "ex": "Ich habe mich am Bein verletzt.", "en": "I hurt my leg." },
+    { "form": "Ich habe mir + [body part, Akkusativ] + gebrochen.", "ex": "Ich habe mir den Arm gebrochen.", "en": "I broke my arm." }
+  ],
+  "grammar": [
+    {
+      "title": "Saying you are unwell",
+      "body": "Three useful ways: **Ich bin krank.** / **Ich fühle mich nicht wohl.** / **Mir geht es nicht gut.** If you do not know the word for a specific illness or body part, just say *Ich bin krank.* Everyone understands it.",
+      "ar": "إذا لم تعرف اسم المرض، قل ببساطة: Ich bin krank."
+    },
+    {
+      "title": "Compound pain words",
+      "body": "**Schmerzen** (pain) can be joined to a body part: *der Kopf* + *die Schmerzen* = **die Kopfschmerzen**. Words like *Kopfschmerzen*, *Rückenschmerzen* are **always plural** in German, and the article is the plural **die**.",
+      "ar": "كل كلمات Schmerzen تأتي دائمًا بصيغة الجمع."
+    },
+    {
+      "title": "Ich habe ...",
+      "body": "Use **haben** for illnesses and pain. Often **no article** is used (*Ich habe Husten.*), but with some words an article is possible (*Ich habe eine Grippe. Ich habe eine Erkältung.*). Learn each expression as it is.",
+      "examples": [
+        { "de": "Ich habe Fieber.", "en": "I have a fever." },
+        { "de": "Ich habe eine Grippe.", "en": "I have the flu." },
+        { "de": "Ich habe Schnupfen.", "en": "I have a runny nose." },
+        { "de": "Ich habe Husten.", "en": "I have a cough." },
+        { "de": "Ich habe Asthma.", "en": "I have asthma." },
+        { "de": "Ich habe Durchfall.", "en": "I have diarrhoea." },
+        { "de": "Ich habe hohen Blutdruck.", "en": "I have high blood pressure." },
+        { "de": "Ich habe Übergewicht.", "en": "I am overweight." }
+      ]
+    },
+    {
+      "title": "Mir tut ... weh",
+      "body": "Another way to say something hurts: the body part is the subject of *weh tun*, and the person is in the Dativ (**mir**). For a plural body part use **tun**.",
+      "examples": [
+        { "de": "Mein Kopf tut weh.", "en": "My head hurts." },
+        { "de": "Mir tut der Kopf weh.", "en": "My head hurts." },
+        { "de": "Mein Kopf tut mir weh.", "en": "My head hurts me." },
+        { "de": "Mir tun die Ohren weh.", "en": "My ears hurt." }
+      ]
+    },
+    {
+      "title": "Hurting or breaking a body part",
+      "body": "With *sich verletzen* use **an** + Dativ: **am** for der/das words (*am Bein, am Finger*) and **an der** for die words (*an der Hand*). With *brechen* use **mir** + the body part in the **Akkusativ**: *Ich habe mir **den** Arm gebrochen.*",
+      "examples": [
+        { "de": "Ich habe mich verletzt.", "en": "I hurt myself." },
+        { "de": "Ich habe mich am Bein verletzt.", "en": "I hurt my leg." },
+        { "de": "Ich habe mich an der Hand verletzt.", "en": "I hurt my hand." },
+        { "de": "Ich habe mir das Bein gebrochen.", "en": "I broke my leg." },
+        { "de": "Ich habe mir den Arm gebrochen.", "en": "I broke my arm." }
+      ]
+    },
+    {
+      "title": "Giving advice with the Imperativ",
+      "body": "To advise a friend, use the **du-Imperativ** (see lesson 39). *jemandem einen Ratschlag geben* = to give someone advice. The word **viel** is very useful: *viel trinken, viel schlafen, viel ausruhen.*",
+      "examples": [
+        { "de": "Ich bin so müde. – Geh schlafen!", "en": "I am so tired. – Go to sleep!" },
+        { "de": "Ich habe Übergewicht. – Mach eine Diät!", "en": "I am overweight. – Go on a diet!" },
+        { "de": "Ich habe Kopfschmerzen und Fieber. – Trink viel Tee und geh schlafen!", "en": "I have a headache and a fever. – Drink a lot of tea and go to sleep!" }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich habe eine Kopfschmerz.", "right": "Ich habe Kopfschmerzen.", "why": "*Kopfschmerzen* is always plural and needs no article." },
+    { "wrong": "Ich habe mich an dem Hand verletzt.", "right": "Ich habe mich an der Hand verletzt.", "why": "*Hand* is feminine: *an der Hand*." },
+    { "wrong": "Ich habe mir dem Arm gebrochen.", "right": "Ich habe mir den Arm gebrochen.", "why": "The body part is Akkusativ: *den Arm*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Not feeling well",
+      "lines": [
+        { "who": "A", "de": "Hallo, wie geht es dir?", "en": "Hello, how are you?" },
+        { "who": "B", "de": "Nicht so gut. Ich habe Kopfschmerzen und Fieber.", "en": "Not so good. I have a headache and a fever." },
+        { "who": "A", "de": "Oh nein! Trink viel Tee und geh schlafen.", "en": "Oh no! Drink a lot of tea and go to sleep." },
+        { "who": "B", "de": "Ja, mache ich. Danke.", "en": "Yes, I will. Thanks." },
+        { "who": "A", "de": "Gute Besserung!", "en": "Get well soon!" }
+      ]
+    }
+  ],
+  "tip": "Gute Besserung! is polite and fits every situation. You can say it to your boss, to friends, or even to a stranger who sneezes on the bus.",
+  "comprehension": [
+    { "q": "Name three ways to say you are unwell.", "a": "Ich bin krank. / Ich fühle mich nicht wohl. / Mir geht es nicht gut." },
+    { "q": "Why do we say 'die Kopfschmerzen' and not 'der Kopfschmerz'?", "a": "Words with Schmerzen are always plural." },
+    { "q": "Which preposition do you use for 'Hand' when you hurt it?", "a": "an der Hand (Hand is feminine)." },
+    { "q": "What do you say to someone who is ill?", "a": "Gute Besserung!" }
+  ],
+  "exercises": [
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentences.",
+      "items": [
+        { "q": "Mir tut ___ Kopf weh.", "a": "der", "expl": "*Kopf* is masculine, Nominativ." },
+        { "q": "Mir tun ___ Ohren weh.", "a": "die", "expl": "*Ohren* is plural." },
+        { "q": "Ich habe mich ___ Bein verletzt. (an + dem)", "a": "am", "expl": "*Bein* is neuter: *am*." },
+        { "q": "Ich habe mich ___ der Hand verletzt.", "a": "an", "expl": "*an der Hand*." },
+        { "q": "Ich habe mir ___ Arm gebrochen.", "a": "den", "expl": "*Arm* is masculine, Akkusativ: *den*." },
+        { "q": "Ich habe mir ___ Bein gebrochen.", "a": "das", "expl": "*Bein* is neuter, Akkusativ: *das*." }
+      ]
+    },
+    {
+      "title": "Give advice",
+      "type": "fill",
+      "instructions": "Give advice to a friend (du-Imperativ). Fill in the imperative.",
+      "items": [
+        { "q": "Ich bin so müde. – ___ schlafen! (gehen)", "a": "Geh", "expl": "du-Imperativ of *gehen*: *Geh!*" },
+        { "q": "Ich habe Übergewicht. – ___ eine Diät! (machen)", "a": "Mach", "expl": "du-Imperativ of *machen*: *Mach!*" },
+        { "q": "Ich habe Fieber. – ___ viel Tee! (trinken)", "a": "Trink", "expl": "du-Imperativ of *trinken*: *Trink!*" },
+        { "q": "Ich bin sehr müde. – ___ viel! (schlafen)", "a": "Schlaf", "expl": "du-Imperativ of *schlafen*: *Schlaf!*" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Match",
+      "type": "match",
+      "instructions": "Match the German word with its English meaning.",
+      "items": [
+        { "q": "die Halsschmerzen", "a": "sore throat" },
+        { "q": "die Zahnschmerzen", "a": "toothache" },
+        { "q": "der Husten", "a": "cough" },
+        { "q": "das Fieber", "a": "fever" },
+        { "q": "die Erkältung", "a": "cold" },
+        { "q": "die Bauchschmerzen", "a": "stomach ache" }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I have a headache.", "a": "Ich habe Kopfschmerzen." },
+        { "q": "My ears hurt.", "a": "Mir tun die Ohren weh. / Meine Ohren tun mir weh." },
+        { "q": "I broke my arm.", "a": "Ich habe mir den Arm gebrochen." },
+        { "q": "I don't feel well.", "a": "Ich fühle mich nicht wohl. / Mir geht es nicht gut." },
+        { "q": "Get well soon!", "a": "Gute Besserung!" }
+      ]
+    }
+  ],
+  "summary": [
+    "Say you are unwell with Ich bin krank. / Ich fühle mich nicht wohl. / Mir geht es nicht gut.",
+    "Pain words with -schmerzen are always plural: die Kopfschmerzen, die Halsschmerzen.",
+    "Use haben for illnesses: Ich habe Fieber / Husten / eine Grippe.",
+    "Mir tut der Kopf weh; Mir tun die Ohren weh.",
+    "Ich habe mich am Bein verletzt; Ich habe mir den Arm gebrochen.",
+    "Give advice with the du-Imperativ (Geh schlafen!) and say Gute Besserung!"
+  ]
+}

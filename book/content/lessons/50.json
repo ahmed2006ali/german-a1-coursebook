@@ -1,0 +1,212 @@
+{
+  "n": 50,
+  "title": "Making Appointments",
+  "titleDe": "Verabredungen",
+  "level": "A1",
+  "sourceNote": "The transcript of this lesson is heavily garbled. The phrases below were reconstructed from context into standard German; the sample dialogues are based on the video's structure.",
+  "objectives": [
+    "I can suggest a meeting with a friend",
+    "I can accept or decline an invitation and give a reason",
+    "I can suggest another day, a time and a place",
+    "I can tell the difference between *der Termin* and *die Verabredung*"
+  ],
+  "vocab": [
+    { "de": "die Verabredung", "pl": "die Verabredungen", "en": "date, arrangement (personal)", "ar": "موعد (شخصي)", "note": "with friends, family" },
+    { "de": "der Termin", "pl": "die Termine", "en": "appointment (formal)", "ar": "موعد (رسمي)", "note": "doctor, office" },
+    { "de": "das Treffen", "pl": "die Treffen", "en": "meeting", "ar": "لقاء", "note": "" },
+    { "de": "der Vorschlag", "pl": "die Vorschläge", "en": "suggestion", "ar": "اقتراح", "note": "" },
+    { "de": "die Zeit", "pl": "–", "en": "time", "ar": "وقت", "note": "" },
+    { "de": "das Kino", "pl": "die Kinos", "en": "cinema", "ar": "سينما", "note": "" },
+    { "de": "der Park", "pl": "die Parks", "en": "park", "ar": "حديقة", "note": "" },
+    { "de": "das Café", "pl": "die Cafés", "en": "café", "ar": "مقهى", "note": "" },
+    { "de": "das Restaurant", "pl": "die Restaurants", "en": "restaurant", "ar": "مطعم", "note": "" },
+    { "de": "sich treffen", "en": "to meet", "ar": "يلتقي", "note": "wir treffen uns" },
+    { "de": "bestätigen", "en": "to confirm", "ar": "يؤكد", "note": "" },
+    { "de": "ablehnen", "en": "to decline", "ar": "يرفض", "note": "ich lehne ab" },
+    { "de": "passen", "en": "to suit, to fit", "ar": "يناسب", "note": "Das passt." },
+    { "de": "arbeiten", "en": "to work", "ar": "يعمل", "note": "" },
+    { "de": "schon verabredet sein", "en": "to already have plans", "ar": "لديه موعد سابق", "note": "" },
+    { "de": "heute Abend", "en": "this evening", "ar": "هذا المساء", "note": "" },
+    { "de": "morgen", "en": "tomorrow", "ar": "غدًا", "note": "" },
+    { "de": "nächste Woche", "en": "next week", "ar": "الأسبوع القادم", "note": "" },
+    { "de": "vielleicht", "en": "maybe", "ar": "ربما", "note": "" },
+    { "de": "leider", "en": "unfortunately", "ar": "للأسف", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Wollen wir uns treffen?", "en": "Shall we meet?", "ar": "" },
+    { "de": "Willst du mit mir ins Kino gehen?", "en": "Do you want to go to the cinema with me?", "ar": "" },
+    { "de": "Willst du mit mir in den Park gehen?", "en": "Do you want to go to the park with me?", "ar": "" },
+    { "de": "Willst du mit mir Tennis spielen?", "en": "Do you want to play tennis with me?", "ar": "" },
+    { "de": "Hast du am Freitag Zeit?", "en": "Do you have time on Friday?", "ar": "" },
+    { "de": "Ich möchte mich gern mit dir treffen.", "en": "I would like to meet you.", "ar": "" },
+    { "de": "Ja, das passt.", "en": "Yes, that suits me.", "ar": "" },
+    { "de": "Ja, Freitag ist gut.", "en": "Yes, Friday is good.", "ar": "" },
+    { "de": "Nein, heute geht es nicht.", "en": "No, today doesn't work.", "ar": "" },
+    { "de": "Tut mir leid, ich kann nicht.", "en": "Sorry, I can't.", "ar": "" },
+    { "de": "Am Freitag habe ich keine Zeit.", "en": "I have no time on Friday.", "ar": "" },
+    { "de": "Ich muss arbeiten.", "en": "I have to work.", "ar": "" },
+    { "de": "Ich bin schon verabredet.", "en": "I already have plans.", "ar": "" },
+    { "de": "Vielleicht nächste Woche?", "en": "Maybe next week?", "ar": "" },
+    { "de": "Wann und wo treffen wir uns?", "en": "When and where shall we meet?", "ar": "" },
+    { "de": "Wir treffen uns um 19 Uhr vor dem Kino.", "en": "We'll meet at 7 pm in front of the cinema.", "ar": "" },
+    { "de": "Okay, bis dann!", "en": "Okay, see you then!", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Wollen wir uns + [time] treffen?", "ex": "Wollen wir uns morgen treffen?", "en": "Shall we meet tomorrow?" },
+    { "form": "Willst du mit mir + [place/activity]?", "ex": "Willst du mit mir ins Café gehen?", "en": "Do you want to go to the café with me?" },
+    { "form": "Hast du am + [day] Zeit?", "ex": "Hast du am Montag Zeit?", "en": "Do you have time on Monday?" },
+    { "form": "Ich muss + [infinitive].", "ex": "Ich muss arbeiten.", "en": "I have to work." },
+    { "form": "Wir treffen uns um + [time] + [place].", "ex": "Wir treffen uns um 18 Uhr im Restaurant.", "en": "We'll meet at 6 pm in the restaurant." }
+  ],
+  "grammar": [
+    {
+      "title": "Termin or Verabredung?",
+      "body": "A **Verabredung** is something personal that you arrange with friends, family or acquaintances (it can also be a date). A **Termin** is formal, for example at the doctor's or at an office.\n\nYou can say **eine Verabredung treffen** (to make a date) and **eine Verabredung bestätigen** (to confirm it).",
+      "ar": "Verabredung = موعد مع الأصدقاء، Termin = موعد رسمي (طبيب، مكتب).",
+      "examples": [
+        { "de": "Ich habe morgen einen Termin beim Arzt.", "en": "I have an appointment at the doctor's tomorrow." },
+        { "de": "Ich habe heute Abend eine Verabredung.", "en": "I have a date/arrangement this evening." }
+      ]
+    },
+    {
+      "title": "Making a suggestion",
+      "body": "Start with a greeting and then ask. You can use the modal verb **wollen** (verb first, like all yes/no questions) or just a normal question. The activity goes at the end of the sentence.",
+      "examples": [
+        { "de": "Hallo Ben! Willst du mit mir ins Kino gehen?", "en": "Hi Ben! Do you want to go to the cinema with me?" },
+        { "de": "Hast du am Freitag Zeit?", "en": "Do you have time on Friday?" },
+        { "de": "Wollen wir uns am Samstag treffen?", "en": "Shall we meet on Saturday?" }
+      ]
+    },
+    {
+      "title": "Saying yes or no",
+      "body": "To accept: **Ja, das passt.** / **Ja, Freitag ist gut.** To decline: **Nein, das geht nicht.** / **Tut mir leid, ich kann nicht.** You can add a reason with **Ich muss ...** or **Ich habe keine Zeit.** or **Ich bin schon verabredet.**\n\nAfter a refusal, someone usually makes a new suggestion: **Vielleicht nächste Woche?**",
+      "examples": [
+        { "de": "Am Montag habe ich leider keine Zeit.", "en": "Unfortunately I have no time on Monday." },
+        { "de": "Ich muss am Samstag arbeiten.", "en": "I have to work on Saturday." }
+      ]
+    },
+    {
+      "title": "The verb sich treffen",
+      "body": "**Sich treffen** (to meet) uses a small extra word: **mich, dich, uns ...** For appointments you mostly need **wir treffen uns** and **ich möchte mich treffen**.",
+      "table": {
+        "head": ["", "treffen"],
+        "rows": [
+          ["ich", "treffe mich"],
+          ["du", "triffst dich"],
+          ["er / sie / es", "trifft sich"],
+          ["wir", "treffen uns"],
+          ["ihr", "trefft euch"],
+          ["sie / Sie", "treffen sich"]
+        ]
+      },
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Wir treffen am Freitag.", "right": "Wir treffen uns am Freitag.", "why": "*sich treffen* needs *uns* here." },
+    { "wrong": "Ich muss arbeite.", "right": "Ich muss arbeiten.", "why": "After *muss* the verb is in the infinitive." }
+  ],
+  "pronunciation": [
+    { "de": "ei", "tip": "Sounds like English 'eye': *Zeit*, *leid*, *Freitag* (not 'ee')." },
+    { "de": "-ung", "tip": "Ends in 'oong' with the soft 'ng': *Verabredung*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Fixing a meeting",
+      "lines": [
+        { "who": "A", "de": "Hallo Ben! Wollen wir uns treffen?", "en": "Hi Ben! Shall we meet?" },
+        { "who": "B", "de": "Ja, gern. Wann denn?", "en": "Yes, gladly. When?" },
+        { "who": "A", "de": "Heute Abend?", "en": "This evening?" },
+        { "who": "B", "de": "Nein, heute geht es nicht. Ich muss arbeiten. Ist morgen gut?", "en": "No, today doesn't work. I have to work. Is tomorrow good?" },
+        { "who": "A", "de": "Ja, morgen ist gut. Wann und wo treffen wir uns?", "en": "Yes, tomorrow is good. When and where shall we meet?" },
+        { "who": "B", "de": "Um 19 Uhr vor dem Kino.", "en": "At 7 pm in front of the cinema." },
+        { "who": "A", "de": "Okay, bis morgen!", "en": "Okay, see you tomorrow!" }
+      ]
+    },
+    {
+      "title": "Declining and suggesting something else",
+      "sup": true,
+      "lines": [
+        { "who": "A", "de": "Hast du am Samstag Zeit?", "en": "Do you have time on Saturday?" },
+        { "who": "B", "de": "Tut mir leid, da bin ich schon verabredet.", "en": "Sorry, I already have plans then." },
+        { "who": "A", "de": "Schade. Vielleicht nächste Woche?", "en": "Pity. Maybe next week?" },
+        { "who": "B", "de": "Ja, am Dienstag ist gut.", "en": "Yes, Tuesday is good." }
+      ]
+    }
+  ],
+  "tip": "Always give a time AND a place when you fix a meeting: *Um 19 Uhr vor dem Kino.*",
+  "comprehension": [
+    { "q": "Which word is used for a formal appointment?", "a": "der Termin" },
+    { "q": "How do you ask 'Do you have time on Friday?'", "a": "Hast du am Freitag Zeit?" },
+    { "q": "Give one way to say that you cannot come because you already have plans.", "a": "Ich bin schon verabredet." },
+    { "q": "How do you ask when and where to meet?", "a": "Wann und wo treffen wir uns?" }
+  ],
+  "exercises": [
+    {
+      "title": "Match the phrases",
+      "type": "match",
+      "instructions": "Match the German phrase with its English meaning.",
+      "items": [
+        { "q": "Das passt.", "a": "That suits me." },
+        { "q": "Heute geht es nicht.", "a": "Today doesn't work." },
+        { "q": "Ich bin schon verabredet.", "a": "I already have plans." },
+        { "q": "Hast du Zeit?", "a": "Do you have time?" },
+        { "q": "Wo treffen wir uns?", "a": "Where shall we meet?" },
+        { "q": "Vielleicht nächste Woche?", "a": "Maybe next week?" }
+      ]
+    },
+    {
+      "title": "Termin or Verabredung?",
+      "type": "choose",
+      "instructions": "Choose the correct word.",
+      "items": [
+        { "q": "Beim Arzt habe ich einen ___. (Termin / Verabredung)", "a": "Termin", "expl": "A doctor's appointment is formal." },
+        { "q": "Heute Abend habe ich eine ___ mit Freunden. (Termin / Verabredung)", "a": "Verabredung", "expl": "*eine* shows the feminine noun; it is also a personal meeting." },
+        { "q": "Beim Amt brauche ich einen ___. (Termin / Verabredung)", "a": "Termin" }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete each sentence with the correct word.",
+      "items": [
+        { "q": "___ du am Freitag Zeit?", "a": "Hast" },
+        { "q": "Wollen wir ___ morgen treffen?", "a": "uns" },
+        { "q": "Ja, das ___ gut.", "a": "passt" },
+        { "q": "Ich ___ am Montag leider nicht kommen.", "a": "kann", "expl": "*können* with *ich*: *ich kann*." },
+        { "q": "Ich muss am Samstag ___. (arbeiten)", "a": "arbeiten", "expl": "Infinitive after *muss*." },
+        { "q": "Am Sonntag bin ich schon ___. (verabredet)", "a": "verabredet" }
+      ]
+    },
+    {
+      "title": "Word order",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "du / Zeit / Hast / am Freitag", "a": "Hast du am Freitag Zeit? / Hast du Zeit am Freitag?" },
+        { "q": "uns / treffen / Wollen / wir", "a": "Wollen wir uns treffen?" },
+        { "q": "habe / ich / Am Montag / keine Zeit", "a": "Am Montag habe ich keine Zeit.", "expl": "The verb stays in position 2 after the time phrase." },
+        { "q": "Das / gut / passt", "a": "Das passt gut." },
+        { "q": "treffen / Wir / uns / um 18 Uhr / vor dem Kino", "a": "Wir treffen uns um 18 Uhr vor dem Kino. / Um 18 Uhr treffen wir uns vor dem Kino." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "Do you want to go to the cinema with me?", "a": "Willst du mit mir ins Kino gehen? / Möchtest du mit mir ins Kino gehen?" },
+        { "q": "Yes, Friday is good.", "a": "Ja, Freitag ist gut." },
+        { "q": "Sorry, I can't.", "a": "Tut mir leid, ich kann nicht." },
+        { "q": "I have to work.", "a": "Ich muss arbeiten." },
+        { "q": "When and where shall we meet?", "a": "Wann und wo treffen wir uns?" }
+      ]
+    }
+  ],
+  "summary": [
+    "**Verabredung** = personal arrangement; **Termin** = formal appointment.",
+    "Suggest: **Wollen wir uns treffen?** / **Willst du mit mir ins Kino gehen?** / **Hast du am Freitag Zeit?**",
+    "Accept: **Ja, das passt.** Decline: **Tut mir leid, ich kann nicht.** + reason (**Ich muss arbeiten.** / **Ich bin schon verabredet.**).",
+    "Make a new suggestion: **Vielleicht nächste Woche?** Then fix the details: **Wann und wo treffen wir uns?**"
+  ]
+}

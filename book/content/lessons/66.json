@@ -1,0 +1,72 @@
+{
+  "n": 66,
+  "title": "Test Your German",
+  "titleDe": "Teste dein Deutsch",
+  "level": "A1",
+  "sourceNote": "The video is a multiple-choice test of about 20 questions; the auto-captions are very garbled and the answer options are not readable. The first set of ten questions follows the topics of the video; the other 20 questions were added to make a 30-item A1 test.",
+  "objectives": [
+    "I can test my German at the end of level A1",
+    "I can choose the correct verb form, article, preposition and conjunction",
+    "I can answer questions about everyday topics such as greetings, family, shopping, travel and health"
+  ],
+  "exercises": [
+    {
+      "title": "Test, part 1 (questions 1-10)",
+      "type": "choose",
+      "instructions": "Choose the correct answer.",
+      "items": [
+        { "q": "Guten Tag, ich ___ Alex. (heiße / heißt / heißen)", "a": "heiße", "expl": "ich + verb ending -e." },
+        { "q": "Hallo, wie geht's? (Gut, danke. Und dir? / Gut, danke. Und Ihnen?)", "a": "Gut, danke. Und dir?", "expl": "*Hallo, wie geht's?* is informal, so use *dir*." },
+        { "q": "Woher ___ du? (komme / kommst / kommt)", "a": "kommst", "expl": "du + verb ending -st." },
+        { "q": "Das ist ___ Tasche. (der / die / das)", "a": "die", "expl": "*die Tasche*" },
+        { "q": "Das Gegenteil von *billig* ist ___. (teuer / klein / alt)", "a": "teuer" },
+        { "q": "Das ist ___ Sofa. (ein / eine / einen)", "a": "ein", "expl": "*das Sofa*, neuter: *ein*." },
+        { "q": "Ich ___ in Hamburg. (wohne / wohnst / wohnt)", "a": "wohne" },
+        { "q": "Der Unterricht beginnt ___ 9 Uhr. (um / am / im)", "a": "um", "expl": "Clock time needs *um*." },
+        { "q": "Max ___ gut Englisch sprechen. (kann / kannst / können)", "a": "kann", "expl": "er / sie: *kann*. The second verb is an infinitive at the end." },
+        { "q": "Verkäufer: Was möchten Sie? Kunde: Ich hätte gern ein ___ Bananen. (Kilo / Kilos / Kiloe)", "a": "Kilo", "expl": "After numbers or quantities: *ein Kilo* (no plural -s)." }
+      ]
+    },
+    {
+      "title": "Test, part 2 (questions 11-20)",
+      "type": "choose",
+      "instructions": "Choose the correct answer.",
+      "sup": true,
+      "items": [
+        { "q": "___ ist das? – Das ist Frau Müller. (Wer / Was / Wo)", "a": "Wer", "expl": "*Wer* asks for a person." },
+        { "q": "___ ist das? – Das ist ein Buch. (Wer / Was / Wie)", "a": "Was", "expl": "*Was* asks for a thing." },
+        { "q": "Ich fahre mit ___ Bus. (der / dem / den)", "a": "dem", "expl": "*mit* + Dativ: *dem Bus*." },
+        { "q": "Wir ___ gestern nach Berlin gefahren. (sind / haben / waren)", "a": "sind", "expl": "*fahren* (movement) uses *sein* in the Perfekt." },
+        { "q": "Ich suche ___ Pullover. (ein / einen / einem)", "a": "einen", "expl": "*der Pullover* in the accusative: *einen*." },
+        { "q": "Möchtest du Tee ___ Kaffee? (oder / und / aber)", "a": "oder" },
+        { "q": "Man ___ hier Fahrkarten kaufen. (kann / kannst / können)", "a": "kann", "expl": "*man* takes the er / sie form." },
+        { "q": "Der Zug ___ um 16 Uhr ab. (fährt / fahren / fahre)", "a": "fährt", "expl": "*abfahren*: er fährt ... ab." },
+        { "q": "___ Jacke gefällt dir? (Welche / Welcher / Welches)", "a": "Welche", "expl": "*die Jacke* is feminine: *welche*." },
+        { "q": "Wann ___ der Unterricht? Um zehn Uhr. (beginnt / beginne / beginnst)", "a": "beginnt", "expl": "*der Unterricht* = er / sie / es form." }
+      ]
+    },
+    {
+      "title": "Test, part 3 (questions 21-30)",
+      "type": "fill",
+      "instructions": "Write the missing word. Pay attention to capital letters.",
+      "sup": true,
+      "items": [
+        { "q": "Heute ist Montag, morgen ist ___.", "a": "Dienstag" },
+        { "q": "Gestern war Samstag, heute ist ___.", "a": "Sonntag" },
+        { "q": "zwölf + acht = ___", "a": "zwanzig", "expl": "12 + 8 = 20" },
+        { "q": "Ich bin 25 Jahre ___.", "a": "alt", "expl": "Age needs *alt*." },
+        { "q": "Am Geldautomaten kann man Geld ___. (to withdraw)", "a": "abheben" },
+        { "q": "Der Plural von *das Zimmer* ist *die* ___.", "a": "Zimmer", "expl": "No change in the plural." },
+        { "q": "Ich brauche eine ___ für den Brief. (stamp)", "a": "Briefmarke" },
+        { "q": "Ich habe Fieber und Husten. Ich gehe zum ___. (doctor)", "a": "Arzt", "expl": "*zum* = *zu dem*: masculine, so *Arzt*." },
+        { "q": "Du ___ sehr gut Deutsch. (sprechen)", "a": "sprichst", "expl": "*sprechen*: du sprichst (e > i)." },
+        { "q": "Wir möchten ein ___ reservieren. (room for two people)", "a": "Doppelzimmer" }
+      ]
+    }
+  ],
+  "summary": [
+    "Count your correct answers: 27-30 very good, 21-26 good, 15-20 review the weak topics, below 15 repeat lessons 1-65.",
+    "Check the explanations for every mistake and repeat the lessons on that topic.",
+    "Keep practising with short sentences about your own life: greetings, family, food, travel, health."
+  ]
+}

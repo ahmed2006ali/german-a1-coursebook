@@ -1,0 +1,176 @@
+{
+  "n": 28,
+  "title": "The Modal Verb möchten",
+  "titleDe": "Das Modalverb möchten",
+  "level": "A1",
+  "sourceNote": "The transcript is garbled. The rules about position and conjugation are clear. Most example sentences are reconstructed from context (Tobi / Pizza, Was möchtest du trinken?, ordering and buying).",
+  "objectives": [
+    "I can conjugate möchten in all persons",
+    "I can place möchten in second position and the second verb at the end",
+    "I can ask yes/no questions with möchten",
+    "I can use möchten for wishes, ordering and buying"
+  ],
+  "vocab": [
+    { "de": "möchten", "en": "would like to", "ar": "يرغب في", "note": "modal verb", "sup": false },
+    { "de": "die Pizza", "pl": "die Pizzen", "en": "pizza", "ar": "بيتزا", "note": "", "sup": false },
+    { "de": "essen", "en": "to eat", "ar": "يأكل", "note": "", "sup": true },
+    { "de": "trinken", "en": "to drink", "ar": "يشرب", "note": "", "sup": true },
+    { "de": "der Kaffee", "pl": "die Kaffees", "en": "coffee", "ar": "قهوة", "note": "", "sup": true },
+    { "de": "der Tee", "pl": "die Tees", "en": "tea", "ar": "شاي", "note": "", "sup": true },
+    { "de": "das Wasser", "pl": "–", "en": "water", "ar": "ماء", "note": "", "sup": true },
+    { "de": "das Brot", "pl": "die Brote", "en": "bread", "ar": "خبز", "note": "", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Ich möchte eine Pizza essen.", "en": "I would like to eat a pizza.", "ar": "أودّ أن آكل بيتزا.", "sup": false },
+    { "de": "Was möchtest du trinken?", "en": "What would you like to drink?", "ar": "ماذا تودّ أن تشرب؟", "sup": false },
+    { "de": "Ich möchte ein Wasser.", "en": "I would like a water.", "ar": "أودّ كأس ماء.", "sup": false },
+    { "de": "Möchtest du einen Kaffee trinken?", "en": "Would you like to drink a coffee?", "ar": "", "sup": false }
+  ],
+  "patterns": [
+    { "form": "Subject + möchte(n) + (object) + infinitive.", "ex": "Tobi möchte eine Pizza essen.", "en": "Tobi would like to eat a pizza." },
+    { "form": "W-word + möchte(n) + subject + infinitive?", "ex": "Was möchtest du trinken?", "en": "What would you like to drink?" },
+    { "form": "Möchte(n) + subject + ... + infinitive?  (yes/no question)", "ex": "Möchtest du einen Tee trinken?", "en": "Would you like to drink a tea?" },
+    { "form": "Ich möchte + noun.  (without second verb)", "ex": "Ich möchte einen Kaffee.", "en": "I would like a coffee." }
+  ],
+  "grammar": [
+    {
+      "title": "möchten is a modal verb",
+      "body": "A modal verb helps another verb. *möchten* stands in **second position** and is **conjugated**. The other verb (the main verb) goes to the **end** of the sentence in the **infinitive** (not conjugated).\n\n*Tobi möchte eine Pizza essen.* Here *möchte* is in position 2 and *essen* is at the end.",
+      "ar": "الفعل المساعد في المرتبة الثانية ويُصرَّف، والفعل الآخر في آخر الجملة بصيغة المصدر.",
+      "examples": [
+        { "de": "Tobi möchte eine Pizza essen.", "en": "Tobi would like to eat a pizza." },
+        { "de": "Ich möchte einen Kaffee trinken.", "en": "I would like to drink a coffee." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Conjugation",
+      "body": "The forms for **ich** and **er / sie / es** are the same. The ending of **wir** and **sie / Sie** is *-en*.",
+      "table": {
+        "head": ["", "möchten"],
+        "rows": [
+          ["ich", "möchte"],
+          ["du", "möchtest"],
+          ["er / sie / es", "möchte"],
+          ["wir", "möchten"],
+          ["ihr", "möchtet"],
+          ["sie / Sie", "möchten"]
+        ]
+      },
+      "sup": false
+    },
+    {
+      "title": "Questions with möchten",
+      "body": "In a **W-question**, *möchten* stays in second position: *Was möchtest du trinken?*\n\nIn a **yes/no question** (Ja/Nein-Frage), *möchten* goes to the **first** position and the main verb stays at the end: *Möchtest du einen Tee trinken?*",
+      "examples": [
+        { "de": "Was möchtest du trinken?", "en": "What would you like to drink?" },
+        { "de": "Möchtest du einen Tee trinken?", "en": "Would you like to drink a tea?" }
+      ],
+      "sup": false
+    },
+    {
+      "title": "möchten alone: without a second verb",
+      "body": "Sometimes there is no second verb at the end. The meaning is clear from the noun, so *möchten* is the main verb: *Ich möchte einen Kaffee.*",
+      "examples": [
+        { "de": "Ich möchte einen Kaffee.", "en": "I would like a coffee." },
+        { "de": "Ich möchte ein Wasser.", "en": "I would like a water." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "When do we use möchten?",
+      "body": "1. To express a **wish**: *Ich möchte nach Hause.*\n\n2. To **order** in a restaurant or café: *Ich möchte einen Tee.*\n\n3. To **buy** something in a shop: *Ich möchte ein Brot.*\n\nNote that the object after *möchten* is in the accusative (*einen Kaffee*).",
+      "sup": false
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich möchte essen eine Pizza.", "right": "Ich möchte eine Pizza essen.", "why": "The second verb goes to the end." },
+    { "wrong": "Ich möchte esse eine Pizza.", "right": "Ich möchte eine Pizza essen.", "why": "The second verb stays in the infinitive." },
+    { "wrong": "Du möchtet einen Tee.", "right": "Du möchtest einen Tee.", "why": "*du* needs *-st*; *-t* is for *ihr*." }
+  ],
+  "pronunciation": [
+    { "de": "ö in möchte", "tip": "Round your lips as for 'o', but say 'e'. *möchte*, *Brötchen*." },
+    { "de": "ch in möchte", "tip": "After *ö* the *ch* is a soft hiss, like 'h' in English 'huge'." }
+  ],
+  "dialogues": [
+    {
+      "title": "In a café",
+      "lines": [
+        { "who": "A", "de": "Was möchtest du trinken?", "en": "What would you like to drink?" },
+        { "who": "B", "de": "Ich möchte einen Kaffee. Und du?", "en": "I would like a coffee. And you?" },
+        { "who": "A", "de": "Ich möchte einen Tee.", "en": "I would like a tea." },
+        { "who": "B", "de": "Möchtest du auch eine Pizza essen?", "en": "Would you also like to eat a pizza?" },
+        { "who": "A", "de": "Ja, gern.", "en": "Yes, gladly." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn the pattern as a frame: *möchte* in position 2, infinitive at the end. Say it aloud with different foods and drinks.",
+  "comprehension": [
+    { "q": "In which position does möchten stand in a normal sentence?", "a": "In second position." },
+    { "q": "Where does the second verb go, and in which form?", "a": "At the end, in the infinitive." },
+    { "q": "What is the du-form of möchten?", "a": "möchtest" },
+    { "q": "Which forms of möchten are identical?", "a": "ich and er / sie / es: möchte." },
+    { "q": "Name two situations where we use möchten.", "a": "Expressing a wish; ordering or buying something." }
+  ],
+  "exercises": [
+    {
+      "title": "Conjugate möchten",
+      "type": "fill",
+      "instructions": "Write the correct form of möchten.",
+      "items": [
+        { "q": "Ich ___ ein Wasser.", "a": "möchte" },
+        { "q": "Wir ___ eine Pizza essen.", "a": "möchten", "expl": "*wir* + *-en*." },
+        { "q": "Du ___ einen Kaffee trinken.", "a": "möchtest", "expl": "*du* + *-st*." },
+        { "q": "Ihr ___ einen Tee trinken.", "a": "möchtet", "expl": "*ihr* + *-t*." },
+        { "q": "Sie (they) ___ eine Pizza essen.", "a": "möchten", "expl": "*sie* (plural) + *-en*." },
+        { "q": "Er ___ ein Brot.", "a": "möchte", "expl": "*er* has the same form as *ich*." },
+        { "q": "___ du einen Tee trinken?", "a": "Möchtest", "expl": "Yes/no question: the verb is first." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Form a correct sentence. If two orders are possible, both are accepted.",
+      "items": [
+        { "q": "möchte / Ich / essen / eine / Pizza", "a": "Ich möchte eine Pizza essen. / Eine Pizza möchte ich essen." },
+        { "q": "Was / du / möchtest / trinken", "a": "Was möchtest du trinken?" },
+        { "q": "Möchtest / Kaffee / du / trinken / einen", "a": "Möchtest du einen Kaffee trinken?" },
+        { "q": "Tee / möchten / Wir / trinken", "a": "Wir möchten Tee trinken. / Tee möchten wir trinken." },
+        { "q": "ein / möchte / Wasser / Ich", "a": "Ich möchte ein Wasser. / Ein Wasser möchte ich." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Write the sentence in German.",
+      "items": [
+        { "q": "I would like a coffee.", "a": "Ich möchte einen Kaffee.", "expl": "*Kaffee* is masculine: *einen*." },
+        { "q": "What would you like to drink? (du)", "a": "Was möchtest du trinken?" },
+        { "q": "We would like to eat pizza.", "a": "Wir möchten Pizza essen." },
+        { "q": "Would you like a tea? (du)", "a": "Möchtest du einen Tee?" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Find the mistake",
+      "type": "choose",
+      "instructions": "Choose the correct sentence.",
+      "items": [
+        { "q": "(a) Wir möchten Pizza essen. / (b) Wir möchten essen Pizza.", "a": "a", "expl": "The infinitive goes to the end." },
+        { "q": "(a) Du möchtet einen Tee. / (b) Du möchtest einen Tee.", "a": "b", "expl": "*du* needs *-st*." },
+        { "q": "(a) Ich möchte einen Kaffee. / (b) Ich möchte ein Kaffee.", "a": "a", "expl": "*Kaffee* is masculine, accusative: *einen*." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "möchten = would like to; it stands in second position and is conjugated.",
+    "The main verb goes to the end in the infinitive: *Ich möchte eine Pizza essen.*",
+    "In yes/no questions möchten comes first: *Möchtest du ...?*",
+    "ich möchte, du möchtest, er möchte, wir möchten, ihr möchtet, sie / Sie möchten.",
+    "Use möchten for wishes, for ordering and for buying."
+  ]
+}

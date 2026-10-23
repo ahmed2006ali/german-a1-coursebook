@@ -1,0 +1,212 @@
+{
+  "n": 49,
+  "title": "How's the Weather?",
+  "titleDe": "Wie ist das Wetter?",
+  "level": "A1",
+  "sourceNote": "The transcript is garbled in places (some weather nouns and plurals are missing). Missing plurals were filled in with standard German.",
+  "objectives": [
+    "I can ask and say what the weather is like",
+    "I can name important weather words with their articles and plurals",
+    "I can turn weather nouns into adjectives (Sonne - sonnig)",
+    "I can ask about and give the temperature in degrees"
+  ],
+  "vocab": [
+    { "de": "das Wetter", "pl": "–", "en": "weather", "ar": "طقس", "note": "" },
+    { "de": "die Sonne", "pl": "–", "en": "sun", "ar": "شمس", "note": "" },
+    { "de": "der Regen", "pl": "–", "en": "rain", "ar": "مطر", "note": "" },
+    { "de": "der Schnee", "pl": "–", "en": "snow", "ar": "ثلج", "note": "" },
+    { "de": "das Gewitter", "pl": "die Gewitter", "en": "thunderstorm", "ar": "عاصفة رعدية", "note": "" },
+    { "de": "der Regenbogen", "pl": "die Regenbögen", "en": "rainbow", "ar": "قوس قزح", "note": "" },
+    { "de": "die Wolke", "pl": "die Wolken", "en": "cloud", "ar": "غيمة", "note": "" },
+    { "de": "der Blitz", "pl": "die Blitze", "en": "lightning", "ar": "برق", "note": "" },
+    { "de": "der Nebel", "pl": "–", "en": "fog", "ar": "ضباب", "note": "" },
+    { "de": "der Sturm", "pl": "die Stürme", "en": "storm", "ar": "عاصفة", "note": "" },
+    { "de": "der Wind", "pl": "die Winde", "en": "wind", "ar": "ريح", "note": "" },
+    { "de": "der Himmel", "pl": "–", "en": "sky", "ar": "سماء", "note": "" },
+    { "de": "die Temperatur", "pl": "die Temperaturen", "en": "temperature", "ar": "درجة الحرارة", "note": "" },
+    { "de": "der Grad", "pl": "die Grade", "en": "degree", "ar": "درجة", "note": "After numbers: 20 Grad" },
+    { "de": "sonnig", "en": "sunny", "ar": "مشمس", "note": "" },
+    { "de": "regnerisch", "en": "rainy", "ar": "ماطر", "note": "" },
+    { "de": "bewölkt", "en": "cloudy", "ar": "غائم", "note": "" },
+    { "de": "windig", "en": "windy", "ar": "كثير الرياح", "note": "" },
+    { "de": "stürmisch", "en": "stormy", "ar": "عاصف", "note": "" },
+    { "de": "neblig", "en": "foggy", "ar": "ضبابي", "note": "" },
+    { "de": "feucht", "en": "damp, humid", "ar": "رطب", "note": "" },
+    { "de": "schwül", "en": "muggy, close", "ar": "خانق ورطب", "note": "" },
+    { "de": "eisig", "en": "icy", "ar": "جليدي", "note": "" },
+    { "de": "klar", "en": "clear", "ar": "صافٍ", "note": "" },
+    { "de": "grau", "en": "grey", "ar": "رمادي", "note": "" },
+    { "de": "traumhaft", "en": "dreamlike, wonderful", "ar": "رائع كالحلم", "note": "from der Traum (dream)" }
+  ],
+  "expressions": [
+    { "de": "Wie ist das Wetter?", "en": "What is the weather like?", "ar": "كيف الطقس؟" },
+    { "de": "Es ist schönes Wetter.", "en": "The weather is nice.", "ar": "" },
+    { "de": "Es ist wunderschönes Wetter.", "en": "The weather is wonderful.", "ar": "" },
+    { "de": "Es regnet.", "en": "It is raining.", "ar": "إنها تمطر." },
+    { "de": "Es schneit.", "en": "It is snowing.", "ar": "إنها تثلج." },
+    { "de": "Es gibt Schnee.", "en": "There is snow.", "ar": "" },
+    { "de": "Es blitzt und donnert.", "en": "There is thunder and lightning.", "ar": "" },
+    { "de": "Es gibt ein Gewitter.", "en": "There is a thunderstorm.", "ar": "" },
+    { "de": "Heute ist es nicht mehr so schön wie gestern.", "en": "Today it is not as nice as yesterday any more.", "ar": "" },
+    { "de": "Es ist ziemlich grau heute.", "en": "It is quite grey today.", "ar": "" },
+    { "de": "Es ist ziemlich windig heute.", "en": "It is quite windy today.", "ar": "" },
+    { "de": "Heute ist das Wetter traumhaft.", "en": "The weather is wonderful today.", "ar": "" },
+    { "de": "Ein super Wetter haben wir heute.", "en": "We have super weather today.", "ar": "" },
+    { "de": "Der Himmel ist klar.", "en": "The sky is clear.", "ar": "" },
+    { "de": "Wie viel Grad sind es?", "en": "How many degrees is it?", "ar": "كم درجة الحرارة؟" },
+    { "de": "Es sind 20 Grad.", "en": "It is 20 degrees.", "ar": "" },
+    { "de": "Wir haben 20 Grad.", "en": "We have 20 degrees.", "ar": "" },
+    { "de": "Die Temperatur liegt bei 20 Grad.", "en": "The temperature is around 20 degrees.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Es + [weather verb]. (regnen, schneien, blitzen, donnern)", "ex": "Es regnet.", "en": "It is raining." },
+    { "form": "Es ist + [adjective].", "ex": "Es ist neblig.", "en": "It is foggy." },
+    { "form": "Es gibt + [noun].", "ex": "Es gibt ein Gewitter.", "en": "There is a thunderstorm." },
+    { "form": "Es sind + [number] Grad.", "ex": "Es sind 20 Grad.", "en": "It is 20 degrees." }
+  ],
+  "grammar": [
+    {
+      "title": "Asking about the weather",
+      "body": "The most common question is **Wie ist das Wetter?** You can answer in many ways. Most weather sentences start with **es** (it). In Germany, sunshine means good weather, so people say **Es ist schönes Wetter.** when the sun is out. Talking about the weather is a very common small-talk topic.\n\nFor temperature, ask **Wie viel Grad sind es?** The verb is plural (**sind**) because the number is plural. In Germany the temperature is measured in Celsius.",
+      "ar": "في الألمانية نقول عن الطقس: Es regnet (إنها تمطر) - الضمير es لا يُترجم.",
+      "examples": [
+        { "de": "Wie ist das Wetter heute?", "en": "What is the weather like today?" },
+        { "de": "Es ist ziemlich windig heute.", "en": "It is quite windy today." },
+        { "de": "Wie viel Grad sind es?", "en": "How many degrees is it?" },
+        { "de": "Die Temperatur liegt bei 20 Grad.", "en": "The temperature is around 20 degrees." }
+      ]
+    },
+    {
+      "title": "From noun to adjective",
+      "body": "Many weather nouns have a matching adjective ending in **-ig**, **-isch** or **-t**. Use the adjective after **Es ist ...**",
+      "table": {
+        "head": ["Noun", "Adjective", "English"],
+        "rows": [
+          ["die Sonne", "sonnig", "sunny"],
+          ["der Regen", "regnerisch", "rainy"],
+          ["die Wolke", "bewölkt", "cloudy"],
+          ["der Wind", "windig", "windy"],
+          ["der Sturm", "stürmisch", "stormy"],
+          ["der Nebel", "neblig", "foggy"]
+        ]
+      },
+      "examples": [
+        { "de": "Es ist sonnig.", "en": "It is sunny." },
+        { "de": "Es ist stürmisch.", "en": "It is stormy." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Es ist regnet.", "right": "Es regnet.", "why": "*regnen* is already the verb; do not add *ist*." },
+    { "wrong": "Es ist 20 Grad.", "right": "Es sind 20 Grad.", "why": "With a number of degrees use plural *sind*." }
+  ],
+  "pronunciation": [
+    { "de": "St- / Sp- at the start", "tip": "Say *sht*: *Sturm* sounds like 'Shtoorm'." },
+    { "de": "ü", "tip": "Round your lips as for 'oo' and say 'ee': *Stürme*, *stürmisch*." },
+    { "de": "ö", "tip": "Round your lips and say 'e': *Regenbögen*, *bewölkt*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Small talk about the weather",
+      "sup": true,
+      "lines": [
+        { "who": "A", "de": "Hallo! Wie ist das Wetter heute?", "en": "Hello! What is the weather like today?" },
+        { "who": "B", "de": "Es ist schönes Wetter. Es ist sonnig.", "en": "It is nice weather. It is sunny." },
+        { "who": "A", "de": "Wie viel Grad sind es?", "en": "How many degrees is it?" },
+        { "who": "B", "de": "Es sind 20 Grad.", "en": "It is 20 degrees." },
+        { "who": "A", "de": "Super! Gestern war es grau.", "en": "Great! Yesterday it was grey." },
+        { "who": "B", "de": "Ja, heute ist das Wetter traumhaft.", "en": "Yes, today the weather is wonderful." }
+      ]
+    }
+  ],
+  "tip": "Learn each weather noun with its adjective as a pair (der Wind - windig). That doubles your vocabulary quickly.",
+  "comprehension": [
+    { "q": "How do you ask what the weather is like?", "a": "Wie ist das Wetter?" },
+    { "q": "What is the adjective for die Wolke?", "a": "bewölkt" },
+    { "q": "How do you say 'It is 20 degrees'?", "a": "Es sind 20 Grad." },
+    { "q": "What is the plural of der Blitz?", "a": "die Blitze" }
+  ],
+  "exercises": [
+    {
+      "title": "Noun and adjective",
+      "type": "match",
+      "instructions": "Match each noun with its adjective.",
+      "items": [
+        { "q": "die Sonne", "a": "sonnig" },
+        { "q": "der Regen", "a": "regnerisch" },
+        { "q": "die Wolke", "a": "bewölkt" },
+        { "q": "der Wind", "a": "windig" },
+        { "q": "der Sturm", "a": "stürmisch" },
+        { "q": "der Nebel", "a": "neblig" }
+      ]
+    },
+    {
+      "title": "Plurals",
+      "type": "fill",
+      "instructions": "Write the plural form with the article.",
+      "items": [
+        { "q": "der Blitz → ___", "a": "die Blitze" },
+        { "q": "der Sturm → ___", "a": "die Stürme" },
+        { "q": "der Wind → ___", "a": "die Winde" },
+        { "q": "die Wolke → ___", "a": "die Wolken" },
+        { "q": "das Gewitter → ___", "a": "die Gewitter", "expl": "Nouns ending in *-er* often stay the same in the plural." },
+        { "q": "der Regenbogen → ___", "a": "die Regenbögen", "expl": "*o* becomes *ö* in the plural." }
+      ]
+    },
+    {
+      "title": "Complete the weather sentence",
+      "type": "fill",
+      "instructions": "Fill the gap with the correct adjective (sonnig, regnerisch, bewölkt, windig, stürmisch, neblig).",
+      "items": [
+        { "q": "Es gibt viel Sonne. Es ist ___.", "a": "sonnig" },
+        { "q": "Es gibt viel Nebel. Es ist ___.", "a": "neblig" },
+        { "q": "Es gibt viele Wolken. Es ist ___.", "a": "bewölkt" },
+        { "q": "Es regnet. Es ist ___.", "a": "regnerisch" },
+        { "q": "Es gibt einen Sturm. Es ist ___.", "a": "stürmisch" },
+        { "q": "Es gibt viel Wind. Es ist ___.", "a": "windig" }
+      ]
+    },
+    {
+      "title": "Choose the right word",
+      "type": "choose",
+      "instructions": "Choose the correct form.",
+      "items": [
+        { "q": "Es ___. (regnet / regnest)", "a": "regnet" },
+        { "q": "Es ___ Schnee. (gibt / ist)", "a": "gibt" },
+        { "q": "Wie viel Grad ___ es? (sind / ist)", "a": "sind" },
+        { "q": "Die Temperatur ___ bei 20 Grad. (liegt / liegen)", "a": "liegt" },
+        { "q": "Heute ___ es nicht mehr so schön wie gestern. (ist / bin)", "a": "ist" }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "It is raining.", "a": "Es regnet." },
+        { "q": "It is snowing.", "a": "Es schneit." },
+        { "q": "There is a thunderstorm.", "a": "Es gibt ein Gewitter." },
+        { "q": "The sky is clear.", "a": "Der Himmel ist klar." },
+        { "q": "How is the weather?", "a": "Wie ist das Wetter?" },
+        { "q": "It is 20 degrees.", "a": "Es sind 20 Grad. / Wir haben 20 Grad." }
+      ]
+    },
+    {
+      "title": "Word order",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "ist / das Wetter / Wie", "a": "Wie ist das Wetter?" },
+        { "q": "sind / Wie viel Grad / es", "a": "Wie viel Grad sind es?" },
+        { "q": "gibt / Es / ein Gewitter", "a": "Es gibt ein Gewitter.", "expl": "Start with a capital letter: *Es*." },
+        { "q": "ist / traumhaft / Heute / das Wetter", "a": "Heute ist das Wetter traumhaft. / Das Wetter ist heute traumhaft.", "expl": "The verb is in position 2 in both versions." }
+      ]
+    }
+  ],
+  "summary": [
+    "Ask: **Wie ist das Wetter?** Answer with **Es ist ...** (sonnig, neblig ...), **Es regnet / schneit** or **Es gibt ...**",
+    "Key nouns: der Blitz, der Nebel, der Sturm, der Wind, die Wolke, das Gewitter, der Regenbogen.",
+    "Noun to adjective: Sonne - sonnig, Regen - regnerisch, Wolke - bewölkt, Wind - windig, Sturm - stürmisch, Nebel - neblig.",
+    "Ask the temperature: **Wie viel Grad sind es?** Answer: **Es sind 20 Grad.**"
+  ]
+}

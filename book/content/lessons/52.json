@@ -1,0 +1,200 @@
+{
+  "n": 52,
+  "title": "Likes and Dislikes",
+  "titleDe": "Gefallen und Missfallen ausdrücken",
+  "level": "A1",
+  "sourceNote": "The transcript is very garbled. Some of the teacher's sentences (especially the ones with past tense and some adverbs) were reconstructed into standard German.",
+  "objectives": [
+    "I can say that I like something with *gefallen*",
+    "I can say that I do not like something",
+    "I can strengthen my opinion with adverbs (sehr, ganz, echt, gar nicht)",
+    "I can ask someone's opinion with *Wie findest du ...?*"
+  ],
+  "vocab": [
+    { "de": "gefallen", "en": "to please, to be liked by", "ar": "يُعجب", "note": "Das gefällt mir." },
+    { "de": "schmecken", "en": "to taste (good)", "ar": "يكون طعمه جيدًا", "note": "Es schmeckt mir.", "sup": true },
+    { "de": "finden", "en": "to find, to think of", "ar": "يرى / يعتبر", "note": "Ich finde das toll." },
+    { "de": "toll", "en": "great", "ar": "رائع", "note": "" },
+    { "de": "super", "en": "super", "ar": "ممتاز", "note": "" },
+    { "de": "klasse", "en": "great, fantastic", "ar": "رائع", "note": "does not change" },
+    { "de": "schön", "en": "nice, beautiful", "ar": "جميل", "note": "", "sup": true },
+    { "de": "gut", "en": "good", "ar": "جيد", "note": "" },
+    { "de": "schlecht", "en": "bad", "ar": "سيئ", "note": "" },
+    { "de": "schrecklich", "en": "terrible", "ar": "فظيع", "note": "", "sup": true },
+    { "de": "sehr", "en": "very", "ar": "جدًا", "note": "" },
+    { "de": "ganz", "en": "quite, really", "ar": "تمامًا / جدًا", "note": "" },
+    { "de": "echt", "en": "really", "ar": "حقًا", "note": "informal" },
+    { "de": "nicht", "en": "not", "ar": "لا / ليس", "note": "" },
+    { "de": "gar nicht", "en": "not at all", "ar": "ليس على الإطلاق", "note": "" },
+    { "de": "mir", "en": "to me", "ar": "لي", "note": "dative of ich" },
+    { "de": "dir", "en": "to you", "ar": "لك", "note": "dative of du" }
+  ],
+  "expressions": [
+    { "de": "Das gefällt mir.", "en": "I like that.", "ar": "هذا يعجبني." },
+    { "de": "Er gefällt mir.", "en": "I like him / it (masculine).", "ar": "" },
+    { "de": "Sie gefällt mir.", "en": "I like her / it (feminine).", "ar": "" },
+    { "de": "Das gefällt mir sehr.", "en": "I like that very much.", "ar": "" },
+    { "de": "Das ist ganz toll.", "en": "That is really great.", "ar": "" },
+    { "de": "Ich finde das echt klasse.", "en": "I think that is really great.", "ar": "" },
+    { "de": "Ich finde das super.", "en": "I think that is super.", "ar": "" },
+    { "de": "Es war super.", "en": "It was super.", "ar": "" },
+    { "de": "Es war toll.", "en": "It was great.", "ar": "" },
+    { "de": "Das gefällt mir nicht.", "en": "I don't like that.", "ar": "هذا لا يعجبني." },
+    { "de": "Das gefällt mir nicht so gut.", "en": "I don't like that so much.", "ar": "" },
+    { "de": "Das gefällt mir gar nicht.", "en": "I don't like that at all.", "ar": "" },
+    { "de": "Das finde ich schlecht.", "en": "I think that is bad.", "ar": "" },
+    { "de": "Gefällt dir das?", "en": "Do you like that?", "ar": "" },
+    { "de": "Wie findest du das?", "en": "What do you think of that?", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "[Thing/person] gefällt + mir / dir.", "ex": "Das Kleid gefällt mir.", "en": "I like the dress." },
+    { "form": "[Thing/person] gefällt + mir nicht.", "ex": "Der Film gefällt mir nicht.", "en": "I don't like the film." },
+    { "form": "Ich finde + [thing] + [adjective].", "ex": "Ich finde das Buch toll.", "en": "I think the book is great." },
+    { "form": "Wie findest du + [thing]?", "ex": "Wie findest du den Hut?", "en": "What do you think of the hat?" }
+  ],
+  "grammar": [
+    {
+      "title": "Saying you like something: gefallen",
+      "body": "In German you do not say 'I like it' but literally 'It pleases me': **Das gefällt mir.** The thing you like is the subject; the person who likes it is in the dative (**mir, dir**). In **Das gefällt mir** the word **das** can be replaced by a person or a thing: **Er gefällt mir.** (e.g. *der Hut*), **Sie gefällt mir.** (e.g. *die Hose*), **Es gefällt mir.** (e.g. *das Kleid*).\n\nTo ask: **Gefällt dir das?**",
+      "ar": "الشيء المُعجِب هو الفاعل، والشخص بصيغة المفعول غير المباشر: mir (لي)، dir (لك).",
+      "examples": [
+        { "de": "Der Hut gefällt mir.", "en": "I like the hat." },
+        { "de": "Er gefällt mir.", "en": "I like it." },
+        { "de": "Gefällt dir das Kleid?", "en": "Do you like the dress?" },
+        { "de": "Ja, es gefällt mir sehr.", "en": "Yes, I like it very much." }
+      ]
+    },
+    {
+      "title": "Plural: gefallen",
+      "body": "When the thing you like is plural, the verb is **gefallen** (not *gefällt*).",
+      "examples": [
+        { "de": "Die Schuhe gefallen mir.", "en": "I like the shoes." },
+        { "de": "Sie gefallen mir gar nicht.", "en": "I don't like them at all." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Dative pronouns",
+      "body": "After **gefallen** you need the dative form of the person.",
+      "table": {
+        "head": ["Who likes it?", "Dative", "Example"],
+        "rows": [
+          ["ich", "mir", "Das gefällt mir."],
+          ["du", "dir", "Das gefällt dir."],
+          ["er", "ihm", "Das gefällt ihm."],
+          ["sie (she)", "ihr", "Das gefällt ihr."],
+          ["wir", "uns", "Das gefällt uns."]
+        ]
+      },
+      "sup": true
+    },
+    {
+      "title": "Strengthening with adverbs",
+      "body": "Add an adverb to make your feeling stronger: **sehr**, **ganz**, **echt**. Do not mix positive adverbs with negative ones.\n\nFor dislikes use **nicht**, **nicht so gut** or **gar nicht**. You can also say what you think with **finden**: **Das finde ich toll / schlecht.**",
+      "examples": [
+        { "de": "Das gefällt mir sehr gut.", "en": "I like that very much." },
+        { "de": "Ich finde das echt klasse.", "en": "I find that really great." },
+        { "de": "Das gefällt mir gar nicht.", "en": "I don't like that at all." }
+      ]
+    },
+    {
+      "title": "Talking about something that happened",
+      "body": "To give an opinion about something that already took place, use **war**: **Es war super.** **Es war toll.** **Es war klasse.**",
+      "examples": [
+        { "de": "Das Konzert? Es war toll!", "en": "The concert? It was great!" }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich gefalle das.", "right": "Das gefällt mir.", "why": "The thing is the subject; the person is dative (*mir*)." },
+    { "wrong": "Das gefällt mich.", "right": "Das gefällt mir.", "why": "*gefallen* needs the dative: *mir*, *dir* (not *mich*, *dich*)." },
+    { "wrong": "Die Schuhe gefällt mir.", "right": "Die Schuhe gefallen mir.", "why": "Plural subject needs the plural verb." }
+  ],
+  "pronunciation": [
+    { "de": "ä", "tip": "Like the 'e' in 'bed': *gefällt*." },
+    { "de": "ch", "tip": "After *e*, *i*, *ä*: a soft hissing sound, like a cat: *schlecht*, *echt*, *nicht*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Do you like it?",
+      "lines": [
+        { "who": "Anna", "de": "Hallo Tom! Wie findest du mein Kleid?", "en": "Hi Tom! What do you think of my dress?" },
+        { "who": "Tom", "de": "Es gefällt mir sehr. Es ist ganz toll!", "en": "I like it a lot. It's really great!" },
+        { "who": "Anna", "de": "Danke! Und wie findest du die Schuhe?", "en": "Thanks! And what do you think of the shoes?" },
+        { "who": "Tom", "de": "Die Schuhe gefallen mir nicht so gut.", "en": "I don't like the shoes so much." }
+      ]
+    }
+  ],
+  "tip": "Learn *Das gefällt mir* as one block, and remember that *mir* and *dir* stay the same for every noun.",
+  "comprehension": [
+    { "q": "How do you say 'I like that'?", "a": "Das gefällt mir." },
+    { "q": "How do you say 'I don't like that at all'?", "a": "Das gefällt mir gar nicht." },
+    { "q": "Which case follows gefallen?", "a": "The dative (mir, dir ...)." },
+    { "q": "Which verb do you use for plural things: gefällt or gefallen?", "a": "gefallen" }
+  ],
+  "exercises": [
+    {
+      "title": "Complete with mir / dir",
+      "type": "fill",
+      "instructions": "Fill in mir or dir.",
+      "items": [
+        { "q": "Das Kleid gefällt ___. (I like it)", "a": "mir" },
+        { "q": "Gefällt ___ das Buch? (Do you like it?)", "a": "dir" },
+        { "q": "Der Hut gefällt ___ gar nicht. (I don't like it)", "a": "mir" },
+        { "q": "Wie gefällt ___ das Auto? (How do you like it?)", "a": "dir" }
+      ]
+    },
+    {
+      "title": "gefällt or gefallen?",
+      "type": "choose",
+      "instructions": "Choose the correct verb form.",
+      "items": [
+        { "q": "Das Auto ___ mir. (gefällt / gefallen)", "a": "gefällt" },
+        { "q": "Die Schuhe ___ mir. (gefällt / gefallen)", "a": "gefallen", "expl": "*Schuhe* is plural." },
+        { "q": "Der Film ___ mir sehr. (gefällt / gefallen)", "a": "gefällt" },
+        { "q": "Die Blumen ___ dir. (gefällt / gefallen)", "a": "gefallen" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Like or dislike?",
+      "type": "choose",
+      "instructions": "Choose the correct ending for the meaning in brackets.",
+      "items": [
+        { "q": "Das gefällt mir ___. (sehr / gar nicht) - I like it very much.", "a": "sehr" },
+        { "q": "Das gefällt mir ___. (sehr / gar nicht) - I don't like it at all.", "a": "gar nicht" },
+        { "q": "Ich finde das ___. (toll / schlecht) - I think it's great.", "a": "toll" },
+        { "q": "Ich finde das ___. (klasse / schlecht) - I think it's bad.", "a": "schlecht" }
+      ]
+    },
+    {
+      "title": "Word order",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "mir / gefällt / Das", "a": "Das gefällt mir." },
+        { "q": "Gefällt / dir / das", "a": "Gefällt dir das?" },
+        { "q": "klasse / Ich / echt / finde / das", "a": "Ich finde das echt klasse." },
+        { "q": "gefällt / nicht / Das / mir / gar", "a": "Das gefällt mir gar nicht." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I like that very much.", "a": "Das gefällt mir sehr." },
+        { "q": "I don't like the hat.", "a": "Der Hut gefällt mir nicht." },
+        { "q": "What do you think of the dress?", "a": "Wie findest du das Kleid?" },
+        { "q": "It was great.", "a": "Es war toll. / Es war super. / Es war klasse." },
+        { "q": "I think that is bad.", "a": "Das finde ich schlecht." }
+      ]
+    }
+  ],
+  "summary": [
+    "Likes: **Das gefällt mir.** / **Gefällt dir das?** - the person is dative (**mir, dir**).",
+    "Dislikes: **Das gefällt mir nicht.** / **nicht so gut** / **gar nicht.**",
+    "Opinions with **finden**: **Ich finde das toll / super / klasse / schlecht.** Past: **Es war toll.**",
+    "Strengthen with **sehr, ganz, echt**; plural things: **Die Schuhe gefallen mir.**"
+  ]
+}

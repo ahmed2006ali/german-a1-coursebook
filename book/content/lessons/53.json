@@ -1,0 +1,189 @@
+{
+  "n": 53,
+  "title": "Which? - welch-",
+  "titleDe": "Fragepronomen \"welch-\"",
+  "level": "A1",
+  "sourceNote": "The transcript is garbled, especially the example sentences. The examples below keep the teacher's structure (nominative, accusative, dative for all genders and the plural) in standard German.",
+  "objectives": [
+    "I can ask about something specific with *welch-* (which)",
+    "I can choose the correct ending of *welch-* for gender, case and plural",
+    "I can answer a *welch-* question with the definite article",
+    "I can use *welch-* after prepositions like *mit*, *zu*, *von*"
+  ],
+  "vocab": [
+    { "de": "welcher / welche / welches", "en": "which", "ar": "أيّ", "note": "asks about something specific" },
+    { "de": "der Hut", "pl": "die Hüte", "en": "hat", "ar": "قبعة", "note": "" },
+    { "de": "der Mantel", "pl": "die Mäntel", "en": "coat", "ar": "معطف", "note": "", "sup": true },
+    { "de": "die Frau", "pl": "die Frauen", "en": "woman", "ar": "امرأة", "note": "" },
+    { "de": "die Jacke", "pl": "die Jacken", "en": "jacket", "ar": "سترة", "note": "", "sup": true },
+    { "de": "das Buch", "pl": "die Bücher", "en": "book", "ar": "كتاب", "note": "" },
+    { "de": "das Auto", "pl": "die Autos", "en": "car", "ar": "سيارة", "note": "", "sup": true },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل", "note": "dative plural: Kindern", "sup": true },
+    { "de": "die Blume", "pl": "die Blumen", "en": "flower", "ar": "زهرة", "note": "" },
+    { "de": "interessant", "en": "interesting", "ar": "مثير للاهتمام", "note": "" },
+    { "de": "dort", "en": "there", "ar": "هناك", "note": "", "sup": true },
+    { "de": "hier", "en": "here", "ar": "هنا", "note": "", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Welcher Hut gefällt dir?", "en": "Which hat do you like?", "ar": "" },
+    { "de": "Welchen Hut kaufst du?", "en": "Which hat are you buying?", "ar": "" },
+    { "de": "Zu welchem Hut passt meine Jacke?", "en": "Which hat goes with my jacket?", "ar": "" },
+    { "de": "Welche Frau ist deine Kollegin?", "en": "Which woman is your colleague?", "ar": "" },
+    { "de": "Mit welcher Frau sprichst du?", "en": "Which woman are you talking to?", "ar": "" },
+    { "de": "Welches Buch ist interessant?", "en": "Which book is interesting?", "ar": "" },
+    { "de": "Welche Blumen sind schön?", "en": "Which flowers are beautiful?", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Welch- + [noun] + [verb] + ...?", "ex": "Welchen Hut kaufst du?", "en": "Which hat are you buying?" },
+    { "form": "[Preposition] + welch- + [noun] + [verb] ...?", "ex": "Mit welchem Buch lernst du Deutsch?", "en": "Which book do you learn German with?" }
+  ],
+  "grammar": [
+    {
+      "title": "When to use welch-",
+      "body": "Use **welch-** when you ask about something **particular** out of several (which one?). The ending depends on the **article of the noun** and the **case**. In fact the endings of *welch-* are the same as the endings of the definite article **der / die / das**: welch- takes the last letters of the article.\n\nThe answer normally uses the **definite article** (der, die, das), because you mean a specific thing.",
+      "ar": "welch- = أيّ؟ وتأخذ نهاية أداة التعريف نفسها (der → welcher، den → welchen ...).",
+      "examples": [
+        { "de": "Welcher Hut ist schön? - Der Hut dort.", "en": "Which hat is nice? - That hat there." }
+      ]
+    },
+    {
+      "title": "All forms of welch-",
+      "body": "Compare with the definite article: **der → welcher**, **den → welchen**, **dem → welchem**, **die → welche**, **der → welcher**, **das → welches**, **den → welchen**.",
+      "table": {
+        "head": ["", "Masculine", "Feminine", "Neuter", "Plural"],
+        "rows": [
+          ["Nominative", "welcher (der)", "welche (die)", "welches (das)", "welche (die)"],
+          ["Accusative", "welchen (den)", "welche (die)", "welches (das)", "welche (die)"],
+          ["Dative", "welchem (dem)", "welcher (der)", "welchem (dem)", "welchen (den)"]
+        ]
+      },
+      "ar": "المؤنث والجمع في المرفوع والمنصوب: welche. المفعول غير المباشر: welchem / welcher / welchem / welchen."
+    },
+    {
+      "title": "Masculine: welcher / welchen / welchem",
+      "body": "In the nominative **der Hut** becomes **welcher Hut**. In the accusative (after verbs like *kaufen*, *finden*) **den Hut** becomes **welchen Hut**. In the dative (after *mit*, *zu*, *von*, *bei* ...) **dem Hut** becomes **welchem Hut**.",
+      "examples": [
+        { "de": "Welcher Hut ist schön? - Der Hut dort.", "en": "Which hat is nice? - That hat there." },
+        { "de": "Welchen Hut findest du schön? - Den Hut dort.", "en": "Which hat do you think is nice? - That hat there." },
+        { "de": "Zu welchem Hut passt meine Jacke? - Zu dem Hut dort.", "en": "Which hat goes with my jacket? - With that hat there." }
+      ]
+    },
+    {
+      "title": "Feminine: welche / welche / welcher",
+      "body": "The feminine article **die** does not change in the nominative and accusative, so it is **welche** in both. After a dative preposition **der Frau** becomes **welcher Frau**.",
+      "examples": [
+        { "de": "Welche Frau ist deine Kollegin? - Die Frau dort.", "en": "Which woman is your colleague? - That woman there." },
+        { "de": "Welche Frau kennst du? - Die Frau dort.", "en": "Which woman do you know? - That woman there." },
+        { "de": "Mit welcher Frau sprichst du? - Mit der Frau dort.", "en": "Which woman are you talking to? - To that woman there." }
+      ]
+    },
+    {
+      "title": "Neuter: welches / welches / welchem",
+      "body": "**das Buch** gives **welches Buch** in the nominative and the accusative (the neuter article does not change). In the dative **dem Buch** gives **welchem Buch**, the same as masculine.",
+      "examples": [
+        { "de": "Welches Buch ist interessant? - Das Buch hier.", "en": "Which book is interesting? - This book here." },
+        { "de": "Welches Buch liest du? - Das Buch hier.", "en": "Which book are you reading? - This book here." },
+        { "de": "Mit welchem Buch lernst du Deutsch? - Mit dem Buch hier.", "en": "Which book do you learn German with? - With this book here." }
+      ]
+    },
+    {
+      "title": "Plural: welche / welche / welchen",
+      "body": "The plural article **die** gives **welche** in the nominative and the accusative. In the dative **den** gives **welchen**, and the noun gets an extra **-n**, unless it already ends in *-n*: **den Blumen**, but **den Kindern**.",
+      "examples": [
+        { "de": "Welche Blumen sind schön? - Die Blumen dort.", "en": "Which flowers are beautiful? - The flowers there." },
+        { "de": "Welche Blumen kaufst du? - Die Blumen dort.", "en": "Which flowers are you buying? - The flowers there." },
+        { "de": "Von welchen Blumen sprichst du? - Von den Blumen dort.", "en": "Which flowers are you talking about? - About the flowers there." },
+        { "de": "Mit welchen Kindern spielst du?", "en": "Which children are you playing with?" }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Welche Hut kaufst du?", "right": "Welchen Hut kaufst du?", "why": "*Hut* is masculine and an accusative object: *welchen*." },
+    { "wrong": "Mit welche Frau sprichst du?", "right": "Mit welcher Frau sprichst du?", "why": "*mit* needs the dative; feminine dative is *welcher*." },
+    { "wrong": "Welcher Buch ist interessant?", "right": "Welches Buch ist interessant?", "why": "*Buch* is neuter: *welches*." }
+  ],
+  "pronunciation": [
+    { "de": "-ch- in welch-", "tip": "Say 'velkh' with a soft *ch* at the end of the syllable, like a hiss: *welcher*." },
+    { "de": "w", "tip": "The German *w* is pronounced like English 'v': *Welcher* = 'Vel-kher'." }
+  ],
+  "dialogues": [],
+  "tip": "Find the case from the verb or the preposition first, then pick the same ending as the definite article: der Hut → welcher, den Hut → welchen, dem Hut → welchem.",
+  "comprehension": [
+    { "q": "When do you use welch-?", "a": "When you ask about something particular (which one?)." },
+    { "q": "What is the accusative masculine form?", "a": "welchen" },
+    { "q": "What is the dative feminine form?", "a": "welcher" },
+    { "q": "Which forms are the same in the nominative and accusative?", "a": "Feminine (welche), neuter (welches) and plural (welche)." },
+    { "q": "What happens to the noun in the dative plural?", "a": "It gets an extra -n (den Blumen), unless it already ends in -n." }
+  ],
+  "exercises": [
+    {
+      "title": "Complete with welch-",
+      "type": "fill",
+      "instructions": "Write the correct form of welch- (welcher, welchen, welchem, welche, welches).",
+      "items": [
+        { "q": "___ Hut gefällt dir?", "a": "Welcher", "expl": "*der Hut* is the nominative subject." },
+        { "q": "___ Mantel kaufst du?", "a": "Welchen", "expl": "*der Mantel* is the accusative object." },
+        { "q": "Mit ___ Auto fährst du?", "a": "welchem", "expl": "*mit* + dative: *dem Auto*." },
+        { "q": "___ Frau ist deine Lehrerin?", "a": "Welche" },
+        { "q": "Mit ___ Frau sprichst du?", "a": "welcher", "expl": "*mit* + dative feminine: *der Frau*." },
+        { "q": "___ Buch ist interessant?", "a": "Welches" },
+        { "q": "___ Blumen kaufst du?", "a": "Welche" },
+        { "q": "Mit ___ Kindern spielst du?", "a": "welchen", "expl": "Dative plural: *den Kindern*." }
+      ]
+    },
+    {
+      "title": "Complete the ending",
+      "type": "fill",
+      "instructions": "Write the ending of welch- (er, en, em, e, es).",
+      "items": [
+        { "q": "masculine, nominative: welch___", "a": "er" },
+        { "q": "masculine, accusative: welch___", "a": "en" },
+        { "q": "neuter, dative: welch___", "a": "em" },
+        { "q": "feminine, accusative: welch___", "a": "e" },
+        { "q": "neuter, nominative: welch___", "a": "es" },
+        { "q": "plural, dative: welch___", "a": "en" }
+      ]
+    },
+    {
+      "title": "Question and answer",
+      "type": "choose",
+      "instructions": "Choose the correct article for the answer.",
+      "items": [
+        { "q": "Welchen Hut kaufst du? - ___ Hut dort. (Der / Den)", "a": "Den", "expl": "Accusative masculine." },
+        { "q": "Welcher Hut ist schön? - ___ Hut dort. (Der / Den)", "a": "Der", "expl": "Nominative masculine." },
+        { "q": "Mit welcher Frau sprichst du? - Mit ___ Frau dort. (der / die)", "a": "der", "expl": "Dative feminine." },
+        { "q": "Welches Buch liest du? - ___ Buch hier. (Das / Dem)", "a": "Das", "expl": "Accusative neuter." },
+        { "q": "Von welchem Buch sprichst du? - Von ___ Buch hier. (das / dem)", "a": "dem", "expl": "*von* + dative." },
+        { "q": "Welche Blumen kaufst du? - ___ Blumen dort. (Die / Den)", "a": "Die", "expl": "Accusative plural." }
+      ]
+    },
+    {
+      "title": "Word order",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "Buch / Welches / ist / interessant", "a": "Welches Buch ist interessant?" },
+        { "q": "kaufst / du / Welchen / Hut", "a": "Welchen Hut kaufst du?" },
+        { "q": "welcher / sprichst / Frau / Mit / du", "a": "Mit welcher Frau sprichst du?" }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "Which hat do you want? (der Hut)", "a": "Welchen Hut möchtest du? / Welchen Hut willst du?" },
+        { "q": "Which woman is your colleague?", "a": "Welche Frau ist deine Kollegin?" },
+        { "q": "Which book is interesting?", "a": "Welches Buch ist interessant?" },
+        { "q": "With which child do you play? (das Kind)", "a": "Mit welchem Kind spielst du?" },
+        { "q": "Which flowers do you like?", "a": "Welche Blumen gefallen dir?" }
+      ]
+    }
+  ],
+  "summary": [
+    "**welch-** asks about something particular: *which one?*",
+    "Endings equal the definite article: **der → welcher, den → welchen, dem → welchem; die → welche, der → welcher; das → welches, dem → welchem**.",
+    "Plural: **welche** (nominative/accusative), **welchen** (dative, noun + -n).",
+    "Answer with the definite article: **Welchen Hut? - Den Hut dort.**"
+  ]
+}

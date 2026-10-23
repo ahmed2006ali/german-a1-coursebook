@@ -1,0 +1,192 @@
+{
+  "n": 58,
+  "title": "Talking on the Phone",
+  "titleDe": "Am Telefon sprechen",
+  "level": "A1",
+  "sourceNote": "The auto-captions are very garbled for this lesson; phrases were reconstructed from context and standard German. A few supporting phrases are marked as additions.",
+  "objectives": [
+    "I can answer the phone and introduce myself in German",
+    "I can ask to speak to a particular person",
+    "I can leave or take a message",
+    "I can ask someone to repeat or to speak more slowly",
+    "I can end a phone call politely"
+  ],
+  "vocab": [
+    { "de": "telefonieren", "en": "to telephone, to be on the phone", "ar": "يتحدث هاتفياً", "note": "ich telefoniere" },
+    { "de": "anrufen", "en": "to call (someone)", "ar": "يتصل بـ", "note": "separable: ich rufe an" },
+    { "de": "der Anruf", "pl": "die Anrufe", "en": "phone call", "ar": "مكالمة", "sup": true },
+    { "de": "der Apparat", "pl": "die Apparate", "en": "telephone (device), line", "ar": "جهاز الهاتف", "note": "am Apparat = speaking" },
+    { "de": "die Firma", "pl": "die Firmen", "en": "company, firm", "ar": "شركة" },
+    { "de": "verbinden", "en": "to connect (a call)", "ar": "يوصل (المكالمة)" },
+    { "de": "der Moment", "pl": "die Momente", "en": "moment", "ar": "لحظة" },
+    { "de": "der Augenblick", "pl": "die Augenblicke", "en": "moment", "ar": "لحظة", "note": "Einen Augenblick, bitte." },
+    { "de": "nicht da sein", "en": "to be not there, to be away", "ar": "غير موجود" },
+    { "de": "die Nachricht", "pl": "die Nachrichten", "en": "message", "ar": "رسالة" },
+    { "de": "ausrichten", "en": "to pass on (a message)", "ar": "يبلّغ (رسالة)", "note": "separable: ich richte aus" },
+    { "de": "zurückrufen", "en": "to call back", "ar": "يعاود الاتصال", "note": "separable: ich rufe zurück" },
+    { "de": "die Frage", "pl": "die Fragen", "en": "question", "ar": "سؤال" },
+    { "de": "wiederholen", "en": "to repeat", "ar": "يعيد، يكرر" },
+    { "de": "langsam", "en": "slow", "ar": "بطيء", "note": "langsamer = more slowly" },
+    { "de": "verstehen", "en": "to understand", "ar": "يفهم" },
+    { "de": "das Wochenende", "pl": "die Wochenenden", "en": "weekend", "ar": "عطلة نهاية الأسبوع" },
+    { "de": "der Tag", "pl": "die Tage", "en": "day", "ar": "يوم" }
+  ],
+  "expressions": [
+    { "de": "Müller.", "en": "Müller speaking. (private call: only the surname)" },
+    { "de": "Firma Müller, mein Name ist Schmidt.", "en": "Müller company, my name is Schmidt. (company call)" },
+    { "de": "Firma Müller GmbH, Sie sprechen mit Sara Schmidt. Wie kann ich Ihnen helfen?", "en": "Müller Ltd, you are speaking with Sara Schmidt. How can I help you?" },
+    { "de": "Hallo Max, hier ist Anna.", "en": "Hello Max, this is Anna. (informal)" },
+    { "de": "Guten Tag, mein Name ist Anna Bachmann.", "en": "Good day, my name is Anna Bachmann. (formal)" },
+    { "de": "Ist Frau Meier da?", "en": "Is Mrs Meier there?" },
+    { "de": "Kann ich bitte mit Herrn Meier sprechen?", "en": "Can I speak to Mr Meier, please?" },
+    { "de": "Könnten Sie mich bitte mit Frau Meier verbinden?", "en": "Could you connect me to Mrs Meier, please?", "note": "polite form of können" },
+    { "de": "Einen Moment, bitte. Ich verbinde Sie.", "en": "One moment, please. I will connect you." },
+    { "de": "Er ist leider nicht da.", "en": "Unfortunately he is not here." },
+    { "de": "Kann ich ihm etwas ausrichten?", "en": "Can I pass on a message to him?" },
+    { "de": "Können Sie ihr etwas ausrichten?", "en": "Can you pass on a message to her?" },
+    { "de": "Ich habe eine Frage.", "en": "I have a question." },
+    { "de": "Sagen Sie ihm bitte, ich rufe morgen noch einmal an.", "en": "Please tell him I will call again tomorrow." },
+    { "de": "Könnten Sie das bitte wiederholen?", "en": "Could you please repeat that?" },
+    { "de": "Könnten Sie bitte etwas langsamer sprechen?", "en": "Could you please speak a little more slowly?" },
+    { "de": "Vielen Dank. Auf Wiederhören!", "en": "Thank you very much. Goodbye! (on the phone)" },
+    { "de": "Ich wünsche Ihnen ein schönes Wochenende.", "en": "I wish you a nice weekend." },
+    { "de": "Einen schönen Tag noch!", "en": "Have a nice day!" }
+  ],
+  "patterns": [
+    { "form": "Hier ist + [Name].", "ex": "Hier ist Anna Bachmann.", "en": "This is Anna Bachmann." },
+    { "form": "Ich möchte + [Person] + sprechen.", "ex": "Ich möchte Frau Meier sprechen.", "en": "I would like to speak to Mrs Meier.", "sup": true },
+    { "form": "Kann ich ihm / ihr etwas ausrichten?", "ex": "Kann ich ihr etwas ausrichten?", "en": "Can I pass something on to her?" },
+    { "form": "Sagen Sie ihm / ihr bitte, ...", "ex": "Sagen Sie ihm bitte, ich bin krank.", "en": "Please tell him I am ill.", "sup": true }
+  ],
+  "grammar": [
+    {
+      "title": "Phone calls use Sie and fixed phrases",
+      "body": "In formal calls always use **Sie**. In Germany people answer the phone with their **surname** (*Müller.* or *Hier ist Müller.*). A company answers with the name of the firm and the name of the person. When you call, say who you are first and then why you are calling. With friends it is enough to say *Hallo Max, hier ist Anna.*",
+      "examples": [
+        { "de": "Guten Tag, hier ist Firma Müller, mein Name ist Schmidt.", "en": "Good day, this is Müller company, my name is Schmidt." },
+        { "de": "Hallo Max, hier ist Anna.", "en": "Hello Max, this is Anna." }
+      ]
+    },
+    {
+      "title": "Polite requests with könnten",
+      "body": "The teacher reminds you that **Könnten Sie ...?** is a more polite way to ask than **Können Sie ...?**. At A1 learn *Könnten Sie ...?* simply as a ready-made polite phrase. The verb goes to the end of the question.",
+      "examples": [
+        { "de": "Könnten Sie mich bitte verbinden?", "en": "Could you connect me, please?" },
+        { "de": "Könnten Sie das bitte wiederholen?", "en": "Could you please repeat that?" }
+      ]
+    },
+    {
+      "title": "Separable verbs on the phone",
+      "body": "**anrufen, zurückrufen, ausrichten** are separable verbs. In a main clause the prefix goes to the end: **Ich rufe morgen noch einmal an.** In a question with a modal verb, the whole infinitive stays at the end: **Kann ich ihm etwas ausrichten?**",
+      "table": {
+        "head": ["", "Infinitive", "Main clause"],
+        "rows": [
+          ["call", "anrufen", "Ich rufe Sie morgen an."],
+          ["call back", "zurückrufen", "Er ruft Sie zurück."],
+          ["pass on", "ausrichten", "Ich richte es ihr aus."]
+        ]
+      },
+      "sup": true
+    },
+    {
+      "title": "Goodbye on the phone",
+      "body": "You cannot see each other on the phone, so you do not say *Auf Wiedersehen* but **Auf Wiederhören**. It is also normal to wish the other person a nice weekend or a nice day.",
+      "ar": "على الهاتف نقول Auf Wiederhören لأننا لا نرى بعضنا."
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Auf Wiedersehen! (at the end of a phone call)", "right": "Auf Wiederhören!", "why": "You cannot see each other, so you say *hören* (to hear)." },
+    { "wrong": "Ich anrufe Sie morgen.", "right": "Ich rufe Sie morgen an.", "why": "*anrufen* is separable: the prefix goes to the end.", "sup": true }
+  ],
+  "pronunciation": [
+    { "de": "ie", "tip": "Always a long 'ee'. *Wiederhören, vielen Dank, wiederholen*." },
+    { "de": "ö", "tip": "Round your lips as for 'o' and say 'e'. *hören, könnten, möchten*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Calling a company",
+      "lines": [
+        { "who": "A", "de": "Guten Tag, hier ist Firma Roman GmbH. Mein Name ist Julia Becker.", "en": "Good day, this is Roman Ltd. My name is Julia Becker." },
+        { "who": "B", "de": "Guten Tag, hier ist Jonas Müller von Firma Kogge. Kann ich bitte mit Frau Schmitz sprechen?", "en": "Good day, this is Jonas Müller from Kogge company. Can I speak to Mrs Schmitz, please?" },
+        { "who": "A", "de": "Einen Moment, bitte. Sie ist leider nicht da. Kann ich ihr etwas ausrichten?", "en": "One moment, please. Unfortunately she is not here. Can I pass on a message?" },
+        { "who": "B", "de": "Ja, sagen Sie ihr bitte, ich rufe morgen noch einmal an.", "en": "Yes, please tell her I will call again tomorrow." },
+        { "who": "A", "de": "Gern. Vielen Dank, Herr Müller. Einen schönen Tag noch! Auf Wiederhören.", "en": "Gladly. Thank you very much, Mr Müller. Have a nice day! Goodbye." }
+      ]
+    },
+    {
+      "title": "I do not understand",
+      "sup": true,
+      "lines": [
+        { "who": "A", "de": "Guten Tag, ich habe eine Frage.", "en": "Good day, I have a question." },
+        { "who": "B", "de": "Gern. Wie kann ich Ihnen helfen?", "en": "Gladly. How can I help you?" },
+        { "who": "A", "de": "Könnten Sie bitte etwas langsamer sprechen?", "en": "Could you please speak a little more slowly?" },
+        { "who": "B", "de": "Natürlich. Ich wiederhole es noch einmal.", "en": "Of course. I will repeat it once more." }
+      ]
+    }
+  ],
+  "tip": "If you do not understand something on the phone, ask again. Asking twice or three times is completely normal.",
+  "comprehension": [
+    { "q": "How do people in Germany usually answer the phone privately?", "a": "With their surname, for example: Müller." },
+    { "q": "How do you politely ask to speak to a particular person?", "a": "Kann ich bitte mit Frau / Herrn ... sprechen?" },
+    { "q": "What do you say if you do not understand something?", "a": "Könnten Sie das bitte wiederholen? / Könnten Sie bitte etwas langsamer sprechen?" },
+    { "q": "Which goodbye is used on the phone?", "a": "Auf Wiederhören." }
+  ],
+  "exercises": [
+    {
+      "title": "Complete the phrase",
+      "type": "fill",
+      "instructions": "Fill in the missing word.",
+      "items": [
+        { "q": "Hallo Max, ___ ist Anna.", "a": "hier" },
+        { "q": "Kann ich bitte ___ Frau Meier sprechen?", "a": "mit", "expl": "*mit* + person: sprechen mit." },
+        { "q": "Einen Moment, bitte. Ich ___ Sie.", "a": "verbinde", "expl": "ich-form of *verbinden*." },
+        { "q": "Er ist leider nicht ___.", "a": "da" },
+        { "q": "Auf ___! (at the end of a phone call)", "a": "Wiederhören" },
+        { "q": "Kann ich ihr etwas ___? (to pass on)", "a": "ausrichten", "expl": "Infinitive stays at the end." }
+      ]
+    },
+    {
+      "title": "Choose the best reaction",
+      "type": "choose",
+      "instructions": "Choose the correct answer.",
+      "items": [
+        { "q": "Sie verstehen nichts. Sie sagen: ___ (Auf Wiederhören! / Könnten Sie das bitte wiederholen?)", "a": "Könnten Sie das bitte wiederholen?" },
+        { "q": "Frau Meier ist nicht da. Die Kollegin fragt: ___ (Kann ich ihr etwas ausrichten? / Wie heißen Sie?)", "a": "Kann ich ihr etwas ausrichten?", "expl": "She offers to pass on a message." },
+        { "q": "Sie rufen eine Firma an und möchten mit Herrn Weber sprechen. (Kann ich bitte mit Herrn Weber sprechen? / Ich bin Herr Weber.)", "a": "Kann ich bitte mit Herrn Weber sprechen?" },
+        { "q": "Ein Freund hat angerufen. Sie sagen: Hallo Max, ___ ist Anna. (hier / dort)", "a": "hier" },
+        { "q": "Am Ende vom Anruf sagt man: ___ (Auf Wiederhören! / Guten Morgen!)", "a": "Auf Wiederhören!" }
+      ]
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Write the correct sentence.",
+      "items": [
+        { "q": "ich / bitte / mit / Frau Meier / Kann / sprechen / ?", "a": "Kann ich bitte mit Frau Meier sprechen?" },
+        { "q": "Sie / mich / Könnten / verbinden / bitte / ?", "a": "Könnten Sie mich bitte verbinden?" },
+        { "q": "morgen / Ich / an / Sie / rufe", "a": "Ich rufe Sie morgen an. / Morgen rufe ich Sie an." },
+        { "q": "habe / Ich / eine / Frage", "a": "Ich habe eine Frage." },
+        { "q": "ihm / ausrichten / Kann / etwas / ich / ?", "a": "Kann ich ihm etwas ausrichten?" }
+      ]
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Translate the sentences into German.",
+      "items": [
+        { "q": "Could you please speak more slowly?", "a": "Könnten Sie bitte langsamer sprechen? / Könnten Sie bitte etwas langsamer sprechen?" },
+        { "q": "One moment, please.", "a": "Einen Moment, bitte. / Einen Augenblick, bitte." },
+        { "q": "I wish you a nice weekend.", "a": "Ich wünsche Ihnen ein schönes Wochenende." },
+        { "q": "Unfortunately she is not here.", "a": "Sie ist leider nicht da. / Leider ist sie nicht da." },
+        { "q": "I have a question.", "a": "Ich habe eine Frage." }
+      ]
+    }
+  ],
+  "summary": [
+    "Answer a private call with your surname; a company answers with the firm name and the person's name.",
+    "Introduce yourself first (Hier ist ... / Mein Name ist ...), then say why you are calling.",
+    "Ask politely: Kann ich bitte mit ... sprechen? Könnten Sie mich verbinden?",
+    "If someone is away: Kann ich ihm / ihr etwas ausrichten?",
+    "Ask for repetition with Könnten Sie das bitte wiederholen? and end with Auf Wiederhören."
+  ]
+}

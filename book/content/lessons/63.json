@@ -1,0 +1,193 @@
+{
+  "n": 63,
+  "title": "At the Bank",
+  "titleDe": "Die Bank",
+  "level": "A1",
+  "sourceNote": "",
+  "objectives": [
+    "I can name money, accounts and bank cards in German",
+    "I can say that I go to the bank and that I am at the bank",
+    "I can use the most important bank verbs, also in the Perfekt",
+    "I can name the details of my account (Kontonummer, IBAN, Kontostand)"
+  ],
+  "vocab": [
+    { "de": "die Bank", "pl": "die Banken", "en": "bank (financial institution)", "ar": "بنك", "note": "die Bank = bank; die Bank (pl. Bänke) = bench", "sup": false },
+    { "de": "die Sparkasse", "pl": "die Sparkassen", "en": "savings bank", "ar": "بنك الادخار" },
+    { "de": "das Geldinstitut", "pl": "die Geldinstitute", "en": "financial institution", "ar": "مؤسسة مالية" },
+    { "de": "das Geld", "pl": "die Gelder", "en": "money", "ar": "مال", "note": "plural is rare" },
+    { "de": "der Geldschein", "pl": "die Geldscheine", "en": "banknote", "ar": "ورقة نقدية" },
+    { "de": "die Münze", "pl": "die Münzen", "en": "coin", "ar": "عملة معدنية" },
+    { "de": "das Kleingeld", "pl": "–", "en": "small change", "ar": "فكّة" },
+    { "de": "das Bargeld", "pl": "–", "en": "cash", "ar": "نقد" },
+    { "de": "das Konto", "pl": "die Konten / die Kontos", "en": "account", "ar": "حساب" },
+    { "de": "das Sparkonto", "pl": "die Sparkonten", "en": "savings account", "ar": "حساب توفير" },
+    { "de": "das Girokonto", "pl": "die Girokonten", "en": "current account", "ar": "حساب جاري", "note": "salary and everyday account" },
+    { "de": "der Kontoinhaber", "pl": "die Kontoinhaber", "en": "account holder", "ar": "صاحب الحساب" },
+    { "de": "die Kontonummer", "pl": "die Kontonummern", "en": "account number", "ar": "رقم الحساب" },
+    { "de": "die IBAN", "pl": "die IBANs", "en": "IBAN", "ar": "رقم الآيبان", "note": "German IBANs start with DE" },
+    { "de": "die Bankleitzahl", "pl": "die Bankleitzahlen", "en": "bank code", "ar": "رمز البنك", "note": "for transfers within Germany" },
+    { "de": "die Überweisung", "pl": "die Überweisungen", "en": "bank transfer", "ar": "حوالة مصرفية" },
+    { "de": "der Kontoauszug", "pl": "die Kontoauszüge", "en": "bank statement", "ar": "كشف الحساب" },
+    { "de": "der Kontostand", "pl": "die Kontostände", "en": "account balance", "ar": "رصيد الحساب", "note": "also: der Saldo" },
+    { "de": "die Einnahme", "pl": "die Einnahmen", "en": "income, receipt", "ar": "إيراد" },
+    { "de": "die Ausgabe", "pl": "die Ausgaben", "en": "expense", "ar": "مصروف" },
+    { "de": "der Geldautomat", "pl": "die Geldautomaten", "en": "cash machine, ATM", "ar": "صراف آلي", "note": "Austria / Switzerland: der Bankomat" },
+    { "de": "die Kreditkarte", "pl": "die Kreditkarten", "en": "credit card", "ar": "بطاقة ائتمان" },
+    { "de": "die EC-Karte", "pl": "die EC-Karten", "en": "debit card", "ar": "بطاقة الدفع (EC)", "note": "also: die Girokarte" },
+    { "de": "die PIN", "pl": "die PINs", "en": "PIN", "ar": "الرقم السري", "note": "also: die Geheimzahl" },
+    { "de": "die Geheimzahl", "pl": "die Geheimzahlen", "en": "PIN, secret number", "ar": "الرقم السري" }
+  ],
+  "expressions": [
+    { "de": "Ich gehe zur Bank.", "en": "I am going to the bank." },
+    { "de": "Ich bin in der Bank.", "en": "I am at the bank." },
+    { "de": "Guten Tag, ich möchte 100 Euro auf mein Konto einzahlen.", "en": "Good day, I would like to pay 100 euros into my account." },
+    { "de": "Ich muss heute etwas Geld abheben.", "en": "I have to withdraw some money today." },
+    { "de": "Ich habe kein Bargeld.", "en": "I have no cash." },
+    { "de": "Er hat schon 100 Euro gespart.", "en": "He has already saved 100 euros." },
+    { "de": "Wo kann man hier Dollar in Euro wechseln?", "en": "Where can one change dollars into euros here?" },
+    { "de": "Ich muss 100 Euro auf ein anderes Konto überweisen.", "en": "I have to transfer 100 euros to another account." },
+    { "de": "Haben Sie ein Sparkonto oder ein Girokonto?", "en": "Do you have a savings account or a current account?" },
+    { "de": "Ich möchte mein Konto schließen.", "en": "I would like to close my account." },
+    { "de": "Wo kann ich den Kontoauszug ausdrucken?", "en": "Where can I print the bank statement?" },
+    { "de": "Wie sieht mein Kontostand aus?", "en": "What does my account balance look like?" }
+  ],
+  "patterns": [
+    { "form": "Wohin? Ich gehe + zur Bank.", "ex": "Ich gehe zur Bank.", "en": "I am going to the bank." },
+    { "form": "Wo? Ich bin + in der Bank.", "ex": "Ich bin in der Bank.", "en": "I am at the bank." },
+    { "form": "Ich möchte + [Betrag] + auf mein Konto + einzahlen.", "ex": "Ich möchte 100 Euro auf mein Konto einzahlen.", "en": "I would like to pay 100 euros into my account." }
+  ],
+  "grammar": [
+    {
+      "title": "Wohin? zur Bank – Wo? in der Bank",
+      "body": "**Wohin?** (where to) → **zur Bank gehen**. **Wo?** (where) → **in der Bank sein**. *zur* = *zu* + *der*. In southern Germany people also say **auf der Bank sein**. Do not confuse *die Bank* (money) with *die Bank* (bench, plural *die Bänke*).",
+      "examples": [
+        { "de": "Wohin gehst du? – Ich gehe zur Bank.", "en": "Where are you going? – I am going to the bank." },
+        { "de": "Wo bist du? – Ich bin in der Bank.", "en": "Where are you? – I am at the bank." }
+      ]
+    },
+    {
+      "title": "Money verbs and their Perfekt",
+      "body": "The verbs below form the Perfekt with **haben**. Separable verbs put **-ge-** between the prefix and the stem (*einzahlen – eingezahlt*). Verbs with the inseparable prefix **über-** or **er-** have no *ge-* (*überweisen – überwiesen*, *eröffnen – eröffnet*).",
+      "table": {
+        "head": ["Infinitive", "Meaning", "Perfekt"],
+        "rows": [
+          ["einzahlen", "to pay in", "hat eingezahlt"],
+          ["abheben", "to withdraw", "hat abgehoben"],
+          ["anlegen", "to invest", "hat angelegt"],
+          ["sparen", "to save", "hat gespart"],
+          ["wechseln", "to change", "hat gewechselt"],
+          ["überweisen", "to transfer", "hat überwiesen"],
+          ["eröffnen", "to open (an account)", "hat eröffnet"],
+          ["schließen", "to close", "hat geschlossen"]
+        ]
+      },
+      "examples": [
+        { "de": "Er möchte sein Geld in ein Haus anlegen.", "en": "He wants to invest his money in a house." },
+        { "de": "Wenn man neu in Deutschland ist, soll man ein Konto eröffnen.", "en": "When you are new in Germany, you should open an account." },
+        { "de": "Ich ziehe um. Ich möchte mein Konto schließen.", "en": "I am moving. I would like to close my account." }
+      ]
+    },
+    {
+      "title": "Two common accounts",
+      "body": "In Germany the most common account is the **Girokonto** (current account): your salary comes in and you can pay and make transfers from it. From a **Sparkonto** (savings account, also *Tagesgeldkonto*) you cannot make such transactions. The plural of *das Konto* is **die Konten** or **die Kontos**."
+    },
+    {
+      "title": "Details for transfers",
+      "body": "For an online transfer (**eine Überweisung**) you need the recipient's **IBAN**. For all banks in Germany the IBAN starts with **DE**. For international payments you also need the **BIC**; for payments within Germany the **Bankleitzahl** can be used. The account holder is **der Kontoinhaber**; the **Kontonummer** (up to ten digits) is given when you open an account."
+    },
+    {
+      "title": "Bank statement, cards and PIN",
+      "body": "The **Kontoauszug** shows the **Kontostand** (or **Saldo**), the **Einnahmen** and the **Ausgaben**. You can withdraw money at the bank or at the **Geldautomat** (in Austria and Switzerland: **Bankomat**). In Germany people mostly use the **EC-Karte** or **Girokarte**; there is also the **Kreditkarte**. Every card has a **PIN** (**Geheimzahl**). If you lose a card you must have it blocked (**die Karte sperren lassen**)."
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich gehe in die Bank.", "right": "Ich gehe zur Bank.", "why": "Going to an institution is usually *zur Bank*.", "sup": true },
+    { "wrong": "Ich habe 100 Euro geeingezahlt.", "right": "Ich habe 100 Euro eingezahlt.", "why": "Separable verb: *ge* goes between prefix and stem; only one *ge*.", "sup": true },
+    { "wrong": "Ich habe das Geld übergewiesen.", "right": "Ich habe das Geld überwiesen.", "why": "*überweisen* is inseparable: no *ge-*.", "sup": true }
+  ],
+  "pronunciation": [
+    { "de": "ü", "tip": "Round your lips for 'oo' and say 'ee': *Überweisung, Münze, Kontoauszüge*." },
+    { "de": "sp", "tip": "At the beginning of a word 'sp' sounds like 'shp': *sparen, Sparkasse, Sparkonto*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Paying money into an account",
+      "sup": true,
+      "lines": [
+        { "who": "A", "de": "Guten Tag, ich möchte 100 Euro auf mein Konto einzahlen.", "en": "Good day, I would like to pay 100 euros into my account." },
+        { "who": "B", "de": "Haben Sie ein Sparkonto oder ein Girokonto?", "en": "Do you have a savings account or a current account?" },
+        { "who": "A", "de": "Ich habe ein Girokonto.", "en": "I have a current account." },
+        { "who": "B", "de": "Wie ist Ihre Kontonummer?", "en": "What is your account number?" },
+        { "who": "A", "de": "Hier ist meine EC-Karte. Die Nummer steht auf der Karte.", "en": "Here is my debit card. The number is on the card." }
+      ]
+    }
+  ],
+  "tip": "Many people in Germany pay by card, but it is still wise to carry some cash (Bargeld) with you.",
+  "comprehension": [
+    { "q": "How do you say 'I am going to the bank'?", "a": "Ich gehe zur Bank." },
+    { "q": "Which account is the most common in Germany and what is it used for?", "a": "The Girokonto, for salary and transactions." },
+    { "q": "With which letters does a German IBAN begin?", "a": "DE." },
+    { "q": "What is a cash machine called in Austria and Switzerland?", "a": "Der Bankomat." },
+    { "q": "What must you do if you lose your card?", "a": "Die Karte sperren lassen." }
+  ],
+  "exercises": [
+    {
+      "title": "Match the words",
+      "type": "match",
+      "instructions": "Match the German words with their English meanings.",
+      "items": [
+        { "q": "der Geldschein", "a": "banknote" },
+        { "q": "die Münze", "a": "coin" },
+        { "q": "das Bargeld", "a": "cash" },
+        { "q": "der Kontoauszug", "a": "bank statement" },
+        { "q": "der Geldautomat", "a": "cash machine" },
+        { "q": "die Geheimzahl", "a": "PIN" },
+        { "q": "das Kleingeld", "a": "small change" }
+      ]
+    },
+    {
+      "title": "Wohin? Wo?",
+      "type": "choose",
+      "instructions": "Choose the correct form.",
+      "items": [
+        { "q": "Wohin gehst du? – Ich gehe ___ Bank. (zur / in der)", "a": "zur" },
+        { "q": "Wo bist du? – Ich bin ___ Bank. (in der / zur)", "a": "in der" },
+        { "q": "Wo ist der Geldautomat? – Er ist ___ Bank. (in der / zur)", "a": "in der", "expl": "Question *wo?* needs *in der*." },
+        { "q": "Wohin gehst du heute? – Ich gehe ___ Sparkasse. (zur / in der)", "a": "zur" },
+        { "q": "Haben Sie ein ___ oder ein Girokonto? (Sparkonto / Bargeld)", "a": "Sparkonto" }
+      ]
+    },
+    {
+      "title": "Perfekt of money verbs",
+      "type": "fill",
+      "instructions": "Write the correct participle (Partizip II).",
+      "items": [
+        { "q": "Er hat schon 100 Euro ___. (sparen)", "a": "gespart" },
+        { "q": "Ich habe 100 Euro auf mein Konto ___. (einzahlen)", "a": "eingezahlt", "expl": "ein + ge + zahlt" },
+        { "q": "Sie hat Geld am Geldautomaten ___. (abheben)", "a": "abgehoben", "expl": "ab + ge + hoben" },
+        { "q": "Wir haben 100 Euro ___. (überweisen)", "a": "überwiesen", "expl": "No *ge-* with the inseparable prefix *über-*." },
+        { "q": "Ich habe Dollar in Euro ___. (wechseln)", "a": "gewechselt" },
+        { "q": "Er hat ein Konto ___. (eröffnen)", "a": "eröffnet", "expl": "No *ge-* with the prefix *er-*." }
+      ]
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Translate the sentences into German.",
+      "items": [
+        { "q": "I am going to the bank.", "a": "Ich gehe zur Bank." },
+        { "q": "I have no cash.", "a": "Ich habe kein Bargeld." },
+        { "q": "I would like to close my account.", "a": "Ich möchte mein Konto schließen." },
+        { "q": "Where can I print the bank statement?", "a": "Wo kann ich den Kontoauszug ausdrucken?" },
+        { "q": "Where can one change dollars into euros here?", "a": "Wo kann man hier Dollar in Euro wechseln?" }
+      ]
+    }
+  ],
+  "summary": [
+    "Wohin? zur Bank gehen. Wo? in der Bank sein.",
+    "Money words: das Geld, der Geldschein, die Münze, das Kleingeld, das Bargeld.",
+    "Verbs: einzahlen, abheben, anlegen, sparen, wechseln, überweisen, eröffnen, schließen.",
+    "Accounts: das Girokonto (everyday) and das Sparkonto (savings). IBAN starts with DE.",
+    "Cards: die EC-Karte, die Kreditkarte; every card has a PIN (Geheimzahl)."
+  ]
+}

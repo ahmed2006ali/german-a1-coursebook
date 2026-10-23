@@ -1,0 +1,548 @@
+{
+  "n": 38,
+  "title": "Daily Routine",
+  "titleDe": "Der Tagesablauf",
+  "level": "A1",
+  "sourceNote": "The captions of this lesson are fairly complete. A few odd spots (an unclear time near 'um 4:50 fahre ich zur Arbeit') were dropped or replaced by a normal time.",
+  "objectives": [
+    "I can describe my day from morning to night",
+    "I can link sentences with dann and danach",
+    "I can use separable verbs such as aufstehen, anfangen and zubereiten",
+    "I can talk about transport: mit dem Bus, mit der Bahn, zur Arbeit"
+  ],
+  "vocab": [
+    {
+      "de": "der Tagesablauf",
+      "pl": "die Tagesabläufe",
+      "en": "daily routine",
+      "ar": "الروتين اليومي"
+    },
+    {
+      "de": "der Wecker",
+      "pl": "die Wecker",
+      "en": "alarm clock",
+      "ar": "المنبه"
+    },
+    {
+      "de": "das Badezimmer",
+      "pl": "die Badezimmer",
+      "en": "bathroom",
+      "ar": "حمام"
+    },
+    {
+      "de": "der Zahn",
+      "pl": "die Zähne",
+      "en": "tooth",
+      "ar": "سن"
+    },
+    {
+      "de": "das Frühstück",
+      "pl": "die Frühstücke",
+      "en": "breakfast",
+      "ar": "فطور"
+    },
+    {
+      "de": "die Zeitung",
+      "pl": "die Zeitungen",
+      "en": "newspaper",
+      "ar": "جريدة"
+    },
+    {
+      "de": "die Arbeit",
+      "pl": "–",
+      "en": "work",
+      "ar": "عمل"
+    },
+    {
+      "de": "der Bus",
+      "pl": "die Busse",
+      "en": "bus",
+      "ar": "حافلة"
+    },
+    {
+      "de": "die Bahn",
+      "pl": "die Bahnen",
+      "en": "train, tram",
+      "ar": "قطار"
+    },
+    {
+      "de": "der Unterricht",
+      "pl": "–",
+      "en": "class, lessons",
+      "ar": "حصة، دروس"
+    },
+    {
+      "de": "die Pause",
+      "pl": "die Pausen",
+      "en": "break",
+      "ar": "استراحة"
+    },
+    {
+      "de": "die Mittagspause",
+      "pl": "die Mittagspausen",
+      "en": "lunch break",
+      "ar": "استراحة الغداء"
+    },
+    {
+      "de": "die Hausaufgaben",
+      "pl": "(nur Plural)",
+      "en": "homework",
+      "ar": "واجب منزلي"
+    },
+    {
+      "de": "das Abendessen",
+      "pl": "die Abendessen",
+      "en": "dinner",
+      "ar": "عشاء"
+    },
+    {
+      "de": "die E-Mail",
+      "pl": "die E-Mails",
+      "en": "e-mail",
+      "ar": "بريد إلكتروني"
+    },
+    {
+      "de": "der Termin",
+      "pl": "die Termine",
+      "en": "appointment",
+      "ar": "موعد"
+    },
+    {
+      "de": "aufstehen",
+      "en": "to get up",
+      "ar": "ينهض",
+      "note": "steht auf"
+    },
+    {
+      "de": "aufwachen",
+      "en": "to wake up",
+      "ar": "يستيقظ",
+      "note": "wacht auf"
+    },
+    {
+      "de": "duschen",
+      "en": "to shower",
+      "ar": "يستحم"
+    },
+    {
+      "de": "sich waschen",
+      "en": "to wash (oneself)",
+      "ar": "يغسل نفسه",
+      "note": "ich wasche mich"
+    },
+    {
+      "de": "sich anziehen",
+      "en": "to get dressed",
+      "ar": "يلبس",
+      "note": "ich ziehe mich an"
+    },
+    {
+      "de": "sich ausziehen",
+      "en": "to get undressed",
+      "ar": "يخلع ملابسه",
+      "note": "ich ziehe mich aus"
+    },
+    {
+      "de": "frühstücken",
+      "en": "to have breakfast",
+      "ar": "يتناول الفطور"
+    },
+    {
+      "de": "vorbereiten",
+      "en": "to prepare",
+      "ar": "يحضّر",
+      "note": "bereitet vor"
+    },
+    {
+      "de": "zubereiten",
+      "en": "to prepare (food)",
+      "ar": "يُعدّ (طعامًا)",
+      "note": "bereitet zu"
+    },
+    {
+      "de": "anfangen / beginnen",
+      "en": "to begin",
+      "ar": "يبدأ",
+      "note": "fängt an / beginnt"
+    },
+    {
+      "de": "zurückfahren",
+      "en": "to drive back",
+      "ar": "يعود (بالمركبة)",
+      "note": "fährt zurück"
+    },
+    {
+      "de": "treffen",
+      "en": "to meet",
+      "ar": "يقابل",
+      "note": "ich treffe"
+    },
+    {
+      "de": "einschlafen",
+      "en": "to fall asleep",
+      "ar": "ينام",
+      "note": "schläft ein"
+    },
+    {
+      "de": "fernsehen",
+      "en": "to watch TV",
+      "ar": "يشاهد التلفزيون",
+      "note": "sieht fern"
+    }
+  ],
+  "expressions": [
+    {
+      "de": "Der Wecker klingelt um 6 Uhr.",
+      "en": "The alarm clock rings at 6."
+    },
+    {
+      "de": "Ich stehe um 6:30 Uhr auf.",
+      "en": "I get up at 6:30."
+    },
+    {
+      "de": "Ich gehe ins Badezimmer und putze mir die Zähne.",
+      "en": "I go to the bathroom and brush my teeth."
+    },
+    {
+      "de": "Dann gehe ich eine halbe Stunde joggen.",
+      "en": "Then I go jogging for half an hour."
+    },
+    {
+      "de": "Um 7 Uhr dusche ich und ziehe mich an.",
+      "en": "At 7 I shower and get dressed."
+    },
+    {
+      "de": "Ich frühstücke und lese die Zeitung.",
+      "en": "I have breakfast and read the newspaper."
+    },
+    {
+      "de": "Ich fahre mit dem Bus zur Arbeit.",
+      "en": "I go to work by bus."
+    },
+    {
+      "de": "Ich fahre mit der Bahn zur Schule.",
+      "en": "I go to school by train."
+    },
+    {
+      "de": "Der Unterricht fängt um 8:30 Uhr an.",
+      "en": "Class begins at 8:30."
+    },
+    {
+      "de": "Um 13 Uhr ist Mittagspause. Dann esse ich zu Mittag.",
+      "en": "At 1 pm it is lunch break. Then I have lunch."
+    },
+    {
+      "de": "Um 20 Uhr esse ich zu Abend.",
+      "en": "At 8 pm I have dinner."
+    },
+    {
+      "de": "Um 22:30 Uhr gehe ich ins Bett und schlafe ein.",
+      "en": "At 10:30 pm I go to bed and fall asleep."
+    }
+  ],
+  "patterns": [
+    {
+      "form": "Um + [Uhrzeit] + [Verb] + ich + ...",
+      "ex": "Um 6 Uhr stehe ich auf.",
+      "en": "At 6 I get up."
+    },
+    {
+      "form": "Dann / Danach + [Verb] + ich + ...",
+      "ex": "Danach trinke ich einen Kaffee.",
+      "en": "After that I drink a coffee."
+    },
+    {
+      "form": "Ich fahre mit dem / der + [Verkehrsmittel] + zur / zum + [Ziel].",
+      "ex": "Ich fahre mit dem Bus zur Arbeit.",
+      "en": "I go to work by bus."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Telling your day",
+      "body": "Start with the **time** (*Um 6 Uhr ...*) and put the **verb** in position 2: *Um 6 Uhr stehe ich auf.* Join the steps with **und**, **dann** (then) and **danach** (afterwards). After *dann* or *danach* the verb is again directly in second place: *Dann gehe ich joggen.*\n\nMany daily activities use **separable verbs** (lesson 37): *aufstehen, anfangen, vorbereiten, zubereiten, zurückfahren, einschlafen, fernsehen*. The conjugated verb is second, the prefix goes to the end.",
+      "examples": [
+        {
+          "de": "Ich stehe um 6:30 Uhr auf.",
+          "en": "I get up at 6:30."
+        },
+        {
+          "de": "Ich bereite das Frühstück vor.",
+          "en": "I prepare breakfast."
+        },
+        {
+          "de": "Um 16 Uhr fahre ich nach Hause zurück.",
+          "en": "At 4 pm I drive back home."
+        },
+        {
+          "de": "Um 19 Uhr bereite ich das Abendessen zu.",
+          "en": "At 7 pm I prepare dinner."
+        }
+      ]
+    },
+    {
+      "title": "Reflexive: mich and mir",
+      "body": "Some verbs use **mich** ('myself'): *ich wasche mich, ich ziehe mich an, ich ziehe mich aus*. For parts of the body you say **mir** (dative): *Ich putze **mir** die Zähne.* Just learn these phrases as they are.",
+      "ar": "mich = نفسي (مع الغسل واللبس) ، mir مع أجزاء الجسم: ich putze mir die Zähne.",
+      "examples": [
+        {
+          "de": "Ich wasche mich und ziehe mich an.",
+          "en": "I wash and get dressed."
+        },
+        {
+          "de": "Ich putze mir die Zähne.",
+          "en": "I brush my teeth."
+        }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Midday and evening",
+      "body": "Say **zu Mittag essen** and **zu Abend essen** (to have lunch / dinner). Do not repeat the word: you can say *Zu Mittag esse ich ...* or *Ich esse zu Mittag*, but not *Zum Mittag esse ich zum Mittag*.\n\nParts of the day take **am**: *am Nachmittag habe ich einen Termin*, *am Abend gehe ich einkaufen*.",
+      "examples": [
+        {
+          "de": "Um 12 Uhr esse ich zu Mittag.",
+          "en": "At 12 I have lunch."
+        },
+        {
+          "de": "Am Nachmittag habe ich einen Termin.",
+          "en": "In the afternoon I have an appointment."
+        },
+        {
+          "de": "Am Abend gehe ich einkaufen.",
+          "en": "In the evening I go shopping."
+        }
+      ]
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Um 6 Uhr ich stehe auf.",
+      "right": "Um 6 Uhr stehe ich auf.",
+      "why": "The verb stays in position 2, so it comes before *ich*."
+    },
+    {
+      "wrong": "Zum Mittag esse ich zum Mittag.",
+      "right": "Zu Mittag esse ich. / Ich esse zu Mittag.",
+      "why": "Do not say 'Mittag' twice."
+    },
+    {
+      "wrong": "Ich fahre mit dem Bahn zur Schule.",
+      "right": "Ich fahre mit der Bahn zur Schule.",
+      "why": "*Bahn* is feminine: *mit der Bahn*."
+    }
+  ],
+  "pronunciation": [
+    {
+      "de": "frühstücken",
+      "tip": "Two *ü* sounds: round lips and say 'ee'. 'FRUE-shtue-ken'."
+    },
+    {
+      "de": "sp / st",
+      "tip": "At the start of a word *sp* and *st* sound like 'shp' and 'sht': *spazieren*, *stehen*."
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "My day",
+      "lines": [
+        {
+          "who": "A",
+          "de": "Wann stehst du auf?",
+          "en": "When do you get up?"
+        },
+        {
+          "who": "B",
+          "de": "Ich stehe um 6:30 Uhr auf. Dann dusche ich und ziehe mich an.",
+          "en": "I get up at 6:30. Then I shower and get dressed."
+        },
+        {
+          "who": "A",
+          "de": "Wie fährst du zur Arbeit?",
+          "en": "How do you go to work?"
+        },
+        {
+          "who": "B",
+          "de": "Ich fahre mit dem Bus. Die Arbeit fängt um 8:30 Uhr an.",
+          "en": "I take the bus. Work begins at 8:30."
+        },
+        {
+          "who": "A",
+          "de": "Und am Abend?",
+          "en": "And in the evening?"
+        },
+        {
+          "who": "B",
+          "de": "Um 19 Uhr treffe ich Freunde. Um 22:30 Uhr gehe ich ins Bett.",
+          "en": "At 7 pm I meet friends. At 10:30 pm I go to bed."
+        }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Write your own Tagesablauf: 8-10 sentences, each starting with a time (Um ... Uhr ...), and read it aloud every day.",
+  "comprehension": [
+    {
+      "q": "How do you say 'I get up at 6:30'?",
+      "a": "Ich stehe um 6:30 Uhr auf."
+    },
+    {
+      "q": "Which two words join the steps of your day?",
+      "a": "dann and danach (and und)."
+    },
+    {
+      "q": "How do you say that you go to work by bus?",
+      "a": "Ich fahre mit dem Bus zur Arbeit."
+    },
+    {
+      "q": "What is wrong with 'Zum Mittag esse ich zum Mittag'?",
+      "a": "Mittag is said twice; say Zu Mittag esse ich or Ich esse zu Mittag."
+    },
+    {
+      "q": "Which verb in this lesson means 'to prepare food'?",
+      "a": "zubereiten (Ich bereite das Abendessen zu)."
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentence.",
+      "items": [
+        {
+          "q": "Ich ___ mir die Zähne.",
+          "a": "putze",
+          "expl": "putzen: ich putze."
+        },
+        {
+          "q": "Um 7 Uhr ___ ich und ziehe mich an.",
+          "a": "dusche"
+        },
+        {
+          "q": "Ich fahre ___ dem Bus zur Arbeit.",
+          "a": "mit",
+          "expl": "mit + Dativ."
+        },
+        {
+          "q": "Ich fahre mit ___ Bahn zur Schule. (dem / der)",
+          "a": "der",
+          "expl": "Bahn is feminine."
+        },
+        {
+          "q": "Um 12 Uhr esse ich ___ Mittag.",
+          "a": "zu",
+          "expl": "zu Mittag essen."
+        },
+        {
+          "q": "Ich gehe um 22:30 Uhr ins ___.",
+          "a": "Bett"
+        },
+        {
+          "q": "Der Unterricht fängt um 8:30 Uhr ___.",
+          "a": "an",
+          "expl": "anfangen."
+        }
+      ]
+    },
+    {
+      "title": "Build the sentence",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        {
+          "q": "Ich / um 6:30 Uhr / auf / stehe",
+          "a": "Ich stehe um 6:30 Uhr auf. / Um 6:30 Uhr stehe ich auf."
+        },
+        {
+          "q": "Um 7 Uhr / ich / mich / an / ziehe",
+          "a": "Um 7 Uhr ziehe ich mich an."
+        },
+        {
+          "q": "Ich / das Frühstück / vor / bereite",
+          "a": "Ich bereite das Frühstück vor."
+        },
+        {
+          "q": "Um 8 Uhr / mit dem Bus / ich / fahre / zur Arbeit",
+          "a": "Um 8 Uhr fahre ich mit dem Bus zur Arbeit."
+        },
+        {
+          "q": "Um 19 Uhr / ich / Freunde / treffe",
+          "a": "Um 19 Uhr treffe ich Freunde."
+        },
+        {
+          "q": "Ich / ins Bett / um 23 Uhr / gehe",
+          "a": "Ich gehe um 23 Uhr ins Bett. / Ich gehe ins Bett um 23 Uhr."
+        }
+      ]
+    },
+    {
+      "title": "Match the activities",
+      "type": "match",
+      "instructions": "Match the German phrase with its meaning.",
+      "items": [
+        {
+          "q": "die Zähne putzen",
+          "a": "to brush the teeth"
+        },
+        {
+          "q": "joggen gehen",
+          "a": "to go jogging"
+        },
+        {
+          "q": "frühstücken",
+          "a": "to have breakfast"
+        },
+        {
+          "q": "zu Mittag essen",
+          "a": "to have lunch"
+        },
+        {
+          "q": "Hausaufgaben machen",
+          "a": "to do homework"
+        },
+        {
+          "q": "fernsehen",
+          "a": "to watch TV"
+        },
+        {
+          "q": "einschlafen",
+          "a": "to fall asleep"
+        }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        {
+          "q": "At 6 o'clock I get up.",
+          "a": "Um 6 Uhr stehe ich auf. / Ich stehe um 6 Uhr auf."
+        },
+        {
+          "q": "Then I shower.",
+          "a": "Dann dusche ich. / Ich dusche dann."
+        },
+        {
+          "q": "I go to school by train.",
+          "a": "Ich fahre mit der Bahn zur Schule."
+        },
+        {
+          "q": "At 8 pm I have dinner.",
+          "a": "Um 20 Uhr esse ich zu Abend. / Ich esse um 20 Uhr zu Abend."
+        },
+        {
+          "q": "In the evening I read a book.",
+          "a": "Am Abend lese ich ein Buch. / Ich lese am Abend ein Buch."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Start with the time: Um 6 Uhr stehe ich auf – the verb stays in position 2.",
+    "Join steps with und, dann and danach.",
+    "Many routine verbs are separable: aufstehen, anfangen, vorbereiten, zubereiten, zurückfahren.",
+    "mit dem Bus, mit der Bahn, zur Arbeit, zur Schule.",
+    "zu Mittag essen / zu Abend essen: never repeat Mittag."
+  ]
+}

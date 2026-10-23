@@ -1,0 +1,183 @@
+{
+  "n": 3,
+  "title": "Numbers 0–20",
+  "titleDe": "Zahlen 0–20",
+  "level": "A1",
+  "sourceNote": "The auto-captions garble every number word; they were reconstructed from standard German. The sample phone number in the video was unclear, so the examples here are invented and marked as supplementary.",
+  "objectives": [
+    "I can count from 0 to 20 in German",
+    "I can pronounce the special sounds in the numbers (s, z, ei, ü, ig)",
+    "I can build the numbers 13 to 19",
+    "I can ask for and give a mobile phone number"
+  ],
+  "vocab": [
+    { "de": "null", "en": "0", "ar": "صفر" },
+    { "de": "eins", "en": "1", "ar": "واحد" },
+    { "de": "zwei", "en": "2", "ar": "اثنان" },
+    { "de": "drei", "en": "3", "ar": "ثلاثة" },
+    { "de": "vier", "en": "4", "ar": "أربعة" },
+    { "de": "fünf", "en": "5", "ar": "خمسة" },
+    { "de": "sechs", "en": "6", "ar": "ستة" },
+    { "de": "sieben", "en": "7", "ar": "سبعة" },
+    { "de": "acht", "en": "8", "ar": "ثمانية" },
+    { "de": "neun", "en": "9", "ar": "تسعة" },
+    { "de": "zehn", "en": "10", "ar": "عشرة" },
+    { "de": "elf", "en": "11", "ar": "أحد عشر" },
+    { "de": "zwölf", "en": "12", "ar": "اثنا عشر" },
+    { "de": "dreizehn", "en": "13", "ar": "ثلاثة عشر" },
+    { "de": "vierzehn", "en": "14", "ar": "أربعة عشر" },
+    { "de": "fünfzehn", "en": "15", "ar": "خمسة عشر" },
+    { "de": "sechzehn", "en": "16", "ar": "ستة عشر", "note": "sechs loses the -s" },
+    { "de": "siebzehn", "en": "17", "ar": "سبعة عشر", "note": "sieben loses the -en" },
+    { "de": "achtzehn", "en": "18", "ar": "ثمانية عشر" },
+    { "de": "neunzehn", "en": "19", "ar": "تسعة عشر" },
+    { "de": "zwanzig", "en": "20", "ar": "عشرون", "note": "-ig is pronounced -ich" },
+    { "de": "die Zahl", "pl": "die Zahlen", "en": "number", "ar": "عدد" },
+    { "de": "die Handynummer", "pl": "die Handynummern", "en": "mobile number", "ar": "رقم الجوال" }
+  ],
+  "expressions": [
+    { "de": "Wie ist Ihre Handynummer?", "en": "What is your mobile number? (formal)", "ar": "" },
+    { "de": "Wie ist deine Handynummer?", "en": "What is your mobile number? (informal)", "ar": "" },
+    { "de": "Meine Handynummer ist ...", "en": "My mobile number is ...", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Meine Handynummer ist + [Ziffern].", "ex": "Meine Handynummer ist null eins sieben acht.", "en": "My mobile number is 0 1 7 8 ...", "sup": true }
+  ],
+  "grammar": [
+    {
+      "title": "Numbers 13 to 19",
+      "body": "Numbers 13 to 19 follow a simple rule: **number + zehn**. Two numbers change a little:\n\n**sechs + zehn = sechzehn** (the -s of *sechs* disappears) and **sieben + zehn = siebzehn** (the -en of *sieben* disappears).",
+      "table": {
+        "head": ["Number", "Formula", "Word"],
+        "rows": [
+          ["13", "drei + zehn", "dreizehn"],
+          ["14", "vier + zehn", "vierzehn"],
+          ["15", "fünf + zehn", "fünfzehn"],
+          ["16", "sechs + zehn", "sechzehn"],
+          ["17", "sieben + zehn", "siebzehn"],
+          ["18", "acht + zehn", "achtzehn"],
+          ["19", "neun + zehn", "neunzehn"]
+        ]
+      },
+      "ar": "الأعداد 13–19: العدد + zehn، مع استثناءين: sechzehn و siebzehn."
+    },
+    {
+      "title": "Sounds in the numbers",
+      "body": "Several letters sound different from English:\n\n**s** before a vowel sounds like English z (*sieben*), but at the end of a word or after the last vowel it sounds like English s (*eins*, *sechs*).\n\n**z** sounds like ts (*zwei*, *zehn*, *zwölf*). **ei** sounds like the English word 'eye' (*zwei*, *drei*). **ie** sounds like 'ee' (*vier*, *sieben*). **eu** sounds like 'oy' (*neun*).\n\n**-ig** at the end sounds like **-ich** (*zwanzig*).",
+      "examples": [
+        { "de": "zwei, drei, vier", "en": "two, three, four" },
+        { "de": "sieben, neun", "en": "seven, nine" }
+      ]
+    },
+    {
+      "title": "Zahl and Zahlen",
+      "body": "**die Zahl** is the singular (one number) and **die Zahlen** is the plural (numbers). The lesson title **Zahlen 0–20** therefore means 'numbers 0 to 20'.",
+      "examples": [
+        { "de": "Zahlen 0–20", "en": "Numbers 0–20" }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "siebenzehn", "right": "siebzehn", "why": "The -en of *sieben* is dropped." },
+    { "wrong": "sechszehn", "right": "sechzehn", "why": "The -s of *sechs* is dropped." },
+    { "wrong": "zwanzich", "right": "zwanzig", "why": "It is pronounced -ich but always written -ig." }
+  ],
+  "pronunciation": [
+    { "de": "ü", "tip": "Round your lips as for 'oo' and say 'ee'. *fünf*, *zwölf*." },
+    { "de": "ö", "tip": "Round your lips as for 'o' and say 'e'. *zwölf*. There is no English equivalent." },
+    { "de": "z", "tip": "Like ts in 'cats'. *zwei*, *zehn*, *zwanzig*." },
+    { "de": "-ig", "tip": "At the end of a word it sounds like -ich. *zwanzig*. Some regions say -ik." }
+  ],
+  "dialogues": [
+    {
+      "title": "Asking for a number",
+      "lines": [
+        { "who": "A", "de": "Wie ist Ihre Handynummer?", "en": "What is your mobile number?" },
+        { "who": "B", "de": "Meine Handynummer ist null eins sieben acht.", "en": "My mobile number is 0 1 7 8." },
+        { "who": "A", "de": "Danke!", "en": "Thanks!" },
+        { "who": "B", "de": "Bitte!", "en": "You're welcome!" }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Say your own mobile number aloud in German, digit by digit. Remember the two exceptions: sechzehn and siebzehn.",
+  "comprehension": [
+    { "q": "How do you say 12 in German?", "a": "zwölf" },
+    { "q": "What rule forms the numbers 13 to 19?", "a": "number + zehn (for example drei + zehn = dreizehn)." },
+    { "q": "Which two numbers lose letters when they are combined with zehn?", "a": "sechs (sechzehn) and sieben (siebzehn)." },
+    { "q": "How is -ig pronounced at the end of zwanzig?", "a": "Like -ich." },
+    { "q": "How do you ask for someone's mobile number informally?", "a": "Wie ist deine Handynummer?" }
+  ],
+  "exercises": [
+    {
+      "title": "Digits to words",
+      "type": "fill",
+      "instructions": "Write the number in German.",
+      "items": [
+        { "q": "3", "a": "drei" },
+        { "q": "7", "a": "sieben" },
+        { "q": "12", "a": "zwölf" },
+        { "q": "16", "a": "sechzehn", "expl": "sechs + zehn, without the -s." },
+        { "q": "17", "a": "siebzehn", "expl": "sieben + zehn, without the -en." },
+        { "q": "20", "a": "zwanzig" }
+      ]
+    },
+    {
+      "title": "Words to digits",
+      "type": "answer",
+      "instructions": "Write the number as a digit.",
+      "items": [
+        { "q": "vier", "a": "4" },
+        { "q": "neun", "a": "9" },
+        { "q": "elf", "a": "11" },
+        { "q": "fünfzehn", "a": "15" },
+        { "q": "achtzehn", "a": "18" },
+        { "q": "dreizehn", "a": "13" }
+      ]
+    },
+    {
+      "title": "Match the numbers",
+      "type": "match",
+      "instructions": "Match each German number with its digit.",
+      "items": [
+        { "q": "null", "a": "0" },
+        { "q": "zwei", "a": "2" },
+        { "q": "sechs", "a": "6" },
+        { "q": "acht", "a": "8" },
+        { "q": "zehn", "a": "10" },
+        { "q": "vierzehn", "a": "14" },
+        { "q": "neunzehn", "a": "19" }
+      ]
+    },
+    {
+      "title": "Choose the correct spelling",
+      "type": "choose",
+      "instructions": "Choose the correct German spelling.",
+      "items": [
+        { "q": "16 (sechzehn / sechszehn)", "a": "sechzehn" },
+        { "q": "17 (siebenzehn / siebzehn)", "a": "siebzehn" },
+        { "q": "13 (dreizehn / dreisehn)", "a": "dreizehn" },
+        { "q": "5 (fünf / funf)", "a": "fünf", "expl": "Do not forget the umlaut." },
+        { "q": "12 (zwölf / zwolf)", "a": "zwölf", "expl": "Do not forget the umlaut." }
+      ]
+    },
+    {
+      "title": "Complete the sequence",
+      "type": "fill",
+      "instructions": "Write the missing number word.",
+      "items": [
+        { "q": "eins, zwei, ___, vier", "a": "drei" },
+        { "q": "acht, neun, ___, elf", "a": "zehn" },
+        { "q": "elf, ___, dreizehn", "a": "zwölf" },
+        { "q": "vierzehn, ___, sechzehn", "a": "fünfzehn" },
+        { "q": "achtzehn, ___, zwanzig", "a": "neunzehn" }
+      ]
+    }
+  ],
+  "summary": [
+    "The numbers 0–20: null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf, dreizehn ... zwanzig.",
+    "Numbers 13–19 are number + zehn; exceptions are sechzehn and siebzehn.",
+    "Sounds: z = ts, ei = 'eye', ie = 'ee', eu = 'oy', -ig = -ich, and the umlauts in fünf and zwölf.",
+    "Ask for a number with Wie ist deine / Ihre Handynummer? and answer Meine Handynummer ist ..."
+  ]
+}

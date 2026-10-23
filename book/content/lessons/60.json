@@ -1,0 +1,193 @@
+{
+  "n": 60,
+  "title": "Hotel Reservation Letter",
+  "titleDe": "Brief schreiben: Hotelreservierung",
+  "level": "A1",
+  "sourceNote": "The auto-captions are garbled in places; the structure of the letter and the sample letters were reconstructed from context and standard German.",
+  "objectives": [
+    "I can name types of accommodation and rooms",
+    "I can build a formal letter with greeting, text and closing",
+    "I can say when I arrive, how long I stay and what rooms I need",
+    "I can ask about prices, extra beds and extra services"
+  ],
+  "vocab": [
+    { "de": "das Hotel", "pl": "die Hotels", "en": "hotel", "ar": "فندق" },
+    { "de": "die Pension", "pl": "die Pensionen", "en": "guesthouse, B&B", "ar": "نُزُل" },
+    { "de": "die Jugendherberge", "pl": "die Jugendherbergen", "en": "youth hostel", "ar": "بيت الشباب" },
+    { "de": "reservieren", "en": "to reserve", "ar": "يحجز" },
+    { "de": "buchen", "en": "to book", "ar": "يحجز" },
+    { "de": "das Zimmer", "pl": "die Zimmer", "en": "room", "ar": "غرفة" },
+    { "de": "das Einzelzimmer", "pl": "die Einzelzimmer", "en": "single room", "ar": "غرفة فردية", "note": "short: EZ" },
+    { "de": "das Doppelzimmer", "pl": "die Doppelzimmer", "en": "double room", "ar": "غرفة مزدوجة", "note": "short: DZ" },
+    { "de": "das Frühstück", "pl": "–", "en": "breakfast", "ar": "فطور" },
+    { "de": "die Halbpension", "pl": "–", "en": "half board (breakfast + dinner)", "ar": "إقامة مع وجبتين" },
+    { "de": "die Vollpension", "pl": "–", "en": "full board (all meals)", "ar": "إقامة مع كل الوجبات" },
+    { "de": "die Übernachtung", "pl": "die Übernachtungen", "en": "overnight stay", "ar": "مبيت" },
+    { "de": "übernachten", "en": "to stay overnight", "ar": "يبيت" },
+    { "de": "die Nacht", "pl": "die Nächte", "en": "night", "ar": "ليلة" },
+    { "de": "der Preis", "pl": "die Preise", "en": "price", "ar": "سعر" },
+    { "de": "das Extrabett", "pl": "die Extrabetten", "en": "extra bed", "ar": "سرير إضافي" },
+    { "de": "der Flughafen", "pl": "die Flughäfen", "en": "airport", "ar": "مطار" },
+    { "de": "der Bahnhof", "pl": "die Bahnhöfe", "en": "railway station", "ar": "محطة قطار" },
+    { "de": "abholen", "en": "to pick up", "ar": "يستقبل (من المطار)", "note": "separable: ich hole ab" },
+    { "de": "das Haustier", "pl": "die Haustiere", "en": "pet", "ar": "حيوان أليف" },
+    { "de": "die Sehenswürdigkeit", "pl": "die Sehenswürdigkeiten", "en": "sight, attraction", "ar": "معلم سياحي" },
+    { "de": "der Stadtplan", "pl": "die Stadtpläne", "en": "city map", "ar": "خريطة المدينة" },
+    { "de": "das Kulturprogramm", "pl": "die Kulturprogramme", "en": "cultural programme", "ar": "برنامج ثقافي" },
+    { "de": "die Touristeninformation", "pl": "die Touristeninformationen", "en": "tourist information", "ar": "مكتب السياحة" },
+    { "de": "empfehlen", "en": "to recommend", "ar": "يوصي بـ" },
+    { "de": "der Meerblick", "pl": "–", "en": "sea view", "ar": "إطلالة على البحر" }
+  ],
+  "expressions": [
+    { "de": "Sehr geehrte Damen und Herren,", "en": "Dear Sir or Madam, (formal greeting)" },
+    { "de": "Hallo Frau Müller,", "en": "Hello Mrs Müller, (less formal)", "sup": true },
+    { "de": "Mit freundlichen Grüßen", "en": "Yours sincerely (formal closing)" },
+    { "de": "Viele Grüße", "en": "Best wishes (less formal closing)" },
+    { "de": "Ich möchte ein Doppelzimmer reservieren.", "en": "I would like to reserve a double room." },
+    { "de": "Ich hätte gern ein Einzelzimmer mit Vollpension.", "en": "I would like a single room with full board." },
+    { "de": "Was kostet ein Doppelzimmer mit Vollpension?", "en": "How much is a double room with full board?" },
+    { "de": "Haben Sie günstige Zimmer?", "en": "Do you have cheap rooms?" },
+    { "de": "Wie viel kostet es pro Nacht?", "en": "How much does it cost per night?" },
+    { "de": "Was kostet ein Extrabett?", "en": "How much is an extra bed?" },
+    { "de": "Können Sie uns vom Flughafen abholen?", "en": "Can you pick us up from the airport?" },
+    { "de": "Sind Haustiere erlaubt?", "en": "Are pets allowed?" },
+    { "de": "Schicken Sie mir bitte Informationen über die Sehenswürdigkeiten.", "en": "Please send me information about the sights." },
+    { "de": "Haben Sie ein Zimmer mit Meerblick?", "en": "Do you have a room with a sea view?" },
+    { "de": "Ich bitte um Antwort.", "en": "I ask for a reply." }
+  ],
+  "patterns": [
+    { "form": "Wir kommen am + [Datum] + um + [Uhrzeit] + an.", "ex": "Wir kommen am 17.7. um 18 Uhr an.", "en": "We arrive on 17 July at 6 pm." },
+    { "form": "Ich bleibe vom + [Datum] + bis zum + [Datum].", "ex": "Ich bleibe vom siebten bis zum neunten August.", "en": "I am staying from 7 to 9 August." },
+    { "form": "Wir brauchen + [Zahl] + [Zimmer] + mit + [Verpflegung].", "ex": "Wir brauchen drei Doppelzimmer mit Frühstück.", "en": "We need three double rooms with breakfast." },
+    { "form": "Ich möchte / Ich hätte gern + [Zimmer].", "ex": "Ich hätte gern ein Einzelzimmer.", "en": "I would like a single room." }
+  ],
+  "grammar": [
+    {
+      "title": "Structure of a formal letter",
+      "body": "A formal letter has four parts: **1. Anrede** (greeting), **2. Textteil** (the body), **3. Grußformel** (closing) and **4. Unterschrift** (signature). In a formal letter write *Sehr geehrte Damen und Herren,* and close with *Mit freundlichen Grüßen*. A friendly, less formal letter can begin with *Hallo ...* and end with *Viele Grüße*. After the greeting, the first word of the text starts with a small letter (unless it is a noun or the formal *Sie* / *Ihr*).",
+      "table": {
+        "head": ["Part", "Example"],
+        "rows": [
+          ["Anrede", "Sehr geehrte Damen und Herren,"],
+          ["Textteil", "ich möchte ein Zimmer reservieren. ..."],
+          ["Grußformel", "Mit freundlichen Grüßen"],
+          ["Unterschrift", "Maria Schmitt"]
+        ]
+      }
+    },
+    {
+      "title": "What to write in the text",
+      "body": "In a hotel letter say: **when** you arrive (*Wir kommen am 17.7. um 18 Uhr an.*), **how long** you stay (*Wir bleiben zwei Tage / eine Woche. Wir brauchen eine Übernachtung für drei Nächte.*), **which rooms** you need (*ein Einzelzimmer mit Halbpension*), and any **questions or wishes** (price, extra bed, airport pick-up, pets, information about the city).",
+      "examples": [
+        { "de": "Ich komme am 31. Mai um 15 Uhr 30 mit dem Zug an.", "en": "I arrive on 31 May at 3.30 pm by train." },
+        { "de": "Wir fliegen im August nach Paris.", "en": "We are flying to Paris in August." },
+        { "de": "Wir übernachten für eine Woche.", "en": "We are staying for a week." }
+      ]
+    },
+    {
+      "title": "Room types and meals",
+      "body": "**EZ** = Einzelzimmer, **DZ** = Doppelzimmer. A room can come **mit Frühstück** (breakfast only), **mit Halbpension** (breakfast and dinner) or **mit Vollpension** (all meals). Note: *die Übernachtung* is the noun, *übernachten* the verb.",
+      "examples": [
+        { "de": "Ich brauche ein Einzelzimmer mit Halbpension.", "en": "I need a single room with half board." },
+        { "de": "Wir brauchen drei Doppelzimmer mit Frühstück.", "en": "We need three double rooms with breakfast." }
+      ]
+    },
+    {
+      "title": "Sample letter",
+      "body": "**Sehr geehrte Damen und Herren,**\n\nich fahre am vierten Juli nach Stuttgart und möchte in Ihrem Hotel übernachten. Ich hätte gern ein Doppelzimmer mit Frühstück. Wie viel kostet es pro Nacht? Ich möchte drei Nächte bleiben. Können Sie mir auch Informationen über die Sehenswürdigkeiten schicken?\n\nVielen Dank und viele Grüße\n\n**Maria Schmitt**"
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Sehr geehrte Damen und Herren, Ich möchte ein Zimmer reservieren.", "right": "Sehr geehrte Damen und Herren,\n\nich möchte ein Zimmer reservieren.", "why": "After the comma of the greeting the next line starts with a small letter.", "sup": true },
+    { "wrong": "Ich bleibe für drei Nacht.", "right": "Ich bleibe drei Nächte.", "why": "Plural of *die Nacht* is *die Nächte*.", "sup": true }
+  ],
+  "pronunciation": [
+    { "de": "ü", "tip": "Round lips as for 'oo' and say 'ee'. *Frühstück, Grüße, Übernachtung*." },
+    { "de": "ch", "tip": "After a, o, u, au a rough sound at the back of the throat: *Nacht, Woche*. After e, i, ä, ö a soft hiss: *Nächte, ich, möchte*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Letter 1: A family trip to Zurich",
+      "lines": [
+        { "who": "A", "de": "Sehr geehrte Damen und Herren,", "en": "Dear Sir or Madam," },
+        { "who": "A", "de": "ich komme am 20. August mit meiner Familie in Zürich an. Was kosten zwei Doppelzimmer mit Frühstück? Wir möchten eine Woche bleiben. Sind Hunde erlaubt?", "en": "I arrive in Zurich with my family on 20 August. How much are two double rooms with breakfast? We would like to stay a week. Are dogs allowed?" },
+        { "who": "A", "de": "Ich bitte um Antwort. Danke und viele Grüße", "en": "I ask for a reply. Thanks and best wishes" },
+        { "who": "A", "de": "Patrick Mayer", "en": "Patrick Mayer" }
+      ]
+    },
+    {
+      "title": "Letter 2: To the tourist information",
+      "lines": [
+        { "who": "A", "de": "Sehr geehrte Damen und Herren,", "en": "Dear Sir or Madam," },
+        { "who": "A", "de": "ich möchte im August mit meinem Mann nach Wien reisen. Wir möchten ein Doppelzimmer reservieren. Können Sie uns gute Hotels empfehlen? Schicken Sie uns auch bitte einen Stadtplan und ein Kulturprogramm.", "en": "I would like to travel to Vienna with my husband in August. We would like to reserve a double room. Can you recommend good hotels? Please also send us a city map and a cultural programme." },
+        { "who": "A", "de": "Vielen Dank! Mit freundlichen Grüßen", "en": "Thank you very much! Yours sincerely" },
+        { "who": "A", "de": "Emma Brown", "en": "Emma Brown" }
+      ]
+    }
+  ],
+  "tip": "In the Goethe exam *Start Deutsch 1* you must write a short letter. Always include a greeting, 3 to 4 sentences with the requested information, a closing and your name.",
+  "comprehension": [
+    { "q": "What are the four parts of a formal letter?", "a": "Anrede, Textteil, Grußformel and Unterschrift." },
+    { "q": "What does Vollpension include?", "a": "All meals (breakfast, lunch and dinner)." },
+    { "q": "How do you write a formal greeting and a formal closing?", "a": "Sehr geehrte Damen und Herren, ... Mit freundlichen Grüßen." },
+    { "q": "What does DZ stand for?", "a": "Doppelzimmer." },
+    { "q": "Name two extra questions you can ask a hotel.", "a": "For example: Sind Haustiere erlaubt? Können Sie uns vom Flughafen abholen? Was kostet ein Extrabett?" }
+  ],
+  "exercises": [
+    {
+      "title": "Parts of a letter",
+      "type": "match",
+      "instructions": "Match each sentence with its function in a letter.",
+      "items": [
+        { "q": "Sehr geehrte Damen und Herren,", "a": "Anrede (greeting)" },
+        { "q": "Wir brauchen zwei Doppelzimmer.", "a": "Textteil (body)" },
+        { "q": "Mit freundlichen Grüßen", "a": "Grußformel (closing)" },
+        { "q": "Maria Schmitt", "a": "Unterschrift (signature)" }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentence.",
+      "items": [
+        { "q": "Wir bleiben eine Woche. Wir brauchen eine ___ für sieben Nächte. (overnight stay)", "a": "Übernachtung" },
+        { "q": "Ein Zimmer für eine Person ist ein ___.", "a": "Einzelzimmer" },
+        { "q": "Der Plural von *die Nacht* ist die ___.", "a": "Nächte" },
+        { "q": "Ein Zimmer mit Frühstück und Abendessen hat ___. (half board)", "a": "Halbpension" },
+        { "q": "Ich ___ am 31. Mai um 15 Uhr mit dem Zug an. (ankommen)", "a": "komme", "expl": "*ankommen* is separable: Ich komme ... an." },
+        { "q": "Sehr ___ Damen und Herren,", "a": "geehrte" }
+      ]
+    },
+    {
+      "title": "Choose the correct word",
+      "type": "choose",
+      "instructions": "Choose the correct option.",
+      "items": [
+        { "q": "Ein formaler Brief beginnt mit: ___ (Sehr geehrte Damen und Herren, / Tschüss!)", "a": "Sehr geehrte Damen und Herren," },
+        { "q": "Am Ende schreibt man: ___ (Mit freundlichen Grüßen / Guten Morgen)", "a": "Mit freundlichen Grüßen" },
+        { "q": "Ich möchte ein Zimmer ___. (reservieren / reservieren Sie)", "a": "reservieren", "expl": "The infinitive stands at the end after *möchte*." },
+        { "q": "Wir kommen ___ 17. Juli um 18 Uhr an. (am / im)", "a": "am", "expl": "*am* + date." },
+        { "q": "Ich bleibe ___ 7. bis zum 9. August. (vom / am)", "a": "vom" }
+      ]
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Write the correct sentence.",
+      "items": [
+        { "q": "Doppelzimmer / reservieren / ein / möchte / Ich", "a": "Ich möchte ein Doppelzimmer reservieren." },
+        { "q": "kostet / Was / Extrabett / ein / ?", "a": "Was kostet ein Extrabett?" },
+        { "q": "Haustiere / erlaubt / Sind / ?", "a": "Sind Haustiere erlaubt?" },
+        { "q": "Sie / uns / abholen / vom Flughafen / Können / ?", "a": "Können Sie uns vom Flughafen abholen?" },
+        { "q": "Zimmer / Haben / ein / mit Meerblick / Sie / ?", "a": "Haben Sie ein Zimmer mit Meerblick?" }
+      ]
+    }
+  ],
+  "summary": [
+    "A formal letter: Anrede, Textteil, Grußformel, Unterschrift.",
+    "Formal: Sehr geehrte Damen und Herren, ... Mit freundlichen Grüßen. Less formal: Hallo ... / Viele Grüße.",
+    "Room words: Einzelzimmer (EZ), Doppelzimmer (DZ), Frühstück, Halbpension, Vollpension.",
+    "Give arrival date and time, length of stay, rooms and questions (price, pets, pick-up).",
+    "Useful phrases: Ich möchte ... reservieren. Ich hätte gern ... Was kostet ...?"
+  ]
+}

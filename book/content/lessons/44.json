@@ -1,0 +1,176 @@
+{
+  "n": 44,
+  "title": "Perfekt: Sentence Structure",
+  "titleDe": "Das Perfekt, Teil 1",
+  "level": "A1",
+  "sourceNote": "Transcript is mostly clean. The exercise sentences were shown on screen; only the teacher's spoken answers are in the transcript.",
+  "objectives": [
+    "I can explain what the Perfekt is and when it is used",
+    "I can build a Perfekt statement: Hilfsverb in position 2, Partizip II at the end",
+    "I can form W-questions and yes/no questions in the Perfekt",
+    "I can use separable verbs and modal verbs in past sentences"
+  ],
+  "vocab": [
+    { "de": "das Perfekt", "pl": "–", "en": "present perfect tense", "ar": "الماضي المركب (Perfekt)" },
+    { "de": "das Präteritum", "pl": "–", "en": "simple past tense", "ar": "الماضي البسيط" },
+    { "de": "das Hilfsverb", "pl": "die Hilfsverben", "en": "auxiliary verb", "ar": "فعل مساعد" },
+    { "de": "das Partizip II", "pl": "–", "en": "past participle", "ar": "اسم المفعول (Partizip II)" },
+    { "de": "essen", "en": "to eat", "note": "hat gegessen", "ar": "يأكل" },
+    { "de": "fahren", "en": "to drive, to go (by vehicle)", "note": "ist gefahren", "ar": "يسافر / يقود" },
+    { "de": "spielen", "en": "to play", "note": "hat gespielt", "ar": "يلعب" },
+    { "de": "studieren", "en": "to study (at university)", "note": "hat studiert", "ar": "يدرس (في الجامعة)" },
+    { "de": "machen", "en": "to do, to make", "note": "hat gemacht", "ar": "يفعل" },
+    { "de": "anrufen", "en": "to call, to phone", "note": "hat angerufen", "ar": "يتصل" },
+    { "de": "schlafen", "en": "to sleep", "note": "hat geschlafen", "ar": "ينام" },
+    { "de": "gehen", "en": "to go", "note": "ist gegangen", "ar": "يذهب" },
+    { "de": "der Salat", "pl": "die Salate", "en": "salad", "ar": "سلطة" },
+    { "de": "die Philosophie", "pl": "–", "en": "philosophy", "ar": "فلسفة" },
+    { "de": "die Hausaufgabe", "pl": "die Hausaufgaben", "en": "homework (single task)", "ar": "واجب منزلي" },
+    { "de": "das Kino", "pl": "die Kinos", "en": "cinema", "ar": "سينما" },
+    { "de": "gestern", "en": "yesterday", "ar": "أمس" },
+    { "de": "letzte Woche", "en": "last week", "ar": "الأسبوع الماضي" }
+  ],
+  "expressions": [
+    { "de": "Was hast du gestern gemacht?", "en": "What did you do yesterday?" },
+    { "de": "Hast du deine Hausaufgabe gemacht?", "en": "Did you do your homework?" },
+    { "de": "Am Freitag sind wir ins Kino gegangen.", "en": "On Friday we went to the cinema." }
+  ],
+  "patterns": [
+    { "form": "[Subject] + haben/sein (position 2) + ... + [Partizip II].", "ex": "Ich habe einen Salat gegessen.", "en": "I ate a salad." },
+    { "form": "[W-word] + haben/sein + [Subject] + ... + [Partizip II]?", "ex": "Was hast du gestern gemacht?", "en": "What did you do yesterday?" },
+    { "form": "haben/sein + [Subject] + ... + [Partizip II]?", "ex": "Hast du gestern etwas gegessen?", "en": "Did you eat something yesterday?" }
+  ],
+  "grammar": [
+    {
+      "title": "What is the Perfekt?",
+      "body": "German has three past forms: **Plusquamperfekt** (later level), **Präteritum** (A2; you already know it for *sein* and *haben*: *war*, *hatte*) and **Perfekt**. The **Perfekt** is the past tense used most in **spoken German** and in private or half-formal letters.\n\nThree things to learn: (1) the sentence structure, (2) when to use *haben* and when *sein* (next lesson), (3) how to form the **Partizip II** (later lesson).",
+      "ar": "الـ Perfekt هو الماضي الأكثر استخدامًا في الكلام اليومي."
+    },
+    {
+      "title": "Structure of the Perfekt",
+      "body": "In the present tense the verb is in position 2. In the Perfekt the **Hilfsverb** (**haben** or **sein**, conjugated) is in **position 2** and the main verb moves to the **end** as **Partizip II**.\n\nAlways learn the Partizip II together with its helping verb: *essen – hat gegessen*, *fahren – ist gefahren*.",
+      "table": {
+        "head": ["Present", "Perfekt"],
+        "rows": [
+          ["Ich esse einen Salat.", "Ich habe einen Salat gegessen."],
+          ["Wir fahren nach Paris.", "Wir sind letzte Woche nach Paris gefahren."],
+          ["Er spielt mit seinem Hund.", "Er hat mit seinem Hund gespielt."],
+          ["Sie studiert Philosophie.", "Sie hat Philosophie studiert."]
+        ]
+      },
+      "ar": "الفعل المساعد في المرتبة الثانية، واسم المفعول (Partizip II) في آخر الجملة."
+    },
+    {
+      "title": "Questions in the Perfekt",
+      "body": "**W-question:** question word first, Hilfsverb in position 2, Partizip II at the end. **Yes/no question:** Hilfsverb in position **1**, Partizip II at the end.",
+      "examples": [
+        { "de": "Was hast du gestern gemacht?", "en": "What did you do yesterday?" },
+        { "de": "Hast du gestern etwas gegessen?", "en": "Did you eat something yesterday?" },
+        { "de": "Hast du deine Hausaufgabe gemacht?", "en": "Did you do your homework?" }
+      ]
+    },
+    {
+      "title": "Separable verbs",
+      "body": "With a separable verb the Partizip II also goes to the end, but it is formed differently (more in lesson 46). Here: *anrufen – hat angerufen*.",
+      "examples": [
+        { "de": "Tanja ruft ihren Freund an.", "en": "Tanja calls her boyfriend. (present)" },
+        { "de": "Tanja hat ihren Freund angerufen.", "en": "Tanja called her boyfriend. (Perfekt)" }
+      ]
+    },
+    {
+      "title": "Modal verbs in the past",
+      "body": "With a modal verb, German normally uses the **Präteritum** of the modal (you learn it in A2) and an **infinitive** at the end, not the Perfekt. Just recognise it for now.",
+      "examples": [
+        { "de": "Ich bin krank. Ich muss zum Arzt gehen.", "en": "I am ill. I have to go to the doctor." },
+        { "de": "Ich war krank. Ich musste zum Arzt gehen.", "en": "I was ill. I had to go to the doctor." }
+      ]
+    },
+    {
+      "title": "Word order is flexible at the start",
+      "body": "A time expression can start the sentence, but the Hilfsverb stays in position 2: *Am Freitag **sind** wir ins Kino gegangen.* = *Wir **sind** am Freitag ins Kino gegangen.*"
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich habe gegessen einen Salat.", "right": "Ich habe einen Salat gegessen.", "why": "Partizip II goes to the very end." },
+    { "wrong": "Ich gegessen einen Salat habe.", "right": "Ich habe einen Salat gegessen.", "why": "The Hilfsverb must be in position 2." },
+    { "wrong": "Du hast gestern gemacht was?", "right": "Was hast du gestern gemacht?", "why": "W-word first, then Hilfsverb." }
+  ],
+  "dialogues": [
+    {
+      "title": "What did you do?",
+      "lines": [
+        { "who": "A", "de": "Was hast du gestern gemacht?", "en": "What did you do yesterday?" },
+        { "who": "B", "de": "Ich habe nur drei Stunden geschlafen und dann Hausaufgaben gemacht.", "en": "I only slept three hours and then did homework." },
+        { "who": "A", "de": "Hast du auch etwas gegessen?", "en": "Did you also eat something?" },
+        { "who": "B", "de": "Ja, ich habe einen Salat gegessen.", "en": "Yes, I ate a salad." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Memorise each verb as a chunk with its helper: hat gegessen, ist gefahren, hat gespielt, hat studiert, hat gemacht, hat angerufen.",
+  "comprehension": [
+    { "q": "Which helping verbs can the Perfekt use?", "a": "haben or sein." },
+    { "q": "Where is the Hilfsverb in a Perfekt statement?", "a": "In position 2." },
+    { "q": "Where is the Partizip II?", "a": "At the end of the sentence." },
+    { "q": "Where is the Hilfsverb in a yes/no question?", "a": "In position 1." }
+  ],
+  "exercises": [
+    {
+      "title": "Reorder the Perfekt sentences",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "du / Hast / deine Hausaufgabe / gemacht / ?", "a": "Hast du deine Hausaufgabe gemacht?", "expl": "Yes/no question: Hilfsverb first." },
+        { "q": "habe / Ich / nur drei Stunden / geschlafen", "a": "Ich habe nur drei Stunden geschlafen.", "expl": "Hilfsverb in position 2, Partizip II at the end." },
+        { "q": "sind / Am Freitag / wir / ins Kino / gegangen", "a": "Am Freitag sind wir ins Kino gegangen. / Wir sind am Freitag ins Kino gegangen.", "expl": "Hilfsverb in position 2." },
+        { "q": "hat / Er / mit seinem Hund / gespielt", "a": "Er hat mit seinem Hund gespielt.", "expl": "Partizip II at the end." },
+        { "q": "hast / Was / du / gestern / gemacht / ?", "a": "Was hast du gestern gemacht?", "expl": "W-question." }
+      ]
+    },
+    {
+      "title": "Present to Perfekt",
+      "type": "translate",
+      "instructions": "Change the sentence into the Perfekt (hat/ist + Partizip II).",
+      "items": [
+        { "q": "Ich esse einen Salat.", "a": "Ich habe einen Salat gegessen." },
+        { "q": "Wir fahren nach Paris.", "a": "Wir sind nach Paris gefahren." },
+        { "q": "Sie studiert Philosophie.", "a": "Sie hat Philosophie studiert." },
+        { "q": "Tanja ruft ihren Freund an.", "a": "Tanja hat ihren Freund angerufen.", "expl": "Separable: *anrufen – hat angerufen*." },
+        { "q": "Er spielt mit seinem Hund.", "a": "Er hat mit seinem Hund gespielt." }
+      ]
+    },
+    {
+      "title": "Match the verb with its Perfekt",
+      "type": "match",
+      "instructions": "Match each infinitive with its Perfekt form.",
+      "items": [
+        { "q": "essen", "a": "hat gegessen" },
+        { "q": "fahren", "a": "ist gefahren" },
+        { "q": "spielen", "a": "hat gespielt" },
+        { "q": "studieren", "a": "hat studiert" },
+        { "q": "machen", "a": "hat gemacht" },
+        { "q": "anrufen", "a": "hat angerufen" }
+      ]
+    },
+    {
+      "title": "Choose the Hilfsverb",
+      "type": "choose",
+      "instructions": "Choose the correct Hilfsverb. Use the verb list from this lesson.",
+      "items": [
+        { "q": "Ich ___ einen Salat gegessen. (habe / bin)", "a": "habe", "expl": "*essen – hat gegessen*." },
+        { "q": "Wir ___ nach Paris gefahren. (haben / sind)", "a": "sind", "expl": "*fahren – ist gefahren*." },
+        { "q": "Sie ___ Philosophie studiert. (hat / ist)", "a": "hat", "expl": "*studieren – hat studiert*." },
+        { "q": "___ du gestern etwas gegessen? (Hast / Bist)", "a": "Hast", "expl": "*essen* uses haben." },
+        { "q": "Wir ___ ins Kino gegangen. (haben / sind)", "a": "sind", "expl": "*gehen – ist gegangen*." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "The Perfekt is the main spoken past tense.",
+    "Structure: Hilfsverb (haben/sein) in position 2 + Partizip II at the end.",
+    "Yes/no questions start with the Hilfsverb; W-questions start with the W-word, then the Hilfsverb.",
+    "Learn each Partizip II with its helper: hat gegessen, ist gefahren.",
+    "With modal verbs, German uses the Präteritum (later lesson)."
+  ]
+}

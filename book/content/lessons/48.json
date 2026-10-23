@@ -1,0 +1,636 @@
+{
+  "n": 48,
+  "title": "In the Supermarket",
+  "titleDe": "Im Supermarkt",
+  "level": "A1",
+  "sourceNote": "Transcript is partly auto-captioned; the section names and some quantities were reconstructed. The ending is cut off.",
+  "objectives": [
+    "I can name things and people in a supermarket",
+    "I can say what I want to buy with containers and quantities",
+    "I can ask where to find a product (Wo finde ich ...?)",
+    "I can pay at the checkout politely"
+  ],
+  "vocab": [
+    {
+      "de": "der Supermarkt",
+      "pl": "die Supermärkte",
+      "en": "supermarket",
+      "ar": "سوبر ماركت"
+    },
+    {
+      "de": "die Einkaufsliste",
+      "pl": "die Einkaufslisten",
+      "en": "shopping list",
+      "ar": "قائمة التسوق"
+    },
+    {
+      "de": "der Einkaufswagen",
+      "pl": "die Einkaufswagen",
+      "en": "shopping trolley",
+      "ar": "عربة تسوق",
+      "note": "also: die Einkaufswägen"
+    },
+    {
+      "de": "der Einkaufskorb",
+      "pl": "die Einkaufskörbe",
+      "en": "shopping basket",
+      "ar": "سلة تسوق"
+    },
+    {
+      "de": "die Kasse",
+      "pl": "die Kassen",
+      "en": "checkout",
+      "ar": "الصندوق"
+    },
+    {
+      "de": "der Kunde",
+      "pl": "die Kunden",
+      "en": "customer (male)",
+      "ar": "زبون"
+    },
+    {
+      "de": "die Kundin",
+      "pl": "die Kundinnen",
+      "en": "customer (female)",
+      "ar": "زبونة"
+    },
+    {
+      "de": "der Kassierer",
+      "pl": "die Kassierer",
+      "en": "cashier (male)",
+      "ar": "أمين الصندوق"
+    },
+    {
+      "de": "die Kassiererin",
+      "pl": "die Kassiererinnen",
+      "en": "cashier (female)",
+      "ar": "أمينة الصندوق"
+    },
+    {
+      "de": "die Abteilung",
+      "pl": "die Abteilungen",
+      "en": "department, section",
+      "ar": "قسم"
+    },
+    {
+      "de": "der Kassenbon",
+      "pl": "die Kassenbons",
+      "en": "receipt",
+      "ar": "إيصال"
+    },
+    {
+      "de": "der Kassenzettel",
+      "pl": "die Kassenzettel",
+      "en": "receipt",
+      "ar": "إيصال"
+    },
+    {
+      "de": "die Dose",
+      "pl": "die Dosen",
+      "en": "can, tin",
+      "ar": "علبة معدنية"
+    },
+    {
+      "de": "das Stück",
+      "pl": "die Stücke",
+      "en": "piece",
+      "ar": "قطعة"
+    },
+    {
+      "de": "die Packung",
+      "pl": "die Packungen",
+      "en": "packet, pack",
+      "ar": "عبوة"
+    },
+    {
+      "de": "der Becher",
+      "pl": "die Becher",
+      "en": "tub, cup",
+      "ar": "كوب / علبة"
+    },
+    {
+      "de": "die Tafel",
+      "pl": "die Tafeln",
+      "en": "bar (of chocolate)",
+      "ar": "لوح"
+    },
+    {
+      "de": "die Flasche",
+      "pl": "die Flaschen",
+      "en": "bottle",
+      "ar": "زجاجة"
+    },
+    {
+      "de": "das Glas",
+      "pl": "die Gläser",
+      "en": "jar, glass",
+      "ar": "برطمان / كأس"
+    },
+    {
+      "de": "der Beutel",
+      "pl": "die Beutel",
+      "en": "bag",
+      "ar": "كيس"
+    },
+    {
+      "de": "das Kilo",
+      "pl": "die Kilos",
+      "en": "kilo",
+      "ar": "كيلو",
+      "note": "short for das Kilogramm"
+    },
+    {
+      "de": "der Liter",
+      "pl": "die Liter",
+      "en": "litre",
+      "ar": "لتر"
+    },
+    {
+      "de": "das Pfund",
+      "pl": "die Pfunde",
+      "en": "pound (500 g)",
+      "ar": "رطل",
+      "note": "not very common"
+    },
+    {
+      "de": "die Mengenangabe",
+      "pl": "die Mengenangaben",
+      "en": "quantity",
+      "ar": "كمية"
+    },
+    {
+      "de": "das Waschmittel",
+      "pl": "die Waschmittel",
+      "en": "detergent",
+      "ar": "منظف غسيل"
+    },
+    {
+      "de": "der Käse",
+      "pl": "–",
+      "en": "cheese",
+      "ar": "جبن"
+    },
+    {
+      "de": "der Joghurt",
+      "pl": "die Joghurts",
+      "en": "yoghurt",
+      "ar": "زبادي"
+    },
+    {
+      "de": "die Schokolade",
+      "pl": "die Schokoladen",
+      "en": "chocolate",
+      "ar": "شوكولاتة"
+    },
+    {
+      "de": "das Öl",
+      "pl": "die Öle",
+      "en": "oil",
+      "ar": "زيت"
+    },
+    {
+      "de": "der Honig",
+      "pl": "–",
+      "en": "honey",
+      "ar": "عسل"
+    },
+    {
+      "de": "der Reis",
+      "pl": "–",
+      "en": "rice",
+      "ar": "أرز"
+    },
+    {
+      "de": "die Tomate",
+      "pl": "die Tomaten",
+      "en": "tomato",
+      "ar": "طماطم"
+    },
+    {
+      "de": "die Milch",
+      "pl": "–",
+      "en": "milk",
+      "ar": "حليب"
+    }
+  ],
+  "expressions": [
+    {
+      "de": "Ich gehe zum Supermarkt.",
+      "en": "I am going to the supermarket."
+    },
+    {
+      "de": "Ich bin im Supermarkt.",
+      "en": "I am in the supermarket."
+    },
+    {
+      "de": "Ich komme vom Supermarkt.",
+      "en": "I am coming from the supermarket."
+    },
+    {
+      "de": "Entschuldigen Sie, wo finde ich hier Chips?",
+      "en": "Excuse me, where do I find chips here?"
+    },
+    {
+      "de": "Chips finden Sie beim Knabberzeug.",
+      "en": "You find chips in the snack section."
+    },
+    {
+      "de": "Das macht 25,10 Euro, bitte.",
+      "en": "That is 25.10 euros, please."
+    },
+    {
+      "de": "Danke, einen schönen Tag! – Danke, ebenso!",
+      "en": "Thanks, have a nice day! – Thanks, same to you!"
+    }
+  ],
+  "patterns": [
+    {
+      "form": "Ich kaufe + [container] + [product].",
+      "ex": "Ich kaufe eine Flasche Öl.",
+      "en": "I am buying a bottle of oil."
+    },
+    {
+      "form": "Ich möchte + [container] + [product] + kaufen.",
+      "ex": "Ich möchte ein Glas Honig kaufen.",
+      "en": "I would like to buy a jar of honey."
+    },
+    {
+      "form": "Wo finde ich hier + [product]?",
+      "ex": "Wo finde ich hier Chips?",
+      "en": "Where do I find chips here?"
+    },
+    {
+      "form": "[Product] finden Sie + bei + [section].",
+      "ex": "Joghurt finden Sie bei Milch und Milchprodukten.",
+      "en": "You find yoghurt with milk and dairy products."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "zu, in, von: Dativ prepositions",
+      "body": "The prepositions **zu**, **in** (when asking *wo*), and **von** take the Dativ. With *der Supermarkt* the article becomes **dem**, which is shortened:\n\n**zu + dem = zum**, **in + dem = im**, **von + dem = vom**.",
+      "examples": [
+        {
+          "de": "Ich gehe zum Supermarkt.",
+          "en": "I am going to the supermarket."
+        },
+        {
+          "de": "Ich bin im Supermarkt.",
+          "en": "I am in the supermarket."
+        },
+        {
+          "de": "Ich komme vom Supermarkt.",
+          "en": "I am coming from the supermarket."
+        }
+      ]
+    },
+    {
+      "title": "Containers and quantities",
+      "body": "After a container or measure word the product follows **directly**, with no *von* and no plural ending: *eine Dose Cola*, *ein Kilo Tomaten*, *ein Glas Honig*. The container word takes the **Akkusativ** article (*einen Becher*, *eine Packung*, *ein Stück*).",
+      "examples": [
+        {
+          "de": "Ich kaufe eine Dose Cola.",
+          "en": "I am buying a can of cola."
+        },
+        {
+          "de": "Ich möchte ein Stück Käse kaufen.",
+          "en": "I would like to buy a piece of cheese."
+        },
+        {
+          "de": "Ich kaufe eine Packung Waschmittel.",
+          "en": "I am buying a pack of detergent."
+        },
+        {
+          "de": "Ich möchte einen Becher Joghurt und eine Tafel Schokolade kaufen.",
+          "en": "I would like to buy a tub of yoghurt and a bar of chocolate."
+        },
+        {
+          "de": "Ich kaufe eine Flasche Öl.",
+          "en": "I am buying a bottle of oil."
+        },
+        {
+          "de": "Ich möchte eine Packung Milch kaufen.",
+          "en": "I would like to buy a carton of milk."
+        },
+        {
+          "de": "Ich möchte ein Glas Honig kaufen.",
+          "en": "I would like to buy a jar of honey."
+        },
+        {
+          "de": "Ich möchte einen Beutel Reis kaufen.",
+          "en": "I would like to buy a bag of rice."
+        }
+      ]
+    },
+    {
+      "title": "Measures: Kilo and Liter",
+      "body": "Products that are not packaged are bought by weight or volume: **Kilo**, **Liter**. After numbers these words usually stay in the singular form: *zwei Kilo*, *zwei Liter*. Useful amounts: *ein halbes Kilo* (500 g), *anderthalb Kilo* (1.5 kg), *250 Gramm*; *ein Liter*, *ein halber Liter* (500 ml), *anderthalb Liter*, *250 Milliliter*.",
+      "examples": [
+        {
+          "de": "Ich kaufe ein Kilo Tomaten.",
+          "en": "I am buying a kilo of tomatoes."
+        },
+        {
+          "de": "Ich möchte ein halbes Kilo Äpfel kaufen.",
+          "en": "I would like to buy half a kilo of apples."
+        },
+        {
+          "de": "Ich kaufe einen Liter Milch.",
+          "en": "I am buying a litre of milk."
+        }
+      ]
+    },
+    {
+      "title": "Where do I find ...?",
+      "body": "Ask: *Entschuldigen Sie, wo finde ich hier ...?* The answer uses **bei** + Dativ with the name of the section: **beim** (bei + dem), **bei der**, **bei den**.",
+      "table": {
+        "head": [
+          "Section",
+          "bei ..."
+        ],
+        "rows": [
+          [
+            "das Knabberzeug",
+            "beim Knabberzeug"
+          ],
+          [
+            "die Getränke (pl.)",
+            "bei den Getränken"
+          ],
+          [
+            "Obst und Gemüse",
+            "bei Obst und Gemüse"
+          ],
+          [
+            "Milch und Milchprodukte",
+            "bei Milch und Milchprodukten"
+          ],
+          [
+            "das Getreide",
+            "beim Getreide"
+          ],
+          [
+            "die Fleischtheke",
+            "bei der Fleischtheke"
+          ],
+          [
+            "das Waschmittel",
+            "beim Waschmittel"
+          ],
+          [
+            "die Backwaren (pl.)",
+            "bei den Backwaren"
+          ],
+          [
+            "die Süßwaren (pl.)",
+            "bei den Süßwaren"
+          ],
+          [
+            "die Tiefkühlkost",
+            "bei der Tiefkühlkost"
+          ],
+          [
+            "die Gewürze (pl.)",
+            "bei den Gewürzen"
+          ],
+          [
+            "die Fleischwaren (pl.)",
+            "bei den Fleischwaren"
+          ],
+          [
+            "das Gebäck",
+            "beim Gebäck"
+          ],
+          [
+            "die Feinkost",
+            "bei der Feinkost"
+          ],
+          [
+            "die Drogerie",
+            "bei der Drogerie"
+          ]
+        ]
+      },
+      "ar": "الجواب يستخدم bei + حالة Dativ: beim / bei der / bei den."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Ich gehe zu dem Supermarkt.",
+      "right": "Ich gehe zum Supermarkt.",
+      "why": "*zu dem* is normally contracted to *zum*."
+    },
+    {
+      "wrong": "Ich kaufe ein Kilo von Tomaten.",
+      "right": "Ich kaufe ein Kilo Tomaten.",
+      "why": "No *von* after a quantity word."
+    },
+    {
+      "wrong": "Chips finden Sie bei dem Knabberzeug.",
+      "right": "Chips finden Sie beim Knabberzeug.",
+      "why": "*bei dem* becomes *beim*."
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "In the supermarket",
+      "lines": [
+        {
+          "who": "A",
+          "de": "Entschuldigen Sie, wo finde ich hier Chips?",
+          "en": "Excuse me, where do I find chips here?"
+        },
+        {
+          "who": "B",
+          "de": "Chips finden Sie beim Knabberzeug.",
+          "en": "You find chips in the snack section."
+        },
+        {
+          "who": "A",
+          "de": "Vielen Dank!",
+          "en": "Thank you very much!"
+        },
+        {
+          "who": "B",
+          "de": "Bitte schön.",
+          "en": "You're welcome."
+        }
+      ]
+    },
+    {
+      "title": "At the checkout",
+      "lines": [
+        {
+          "who": "A",
+          "de": "Guten Tag.",
+          "en": "Good day."
+        },
+        {
+          "who": "B",
+          "de": "Hallo. Das macht 25,10 Euro, bitte.",
+          "en": "Hello. That is 25.10 euros, please."
+        },
+        {
+          "who": "A",
+          "de": "Hier, bitte.",
+          "en": "Here you are."
+        },
+        {
+          "who": "B",
+          "de": "Danke, einen schönen Tag!",
+          "en": "Thanks, have a nice day!"
+        },
+        {
+          "who": "A",
+          "de": "Danke, ebenso!",
+          "en": "Thanks, same to you!"
+        }
+      ]
+    }
+  ],
+  "tip": "Learn the section names together with bei: 'beim Knabberzeug', 'bei der Fleischtheke'. When you shop in Germany, look up at the signs above the shelves.",
+  "comprehension": [
+    {
+      "q": "How do you say 'I am going to the supermarket'?",
+      "a": "Ich gehe zum Supermarkt."
+    },
+    {
+      "q": "What is the plural of 'der Einkaufswagen'?",
+      "a": "die Einkaufswagen (sometimes die Einkaufswägen)."
+    },
+    {
+      "q": "How do you ask where chips are?",
+      "a": "Entschuldigen Sie, wo finde ich hier Chips?"
+    },
+    {
+      "q": "What does the cashier say when you have to pay 25.10 euros?",
+      "a": "Das macht 25,10 Euro, bitte."
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Contractions",
+      "type": "fill",
+      "instructions": "Fill in zum, im or vom.",
+      "items": [
+        {
+          "q": "Ich gehe ___ Supermarkt.",
+          "a": "zum",
+          "expl": "zu + dem"
+        },
+        {
+          "q": "Ich bin ___ Supermarkt.",
+          "a": "im",
+          "expl": "in + dem"
+        },
+        {
+          "q": "Ich komme ___ Supermarkt.",
+          "a": "vom",
+          "expl": "von + dem"
+        }
+      ]
+    },
+    {
+      "title": "Which container?",
+      "type": "match",
+      "instructions": "Match the container with the product.",
+      "items": [
+        {
+          "q": "eine Dose",
+          "a": "Cola"
+        },
+        {
+          "q": "ein Stück",
+          "a": "Käse"
+        },
+        {
+          "q": "ein Becher",
+          "a": "Joghurt"
+        },
+        {
+          "q": "eine Tafel",
+          "a": "Schokolade"
+        },
+        {
+          "q": "eine Flasche",
+          "a": "Öl"
+        },
+        {
+          "q": "ein Glas",
+          "a": "Honig"
+        },
+        {
+          "q": "ein Beutel",
+          "a": "Reis"
+        }
+      ]
+    },
+    {
+      "title": "Where do I find it?",
+      "type": "fill",
+      "instructions": "Fill in beim, bei or bei den.",
+      "items": [
+        {
+          "q": "Chips finden Sie ___ Knabberzeug.",
+          "a": "beim",
+          "expl": "das Knabberzeug (neuter): bei dem = beim."
+        },
+        {
+          "q": "Cola finden Sie ___ Getränken.",
+          "a": "bei den",
+          "expl": "Plural: bei den Getränken."
+        },
+        {
+          "q": "Schokolade finden Sie ___ Süßwaren.",
+          "a": "bei den",
+          "expl": "Plural: bei den Süßwaren."
+        },
+        {
+          "q": "Tomaten finden Sie ___ Obst und Gemüse.",
+          "a": "bei",
+          "expl": "No article: just bei."
+        },
+        {
+          "q": "Waschmittel finden Sie ___ Waschmittel.",
+          "a": "beim",
+          "expl": "das Waschmittel (neuter): beim."
+        }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        {
+          "q": "I would like to buy a bottle of oil.",
+          "a": "Ich möchte eine Flasche Öl kaufen."
+        },
+        {
+          "q": "I am buying a kilo of tomatoes.",
+          "a": "Ich kaufe ein Kilo Tomaten."
+        },
+        {
+          "q": "I would like to buy a litre of milk.",
+          "a": "Ich möchte einen Liter Milch kaufen."
+        },
+        {
+          "q": "I would like to buy a bar of chocolate.",
+          "a": "Ich möchte eine Tafel Schokolade kaufen."
+        },
+        {
+          "q": "Where do I find yoghurt here? (Sie)",
+          "a": "Wo finde ich hier Joghurt?"
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "zu, in, von + dem become zum, im, vom: zum Supermarkt, im Supermarkt, vom Supermarkt.",
+    "Containers (Dose, Packung, Flasche, Glas, Becher, Tafel, Beutel, Stück) are followed directly by the product.",
+    "For loose goods use Kilo and Liter: ein Kilo Tomaten, einen Liter Milch.",
+    "Ask Wo finde ich hier ...? and expect answers with beim / bei der / bei den.",
+    "At the checkout: Das macht ... Euro, bitte."
+  ]
+}

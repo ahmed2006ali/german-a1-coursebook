@@ -1,0 +1,161 @@
+{
+  "n": 27,
+  "title": "Possessive Articles in Accusative",
+  "titleDe": "Possessivartikel im Akkusativ",
+  "level": "A1",
+  "sourceNote": "The transcript is badly garbled. The rule and the table are clear; the example sentences are reconstructed from context, and the exercise sentences are rebuilt in standard German.",
+  "objectives": [
+    "I can use mein, dein, sein, ihr, unser, euer in the accusative",
+    "I can add -en to the possessive article for masculine objects",
+    "I can talk about my family with accusative sentences",
+    "I can pick the right possessive form in a sentence"
+  ],
+  "vocab": [
+    { "de": "lieben", "en": "to love", "ar": "يحب", "note": "ich liebe, er liebt", "sup": false },
+    { "de": "besuchen", "en": "to visit", "ar": "يزور", "note": "ich besuche, er besucht", "sup": true },
+    { "de": "kennen", "en": "to know (a person)", "ar": "يعرف", "note": "ich kenne, du kennst", "sup": true },
+    { "de": "suchen", "en": "to look for", "ar": "يبحث عن", "note": "", "sup": true },
+    { "de": "der Mann", "pl": "die Männer", "en": "man, husband", "ar": "رجل / زوج", "note": "", "sup": false },
+    { "de": "das Auto", "pl": "die Autos", "en": "car", "ar": "سيارة", "note": "", "sup": false },
+    { "de": "der Freund", "pl": "die Freunde", "en": "friend (male)", "ar": "صديق", "note": "", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Ich liebe meinen Mann.", "en": "I love my husband.", "ar": "", "sup": false },
+    { "de": "Ich besuche meinen Onkel.", "en": "I visit my uncle.", "ar": "", "sup": true }
+  ],
+  "patterns": [
+    { "form": "Subject + verb + possessive article + masculine noun (-en).", "ex": "Ich liebe meinen Vater.", "en": "I love my father." },
+    { "form": "Subject + verb + possessive article + feminine / neuter / plural noun (no change).", "ex": "Ich liebe meine Mutter.", "en": "I love my mother." }
+  ],
+  "grammar": [
+    {
+      "title": "The rule: masculine gets -en",
+      "body": "Possessive articles (*mein, dein, sein, ihr, unser, euer, ihr/Ihr*) work like *ein* and *kein*. In the accusative only the **masculine singular** changes: add **-en**.\n\n*Das ist mein Vater.* (nominative) – *Ich liebe meinen Vater.* (accusative).\n\nFor feminine, neuter and plural nouns nothing changes: *meine Mutter, mein Auto, meine Eltern*.",
+      "ar": "مع المذكر المفرد نضيف en فقط. أما المؤنث والمحايد والجمع فلا تتغير.",
+      "examples": [
+        { "de": "Ich liebe meinen Mann.", "en": "I love my husband." },
+        { "de": "Ich habe mein Auto.", "en": "I have my car." },
+        { "de": "Ich liebe meine Frau.", "en": "I love my wife." },
+        { "de": "Ich liebe meine Kinder.", "en": "I love my children." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Table: possessive articles in the accusative",
+      "body": "Note the spelling of **unser** and **euer**: *unser → unseren*, *euer → euren* (the *e* before *r* drops out). Also: *eure* (feminine / plural) but *euren* (masculine).",
+      "table": {
+        "head": ["", "masculine", "feminine", "neuter", "plural"],
+        "rows": [
+          ["ich", "meinen", "meine", "mein", "meine"],
+          ["du", "deinen", "deine", "dein", "deine"],
+          ["er / es", "seinen", "seine", "sein", "seine"],
+          ["sie (she)", "ihren", "ihre", "ihr", "ihre"],
+          ["wir", "unseren", "unsere", "unser", "unsere"],
+          ["ihr", "euren", "eure", "euer", "eure"],
+          ["sie (they) / Sie", "ihren / Ihren", "ihre / Ihre", "ihr / Ihr", "ihre / Ihre"]
+        ]
+      },
+      "sup": false
+    },
+    {
+      "title": "More sentences",
+      "body": "Always look at the **noun** (the object), not at the owner, to decide whether to add -en. The owner only decides *which* possessive word (mein, dein, sein ...).",
+      "examples": [
+        { "de": "Er liebt seine Eltern.", "en": "He loves his parents." },
+        { "de": "Sie besucht ihren Bruder.", "en": "She visits her brother." },
+        { "de": "Wir besuchen unseren Onkel.", "en": "We visit our uncle." },
+        { "de": "Kennst du meinen Vater?", "en": "Do you know my father?" }
+      ],
+      "sup": false
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich liebe mein Vater.", "right": "Ich liebe meinen Vater.", "why": "*Vater* is a masculine accusative object: add *-en*." },
+    { "wrong": "Ich kenne meinen Mutter.", "right": "Ich kenne meine Mutter.", "why": "Feminine nouns do not change." },
+    { "wrong": "Wir besuchen unserem Onkel.", "right": "Wir besuchen unseren Onkel.", "why": "Accusative masculine ends in *-en*, not *-em*." }
+  ],
+  "pronunciation": [
+    { "de": "eu in euer / euren", "tip": "*eu* sounds like 'oy' in 'boy': *euer*, *euren*, *Freund*." }
+  ],
+  "dialogues": [
+    {
+      "title": "About family",
+      "lines": [
+        { "who": "A", "de": "Besuchst du heute deinen Onkel?", "en": "Are you visiting your uncle today?" },
+        { "who": "B", "de": "Ja, und ich besuche auch meine Tante.", "en": "Yes, and I am also visiting my aunt." },
+        { "who": "A", "de": "Kennst du meinen Bruder?", "en": "Do you know my brother?" },
+        { "who": "B", "de": "Nein, aber ich kenne deine Schwester.", "en": "No, but I know your sister." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Check the gender of the noun first. If it is *der*, add *-en* to the possessive article.",
+  "comprehension": [
+    { "q": "Which nouns change their possessive article in the accusative?", "a": "Only masculine singular nouns." },
+    { "q": "What is the accusative of 'mein' with 'Vater'?", "a": "meinen Vater" },
+    { "q": "What happens to 'unser' and 'euer' in the masculine accusative?", "a": "unseren and euren." },
+    { "q": "Does 'meine Mutter' change in the accusative?", "a": "No, it stays meine Mutter." }
+  ],
+  "exercises": [
+    {
+      "title": "Fill in the possessive article",
+      "type": "fill",
+      "instructions": "Write the correct accusative form of the word in brackets.",
+      "items": [
+        { "q": "Ich besuche ___ Großvater. (mein)", "a": "meinen", "expl": "*Großvater* is masculine." },
+        { "q": "Er liebt ___ Mutter. (sein)", "a": "seine", "expl": "*Mutter* is feminine." },
+        { "q": "Wir besuchen ___ Eltern. (unser)", "a": "unsere", "expl": "Plural: no change." },
+        { "q": "Kennst du ___ Onkel? (mein)", "a": "meinen", "expl": "*Onkel* is masculine." },
+        { "q": "Ich kenne ___ Bruder. (dein)", "a": "deinen", "expl": "*Bruder* is masculine." },
+        { "q": "Sie sucht ___ Vater. (ihr, 'her')", "a": "ihren", "expl": "*Vater* is masculine." },
+        { "q": "Ich kenne ___ Cousin. (euer)", "a": "euren", "expl": "*euer* becomes *euren*." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Choose the right form",
+      "type": "choose",
+      "instructions": "Choose the correct possessive article.",
+      "items": [
+        { "q": "Ich liebe ___ Schwester. (mein / meine / meinen)", "a": "meine", "expl": "Feminine: no change." },
+        { "q": "Er besucht ___ Vater. (sein / seine / seinen)", "a": "seinen", "expl": "Masculine accusative." },
+        { "q": "Sie kennt ___ Bruder. (ihr / ihre / ihren)", "a": "ihren", "expl": "Masculine accusative." },
+        { "q": "Wir besuchen ___ Großmutter. (unser / unsere / unseren)", "a": "unsere", "expl": "Feminine: no change." },
+        { "q": "Kennst du ___ Eltern? (mein / meine / meinen)", "a": "meine", "expl": "Plural: no change." },
+        { "q": "Ich suche ___ Auto. (mein / meine / meinen)", "a": "mein", "expl": "*Auto* is neuter: no change." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Write the sentence in German.",
+      "items": [
+        { "q": "I love my brother.", "a": "Ich liebe meinen Bruder." },
+        { "q": "She visits her grandfather. (her own)", "a": "Sie besucht ihren Großvater. / Sie besucht ihren Opa.", "expl": "*Großvater* is masculine." },
+        { "q": "We know your mother. (du)", "a": "Wir kennen deine Mutter." },
+        { "q": "He loves his parents.", "a": "Er liebt seine Eltern." },
+        { "q": "Do you know my uncle?", "a": "Kennst du meinen Onkel?" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Form a correct sentence. Both word orders are accepted.",
+      "items": [
+        { "q": "meinen / besuche / Ich / Onkel", "a": "Ich besuche meinen Onkel. / Meinen Onkel besuche ich." },
+        { "q": "kennt / unseren / Vater / Er", "a": "Er kennt unseren Vater. / Unseren Vater kennt er." },
+        { "q": "liebt / seine / Er / Mutter", "a": "Er liebt seine Mutter. / Seine Mutter liebt er." },
+        { "q": "deine / Ich / Schwester / kenne", "a": "Ich kenne deine Schwester. / Deine Schwester kenne ich." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Possessive articles work like ein and kein.",
+    "Only masculine singular objects get -en: mein → meinen, dein → deinen, sein → seinen, ihr → ihren.",
+    "unser → unseren and euer → euren.",
+    "Feminine, neuter and plural objects keep the nominative form: meine Mutter, mein Auto, meine Eltern."
+  ]
+}

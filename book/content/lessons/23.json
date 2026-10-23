@@ -1,0 +1,177 @@
+{
+  "n": 23,
+  "title": "Unofficial Time",
+  "titleDe": "Die Uhrzeit (inoffiziell)",
+  "level": "A1",
+  "sourceNote": "The auto-captions are garbled in places (some of the video's exercise answers are missing). The rules for nach, vor, Viertel, halb, kurz vor/nach and fast are clear; the regional variants mentioned in the video are not taught here.",
+  "objectives": [
+    "I can tell the time in the everyday (unofficial) way",
+    "I can use nach, vor, Viertel and halb correctly",
+    "I know that halb sechs means 5:30",
+    "I can use kurz vor, kurz nach and fast for approximate times"
+  ],
+  "vocab": [
+    { "de": "halb", "en": "half", "ar": "نصف", "note": "halb + next hour" },
+    { "de": "das Viertel", "pl": "die Viertel", "en": "quarter", "ar": "ربع", "note": "" },
+    { "de": "nach", "en": "past, after", "ar": "بعد", "note": "" },
+    { "de": "vor", "en": "to, before", "ar": "قبل", "note": "" },
+    { "de": "kurz vor", "en": "shortly before", "ar": "قبل بقليل", "note": "" },
+    { "de": "kurz nach", "en": "shortly after", "ar": "بعد بقليل", "note": "" },
+    { "de": "fast", "en": "almost", "ar": "تقريبًا", "note": "" },
+    { "de": "genau", "en": "exactly", "ar": "بالضبط", "note": "", "sup": true },
+    { "de": "die Mitternacht", "pl": "–", "en": "midnight", "ar": "منتصف الليل", "note": "" },
+    { "de": "morgens", "en": "in the morning", "ar": "صباحًا", "note": "" },
+    { "de": "mittags", "en": "at noon", "ar": "ظهرًا", "note": "" },
+    { "de": "abends", "en": "in the evening", "ar": "مساءً", "note": "" },
+    { "de": "nachts", "en": "at night", "ar": "ليلًا", "note": "" },
+    { "de": "die Familie", "pl": "die Familien", "en": "family", "ar": "عائلة", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Wie spät ist es?", "en": "What time is it?", "ar": "كم الساعة؟" },
+    { "de": "Es ist Viertel nach drei.", "en": "It is quarter past three.", "ar": "" },
+    { "de": "Es ist halb fünf.", "en": "It is half past four (4:30).", "ar": "" },
+    { "de": "Es ist Viertel vor neun.", "en": "It is quarter to nine.", "ar": "" },
+    { "de": "Es ist kurz vor halb elf.", "en": "It is shortly before half past ten.", "ar": "" },
+    { "de": "Es ist Mitternacht.", "en": "It is midnight.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Es ist + [minutes] + nach / vor + [hour].", "ex": "Es ist zehn nach acht.", "en": "It is ten past eight." },
+    { "form": "Es ist + halb + [NEXT hour].", "ex": "Es ist halb sieben.", "en": "It is 6:30." },
+    { "form": "Es ist + Viertel nach / vor + [hour].", "ex": "Es ist Viertel vor zwei.", "en": "It is quarter to two." }
+  ],
+  "grammar": [
+    {
+      "title": "One way, 12 or 24 hours",
+      "body": "In everyday speech (with friends and family) there is one way to say the time, no matter whether you think in 12 or 24 hours. Germans do not use AM/PM; the context makes it clear, or you add **morgens, mittags, abends, nachts**.\n\nFull hours: **Es ist drei Uhr.** (also: *Es ist drei.*) At midnight you can say **Es ist Mitternacht.**",
+      "examples": [
+        { "de": "Es ist drei Uhr.", "en": "It is three o'clock." },
+        { "de": "Es ist zwei Uhr nachts.", "en": "It is two o'clock at night.", "sup": true },
+        { "de": "Es ist sieben Uhr abends.", "en": "It is seven in the evening.", "sup": true }
+      ]
+    },
+    {
+      "title": "nach, vor and Viertel",
+      "body": "**nach** means *past/after*, **vor** means *to/before*. Minutes come first, then the hour. For 15 minutes use **Viertel** (quarter).\n\nWith **Viertel nach / vor** and with minutes, you normally do **not** say *Uhr*.",
+      "table": {
+        "head": ["Digits", "German"],
+        "rows": [
+          ["4:05", "Es ist fünf nach vier."],
+          ["4:10", "Es ist zehn nach vier."],
+          ["4:15", "Es ist Viertel nach vier."],
+          ["4:20", "Es ist zwanzig nach vier."],
+          ["3:40", "Es ist zwanzig vor vier."],
+          ["3:45", "Es ist Viertel vor vier."],
+          ["3:50", "Es ist zehn vor vier."],
+          ["3:55", "Es ist fünf vor vier."]
+        ]
+      },
+      "ar": "nach = بعد، vor = قبل، Viertel = ربع."
+    },
+    {
+      "title": "halb: the big difference from English",
+      "body": "**halb** is followed by the **next** hour. In English 'half past one' is 1:30, but German **halb zwei** means 'half an hour **before two**' = **1:30**.\n\nSo: *halb sechs* = 5:30, *halb elf* = 10:30. Learn these sentences as they are; they are not the same as in English.",
+      "table": {
+        "head": ["Digits", "German"],
+        "rows": [
+          ["1:30", "Es ist halb zwei."],
+          ["5:30", "Es ist halb sechs."],
+          ["10:30", "Es ist halb elf."],
+          ["4:25", "Es ist fünf vor halb fünf."],
+          ["4:35", "Es ist fünf nach halb fünf."]
+        ]
+      },
+      "ar": "halb sechs = الخامسة والنصف (النصف قبل الساعة السادسة).",
+      "examples": [
+        { "de": "Es ist halb sechs.", "en": "It is 5:30." },
+        { "de": "Es ist fünf vor halb fünf.", "en": "It is 4:25." }
+      ]
+    },
+    {
+      "title": "kurz vor, kurz nach, fast",
+      "body": "In unofficial time you do not give every exact minute; the time is rounded. Use **kurz nach** for 1 to 5 minutes after the hour (or half hour) and **kurz vor** or **fast** when it is about to be the full hour or half hour.\n\nSummary of rounding: full hour = *Es ist sechs Uhr*; half = *halb sechs*; 5, 10, 15 or 20 minutes after the hour = *fünf / zehn / Viertel / zwanzig nach*; 5, 10, 15 or 20 minutes before = *fünf / zehn / Viertel / zwanzig vor*.",
+      "examples": [
+        { "de": "Es ist kurz nach eins.", "en": "It is shortly after one." },
+        { "de": "Es ist kurz vor eins.", "en": "It is shortly before one." },
+        { "de": "Es ist fast zwei.", "en": "It is almost two." },
+        { "de": "Es ist kurz vor halb elf.", "en": "It is shortly before 10:30." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Es ist halb sechs. (meaning 6:30)", "right": "Es ist halb sieben.", "why": "*halb* + next hour: 6:30 is *halb sieben*." },
+    { "wrong": "Es ist Viertel nach vier Uhr.", "right": "Es ist Viertel nach vier.", "why": "With *nach/vor* and *Viertel* you do not say *Uhr*." }
+  ],
+  "pronunciation": [
+    { "de": "Viertel", "tip": "Starts with an 'f' sound: *Viertel*, *vor*, *vier*." },
+    { "de": "halb", "tip": "Final b sounds like 'p': *halb* sounds like 'halp'." }
+  ],
+  "dialogues": [
+    {
+      "title": "What time is it?",
+      "lines": [
+        { "who": "A", "de": "Entschuldigung, wie spät ist es?", "en": "Excuse me, what time is it?" },
+        { "who": "B", "de": "Es ist Viertel nach drei.", "en": "It is quarter past three." },
+        { "who": "A", "de": "Und wie spät ist es jetzt?", "en": "And what time is it now?" },
+        { "who": "B", "de": "Jetzt ist es halb vier.", "en": "Now it is 3:30." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "To avoid confusion with halb, think: 'half way to the next hour'.",
+  "comprehension": [
+    { "q": "What does halb sechs mean?", "a": "5:30" },
+    { "q": "What does Viertel vor neun mean?", "a": "8:45" },
+    { "q": "How do you say 'shortly before' and 'shortly after'?", "a": "kurz vor and kurz nach" },
+    { "q": "Which words can you add to make AM or PM clear?", "a": "morgens, mittags, abends, nachts" }
+  ],
+  "exercises": [
+    {
+      "title": "Say the time (unofficial)",
+      "type": "translate",
+      "instructions": "Write the time in the unofficial way, as a full sentence beginning with Es ist.",
+      "items": [
+        { "q": "3:15", "a": "Es ist Viertel nach drei." },
+        { "q": "4:30", "a": "Es ist halb fünf." },
+        { "q": "6:45", "a": "Es ist Viertel vor sieben." },
+        { "q": "8:10", "a": "Es ist zehn nach acht." },
+        { "q": "9:55", "a": "Es ist fünf vor zehn." },
+        { "q": "2:20", "a": "Es ist zwanzig nach zwei." },
+        { "q": "11:40", "a": "Es ist zwanzig vor zwölf." },
+        { "q": "10:25", "a": "Es ist fünf vor halb elf." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Official to unofficial",
+      "type": "translate",
+      "instructions": "Say the official time in the unofficial way.",
+      "items": [
+        { "q": "Es ist vierzehn Uhr dreißig.", "a": "Es ist halb drei." },
+        { "q": "Es ist achtzehn Uhr fünfundvierzig.", "a": "Es ist Viertel vor sieben." },
+        { "q": "Es ist zwanzig Uhr fünfzehn.", "a": "Es ist Viertel nach acht." },
+        { "q": "Es ist sechzehn Uhr zehn.", "a": "Es ist zehn nach vier." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "What time is it?",
+      "type": "choose",
+      "instructions": "Choose the correct digits.",
+      "items": [
+        { "q": "Es ist halb sechs. (5:30 / 6:30)", "a": "5:30" },
+        { "q": "Es ist Viertel vor neun. (8:45 / 9:15)", "a": "8:45" },
+        { "q": "Es ist halb zwölf. (11:30 / 12:30)", "a": "11:30" },
+        { "q": "Es ist zwanzig nach drei. (3:20 / 3:40)", "a": "3:20" },
+        { "q": "Es ist fünf vor halb zwei. (1:25 / 2:25)", "a": "1:25", "expl": "fünf vor halb zwei = five minutes before 1:30." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Unofficial time is used with friends and family; there is no AM/PM.",
+    "Use nach, vor and Viertel: zehn nach acht, Viertel vor zwei.",
+    "halb + next hour: halb sechs = 5:30.",
+    "Use kurz vor, kurz nach and fast for approximate times.",
+    "Add morgens, mittags, abends or nachts to make the part of the day clear."
+  ]
+}

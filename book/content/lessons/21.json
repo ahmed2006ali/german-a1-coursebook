@@ -1,0 +1,160 @@
+{
+  "n": 21,
+  "title": "Negative Articles",
+  "titleDe": "Negative Artikel",
+  "level": "A1",
+  "sourceNote": "The auto-captions are garbled. The pen/pencil example (Kuli/Bleistift) and the rules are clear; the plural example in the video could not be reconstructed, so plural examples here are supplementary.",
+  "objectives": [
+    "I can form kein and keine from ein and eine",
+    "I can answer yes/no questions with Nein, das ist kein ... / keine ...",
+    "I can use keine in the plural",
+    "I can name the articles of Kuli, Bleistift, Blume and Buch"
+  ],
+  "vocab": [
+    { "de": "der Kuli", "pl": "die Kulis", "en": "pen (ballpoint)", "ar": "قلم حبر", "note": "" },
+    { "de": "der Bleistift", "pl": "die Bleistifte", "en": "pencil", "ar": "قلم رصاص", "note": "" },
+    { "de": "die Blume", "pl": "die Blumen", "en": "flower", "ar": "زهرة", "note": "" },
+    { "de": "das Buch", "pl": "die Bücher", "en": "book", "ar": "كتاب", "note": "" },
+    { "de": "der Stuhl", "pl": "die Stühle", "en": "chair", "ar": "كرسي", "note": "", "sup": true },
+    { "de": "die Tasche", "pl": "die Taschen", "en": "bag", "ar": "حقيبة", "note": "", "sup": true },
+    { "de": "das Handy", "pl": "die Handys", "en": "mobile phone", "ar": "هاتف جوال", "note": "", "sup": true },
+    { "de": "die Lampe", "pl": "die Lampen", "en": "lamp", "ar": "مصباح", "note": "", "sup": true },
+    { "de": "das Auto", "pl": "die Autos", "en": "car", "ar": "سيارة", "note": "", "sup": true },
+    { "de": "der Tisch", "pl": "die Tische", "en": "table", "ar": "طاولة", "note": "", "sup": true },
+    { "de": "nein", "en": "no", "ar": "لا", "note": "" },
+    { "de": "ja", "en": "yes", "ar": "نعم", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Ist das ein Kuli?", "en": "Is that a pen?", "ar": "" },
+    { "de": "Nein, das ist kein Kuli.", "en": "No, that is not a pen.", "ar": "" },
+    { "de": "Nein, das ist keine Blume.", "en": "No, that is not a flower.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Das ist + kein / keine + [Noun].", "ex": "Das ist kein Kuli.", "en": "That is not a pen." },
+    { "form": "Das sind + keine + [Plural noun].", "ex": "Das sind keine Bücher.", "en": "Those are not books." }
+  ],
+  "grammar": [
+    {
+      "title": "kein / keine: the negative article",
+      "body": "The negative article means *no* or *not a*. It is formed like the indefinite article, only with a **k** in front: **ein → kein**, **eine → keine**.\n\nIt follows the gender of the noun, so you need the definite article first: *der Kuli* → *ein Kuli* → *kein Kuli*.",
+      "table": {
+        "head": ["", "Definite", "Indefinite", "Negative"],
+        "rows": [
+          ["masculine", "der Kuli", "ein Kuli", "kein Kuli"],
+          ["feminine", "die Blume", "eine Blume", "keine Blume"],
+          ["neuter", "das Buch", "ein Buch", "kein Buch"],
+          ["plural", "die Blumen", "– (none)", "keine Blumen"]
+        ]
+      },
+      "ar": "kein للمذكّر والمحايد، keine للمؤنّث والجمع.",
+      "examples": [
+        { "de": "Ist das ein Kuli? – Nein, das ist kein Kuli. Das ist ein Bleistift.", "en": "Is that a pen? – No, that is not a pen. It is a pencil." },
+        { "de": "Das ist keine Blume.", "en": "That is not a flower." },
+        { "de": "Das ist kein Buch.", "en": "That is not a book." }
+      ]
+    },
+    {
+      "title": "The plural has keine",
+      "body": "In the plural there is no indefinite article, but there **is** a negative article: **keine**. It is the same for all genders.",
+      "examples": [
+        { "de": "Das sind keine Bücher.", "en": "Those are not books.", "sup": true },
+        { "de": "Das sind keine Blumen.", "en": "Those are not flowers.", "sup": true }
+      ]
+    },
+    {
+      "title": "Compare ein and kein",
+      "body": "Learn the two sets side by side: **ein / kein** (masculine, neuter), **eine / keine** (feminine), and plural only **keine**.\n\nStrictly speaking, *kein/keine* is also an indefinite-type article, but in practice *ein/eine* are called the indefinite article and *kein/keine* the negative article."
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Das ist keine Buch.", "right": "Das ist kein Buch.", "why": "*das Buch* is neuter: *kein*." },
+    { "wrong": "Das ist kein Blume.", "right": "Das ist keine Blume.", "why": "*die Blume* is feminine: *keine*." },
+    { "wrong": "Das sind kein Bücher.", "right": "Das sind keine Bücher.", "why": "Plural always takes *keine*." }
+  ],
+  "pronunciation": [
+    { "de": "ü", "tip": "Round lips as for 'oo', say 'ee'. *Bücher*, *Stühle*." },
+    { "de": "ei", "tip": "Like English 'eye'. *kein*, *keine*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Pen or pencil?",
+      "lines": [
+        { "who": "A", "de": "Ist das ein Kuli?", "en": "Is that a pen?" },
+        { "who": "B", "de": "Nein, das ist kein Kuli. Das ist ein Bleistift.", "en": "No, that is not a pen. That is a pencil." },
+        { "who": "A", "de": "Und ist das eine Blume?", "en": "And is that a flower?" },
+        { "who": "B", "de": "Ja, das ist eine Blume.", "en": "Yes, that is a flower." },
+        { "who": "A", "de": "Ist das ein Handy?", "en": "Is that a mobile phone?" },
+        { "who": "B", "de": "Nein, das ist kein Handy. Das ist ein Buch.", "en": "No, that is not a mobile phone. That is a book." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Think of kein as ein with a k in front, and keine as eine with a k in front.",
+  "comprehension": [
+    { "q": "What is the negative article for masculine nouns?", "a": "kein" },
+    { "q": "What is the negative article for feminine nouns?", "a": "keine" },
+    { "q": "What is the negative article for neuter nouns?", "a": "kein" },
+    { "q": "What is the negative article in the plural?", "a": "keine" }
+  ],
+  "exercises": [
+    {
+      "title": "Make it negative",
+      "type": "fill",
+      "instructions": "Write kein or keine.",
+      "items": [
+        { "q": "Das ist ein Kuli. – Das ist ___ Kuli.", "a": "kein" },
+        { "q": "Das ist eine Blume. – Das ist ___ Blume.", "a": "keine" },
+        { "q": "Das ist ein Buch. – Das ist ___ Buch.", "a": "kein", "expl": "*das Buch* is neuter." },
+        { "q": "Das ist eine Lampe. – Das ist ___ Lampe.", "a": "keine" },
+        { "q": "Das ist ein Bleistift. – Das ist ___ Bleistift.", "a": "kein" },
+        { "q": "Das sind Bücher. – Das sind ___ Bücher.", "a": "keine", "expl": "Plural: *keine*." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Kein or keine?",
+      "type": "choose",
+      "instructions": "Choose the correct negative article.",
+      "items": [
+        { "q": "Das ist ___ Tasche. (kein / keine)", "a": "keine", "expl": "*die Tasche*" },
+        { "q": "Das ist ___ Tisch. (kein / keine)", "a": "kein", "expl": "*der Tisch*" },
+        { "q": "Das ist ___ Auto. (kein / keine)", "a": "kein", "expl": "*das Auto*" },
+        { "q": "Das sind ___ Stühle. (kein / keine)", "a": "keine" },
+        { "q": "Das ist ___ Handy. (kein / keine)", "a": "kein", "expl": "*das Handy*" },
+        { "q": "Das ist ___ Katze. (kein / keine)", "a": "keine", "expl": "*die Katze*" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Answer with Nein",
+      "type": "answer",
+      "instructions": "Answer the question with Nein and a full sentence with kein or keine.",
+      "items": [
+        { "q": "Ist das ein Kuli? (Bleistift)", "a": "Nein, das ist kein Kuli. Das ist ein Bleistift." },
+        { "q": "Ist das eine Blume? (Buch)", "a": "Nein, das ist keine Blume. Das ist ein Buch." },
+        { "q": "Ist das ein Buch? (Handy)", "a": "Nein, das ist kein Buch. Das ist ein Handy." },
+        { "q": "Ist das ein Tisch? (Stuhl)", "a": "Nein, das ist kein Tisch. Das ist ein Stuhl." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Translate the sentences.",
+      "items": [
+        { "q": "That is not a pen.", "a": "Das ist kein Kuli." },
+        { "q": "That is not a flower.", "a": "Das ist keine Blume." },
+        { "q": "That is not a book.", "a": "Das ist kein Buch." },
+        { "q": "Those are not books.", "a": "Das sind keine Bücher." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "The negative article is formed from ein/eine with a k in front: kein, keine.",
+    "Masculine: kein. Feminine: keine. Neuter: kein.",
+    "Plural for all genders: keine.",
+    "Learn the definite article first (der Kuli, die Blume, das Buch).",
+    "Typical use: Nein, das ist kein Kuli."
+  ]
+}

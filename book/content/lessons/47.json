@@ -1,0 +1,213 @@
+{
+  "n": 47,
+  "title": "What Did You Do on Vacation?",
+  "titleDe": "Was hast du im Urlaub gemacht?",
+  "level": "A1",
+  "sourceNote": "Transcript is partly auto-captioned; the lesson is mostly a list of model answers. The ending is a book promotion and is left out.",
+  "objectives": [
+    "I can say where I was on vacation (war / waren)",
+    "I can say who I was with and where I stayed overnight",
+    "I can say what I did on vacation using the Perfekt",
+    "I can ask the same questions to other people"
+  ],
+  "vocab": [
+    { "de": "der Urlaub", "pl": "die Urlaube", "en": "vacation, holiday", "ar": "إجازة", "note": "work leave" },
+    { "de": "die Ferien", "pl": "die Ferien", "en": "holidays (school)", "ar": "عطلة", "note": "always plural" },
+    { "de": "die Reise", "pl": "die Reisen", "en": "trip, journey", "ar": "رحلة" },
+    { "de": "die Weltreise", "pl": "die Weltreisen", "en": "trip around the world", "ar": "رحلة حول العالم" },
+    { "de": "reisen", "en": "to travel", "note": "ist gereist", "ar": "يسافر" },
+    { "de": "übernachten", "en": "to stay overnight", "note": "hat übernachtet", "ar": "يبيت" },
+    { "de": "besichtigen", "en": "to visit, to see (sights)", "note": "hat besichtigt", "ar": "يزور (معالم)" },
+    { "de": "besuchen", "en": "to visit (a person/place)", "note": "hat besucht", "ar": "يزور" },
+    { "de": "die Insel", "pl": "die Inseln", "en": "island", "ar": "جزيرة" },
+    { "de": "der Strand", "pl": "die Strände", "en": "beach", "ar": "شاطئ" },
+    { "de": "die Ostsee", "pl": "–", "en": "Baltic Sea", "ar": "بحر البلطيق" },
+    { "de": "das Hotel", "pl": "die Hotels", "en": "hotel", "ar": "فندق" },
+    { "de": "das Zelt", "pl": "die Zelte", "en": "tent", "ar": "خيمة" },
+    { "de": "die Jugendherberge", "pl": "die Jugendherbergen", "en": "youth hostel", "ar": "بيت الشباب" },
+    { "de": "die Gastfamilie", "pl": "die Gastfamilien", "en": "host family", "ar": "عائلة مضيفة" },
+    { "de": "die Verwandten", "pl": "die Verwandten", "en": "relatives", "ar": "الأقارب", "note": "always plural" },
+    { "de": "die Sehenswürdigkeit", "pl": "die Sehenswürdigkeiten", "en": "sight, attraction", "ar": "معلم سياحي" },
+    { "de": "das Souvenir", "pl": "die Souvenirs", "en": "souvenir", "ar": "تذكار" },
+    { "de": "der Stadtbummel", "pl": "die Stadtbummel", "en": "stroll through town", "ar": "جولة في المدينة" },
+    { "de": "der Roman", "pl": "die Romane", "en": "novel", "ar": "رواية" },
+    { "de": "das Museum", "pl": "die Museen", "en": "museum", "ar": "متحف" },
+    { "de": "der Sprachkurs", "pl": "die Sprachkurse", "en": "language course", "ar": "دورة لغة" },
+    { "de": "der Berg", "pl": "die Berge", "en": "mountain", "ar": "جبل" },
+    { "de": "wandern", "en": "to hike", "note": "ist gewandert", "ar": "يتنزه مشيًا" },
+    { "de": "sich erholen", "en": "to relax, to recover", "note": "hat sich erholt", "ar": "يستريح" },
+    { "de": "unterwegs sein", "en": "to be on the road", "ar": "يكون في سفر" },
+    { "de": "alleine", "en": "alone", "ar": "وحده" }
+  ],
+  "expressions": [
+    { "de": "Was hast du im Urlaub gemacht?", "en": "What did you do on vacation?" },
+    { "de": "Wo warst du?", "en": "Where were you?" },
+    { "de": "Mit wem warst du?", "en": "Who were you with?" },
+    { "de": "Wo hast du übernachtet?", "en": "Where did you stay overnight?" },
+    { "de": "Im Urlaub war ich in Spanien.", "en": "On vacation I was in Spain." },
+    { "de": "In den Ferien waren wir an der Ostsee.", "en": "In the holidays we were at the Baltic Sea." }
+  ],
+  "patterns": [
+    { "form": "Im Urlaub war ich + in/auf/an/bei + [place].", "ex": "Im Urlaub war ich in der Schweiz.", "en": "On vacation I was in Switzerland." },
+    { "form": "Ich war mit + [Dativ] + unterwegs.", "ex": "Ich war mit meiner Familie unterwegs.", "en": "I was away with my family." },
+    { "form": "Ich habe + in + [Dativ] + übernachtet.", "ex": "Wir haben im Hotel übernachtet.", "en": "We stayed at the hotel." },
+    { "form": "Im Urlaub bin/habe ich + ... + [Partizip II].", "ex": "Ich habe ein Museum besucht.", "en": "I visited a museum." }
+  ],
+  "grammar": [
+    {
+      "title": "Where were you? (war / waren)",
+      "body": "Use the Präteritum of **sein** (lesson 41) for where you were. Use **Wo** with Dativ prepositions: **in** (countries, buildings), **auf** (islands), **an** (coast, beach), **bei** (people).",
+      "examples": [
+        { "de": "Im Urlaub war ich in Spanien.", "en": "On vacation I was in Spain." },
+        { "de": "Im Urlaub war ich in der Schweiz.", "en": "On vacation I was in Switzerland." },
+        { "de": "In den Ferien war ich in New York.", "en": "In the holidays I was in New York." },
+        { "de": "Im Urlaub war ich auf einer Insel.", "en": "On vacation I was on an island." },
+        { "de": "In den Ferien waren wir an der Ostsee.", "en": "In the holidays we were at the Baltic Sea." },
+        { "de": "Im Urlaub war ich am Strand.", "en": "On vacation I was at the beach." },
+        { "de": "Im Urlaub war ich bei Verwandten.", "en": "On vacation I was at my relatives'." },
+        { "de": "In den Ferien war ich auf einer Weltreise.", "en": "In the holidays I was on a trip around the world." },
+        { "de": "Im Urlaub war ich zu Hause.", "en": "On vacation I was at home." }
+      ]
+    },
+    {
+      "title": "Where did you go? (wohin)",
+      "body": "To say where you travelled to, use the Perfekt of *fliegen* or *fahren* with **nach** (cities, countries) or **in** + Akkusativ.",
+      "examples": [
+        { "de": "Im Urlaub sind wir nach New York geflogen.", "en": "On vacation we flew to New York." },
+        { "de": "Im Urlaub sind wir nach Spanien gefahren.", "en": "On vacation we drove to Spain." },
+        { "de": "Ich bin in die Berge gefahren.", "en": "I went to the mountains." }
+      ]
+    },
+    {
+      "title": "Who with? Mit + Dativ",
+      "body": "**mit** is always followed by the **Dativ**. *unterwegs sein* means to be travelling or on the road.",
+      "examples": [
+        { "de": "Ich war mit meiner Familie unterwegs.", "en": "I was travelling with my family." },
+        { "de": "Ich war alleine unterwegs.", "en": "I was travelling alone." },
+        { "de": "Ich war mit meiner Freundin unterwegs.", "en": "I was travelling with my girlfriend." },
+        { "de": "Ich war mit meinem Mann unterwegs.", "en": "I was travelling with my husband." },
+        { "de": "Ich war mit Schulfreunden unterwegs.", "en": "I was travelling with school friends." }
+      ]
+    },
+    {
+      "title": "Where did you stay overnight?",
+      "body": "Use **haben** + **übernachtet** and a Dativ place.",
+      "examples": [
+        { "de": "Wir haben im Hotel übernachtet.", "en": "We stayed at the hotel." },
+        { "de": "Ich habe bei meiner Familie übernachtet.", "en": "I stayed with my family." },
+        { "de": "Ich habe bei Freunden übernachtet.", "en": "I stayed with friends." },
+        { "de": "Wir haben in einer Jugendherberge übernachtet.", "en": "We stayed in a youth hostel." },
+        { "de": "Ich habe in einem Zelt übernachtet.", "en": "I stayed in a tent." }
+      ]
+    },
+    {
+      "title": "What did you do? (Perfekt)",
+      "body": "Use the Perfekt: **haben** + Partizip II for most verbs, **sein** + Partizip II for movement (*wandern*, *fahren*, *rennen*) and for *bleiben*.",
+      "examples": [
+        { "de": "Wir haben viel gegessen.", "en": "We ate a lot." },
+        { "de": "Ich habe meine Oma besucht.", "en": "I visited my grandma." },
+        { "de": "Wir haben die Sehenswürdigkeiten besichtigt.", "en": "We saw the sights." },
+        { "de": "Wir haben viele Souvenirs gekauft.", "en": "We bought many souvenirs." },
+        { "de": "Ich habe einen Roman gelesen.", "en": "I read a novel." },
+        { "de": "Wir haben einen Stadtbummel gemacht.", "en": "We went for a stroll through town." },
+        { "de": "Ich bin zu Hause geblieben, habe gelesen und Filme geschaut.", "en": "I stayed at home, read and watched films." },
+        { "de": "Ich bin viel gewandert und habe die Natur genossen.", "en": "I hiked a lot and enjoyed nature." },
+        { "de": "Ich bin in die Berge gefahren und habe viele Fotos gemacht.", "en": "I went to the mountains and took many photos." },
+        { "de": "Ich habe viele interessante Menschen kennengelernt.", "en": "I met many interesting people." },
+        { "de": "Ich habe ein Museum besucht und viel Neues gelernt.", "en": "I visited a museum and learned a lot of new things." },
+        { "de": "Im Urlaub habe ich einen Sprachkurs gemacht.", "en": "On vacation I did a language course." },
+        { "de": "Ich habe viel fotografiert, Musik gehört und mein Zimmer aufgeräumt.", "en": "I took many photos, listened to music and tidied my room." }
+      ]
+    },
+    {
+      "title": "Reflexive verbs in the Perfekt",
+      "body": "With a reflexive verb the reflexive pronoun follows the Hilfsverb: *Ich habe **mich** erholt.* *Wir haben **uns** in die Sonne gelegt.*",
+      "examples": [
+        { "de": "Ich habe mich erholt.", "en": "I relaxed." },
+        { "de": "Wir haben uns in die Sonne gelegt.", "en": "We lay down in the sun." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Im Urlaub ich war in Spanien.", "right": "Im Urlaub war ich in Spanien.", "why": "After a first element, the verb is in position 2." },
+    { "wrong": "Ich war mit meine Familie unterwegs.", "right": "Ich war mit meiner Familie unterwegs.", "why": "*mit* needs Dativ: *meiner Familie*." },
+    { "wrong": "Ich habe nach Spanien gefahren.", "right": "Ich bin nach Spanien gefahren.", "why": "Travelling to a place takes *sein*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Back from vacation",
+      "lines": [
+        { "who": "A", "de": "Was hast du im Urlaub gemacht?", "en": "What did you do on vacation?" },
+        { "who": "B", "de": "Im Urlaub war ich in Spanien. Ich habe mit meiner Familie eine Reise gemacht.", "en": "On vacation I was in Spain. I took a trip with my family." },
+        { "who": "A", "de": "Wo habt ihr übernachtet?", "en": "Where did you stay overnight?" },
+        { "who": "B", "de": "Wir haben im Hotel übernachtet. Wir haben die Sehenswürdigkeiten besichtigt und viele Souvenirs gekauft.", "en": "We stayed at a hotel. We saw the sights and bought many souvenirs." }
+      ]
+    }
+  ],
+  "tip": "The same questions work for the weekend or yesterday: Was hast du am Wochenende gemacht? Was hast du gestern gemacht?",
+  "comprehension": [
+    { "q": "How do you ask 'Where were you?'", "a": "Wo warst du?" },
+    { "q": "How do you say you were with your family?", "a": "Ich war mit meiner Familie unterwegs." },
+    { "q": "How do you say 'We stayed at a hotel'?", "a": "Wir haben im Hotel übernachtet." },
+    { "q": "Which Hilfsverb goes with 'bleiben' and 'wandern'?", "a": "sein (ich bin geblieben, ich bin gewandert)." }
+  ],
+  "exercises": [
+    {
+      "title": "Choose the preposition",
+      "type": "choose",
+      "instructions": "Choose the correct preposition or article form.",
+      "items": [
+        { "q": "In den Ferien waren wir ___ der Ostsee. (an / in)", "a": "an", "expl": "Coast and sea: *an*." },
+        { "q": "Im Urlaub war ich ___ einer Insel. (auf / in)", "a": "auf", "expl": "Islands take *auf*." },
+        { "q": "Im Urlaub war ich ___ Strand. (am / im)", "a": "am", "expl": "*an dem* = *am*." },
+        { "q": "Wir haben ___ Hotel übernachtet. (am / im)", "a": "im", "expl": "*in dem* = *im*." },
+        { "q": "Ich war ___ meiner Familie unterwegs. (mit / bei)", "a": "mit" },
+        { "q": "Im Urlaub war ich ___ meinen Eltern. (bei / an)", "a": "bei", "expl": "*bei* + people = at someone's place." }
+      ]
+    },
+    {
+      "title": "Fill in the Partizip II",
+      "type": "fill",
+      "instructions": "Complete with the correct Partizip II.",
+      "items": [
+        { "q": "Ich habe meine Oma ___. (besuchen)", "a": "besucht" },
+        { "q": "Wir haben die Sehenswürdigkeiten ___. (besichtigen)", "a": "besichtigt" },
+        { "q": "Wir haben viele Souvenirs ___. (kaufen)", "a": "gekauft" },
+        { "q": "Ich habe einen Roman ___. (lesen)", "a": "gelesen" },
+        { "q": "Ich bin viel ___. (wandern)", "a": "gewandert" },
+        { "q": "Wir haben in einem Zelt ___. (übernachten)", "a": "übernachtet", "expl": "*übernachten* is inseparable: no *ge-*." }
+      ]
+    },
+    {
+      "title": "Fill in haben or sein",
+      "type": "fill",
+      "instructions": "Fill in the correct form of haben or sein.",
+      "items": [
+        { "q": "Ich ___ zu Hause geblieben.", "a": "bin" },
+        { "q": "Wir ___ nach Spanien gefahren.", "a": "sind" },
+        { "q": "Ich ___ ein Museum besucht.", "a": "habe" },
+        { "q": "Wir ___ einen Stadtbummel gemacht.", "a": "haben" },
+        { "q": "Im Urlaub ___ ich in Spanien. (Präteritum of sein)", "a": "war" }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "On vacation I was on an island.", "a": "Im Urlaub war ich auf einer Insel." },
+        { "q": "I travelled alone.", "a": "Ich war alleine unterwegs. / Ich bin alleine gereist." },
+        { "q": "We stayed in a youth hostel.", "a": "Wir haben in einer Jugendherberge übernachtet." },
+        { "q": "I did a language course.", "a": "Ich habe einen Sprachkurs gemacht." },
+        { "q": "What did you do on vacation? (du)", "a": "Was hast du im Urlaub gemacht?" }
+      ]
+    }
+  ],
+  "summary": [
+    "Talk about where you were with Im Urlaub war ich in/auf/an/bei ...",
+    "Say who with: Ich war mit meiner Familie unterwegs (mit + Dativ).",
+    "Say where you stayed: Wir haben im Hotel übernachtet.",
+    "Say what you did with the Perfekt: haben + Partizip II, sein + Partizip II for movement and bleiben.",
+    "Reflexive verbs: Ich habe mich erholt."
+  ]
+}

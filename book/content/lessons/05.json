@@ -1,0 +1,184 @@
+{
+  "n": 5,
+  "title": "The Alphabet",
+  "titleDe": "Das Alphabet",
+  "level": "A1",
+  "sourceNote": "The auto-captions garble the letter names and example words. Letter names are standard German. Example words for L, T, W, Y, Ö and Ü could not be recovered from the captions and are marked as supplementary; the others were reconstructed from the sounds in the captions.",
+  "objectives": [
+    "I can recite the German alphabet",
+    "I can name the four extra letters ä, ö, ü and ß",
+    "I can pronounce tricky letters: j, v, w, z, s",
+    "I can spell words aloud in German"
+  ],
+  "vocab": [
+    { "de": "das Alphabet", "pl": "die Alphabete", "en": "alphabet", "ar": "الأبجدية" },
+    { "de": "der Buchstabe", "pl": "die Buchstaben", "en": "letter", "ar": "حرف", "sup": true },
+    { "de": "der Apfel", "pl": "die Äpfel", "en": "apple", "ar": "تفاحة", "note": "A" },
+    { "de": "die Banane", "pl": "die Bananen", "en": "banana", "ar": "موزة", "note": "B" },
+    { "de": "die Couch", "pl": "die Couches / die Couchs", "en": "couch", "ar": "أريكة", "note": "C" },
+    { "de": "Deutschland", "en": "Germany", "ar": "ألمانيا", "note": "D" },
+    { "de": "der Elefant", "pl": "die Elefanten", "en": "elephant", "ar": "فيل", "note": "E" },
+    { "de": "der Fisch", "pl": "die Fische", "en": "fish", "ar": "سمكة", "note": "F" },
+    { "de": "die Gitarre", "pl": "die Gitarren", "en": "guitar", "ar": "غيتار", "note": "G" },
+    { "de": "das Haus", "pl": "die Häuser", "en": "house", "ar": "بيت", "note": "H" },
+    { "de": "der Igel", "pl": "die Igel", "en": "hedgehog", "ar": "قنفذ", "note": "I" },
+    { "de": "der Joghurt", "pl": "die Joghurts", "en": "yoghurt", "ar": "زبادي", "note": "J" },
+    { "de": "der Mann", "pl": "die Männer", "en": "man", "ar": "رجل", "note": "M" },
+    { "de": "die Orange", "pl": "die Orangen", "en": "orange", "ar": "برتقالة", "note": "O" },
+    { "de": "der Pinguin", "pl": "die Pinguine", "en": "penguin", "ar": "بطريق", "note": "P" },
+    { "de": "das Quiz", "pl": "die Quiz", "en": "quiz", "ar": "مسابقة", "note": "Q" },
+    { "de": "der Vogel", "pl": "die Vögel", "en": "bird", "ar": "طائر", "note": "V" },
+    { "de": "das Xylofon", "pl": "die Xylofone", "en": "xylophone", "ar": "إكسيليفون", "note": "X" },
+    { "de": "das Zebra", "pl": "die Zebras", "en": "zebra", "ar": "حمار وحشي", "note": "Z" },
+    { "de": "der Bär", "pl": "die Bären", "en": "bear", "ar": "دب", "note": "Ä" },
+    { "de": "der Fuß", "pl": "die Füße", "en": "foot", "ar": "قدم", "note": "ß" }
+  ],
+  "expressions": [
+    { "de": "Wie schreibt man das?", "en": "How do you spell / write that?", "ar": "", "sup": true },
+    { "de": "Buchstabieren Sie bitte!", "en": "Please spell it! (formal)", "ar": "", "sup": true }
+  ],
+  "patterns": [],
+  "grammar": [
+    {
+      "title": "The German alphabet",
+      "body": "The German alphabet has **30 letters**: the **26** letters of the English alphabet plus **ä**, **ö**, **ü** (called umlauts) and **ß** (called Eszett or 'scharfes S'). The letters are the same as in English; only the names and some sounds differ.\n\nThe word for alphabet is **das Alphabet**.",
+      "ar": "الأبجدية الألمانية 30 حرفًا: 26 حرفًا مثل الإنجليزية + ä ö ü ß.",
+      "table": {
+        "head": ["Letter", "Name (approx.)", "Letter", "Name (approx.)", "Letter", "Name (approx.)"],
+        "rows": [
+          ["A", "ah", "B", "beh", "C", "tseh"],
+          ["D", "deh", "E", "eh", "F", "eff"],
+          ["G", "geh", "H", "hah", "I", "ee"],
+          ["J", "yot", "K", "kah", "L", "ell"],
+          ["M", "emm", "N", "enn", "O", "oh"],
+          ["P", "peh", "Q", "koo", "R", "err"],
+          ["S", "ess", "T", "teh", "U", "oo"],
+          ["V", "fau", "W", "veh", "X", "iks"],
+          ["Y", "ÜP-si-lon", "Z", "tset", "", ""]
+        ]
+      }
+    },
+    {
+      "title": "The four extra letters",
+      "body": "**ä** sounds like the 'e' in English 'bear': **Bär**. **ö** and **ü** have no English equivalent (see Pronunciation). The dots on top are called **Umlaut**. These three letters are only used with a, o, u.\n\n**ß** looks like a capital B but sounds like **ss**: **Fuß**. It is called **Eszett**. It can also be written as ss in some situations, but you will see ß in many words.",
+      "examples": [
+        { "de": "der Bär", "en": "the bear" },
+        { "de": "der Fuß", "en": "the foot" }
+      ]
+    },
+    {
+      "title": "Letters that sound different from English",
+      "body": "**j** sounds like English **y**: Joghurt = 'yoghurt'.\n\n**v** sounds like English **f**: Vogel = 'fogel'.\n\n**w** sounds like English **v**: Wasser (water) = 'vasser'.\n\n**z** sounds like **ts**: Zebra = 'tsebra'.\n\n**s** before a vowel sounds like English **z**: Sonne = 'zonne'.\n\n**g** at the beginning of a word is a hard g, like in *Gitarre*. (Remember from lesson 3: the ending -ig sounds like -ich.)",
+      "examples": [
+        { "de": "der Joghurt", "en": "the yoghurt (j = y)" },
+        { "de": "der Vogel", "en": "the bird (v = f)" },
+        { "de": "das Zebra", "en": "the zebra (z = ts)" }
+      ]
+    },
+    {
+      "title": "Example words for each letter",
+      "body": "Each letter has a typical example word, like 'A for Apple'. Most words below come from the video. The words for K, M, N, R, S and U (and L, T, W, Y, Ö, Ü, which are not in the table) could not be recovered reliably from the captions, so treat them as editor suggestions.",
+      "table": {
+        "head": ["Letter", "Example", "Letter", "Example"],
+        "rows": [
+          ["A", "Apfel", "N", "Nagel"],
+          ["B", "Banane", "O", "Orange"],
+          ["C", "Couch", "P", "Pinguin"],
+          ["D", "Deutschland", "Q", "Quiz"],
+          ["E", "Elefant", "R", "rot"],
+          ["F", "Fisch", "S", "Sonne"],
+          ["G", "Gitarre", "U", "Uhr"],
+          ["H", "Haus", "V", "Vogel"],
+          ["I", "Igel", "X", "Xylofon"],
+          ["J", "Joghurt", "Z", "Zebra"],
+          ["K", "Kaffee", "M", "Mann"]
+        ]
+      }
+    }
+  ],
+  "mistakes": [],
+  "pronunciation": [
+    { "de": "ä", "tip": "Like the 'e' in 'bear' or 'bed' stretched: *Bär*, *Käse*." },
+    { "de": "ö", "tip": "Round your lips as for 'o' and say 'e'. *schön*, *zwölf*." },
+    { "de": "ü", "tip": "Round your lips as for 'oo' and say 'ee'. *fünf*, *über*." },
+    { "de": "ß", "tip": "Sounds like ss: *Fuß*, *heiße*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Spelling a name",
+      "lines": [
+        { "who": "A", "de": "Wie heißen Sie?", "en": "What is your name?" },
+        { "who": "B", "de": "Ich heiße Anna.", "en": "My name is Anna." },
+        { "who": "A", "de": "Buchstabieren Sie bitte!", "en": "Please spell it!" },
+        { "who": "B", "de": "A – enn – enn – ah.", "en": "A – N – N – A." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Practise spelling your own name aloud letter by letter. This is a very useful skill at a hotel, bank or doctor's office.",
+  "comprehension": [
+    { "q": "How many letters does the German alphabet have?", "a": "30: the 26 English letters plus ä, ö, ü and ß." },
+    { "q": "How does the German letter j sound?", "a": "Like English y." },
+    { "q": "How does the German letter v sound?", "a": "Like English f." },
+    { "q": "What sound does ß make?", "a": "ss (a double s)." },
+    { "q": "What are the dots over ä, ö and ü called?", "a": "Umlaut." }
+  ],
+  "exercises": [
+    {
+      "title": "Sounds of the letters",
+      "type": "choose",
+      "instructions": "Choose the correct English sound.",
+      "items": [
+        { "q": "German j sounds like English ___ (y / j)", "a": "y" },
+        { "q": "German v sounds like English ___ (v / f)", "a": "f", "expl": "Vogel = 'fogel'." },
+        { "q": "German w sounds like English ___ (w / v)", "a": "v", "expl": "Wasser = 'vasser'." },
+        { "q": "German z sounds like ___ (ts / z)", "a": "ts" },
+        { "q": "ß sounds like ___ (b / ss)", "a": "ss" }
+      ]
+    },
+    {
+      "title": "Alphabet facts",
+      "type": "fill",
+      "instructions": "Complete the sentence.",
+      "items": [
+        { "q": "The German alphabet has ___ letters.", "a": "30" },
+        { "q": "The four extra letters are ä, ö, ü and ___.", "a": "ß" },
+        { "q": "The dots over a, o, u are called ___.", "a": "Umlaut" },
+        { "q": "The letter ß is also called ___.", "a": "Eszett / scharfes S" },
+        { "q": "The German word for alphabet is das ___.", "a": "Alphabet" }
+      ]
+    },
+    {
+      "title": "Match letter and word",
+      "type": "match",
+      "instructions": "Match the letter with the example word.",
+      "items": [
+        { "q": "A", "a": "Apfel" },
+        { "q": "B", "a": "Banane" },
+        { "q": "F", "a": "Fisch" },
+        { "q": "G", "a": "Gitarre" },
+        { "q": "H", "a": "Haus" },
+        { "q": "J", "a": "Joghurt" },
+        { "q": "Z", "a": "Zebra" }
+      ]
+    },
+    {
+      "title": "Which word is it?",
+      "type": "answer",
+      "instructions": "Write the German word from the video.",
+      "items": [
+        { "q": "The word for 'banana'.", "a": "Banane" },
+        { "q": "The word for 'bear' (with ä).", "a": "Bär" },
+        { "q": "The word for 'foot' (with ß).", "a": "Fuß" },
+        { "q": "The word for 'bird' (starts with V).", "a": "Vogel" },
+        { "q": "The word for 'Germany'.", "a": "Deutschland" }
+      ]
+    }
+  ],
+  "summary": [
+    "The German alphabet has 30 letters: 26 English letters plus ä, ö, ü and ß.",
+    "j sounds like y, v sounds like f, w sounds like v, z sounds like ts, and s before a vowel sounds like z.",
+    "ß is pronounced ss; the dots on ä, ö, ü are called Umlaut.",
+    "Each letter has a typical example word, for example A – Apfel, B – Banane, Z – Zebra."
+  ]
+}

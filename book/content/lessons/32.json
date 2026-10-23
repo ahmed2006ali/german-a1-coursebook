@@ -1,0 +1,208 @@
+{
+  "n": 32,
+  "title": "Articles in the Dative",
+  "titleDe": "Artikel im Dativ",
+  "level": "A1",
+  "sourceNote": "The transcript is badly garbled in the middle. The rule, the question word Wem and the dative tables are clear. Only the first example (Die Mutter kauft der Tochter ein Kleid) and the verb danken are fully recognisable; the other examples are reconstructed or added.",
+  "objectives": [
+    "I can explain what the dative (indirect object) is and ask Wem?",
+    "I can use dem, der, dem, den + -n with definite articles",
+    "I can use einem, einer, einem and keinem, keiner, keinem, keinen",
+    "I know that some verbs, such as danken, always take the dative"
+  ],
+  "vocab": [
+    { "de": "der Dativ", "pl": "–", "en": "dative case", "ar": "حالة المفعول به غير المباشر", "note": "", "sup": false },
+    { "de": "das Kleid", "pl": "die Kleider", "en": "dress", "ar": "فستان", "note": "", "sup": false },
+    { "de": "die Tochter", "pl": "die Töchter", "en": "daughter", "ar": "ابنة", "note": "", "sup": false },
+    { "de": "kaufen", "en": "to buy", "ar": "يشتري", "note": "", "sup": false },
+    { "de": "danken", "en": "to thank", "ar": "يشكر", "note": "always with dative", "sup": false },
+    { "de": "schenken", "en": "to give (as a gift)", "ar": "يهدي", "note": "", "sup": true },
+    { "de": "der Arzt", "pl": "die Ärzte", "en": "doctor (male)", "ar": "طبيب", "note": "", "sup": true },
+    { "de": "der Lehrer", "pl": "die Lehrer", "en": "teacher (male)", "ar": "معلم", "note": "", "sup": true },
+    { "de": "die Freundin", "pl": "die Freundinnen", "en": "friend (female)", "ar": "صديقة", "note": "", "sup": true },
+    { "de": "der Freund", "pl": "die Freunde", "en": "friend (male)", "ar": "صديق", "note": "", "sup": true },
+    { "de": "das Buch", "pl": "die Bücher", "en": "book", "ar": "كتاب", "note": "", "sup": true },
+    { "de": "die Blume", "pl": "die Blumen", "en": "flower", "ar": "زهرة", "note": "", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Wem kaufst du ein Kleid?", "en": "For whom are you buying a dress?", "ar": "لمن تشتري فستاناً؟", "sup": true },
+    { "de": "Die Mutter kauft der Tochter ein Kleid.", "en": "The mother buys her daughter a dress.", "ar": "", "sup": false },
+    { "de": "Ich danke dem Mann.", "en": "I thank the man.", "ar": "", "sup": true }
+  ],
+  "patterns": [
+    { "form": "Subject + verb + dative (person) + accusative (thing).", "ex": "Die Mutter kauft der Tochter ein Kleid.", "en": "The mother buys her daughter a dress." },
+    { "form": "Wem + verb + subject + ...?", "ex": "Wem kauft die Mutter ein Kleid?", "en": "For whom does the mother buy a dress?" }
+  ],
+  "grammar": [
+    {
+      "title": "What is the dative?",
+      "body": "The dative is the **indirect object**: it tells **to whom or for whom** something happens. It is usually a **person**, singular or plural.\n\nSome sentences have only one object (accusative): *Die Mutter kauft ein Kleid.*\n\nOthers have two objects: *Die Mutter kauft **der Tochter** ein Kleid.* The dress (accusative) is what is bought; the daughter (dative) is the person for whom it is bought.",
+      "ar": "المفعول به غير المباشر (للشخص غالباً) يكون في حالة Dativ.",
+      "examples": [
+        { "de": "Die Mutter kauft ein Kleid.", "en": "The mother buys a dress." },
+        { "de": "Die Mutter kauft der Tochter ein Kleid.", "en": "The mother buys her daughter a dress." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "The question word: Wem?",
+      "body": "Use **Wem?** (to whom? for whom?) to ask for the dative object.\n\n*Wem kauft die Mutter ein Kleid?* – *Der Tochter.*\n\nRemember: **Wen?** = accusative (person), **Wem?** = dative (person), **Was?** = thing.",
+      "sup": false
+    },
+    {
+      "title": "Definite articles: der, die, das, die",
+      "body": "In the dative: **der → dem**, **die → der**, **das → dem**, plural **die → den**. In the plural you also add **-n** to the noun: *die Kinder → den Kindern*. (If the plural already ends in *-n*, add nothing: *den Frauen*.)\n\nMasculine and neuter are the same: **dem**.",
+      "ar": "المذكر والمحايد متشابهان: dem. وفي الجمع نضيف n إلى الاسم.",
+      "table": {
+        "head": ["", "masculine", "feminine", "neuter", "plural"],
+        "rows": [
+          ["Nominativ", "der Mann", "die Frau", "das Kind", "die Kinder"],
+          ["Akkusativ", "den Mann", "die Frau", "das Kind", "die Kinder"],
+          ["Dativ", "**dem** Mann", "**der** Frau", "**dem** Kind", "**den** Kinder**n**"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich schenke dem Mann ein Buch.", "en": "I give the man a book (as a gift)." },
+        { "de": "Ich schenke der Frau eine Blume.", "en": "I give the woman a flower." },
+        { "de": "Ich schenke dem Kind ein Buch.", "en": "I give the child a book." },
+        { "de": "Ich schenke den Kindern ein Buch.", "en": "I give the children a book." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Indefinite articles: ein, eine",
+      "body": "**ein → einem** (masculine), **eine → einer** (feminine), **ein → einem** (neuter). There is no plural *ein*; but if you use a plural noun as a dative object, add **-n** to the noun: *Ich schenke Kindern Bücher.*",
+      "table": {
+        "head": ["", "masculine", "feminine", "neuter", "plural"],
+        "rows": [
+          ["Nominativ", "ein Mann", "eine Frau", "ein Kind", "– Kinder"],
+          ["Akkusativ", "einen Mann", "eine Frau", "ein Kind", "– Kinder"],
+          ["Dativ", "**einem** Mann", "**einer** Frau", "**einem** Kind", "– Kinder**n**"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich schenke einem Mann ein Buch.", "en": "I give a man a book." },
+        { "de": "Er schenkt einer Frau Blumen.", "en": "He gives a woman flowers." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Negative article: kein, keine",
+      "body": "The negative article follows *ein*: **keinem** (masculine), **keiner** (feminine), **keinem** (neuter), **keinen** + **-n** on the noun (plural).",
+      "table": {
+        "head": ["", "masculine", "feminine", "neuter", "plural"],
+        "rows": [
+          ["Nominativ", "kein Mann", "keine Frau", "kein Kind", "keine Kinder"],
+          ["Akkusativ", "keinen Mann", "keine Frau", "kein Kind", "keine Kinder"],
+          ["Dativ", "**keinem** Mann", "**keiner** Frau", "**keinem** Kind", "**keinen** Kinder**n**"]
+        ]
+      },
+      "examples": [
+        { "de": "Er schenkt keiner Frau Blumen.", "en": "He gives no woman flowers." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Verbs that always take the dative",
+      "body": "The dative is not only for indirect objects. A few verbs take **only a dative object**, even when there is just one object. You will learn them during the course. One example is **danken** (to thank): *Ich danke dem Mann.* The man is the only object, but it is in the dative.\n\nSimple rule of endings: masculine and neuter articles end in **-m** (*dem, einem, keinem*), feminine articles end in **-r** (*der, einer, keiner*), plural articles end in **-n** (*den, keinen*), and the plural noun also gets **-n**.",
+      "ar": "بعض الأفعال، مثل danken، تأخذ دائماً مفعولاً في حالة Dativ.",
+      "examples": [
+        { "de": "Ich danke dem Mann.", "en": "I thank the man." },
+        { "de": "Wir danken den Lehrern.", "en": "We thank the teachers." }
+      ],
+      "sup": false
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Die Mutter kauft die Tochter ein Kleid.", "right": "Die Mutter kauft der Tochter ein Kleid.", "why": "The person who receives something is dative: *der Tochter*." },
+    { "wrong": "Ich schenke den Kinder ein Buch.", "right": "Ich schenke den Kindern ein Buch.", "why": "Dative plural: add *-n* to the noun." },
+    { "wrong": "Ich danke den Mann.", "right": "Ich danke dem Mann.", "why": "*danken* always takes the dative: *dem Mann*." }
+  ],
+  "pronunciation": [
+    { "de": "-m and -n at the end", "tip": "Say them clearly: *dem* ('daym') and *den* ('dayn') sound very similar, so listen carefully." },
+    { "de": "-er in der, einer, keiner", "tip": "The final *-er* is a soft, short 'uh': *der*, *einer*, *Lehrer*." }
+  ],
+  "dialogues": [
+    {
+      "title": "A gift",
+      "lines": [
+        { "who": "A", "de": "Wem schenkst du das Buch?", "en": "Whom are you giving the book to?" },
+        { "who": "B", "de": "Ich schenke es dem Lehrer.", "en": "I am giving it to the teacher." },
+        { "who": "A", "de": "Und die Blumen?", "en": "And the flowers?" },
+        { "who": "B", "de": "Die Blumen schenke ich der Freundin.", "en": "I give the flowers to my friend (female)." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn the dative endings as a pattern: masculine and neuter -m, feminine -r, plural -n (and an extra -n on the noun).",
+  "comprehension": [
+    { "q": "Which question word asks for the dative object?", "a": "Wem" },
+    { "q": "What are the dative forms of der, die, das and plural die?", "a": "dem, der, dem, den (+ -n on the plural noun)." },
+    { "q": "What is the dative of 'ein' for masculine and neuter nouns?", "a": "einem" },
+    { "q": "What happens to a plural noun in the dative?", "a": "It gets an extra -n (unless it already ends in -n)." },
+    { "q": "Give one verb that always takes the dative.", "a": "danken" }
+  ],
+  "exercises": [
+    {
+      "title": "dem, der or den?",
+      "type": "fill",
+      "instructions": "Complete with the dative form of the definite article.",
+      "items": [
+        { "q": "Ich schenke ___ Mann ein Buch. (der Mann)", "a": "dem", "expl": "Masculine dative." },
+        { "q": "Ich schenke ___ Frau eine Blume. (die Frau)", "a": "der", "expl": "Feminine dative." },
+        { "q": "Ich schenke ___ Kind ein Buch. (das Kind)", "a": "dem", "expl": "Neuter dative." },
+        { "q": "Ich schenke ___ Kindern ein Buch. (die Kinder)", "a": "den", "expl": "Plural dative." },
+        { "q": "Die Mutter kauft ___ Tochter ein Kleid. (die Tochter)", "a": "der", "expl": "Feminine dative." },
+        { "q": "Ich danke ___ Lehrer. (der Lehrer)", "a": "dem", "expl": "*danken* + dative." },
+        { "q": "Er schenkt ___ Freundin Blumen. (die Freundin)", "a": "der", "expl": "Feminine dative." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "einem, einer or keinem?",
+      "type": "choose",
+      "instructions": "Choose the correct dative article.",
+      "items": [
+        { "q": "Ich schenke ___ Bruder ein Buch. (einem / einer / einen)", "a": "einem", "expl": "*Bruder* is masculine." },
+        { "q": "Ich schenke ___ Schwester eine Blume. (einem / einer / einen)", "a": "einer", "expl": "*Schwester* is feminine." },
+        { "q": "Sie kauft ___ Kind einen Ball. (einem / einer / einen)", "a": "einem", "expl": "*Kind* is neuter." },
+        { "q": "Er schenkt ___ Frau Blumen. (keinem / keiner / keinen)", "a": "keiner", "expl": "Feminine dative." },
+        { "q": "Ich danke ___ Mann. (keinem / keiner / keinen)", "a": "keinem", "expl": "Masculine dative." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Dative plural: add -n",
+      "type": "fill",
+      "instructions": "Write the noun in the dative plural.",
+      "items": [
+        { "q": "Ich schenke den ___ ein Buch. (Kind)", "a": "Kindern", "expl": "*Kinder* + *-n*." },
+        { "q": "Ich danke den ___. (Freund)", "a": "Freunden", "expl": "*Freunde* + *-n*." },
+        { "q": "Er schenkt den ___ Blumen. (Frau)", "a": "Frauen", "expl": "*Frauen* already ends in *-n*." },
+        { "q": "Wir danken den ___. (Lehrer)", "a": "Lehrern", "expl": "*Lehrer* + *-n*." },
+        { "q": "Ich schenke den ___ ein Buch. (Schwester)", "a": "Schwestern", "expl": "*Schwestern* already ends in *-n*; the dative plural noun is the same." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Wen or Wem?",
+      "type": "choose",
+      "instructions": "Choose the correct question word.",
+      "items": [
+        { "q": "___ schenkt Max das Buch? (Wen / Wem)", "a": "Wem", "expl": "Indirect object, dative." },
+        { "q": "___ besucht Max? (Wen / Wem)", "a": "Wen", "expl": "*besuchen* takes the accusative." },
+        { "q": "___ dankt Anna? (Wen / Wem)", "a": "Wem", "expl": "*danken* takes the dative." },
+        { "q": "___ liebt Petra? (Wen / Wem)", "a": "Wen", "expl": "*lieben* takes the accusative." },
+        { "q": "___ kauft Eva ein Kleid? (Wen / Wem)", "a": "Wem", "expl": "For whom: dative." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "The dative is the indirect object, usually a person; ask **Wem?**.",
+    "Definite: der → dem, die → der, das → dem, plural die → den + -n on the noun.",
+    "Indefinite: einem (m), einer (f), einem (n); negative: keinem, keiner, keinem, keinen.",
+    "Masculine and neuter dative articles are the same.",
+    "Some verbs, for example danken, always take a dative object."
+  ]
+}

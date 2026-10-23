@@ -1,0 +1,214 @@
+{
+  "n": 7,
+  "title": "Getting to Know Someone",
+  "titleDe": "Jemanden kennenlernen",
+  "level": "A1",
+  "sourceNote": "The auto-captions are very garbled in this lesson, but the question list at the end of the video is clear enough to reconstruct all questions in the formal (Sie) and informal (du) form.",
+  "objectives": [
+    "I can ask someone's name, origin, home, age, languages, job, hobbies and family status",
+    "I can use both the formal (Sie) and informal (du) form of each question",
+    "I can answer these questions about myself",
+    "I can recognise how verb endings change with Sie and du"
+  ],
+  "vocab": [
+    { "de": "wie", "en": "how", "ar": "كيف" },
+    { "de": "wer", "en": "who", "ar": "من", "sup": true },
+    { "de": "was", "en": "what", "ar": "ماذا" },
+    { "de": "wo", "en": "where", "ar": "أين" },
+    { "de": "woher", "en": "where from", "ar": "من أين" },
+    { "de": "welche", "en": "which", "ar": "أي" },
+    { "de": "die Sprache", "pl": "die Sprachen", "en": "language", "ar": "لغة" },
+    { "de": "der Beruf", "pl": "die Berufe", "en": "profession, job", "ar": "مهنة" },
+    { "de": "beruflich", "en": "professionally, for a living", "ar": "مهنيًّا" },
+    { "de": "das Hobby", "pl": "die Hobbys", "en": "hobby", "ar": "هواية" },
+    { "de": "Sie", "en": "you (formal)", "ar": "أنتَ / أنتِ (رسمي)" },
+    { "de": "du", "en": "you (informal)", "ar": "أنتَ / أنتِ (غير رسمي)" },
+    { "de": "Ihr / Ihre", "en": "your (formal)", "ar": "" },
+    { "de": "dein / deine", "en": "your (informal)", "ar": "" },
+    { "de": "machen", "en": "to do, to make", "ar": "يفعل" },
+    { "de": "ja", "en": "yes", "ar": "نعم" },
+    { "de": "nein", "en": "no", "ar": "لا" },
+    { "de": "nicht", "en": "not", "ar": "ليس" }
+  ],
+  "expressions": [
+    { "de": "Wie heißen Sie? / Wie heißt du?", "en": "What is your name?", "ar": "" },
+    { "de": "Wie ist Ihr Familienname? / Wie ist dein Familienname?", "en": "What is your family name?", "ar": "" },
+    { "de": "Woher kommen Sie? / Woher kommst du?", "en": "Where do you come from?", "ar": "" },
+    { "de": "Wo wohnen Sie? / Wo wohnst du?", "en": "Where do you live?", "ar": "" },
+    { "de": "Wie alt sind Sie? / Wie alt bist du?", "en": "How old are you?", "ar": "" },
+    { "de": "Welche Sprachen sprechen Sie? / Welche Sprachen sprichst du?", "en": "Which languages do you speak?", "ar": "" },
+    { "de": "Was machen Sie beruflich? / Was machst du beruflich?", "en": "What do you do for a living?", "ar": "" },
+    { "de": "Was sind Ihre Hobbys? / Was sind deine Hobbys?", "en": "What are your hobbies?", "ar": "" },
+    { "de": "Sind Sie verheiratet? / Bist du verheiratet?", "en": "Are you married?", "ar": "" },
+    { "de": "Haben Sie Kinder? / Hast du Kinder?", "en": "Do you have children?", "ar": "" },
+    { "de": "Ja, ich bin verheiratet.", "en": "Yes, I am married.", "ar": "" },
+    { "de": "Nein, ich bin nicht verheiratet.", "en": "No, I am not married.", "ar": "" },
+    { "de": "Ja, ich habe zwei Kinder.", "en": "Yes, I have two children.", "ar": "" },
+    { "de": "Nein, ich habe keine Kinder.", "en": "No, I have no children.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Wie heißen Sie? / Wie heißt du?", "ex": "Wie heißt du?", "en": "What is your name?" },
+    { "form": "Woher + komm-en Sie / komm-st du?", "ex": "Woher kommst du?", "en": "Where do you come from?" },
+    { "form": "Wie alt + sind Sie / bist du?", "ex": "Wie alt bist du?", "en": "How old are you?" },
+    { "form": "Ich bin + [Zahl] Jahre alt.", "ex": "Ich bin dreiundzwanzig Jahre alt.", "en": "I am 23 years old." },
+    { "form": "Meine Hobbys sind + [Hobby] und [Hobby].", "ex": "Meine Hobbys sind Fernsehen und Musik hören.", "en": "My hobbies are watching TV and listening to music." }
+  ],
+  "grammar": [
+    {
+      "title": "Formal Sie or informal du",
+      "body": "Use **Sie** with adults you do not know well, officials and at work. Use **du** with friends, family and children.\n\nThe verb ending also changes. After **Sie** the verb usually ends in **-en**: *heißen Sie, kommen Sie, wohnen Sie, sprechen Sie, machen Sie*. After **du** it ends in **-st** (or **-t** for *heißt*): *heißt du, kommst du, wohnst du, sprichst du, machst du*.\n\nAlso, **Ihr** (your, formal) is always capitalised; **dein** (your, informal) is not.",
+      "ar": "Sie للرسمي والفعل ينتهي بـ -en، أما du فالفعل ينتهي بـ -st.",
+      "table": {
+        "head": ["Question", "Formal (Sie)", "Informal (du)"],
+        "rows": [
+          ["Name", "Wie heißen Sie?", "Wie heißt du?"],
+          ["Family name", "Wie ist Ihr Familienname?", "Wie ist dein Familienname?"],
+          ["Origin", "Woher kommen Sie?", "Woher kommst du?"],
+          ["Home", "Wo wohnen Sie?", "Wo wohnst du?"],
+          ["Age", "Wie alt sind Sie?", "Wie alt bist du?"],
+          ["Languages", "Welche Sprachen sprechen Sie?", "Welche Sprachen sprichst du?"],
+          ["Job", "Was machen Sie beruflich?", "Was machst du beruflich?"],
+          ["Hobbies", "Was sind Ihre Hobbys?", "Was sind deine Hobbys?"],
+          ["Married", "Sind Sie verheiratet?", "Bist du verheiratet?"],
+          ["Children", "Haben Sie Kinder?", "Hast du Kinder?"]
+        ]
+      }
+    },
+    {
+      "title": "Question words",
+      "body": "Question words come first: **Wie** (how), **Woher** (where from), **Wo** (where), **Welche** (which), **Was** (what). Questions without a question word (yes/no questions) start with the verb: **Sind Sie verheiratet?** **Haben Sie Kinder?** The answer starts with **Ja** or **Nein**.",
+      "examples": [
+        { "de": "Woher kommen Sie?", "en": "Where do you come from?" },
+        { "de": "Sind Sie verheiratet? – Ja, ich bin verheiratet.", "en": "Are you married? – Yes, I am married." }
+      ]
+    },
+    {
+      "title": "Saying no with nicht",
+      "body": "To say you are not something, put **nicht** before the word: **Ich bin nicht verheiratet.** To say you have none of something, use **kein/keine**: **Ich habe keine Kinder.**",
+      "ar": "nicht للنفي مع الصفة، وkeine للنفي مع الاسم.",
+      "examples": [
+        { "de": "Nein, ich bin nicht verheiratet.", "en": "No, I am not married." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Wie heißen du?", "right": "Wie heißt du?", "why": "With *du* the verb ends in -t / -st, not -en." },
+    { "wrong": "Wie alt bist Sie?", "right": "Wie alt sind Sie?", "why": "*Sie* goes with *sind*; *du* goes with *bist*." },
+    { "wrong": "Wie ist ihr Familienname?", "right": "Wie ist Ihr Familienname?", "why": "Formal *Ihr* is capitalised." }
+  ],
+  "pronunciation": [
+    { "de": "w", "tip": "Sounds like English v: *wo*, *wohnen*, *was*, *wie*." },
+    { "de": "sch", "tip": "Like English sh: *Schmidt*, *Sprache*." },
+    { "de": "sp", "tip": "At the start of a word sp sounds like 'shp': *sprechen*, *Sprache*." },
+    { "de": "ß", "tip": "*heißen*, *heißt* sound like 'high-sen', 'highst'." }
+  ],
+  "dialogues": [
+    {
+      "title": "Formal interview",
+      "lines": [
+        { "who": "A", "de": "Wie heißen Sie?", "en": "What is your name?" },
+        { "who": "B", "de": "Ich heiße Monika Schmidt.", "en": "My name is Monika Schmidt." },
+        { "who": "A", "de": "Woher kommen Sie?", "en": "Where do you come from?" },
+        { "who": "B", "de": "Ich komme aus Deutschland.", "en": "I come from Germany." },
+        { "who": "A", "de": "Was machen Sie beruflich?", "en": "What do you do for a living?" },
+        { "who": "B", "de": "Ich bin Lehrerin.", "en": "I am a teacher." },
+        { "who": "A", "de": "Haben Sie Kinder?", "en": "Do you have children?" },
+        { "who": "B", "de": "Ja, ich habe zwei Kinder.", "en": "Yes, I have two children." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Informal conversation",
+      "lines": [
+        { "who": "A", "de": "Wie heißt du?", "en": "What is your name?" },
+        { "who": "B", "de": "Ich heiße Tim. Und du?", "en": "My name is Tim. And you?" },
+        { "who": "A", "de": "Ich heiße Anna. Wie alt bist du?", "en": "My name is Anna. How old are you?" },
+        { "who": "B", "de": "Ich bin vierundzwanzig Jahre alt.", "en": "I am 24 years old." },
+        { "who": "A", "de": "Bist du verheiratet?", "en": "Are you married?" },
+        { "who": "B", "de": "Nein, ich bin nicht verheiratet.", "en": "No, I am not married." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn the questions in pairs: formal and informal. Choose the form that matches the person you are talking to.",
+  "comprehension": [
+    { "q": "How do you ask a stranger 'Where do you come from?'", "a": "Woher kommen Sie?" },
+    { "q": "How do you ask a friend 'How old are you?'", "a": "Wie alt bist du?" },
+    { "q": "What does 'Was machen Sie beruflich?' mean?", "a": "What do you do for a living?" },
+    { "q": "How do you say 'No, I am not married'?", "a": "Nein, ich bin nicht verheiratet." },
+    { "q": "Which verb ending goes with du in 'Wo wohnst du?'", "a": "-st (wohnst)." }
+  ],
+  "exercises": [
+    {
+      "title": "Formal to informal",
+      "type": "answer",
+      "instructions": "Change the formal question (Sie) into an informal question (du).",
+      "items": [
+        { "q": "Wie heißen Sie?", "a": "Wie heißt du?" },
+        { "q": "Woher kommen Sie?", "a": "Woher kommst du?" },
+        { "q": "Wo wohnen Sie?", "a": "Wo wohnst du?" },
+        { "q": "Wie alt sind Sie?", "a": "Wie alt bist du?" },
+        { "q": "Sind Sie verheiratet?", "a": "Bist du verheiratet?" },
+        { "q": "Haben Sie Kinder?", "a": "Hast du Kinder?" },
+        { "q": "Was sind Ihre Hobbys?", "a": "Was sind deine Hobbys?" }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Write the missing word.",
+      "items": [
+        { "q": "Woher ___ du? (come)", "a": "kommst" },
+        { "q": "Wo ___ Sie? (live)", "a": "wohnen" },
+        { "q": "Welche Sprachen ___ du? (speak)", "a": "sprichst", "expl": "*sprechen* changes e to i with du." },
+        { "q": "Was ___ du beruflich? (do)", "a": "machst" },
+        { "q": "Wie alt ___ Sie?", "a": "sind" },
+        { "q": "Wie ___ du? (are called)", "a": "heißt" }
+      ]
+    },
+    {
+      "title": "Choose the right question word",
+      "type": "choose",
+      "instructions": "Choose the correct word.",
+      "items": [
+        { "q": "___ kommen Sie? (Wo / Woher)", "a": "Woher" },
+        { "q": "___ wohnst du? (Wo / Woher)", "a": "Wo" },
+        { "q": "___ Sprachen sprechen Sie? (Welche / Wie)", "a": "Welche" },
+        { "q": "___ alt bist du? (Wie / Was)", "a": "Wie" },
+        { "q": "___ sind deine Hobbys? (Wer / Was)", "a": "Was" }
+      ]
+    },
+    {
+      "title": "Match question and answer",
+      "type": "match",
+      "instructions": "Match each question with a suitable answer.",
+      "items": [
+        { "q": "Wie heißt du?", "a": "Ich heiße Tim." },
+        { "q": "Woher kommen Sie?", "a": "Ich komme aus Deutschland." },
+        { "q": "Wo wohnst du?", "a": "Ich wohne in Berlin." },
+        { "q": "Wie alt sind Sie?", "a": "Ich bin dreißig Jahre alt." },
+        { "q": "Was machen Sie beruflich?", "a": "Ich bin Lehrerin." },
+        { "q": "Haben Sie Kinder?", "a": "Nein, ich habe keine Kinder." }
+      ]
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Write the correct question. The word with a capital letter comes first.",
+      "items": [
+        { "q": "kommst / Woher / du", "a": "Woher kommst du?" },
+        { "q": "Sie / alt / Wie / sind", "a": "Wie alt sind Sie?" },
+        { "q": "Hobbys / sind / Was / deine", "a": "Was sind deine Hobbys?" },
+        { "q": "du / verheiratet / Bist", "a": "Bist du verheiratet?" },
+        { "q": "Sie / Haben / Kinder", "a": "Haben Sie Kinder?" }
+      ]
+    }
+  ],
+  "summary": [
+    "Use Sie (formal) with strangers and du (informal) with friends; the verb ending changes: -en with Sie, -st / -t with du.",
+    "Main questions: Wie heißen Sie / heißt du? Woher kommen Sie / kommst du? Wo wohnen Sie / wohnst du? Wie alt sind Sie / bist du?",
+    "More questions: Welche Sprachen ...? Was machen Sie / machst du beruflich? Was sind Ihre / deine Hobbys? Sind Sie / Bist du verheiratet? Haben Sie / Hast du Kinder?",
+    "Ihr / Ihre (formal) is capitalised; dein / deine is informal.",
+    "Say no with nicht (Ich bin nicht verheiratet) or keine (Ich habe keine Kinder)."
+  ]
+}

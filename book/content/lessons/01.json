@@ -1,0 +1,399 @@
+{
+  "n": 1,
+  "title": "Greetings",
+  "titleDe": "Begrüßungen",
+  "level": "A1",
+  "sourceNote": "The auto-captions garble most German words; all greetings were reconstructed from context and standard German. The teacher says he will explain the endings in 'Guten' / 'Gute' in a later video.",
+  "objectives": [
+    "I can greet people in German at different times of the day",
+    "I can say goodbye formally and informally",
+    "I can recognise regional greetings such as Grüß Gott and Servus",
+    "I can pronounce ß and understand the basic sound of the umlaut ü"
+  ],
+  "vocab": [
+    {
+      "de": "der Tag",
+      "pl": "die Tage",
+      "en": "day",
+      "ar": "يوم",
+      "sup": true
+    },
+    {
+      "de": "der Morgen",
+      "pl": "die Morgen",
+      "en": "morning",
+      "ar": "صباح",
+      "sup": true
+    },
+    {
+      "de": "der Abend",
+      "pl": "die Abende",
+      "en": "evening",
+      "ar": "مساء",
+      "sup": true
+    },
+    {
+      "de": "die Nacht",
+      "pl": "die Nächte",
+      "en": "night",
+      "ar": "ليل",
+      "sup": true
+    }
+  ],
+  "expressions": [
+    {
+      "de": "Hallo!",
+      "en": "Hello! (the most common greeting; pronounced 'hallo', not 'hello')",
+      "ar": "مرحبًا"
+    },
+    {
+      "de": "Hi!",
+      "en": "Hi! (very informal, used by some people)",
+      "ar": ""
+    },
+    {
+      "de": "Guten Tag!",
+      "en": "Good day! / Hello! (mostly formal; any time of day)",
+      "ar": "طاب يومك"
+    },
+    {
+      "de": "Guten Morgen!",
+      "en": "Good morning!",
+      "ar": "صباح الخير"
+    },
+    {
+      "de": "Guten Abend!",
+      "en": "Good evening! (also fine late in the evening)",
+      "ar": "مساء الخير"
+    },
+    {
+      "de": "Gute Nacht!",
+      "en": "Good night! (said before going to bed)",
+      "ar": "تصبح على خير"
+    },
+    {
+      "de": "Grüß Gott!",
+      "en": "Hello! (regional: Austria and Bavaria)",
+      "ar": ""
+    },
+    {
+      "de": "Grüß dich!",
+      "en": "Hello! (casual, to one friend or known person)",
+      "ar": ""
+    },
+    {
+      "de": "Grüß Sie!",
+      "en": "Hello! (formal, to one person)",
+      "ar": ""
+    },
+    {
+      "de": "Servus!",
+      "en": "Hello! / Bye! (southern Germany, Austria; any time of day)",
+      "ar": ""
+    },
+    {
+      "de": "Tschüs!",
+      "en": "Bye! (informal, all over Germany)",
+      "ar": "إلى اللقاء"
+    },
+    {
+      "de": "Tschau! / Ciao!",
+      "en": "Bye! (from Italian, informal)",
+      "ar": ""
+    },
+    {
+      "de": "Auf Wiedersehen!",
+      "en": "Goodbye! (mostly formal)",
+      "ar": "إلى اللقاء"
+    },
+    {
+      "de": "Auf Wiederhören!",
+      "en": "Goodbye! (on the phone, when you cannot see the person)",
+      "ar": ""
+    },
+    {
+      "de": "Bis bald!",
+      "en": "See you soon! (among friends)",
+      "ar": "إلى اللقاء قريبًا"
+    },
+    {
+      "de": "Bis später!",
+      "en": "See you later! (alternative to Bis bald)",
+      "ar": "أراك لاحقًا"
+    }
+  ],
+  "patterns": [
+    {
+      "form": "Guten + [Tag / Morgen / Abend]!",
+      "ex": "Guten Morgen!",
+      "en": "Good morning!"
+    },
+    {
+      "form": "Gute Nacht!",
+      "ex": "Gute Nacht!",
+      "en": "Good night!"
+    },
+    {
+      "form": "Bis + [bald / später]!",
+      "ex": "Bis bald!",
+      "en": "See you soon!"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Formal and informal greetings",
+      "body": "German has two ways of addressing a person: **Sie** (formal, for strangers, officials, older people) and **du** (informal, for friends, family, children). You see this already in two regional greetings:\n\n**Grüß Sie!** is formal and **Grüß dich!** is casual. Both are used only for ONE person. For a group you cannot use them.\n\n**Guten Tag** (used during the day) and **Auf Wiedersehen** sound formal; **Guten Abend** is the formal evening greeting. **Hallo**, **Tschüs** and **Bis bald** sound informal.",
+      "ar": "Sie للمخاطب الرسمي، وdu للأصدقاء والعائلة.",
+      "examples": [
+        {
+          "de": "Grüß Sie, Frau Schmidt!",
+          "en": "Hello, Mrs Schmidt! (formal)"
+        },
+        {
+          "de": "Grüß dich, Anna!",
+          "en": "Hello, Anna! (informal)"
+        }
+      ]
+    },
+    {
+      "title": "Guten or Gute?",
+      "body": "Notice that **Guten** Tag, **Guten** Morgen and **Guten** Abend end in **-n**, but **Gute** Nacht does not. The teacher asks you not to worry about the reason yet: just learn the four greetings as fixed phrases. The reason is explained in later lessons."
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Hello!",
+      "right": "Hallo!",
+      "why": "The German word is spelled with *a* and pronounced 'hallo'."
+    },
+    {
+      "wrong": "Gute Morgen!",
+      "right": "Guten Morgen!",
+      "why": "Morning, day and evening all take *Guten*; only *Nacht* takes *Gute*."
+    },
+    {
+      "wrong": "Guten Nacht!",
+      "right": "Gute Nacht!",
+      "why": "*Gute Nacht* is a fixed phrase without -n."
+    }
+  ],
+  "pronunciation": [
+    {
+      "de": "ß",
+      "tip": "This letter is called Eszett and sounds like a double s (ss). *Grüß*, *Grüß Gott*."
+    },
+    {
+      "de": "ü",
+      "tip": "Make the lips round as for 'oo' but say 'ee'. *Grüß*, *Tschüs*."
+    },
+    {
+      "de": "s",
+      "tip": "Before a vowel s sounds like English z: *Servus* starts with a 'z' sound; *Sie* sounds like 'zee'."
+    },
+    {
+      "de": "Eye contact",
+      "tip": "When greeting in Germany, look the person in the eye and give a firm handshake."
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "In the morning",
+      "lines": [
+        {
+          "who": "A",
+          "de": "Guten Morgen!",
+          "en": "Good morning!"
+        },
+        {
+          "who": "B",
+          "de": "Guten Morgen!",
+          "en": "Good morning!"
+        },
+        {
+          "who": "A",
+          "de": "Auf Wiedersehen!",
+          "en": "Goodbye!"
+        },
+        {
+          "who": "B",
+          "de": "Auf Wiedersehen!",
+          "en": "Goodbye!"
+        }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Between friends",
+      "lines": [
+        {
+          "who": "A",
+          "de": "Hallo!",
+          "en": "Hello!"
+        },
+        {
+          "who": "B",
+          "de": "Hi!",
+          "en": "Hi!"
+        },
+        {
+          "who": "A",
+          "de": "Tschüs! Bis bald!",
+          "en": "Bye! See you soon!"
+        },
+        {
+          "who": "B",
+          "de": "Tschüs! Bis später!",
+          "en": "Bye! See you later!"
+        }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Repeat each greeting aloud several times. Pronunciation matters more than details at this stage: do not worry about the grammar yet.",
+  "comprehension": [
+    {
+      "q": "How do you say 'good evening' in German?",
+      "a": "Guten Abend."
+    },
+    {
+      "q": "Which greeting do you say before going to bed?",
+      "a": "Gute Nacht."
+    },
+    {
+      "q": "Which goodbye do you use on the phone?",
+      "a": "Auf Wiederhören."
+    },
+    {
+      "q": "Which greeting is formal: Grüß Sie or Grüß dich?",
+      "a": "Grüß Sie."
+    },
+    {
+      "q": "In which German state is Grüß Gott mostly spoken?",
+      "a": "In Bavaria (Bayern)."
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Match the greetings",
+      "type": "match",
+      "instructions": "Match each German greeting with its English meaning.",
+      "items": [
+        {
+          "q": "Guten Morgen!",
+          "a": "Good morning!"
+        },
+        {
+          "q": "Guten Abend!",
+          "a": "Good evening!"
+        },
+        {
+          "q": "Gute Nacht!",
+          "a": "Good night!"
+        },
+        {
+          "q": "Auf Wiedersehen!",
+          "a": "Goodbye!"
+        },
+        {
+          "q": "Bis bald!",
+          "a": "See you soon!"
+        },
+        {
+          "q": "Tschüs!",
+          "a": "Bye!"
+        }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete each greeting with one word.",
+      "items": [
+        {
+          "q": "Guten ___! (in the morning)",
+          "a": "Morgen"
+        },
+        {
+          "q": "Guten ___! (in the evening)",
+          "a": "Abend"
+        },
+        {
+          "q": "Gute ___! (before bed)",
+          "a": "Nacht"
+        },
+        {
+          "q": "Auf ___! (formal goodbye)",
+          "a": "Wiedersehen"
+        },
+        {
+          "q": "Bis ___! (See you soon!)",
+          "a": "bald"
+        }
+      ]
+    },
+    {
+      "title": "Choose the right greeting",
+      "type": "choose",
+      "instructions": "Choose the best greeting for the situation.",
+      "items": [
+        {
+          "q": "You say goodbye on the phone. (Auf Wiedersehen / Auf Wiederhören)",
+          "a": "Auf Wiederhören",
+          "expl": "On the phone you cannot see the person, so you 'hear' them again."
+        },
+        {
+          "q": "You greet one friend casually. (Grüß dich / Grüß Sie)",
+          "a": "Grüß dich",
+          "expl": "*dich* is informal; *Sie* is formal."
+        },
+        {
+          "q": "You greet a stranger formally at any time of day. (Guten Tag / Gute Nacht)",
+          "a": "Guten Tag",
+          "expl": "*Gute Nacht* is only for going to bed."
+        },
+        {
+          "q": "You leave a friend you will see later. (Bis später / Guten Abend)",
+          "a": "Bis später"
+        },
+        {
+          "q": "You say goodnight to your family. (Gute Nacht / Guten Morgen)",
+          "a": "Gute Nacht"
+        }
+      ]
+    },
+    {
+      "title": "Which greeting is it?",
+      "type": "answer",
+      "instructions": "Write the German greeting.",
+      "items": [
+        {
+          "q": "Say 'Good day!' (formal, any time of day).",
+          "a": "Guten Tag"
+        },
+        {
+          "q": "Say 'Hello' in the way people greet in Bavaria and Austria (with God).",
+          "a": "Grüß Gott"
+        },
+        {
+          "q": "Say 'See you later!'",
+          "a": "Bis später"
+        },
+        {
+          "q": "Say 'Hello!' (the most common greeting).",
+          "a": "Hallo"
+        },
+        {
+          "q": "Say 'Good evening!'",
+          "a": "Guten Abend"
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Hallo is the most common greeting for any time of day. Guten Tag is more formal and used during the day. Guten Abend is for the evening.",
+    "Use Guten Morgen, Guten Abend and Gute Nacht for specific times of day.",
+    "Regional greetings: Grüß Gott, Grüß dich / Grüß Sie, Servus. Informal goodbyes: Tschüs, Ciao, Bis bald, Bis später.",
+    "Auf Wiedersehen is the formal goodbye; Auf Wiederhören is used on the phone.",
+    "ß sounds like ss, and ü is a rounded 'ee' sound."
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "n": 39,
+  "title": "The Imperative",
+  "titleDe": "Der Imperativ",
+  "level": "A1",
+  "sourceNote": "The captions lose almost all German example sentences and verb forms in this lesson. The example sentences and the verb lists (geben, kommen, lernen, fahren; reden, senden, arbeiten; essen, lesen, aufstehen/anfangen) were rebuilt from the teacher's rules. For the special verbs the first (haben) and the last (sein) are clear; the middle verb is unclear in the captions, so sehen was added as a supplement.",
+  "objectives": [
+    "I can explain what the imperative is and when to use it",
+    "I can build the imperative for du, ihr and Sie",
+    "I can handle verbs ending in -d / -t and verbs with a vowel change",
+    "I can use the special imperatives of haben and sein"
+  ],
+  "vocab": [
+    { "de": "der Imperativ", "pl": "die Imperative", "en": "imperative", "ar": "صيغة الأمر" },
+    { "de": "die Bitte", "pl": "die Bitten", "en": "request", "ar": "طلب" },
+    { "de": "der Befehl", "pl": "die Befehle", "en": "command", "ar": "أمر" },
+    { "de": "der Rat", "pl": "–", "en": "advice", "ar": "نصيحة" },
+    { "de": "bitte", "en": "please", "ar": "من فضلك" },
+    { "de": "doch", "en": "(adds emphasis to a command)", "ar": "تُضيف تأكيدًا للأمر" },
+    { "de": "geben", "en": "to give", "ar": "يعطي", "note": "du gibst → gib!" },
+    { "de": "kommen", "en": "to come", "ar": "يأتي", "note": "komm!" },
+    { "de": "lernen", "en": "to learn", "ar": "يتعلم", "note": "lern!" },
+    { "de": "fahren", "en": "to drive, to go", "ar": "يسوق", "note": "du fährst → fahr!" },
+    { "de": "arbeiten", "en": "to work", "ar": "يعمل", "note": "arbeite!" },
+    { "de": "essen", "en": "to eat", "ar": "يأكل", "note": "du isst → iss!" },
+    { "de": "lesen", "en": "to read", "ar": "يقرأ", "note": "du liest → lies!" },
+    { "de": "haben", "en": "to have", "ar": "يملك", "note": "hab! habt! haben Sie!" },
+    { "de": "sein", "en": "to be", "ar": "يكون", "note": "sei! seid! seien Sie!" },
+    { "de": "sehen", "en": "to see", "ar": "يرى", "note": "sieh! seht! sehen Sie!", "sup": true },
+    { "de": "vorsichtig", "en": "careful(ly)", "ar": "بحذر", "sup": true },
+    { "de": "die Geduld", "pl": "–", "en": "patience", "ar": "صبر", "sup": true },
+    { "de": "das Gemüse", "pl": "–", "en": "vegetables", "ar": "خضروات", "sup": true },
+    { "de": "die Tür", "pl": "die Türen", "en": "door", "ar": "باب", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Komm bitte mit!", "en": "Please come along!", "sup": true },
+    { "de": "Fahr vorsichtig!", "en": "Drive carefully!", "sup": true },
+    { "de": "Haben Sie bitte Geduld!", "en": "Please be patient!", "sup": true },
+    { "de": "Sei bitte nett!", "en": "Please be nice!", "sup": true },
+    { "de": "Mach doch mit!", "en": "Come on, join in!", "sup": true }
+  ],
+  "patterns": [
+    { "form": "[Verb-Stamm] (du) + [Rest]!", "ex": "Komm bitte mit!", "en": "Please come along!" },
+    { "form": "[ihr-Form ohne ihr] + [Rest]!", "ex": "Kommt bitte mit!", "en": "Please come along!" },
+    { "form": "[Infinitiv] + Sie + [Rest]!", "ex": "Kommen Sie bitte mit!", "en": "Please come along!" }
+  ],
+  "grammar": [
+    {
+      "title": "What is the imperative?",
+      "body": "The imperative is used for **requests**, **commands**, **advice** and **instructions**. English examples: *Drive carefully! Eat your vegetables! Close the door! Please listen to me!*\n\nImperative sentences usually **begin with the verb** and typically end with an **exclamation mark**. You must also change your **intonation**: a command must sound like a command.",
+      "examples": [
+        { "de": "Haben Sie bitte Geduld!", "en": "Please be patient! (request)" },
+        { "de": "Mach doch mit!", "en": "Come on, join in! (command)" },
+        { "de": "Fahr vorsichtig!", "en": "Drive carefully! (advice)" }
+      ]
+    },
+    {
+      "title": "When to use it",
+      "body": "**Request:** add **bitte** to be polite. **Command or order:** the word **doch** adds emphasis. **Advice:** it sounds more polite with **bitte**. The imperative is used only when you talk **directly** to someone: to **du**, to **ihr** (plural of du) and to **Sie** (singular and plural). There is no imperative for ich, er, sie, es.",
+      "ar": "الأمر يُستعمل فقط مع du و ihr و Sie."
+    },
+    {
+      "title": "Imperative with du",
+      "body": "Take the du form of the verb and **remove du and the ending -st**.\n\n*du gibst* → **Gib!**; *du kommst* → **Komm!**; *du lernst* → **Lern!**; *du fährst* → **Fahr!** (the umlaut of *fahren* only appears in the conjugation, so it is removed too).\n\nVerbs whose stem ends in **-d or -t** (and some others) keep an **-e**: *du redest* → **Rede!**, *du sendest* → **Sende!**, *du arbeitest* → **Arbeite!**\n\nIrregular verbs with a vowel change e → i / ie: *du isst* → **Iss!**, *du liest* → **Lies!**\n\nWith separable verbs the prefix stands at the end: *du stehst auf* → **Steh auf!**, *du fängst an* → **Fang an!**",
+      "table": {
+        "head": ["Infinitive", "du ...", "Imperative (du)"],
+        "rows": [
+          ["geben", "du gibst", "Gib!"],
+          ["kommen", "du kommst", "Komm!"],
+          ["lernen", "du lernst", "Lern!"],
+          ["fahren", "du fährst", "Fahr!"],
+          ["arbeiten", "du arbeitest", "Arbeite!"],
+          ["essen", "du isst", "Iss!"],
+          ["lesen", "du liest", "Lies!"],
+          ["aufstehen", "du stehst auf", "Steh auf!"]
+        ]
+      }
+    },
+    {
+      "title": "Imperative with ihr and Sie",
+      "body": "**ihr:** just remove **ihr**: *ihr gebt* → **Gebt!**, *ihr kommt* → **Kommt!**, *ihr lernt* → **Lernt!**, *ihr fahrt* → **Fahrt!**\n\n**Sie:** change the order of verb and Sie. The verb comes first, **Sie** second: *Sie geben* → **Geben Sie!**, *Sie kommen* → **Kommen Sie!**, *Sie lernen* → **Lernen Sie!**, *Sie fahren* → **Fahren Sie!**",
+      "table": {
+        "head": ["Infinitive", "du", "ihr", "Sie"],
+        "rows": [
+          ["geben", "Gib!", "Gebt!", "Geben Sie!"],
+          ["kommen", "Komm!", "Kommt!", "Kommen Sie!"],
+          ["lernen", "Lern!", "Lernt!", "Lernen Sie!"],
+          ["fahren", "Fahr!", "Fahrt!", "Fahren Sie!"]
+        ]
+      }
+    },
+    {
+      "title": "Special verbs: haben and sein",
+      "body": "Learn these imperatives by heart. For **haben** only the du form is special; for **sein** the du and the Sie forms are special.",
+      "ar": "sein: sei / seid / seien Sie – احفظها كما هي.",
+      "table": {
+        "head": ["Infinitive", "du", "ihr", "Sie"],
+        "rows": [
+          ["haben", "Hab!", "Habt!", "Haben Sie!"],
+          ["sein", "Sei!", "Seid!", "Seien Sie!"],
+          ["sehen", "Sieh!", "Seht!", "Sehen Sie!"]
+        ]
+      },
+      "examples": [
+        { "de": "Hab Geduld!", "en": "Be patient!" },
+        { "de": "Seid bitte ruhig!", "en": "Please be quiet! (ihr)" },
+        { "de": "Seien Sie bitte vorsichtig!", "en": "Please be careful! (Sie)" }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Du komm bitte mit!", "right": "Komm bitte mit!", "why": "In the imperative you normally leave out *du*." },
+    { "wrong": "Fähr vorsichtig!", "right": "Fahr vorsichtig!", "why": "The umlaut is removed in the du-imperative of fahren." },
+    { "wrong": "Sind Sie bitte ruhig!", "right": "Seien Sie bitte ruhig!", "why": "The Sie-imperative of *sein* is special: *seien Sie*." }
+  ],
+  "pronunciation": [
+    { "de": "Intonation", "tip": "Imperative sentences go down in pitch at the end and sound firm: *Komm her!*. With *bitte* they sound friendlier." },
+    { "de": "ie in lies / sieh", "tip": "*ie* is a long 'ee': *Lies!* = 'lees', *Sieh!* = 'zee'." }
+  ],
+  "dialogues": [
+    {
+      "title": "In the classroom",
+      "lines": [
+        { "who": "A", "de": "Lern bitte Deutsch, Tom!", "en": "Please learn German, Tom!" },
+        { "who": "B", "de": "Ich lerne doch jeden Tag!", "en": "But I learn every day!" },
+        { "who": "A", "de": "Dann lies auch das Buch. Und sei bitte ruhig!", "en": "Then also read the book. And please be quiet!" },
+        { "who": "B", "de": "Okay. Kommt ihr mit zum Kurs?", "en": "Okay. Are you coming along to class?" },
+        { "who": "C", "de": "Ja, wir kommen. Haben Sie bitte Geduld, Frau Meyer!", "en": "Yes, we are coming. Please be patient, Mrs Meyer!" }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Practise with three verbs a day: write the imperative in all three forms (du, ihr, Sie) and say them aloud with a firm voice.",
+  "comprehension": [
+    { "q": "Where does the verb stand in an imperative sentence?", "a": "At the beginning (first position)." },
+    { "q": "For which persons can you form the imperative?", "a": "du, ihr and Sie." },
+    { "q": "How do you form the du-imperative of a regular verb?", "a": "Remove du and the ending -st: du kommst → Komm!" },
+    { "q": "What is the Sie-imperative of kommen?", "a": "Kommen Sie!" },
+    { "q": "What are the imperatives of sein?", "a": "Sei! (du), Seid! (ihr), Seien Sie! (Sie)." }
+  ],
+  "exercises": [
+    {
+      "title": "Imperative with du",
+      "type": "fill",
+      "instructions": "Write the imperative (du form).",
+      "items": [
+        { "q": "Du gibst mir das Buch. → ___ mir bitte das Buch!", "a": "Gib", "expl": "gibst → gib." },
+        { "q": "Du kommst mit. → ___ bitte mit!", "a": "Komm", "expl": "kommst → komm." },
+        { "q": "Du fährst vorsichtig. → ___ vorsichtig!", "a": "Fahr", "expl": "No umlaut." },
+        { "q": "Du arbeitest. → ___ bitte!", "a": "Arbeite", "expl": "Stem ends in -t: keep -e." },
+        { "q": "Du isst das Gemüse. → ___ das Gemüse!", "a": "Iss", "expl": "essen: du isst → iss." },
+        { "q": "Du liest das Buch. → ___ das Buch!", "a": "Lies", "expl": "lesen: du liest → lies." },
+        { "q": "Du bist nett. → ___ bitte nett!", "a": "Sei", "expl": "Special imperative of sein." }
+      ]
+    },
+    {
+      "title": "Imperative with ihr and Sie",
+      "type": "fill",
+      "instructions": "Write the imperative form.",
+      "items": [
+        { "q": "Ihr kommt. → ___ bitte!", "a": "Kommt" },
+        { "q": "Ihr lernt Deutsch. → ___ Deutsch!", "a": "Lernt" },
+        { "q": "Ihr fahrt vorsichtig. → ___ vorsichtig!", "a": "Fahrt" },
+        { "q": "Ihr seid ruhig. → ___ bitte ruhig!", "a": "Seid" },
+        { "q": "Sie kommen mit. → ___ Sie bitte mit!", "a": "Kommen" },
+        { "q": "Sie haben Geduld. → ___ Sie bitte Geduld!", "a": "Haben" },
+        { "q": "Sie sind vorsichtig. → ___ Sie bitte vorsichtig!", "a": "Seien", "expl": "Special: seien Sie." }
+      ]
+    },
+    {
+      "title": "Match the forms",
+      "type": "match",
+      "instructions": "Match the verb with its du-imperative.",
+      "items": [
+        { "q": "geben", "a": "Gib!" },
+        { "q": "kommen", "a": "Komm!" },
+        { "q": "lernen", "a": "Lern!" },
+        { "q": "fahren", "a": "Fahr!" },
+        { "q": "essen", "a": "Iss!" },
+        { "q": "lesen", "a": "Lies!" },
+        { "q": "sein", "a": "Sei!" }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "Give me the book, please! (du)", "a": "Gib mir bitte das Buch!" },
+        { "q": "Drive carefully! (du)", "a": "Fahr vorsichtig!" },
+        { "q": "Please come along! (Sie)", "a": "Kommen Sie bitte mit!" },
+        { "q": "Please be quiet! (ihr)", "a": "Seid bitte ruhig!" },
+        { "q": "Eat the vegetables! (ihr)", "a": "Esst das Gemüse!", "expl": "ihr esst → Esst." }
+      ]
+    }
+  ],
+  "summary": [
+    "The imperative gives requests, commands, advice and instructions; the verb comes first.",
+    "du: remove du and -st (Komm! Gib!); keep -e after -d / -t (Arbeite!); essen → Iss!, lesen → Lies!",
+    "ihr: remove ihr (Kommt!). Sie: verb + Sie (Kommen Sie!).",
+    "Special: haben → Hab! Habt! Haben Sie!; sein → Sei! Seid! Seien Sie!",
+    "Use bitte to be polite and doch for emphasis."
+  ]
+}

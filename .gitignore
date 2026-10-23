@@ -1,0 +1,18 @@
+# Dependencies & caches
+book/node_modules/
+book/.venv/
+
+# Regenerated build artifacts (run ./book/build.sh)
+book/build/
+book/tools/_probe.mjs
+book/tools/_a.*
+
+# OS / editor
+.DS_Store
+*.swp
+.env
+.env.*
+
+# Playwright probe temp
+book/t.mjs
+book/fetch.mjs

@@ -1,0 +1,206 @@
+{
+  "n": 51,
+  "title": "Writing an Invitation",
+  "titleDe": "Brief schreiben - Einladung",
+  "level": "A1",
+  "sourceNote": "The transcript is badly garbled (mixed English and misheard German). The phrases and sample letters were reconstructed into standard German following the structure the teacher presents.",
+  "objectives": [
+    "I can write an informal invitation letter",
+    "I can give the time, the place and ask someone to bring something",
+    "I can accept an invitation in writing",
+    "I can politely decline an invitation and give a reason"
+  ],
+  "vocab": [
+    { "de": "die Einladung", "pl": "die Einladungen", "en": "invitation", "ar": "دعوة", "note": "" },
+    { "de": "einladen", "en": "to invite", "ar": "يدعو", "note": "ich lade dich ein" },
+    { "de": "schreiben", "en": "to write", "ar": "يكتب", "note": "" },
+    { "de": "der Brief", "pl": "die Briefe", "en": "letter", "ar": "رسالة", "note": "", "sup": true },
+    { "de": "die Anrede", "pl": "die Anreden", "en": "salutation", "ar": "التحية في بداية الرسالة", "note": "Lieber ..., Liebe ...", "sup": true },
+    { "de": "die Grußformel", "pl": "die Grußformeln", "en": "closing phrase", "ar": "عبارة الختام", "note": "Viele Grüße" },
+    { "de": "die Unterschrift", "pl": "die Unterschriften", "en": "signature", "ar": "توقيع", "note": "" },
+    { "de": "das Fest", "pl": "die Feste", "en": "celebration, party", "ar": "حفلة", "note": "" },
+    { "de": "die Party", "pl": "die Partys", "en": "party", "ar": "حفلة", "note": "" },
+    { "de": "der Geburtstag", "pl": "die Geburtstage", "en": "birthday", "ar": "عيد ميلاد", "note": "" },
+    { "de": "der Hochzeitstag", "pl": "die Hochzeitstage", "en": "wedding anniversary / wedding day", "ar": "يوم الزفاف", "note": "" },
+    { "de": "der Treffpunkt", "pl": "die Treffpunkte", "en": "meeting point", "ar": "مكان اللقاء", "note": "" },
+    { "de": "das Programm", "pl": "die Programme", "en": "programme", "ar": "برنامج", "note": "" },
+    { "de": "der Kuchen", "pl": "die Kuchen", "en": "cake", "ar": "كعكة", "note": "" },
+    { "de": "der Salat", "pl": "die Salate", "en": "salad", "ar": "سلطة", "note": "" },
+    { "de": "das Bier", "pl": "die Biere", "en": "beer", "ar": "بيرة", "note": "" },
+    { "de": "die Prüfung", "pl": "die Prüfungen", "en": "exam", "ar": "امتحان", "note": "" },
+    { "de": "der Spaß", "pl": "–", "en": "fun", "ar": "متعة", "note": "Viel Spaß!" },
+    { "de": "mitbringen", "en": "to bring along", "ar": "يُحضر معه", "note": "ich bringe ... mit" },
+    { "de": "mitkommen", "en": "to come along", "ar": "يأتي معه", "note": "ich komme mit" },
+    { "de": "beginnen", "en": "to begin", "ar": "يبدأ", "note": "" },
+    { "de": "anfangen", "en": "to start", "ar": "يبدأ", "note": "wir fangen ... an" },
+    { "de": "sich freuen auf", "en": "to look forward to", "ar": "يتطلع إلى", "note": "ich freue mich auf ..." },
+    { "de": "hoffentlich", "en": "hopefully", "ar": "آمل أن", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Lieber Boris, / Liebe Julia,", "en": "Dear Boris, / Dear Julia,", "ar": "" },
+    { "de": "Ich habe am Samstag Geburtstag.", "en": "It is my birthday on Saturday.", "ar": "" },
+    { "de": "Ich möchte dich zum Essen einladen.", "en": "I would like to invite you for a meal.", "ar": "" },
+    { "de": "Wir laden dich ein.", "en": "We invite you.", "ar": "" },
+    { "de": "Ich möchte dich gern dabeihaben.", "en": "I would like to have you with us.", "ar": "" },
+    { "de": "Der Treffpunkt ist bei uns zu Hause.", "en": "The meeting point is at our house.", "ar": "" },
+    { "de": "Wir treffen uns im Restaurant Marienhof.", "en": "We'll meet in the restaurant Marienhof.", "ar": "" },
+    { "de": "Wir fangen um 18 Uhr an.", "en": "We start at 6 pm.", "ar": "" },
+    { "de": "Die Party beginnt um 19 Uhr.", "en": "The party starts at 7 pm.", "ar": "" },
+    { "de": "Kannst du einen Salat mitbringen?", "en": "Can you bring a salad?", "ar": "" },
+    { "de": "Hoffentlich hast du Zeit.", "en": "I hope you have time.", "ar": "" },
+    { "de": "Viele Grüße", "en": "Best wishes", "ar": "" },
+    { "de": "Vielen Dank für die Einladung.", "en": "Thank you very much for the invitation.", "ar": "" },
+    { "de": "Ich komme sehr gern.", "en": "I'd love to come.", "ar": "" },
+    { "de": "Ich freue mich schon auf Samstag.", "en": "I'm already looking forward to Saturday.", "ar": "" },
+    { "de": "Wann und wo findet die Party statt?", "en": "When and where does the party take place?", "ar": "" },
+    { "de": "Kann ich etwas mitbringen?", "en": "Can I bring something?", "ar": "" },
+    { "de": "Kann mein Freund / meine Freundin auch mitkommen?", "en": "Can my boyfriend/friend / my girlfriend/friend come too?", "ar": "" },
+    { "de": "Es tut mir leid, aber ich kann nicht kommen.", "en": "I'm sorry, but I can't come.", "ar": "" },
+    { "de": "Ich habe am Montag eine Prüfung.", "en": "I have an exam on Monday.", "ar": "" },
+    { "de": "Ich bin am Samstag schon verabredet.", "en": "I already have plans on Saturday.", "ar": "" },
+    { "de": "Ich wünsche dir viel Spaß.", "en": "I wish you lots of fun.", "ar": "" },
+    { "de": "Hoffentlich sehen wir uns bald.", "en": "I hope we see each other soon.", "ar": "" },
+    { "de": "Viele Grüße und bis bald!", "en": "Best wishes and see you soon!", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Ich habe am + [day] Geburtstag.", "ex": "Ich habe am Samstag Geburtstag.", "en": "My birthday is on Saturday." },
+    { "form": "Ich möchte dich + [zum ...] einladen.", "ex": "Ich möchte dich zum Essen einladen.", "en": "I would like to invite you for dinner." },
+    { "form": "Die Party beginnt um + [time].", "ex": "Die Party beginnt um 19 Uhr.", "en": "The party starts at 7 pm." },
+    { "form": "Kannst du + [thing] mitbringen?", "ex": "Kannst du einen Kuchen mitbringen?", "en": "Can you bring a cake?" }
+  ],
+  "grammar": [
+    {
+      "title": "Parts of an informal letter",
+      "body": "An informal letter to a friend has four parts: 1) the **Anrede** (salutation), 2) the main text, 3) the **Grußformel** (closing) and 4) the **Unterschrift** (your name).\n\nFor a man write **Lieber** + name, for a woman **Liebe** + name, followed by a comma. The first word after the comma is not capitalised (unless it is a noun). Close with **Viele Grüße** and then your name.",
+      "ar": "Lieber للمذكر، Liebe للمؤنث، ثم فاصلة، والكلمة التالية بحرف صغير.",
+      "examples": [
+        { "de": "Lieber Boris,", "en": "Dear Boris," },
+        { "de": "Liebe Julia,", "en": "Dear Julia," },
+        { "de": "Viele Grüße\nMonika", "en": "Best wishes\nMonika" }
+      ]
+    },
+    {
+      "title": "Writing the invitation",
+      "body": "First say why you are inviting (a party, a birthday, a wedding day). Then invite with **einladen**: the person you invite is in the accusative (**dich**, **euch**). Then give the place and time, and ask for something if you like.\n\n**mitbringen**, **mitkommen** and **anfangen** are separable verbs: the small part (**mit**, **an**) goes to the end of the sentence.",
+      "examples": [
+        { "de": "Wir machen ein Fest.", "en": "We are having a party." },
+        { "de": "Ich lade dich ein.", "en": "I invite you." },
+        { "de": "Wir laden euch ein.", "en": "We invite you (plural)." },
+        { "de": "Wir fangen um 18 Uhr an.", "en": "We start at 6 pm." },
+        { "de": "Kannst du einen Kuchen mitbringen?", "en": "Can you bring a cake?" }
+      ]
+    },
+    {
+      "title": "Reacting to an invitation",
+      "body": "Always start by thanking: **Vielen Dank für die Einladung.** Then accept (**Ich komme sehr gern.**) or decline politely (**Es tut mir leid, aber ich kann nicht kommen.**) and give a reason. After *sehr gern* you can offer to bring something: **Ich bringe gern einen Kuchen mit.**\n\nWhen declining, end kindly: **Ich wünsche dir viel Spaß. Hoffentlich sehen wir uns bald.**",
+      "examples": [
+        { "de": "Ich bringe gern einen Salat mit.", "en": "I'll gladly bring a salad." },
+        { "de": "Ich kann leider nicht kommen.", "en": "Unfortunately I can't come." },
+        { "de": "Am Samstag muss ich arbeiten.", "en": "I have to work on Saturday." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Lieber Julia,", "right": "Liebe Julia,", "why": "A woman gets *Liebe*, a man gets *Lieber*." },
+    { "wrong": "Ich bringe einen Kuchen.", "right": "Ich bringe einen Kuchen mit.", "why": "*mitbringen* is separable: *mit* goes to the end." },
+    { "wrong": "Ich lade du ein.", "right": "Ich lade dich ein.", "why": "The invited person is the accusative object: *dich*." }
+  ],
+  "pronunciation": [
+    { "de": "ü", "tip": "Round your lips as for 'oo' and say 'ee': *Grüße*, *Prüfung*." },
+    { "de": "ß", "tip": "A sharp 's' after a long vowel: *Grüße*." }
+  ],
+  "dialogues": [
+    {
+      "title": "The invitation (letter)",
+      "lines": [
+        { "who": "Monika", "de": "Lieber Boris,", "en": "Dear Boris," },
+        { "who": "Monika", "de": "ich habe am Samstag Geburtstag und möchte dich gern einladen. Der Treffpunkt ist bei uns zu Hause. Die Party beginnt um 18 Uhr. Kannst du vielleicht Bier mitbringen? Hoffentlich hast du Zeit.", "en": "It is my birthday on Saturday and I would like to invite you. The meeting point is at our house. The party starts at 6 pm. Can you maybe bring beer? I hope you have time." },
+        { "who": "Monika", "de": "Viele Grüße\nMonika", "en": "Best wishes\nMonika" }
+      ]
+    },
+    {
+      "title": "Accepting (letter)",
+      "lines": [
+        { "who": "Boris", "de": "Liebe Monika,", "en": "Dear Monika," },
+        { "who": "Boris", "de": "vielen Dank für deine Einladung. Ich freue mich schon sehr auf Samstag und komme sehr gern. Ich bringe auch Bier mit. Kann meine Freundin auch mitkommen?", "en": "Thank you very much for your invitation. I am already really looking forward to Saturday and I'd love to come. I'll bring beer too. Can my girlfriend come too?" },
+        { "who": "Boris", "de": "Viele Grüße und bis Samstag\nBoris", "en": "Best wishes and see you on Saturday\nBoris" }
+      ]
+    },
+    {
+      "title": "Declining (letter)",
+      "lines": [
+        { "who": "Alex", "de": "Liebe Monika,", "en": "Dear Monika," },
+        { "who": "Alex", "de": "vielen Dank für deine Einladung. Es tut mir leid, ich kann nicht kommen. Am Samstag muss ich arbeiten. Ich wünsche dir viel Spaß. Hoffentlich sehen wir uns bald.", "en": "Thank you very much for your invitation. I'm sorry, I can't come. I have to work on Saturday. I wish you lots of fun. I hope we see each other soon." },
+        { "who": "Alex", "de": "Viele Grüße und bis bald\nAlex", "en": "Best wishes and see you soon\nAlex" }
+      ]
+    }
+  ],
+  "tip": "Before you send a letter, check four things: Anrede, time, place, Grußformel.",
+  "comprehension": [
+    { "q": "What are the four parts of an informal letter?", "a": "Anrede, Text, Grußformel and Unterschrift." },
+    { "q": "How do you address a woman called Julia?", "a": "Liebe Julia," },
+    { "q": "How do you say that the party starts at 7 pm?", "a": "Die Party beginnt um 19 Uhr." },
+    { "q": "What do you say first when you answer an invitation?", "a": "Vielen Dank für die Einladung." },
+    { "q": "Name one reason for declining an invitation.", "a": "Ich habe am Montag eine Prüfung. / Ich muss arbeiten. / Ich bin schon verabredet." }
+  ],
+  "exercises": [
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentences.",
+      "items": [
+        { "q": "___ Julia, (to a woman)", "a": "Liebe" },
+        { "q": "___ Boris, (to a man)", "a": "Lieber" },
+        { "q": "Ich lade ___ ein. (to du)", "a": "dich", "expl": "Accusative of *du* is *dich*." },
+        { "q": "Wir laden ___ ein. (to ihr)", "a": "euch" },
+        { "q": "Die Party ___ um 18 Uhr. (beginnen)", "a": "beginnt" },
+        { "q": "Vielen Dank ___ die Einladung.", "a": "für" },
+        { "q": "Ich bringe einen Kuchen ___.", "a": "mit", "expl": "*mitbringen* is separable." }
+      ]
+    },
+    {
+      "title": "Accepting or declining?",
+      "type": "choose",
+      "instructions": "Is the sentence accepting or declining the invitation?",
+      "items": [
+        { "q": "Ich komme sehr gern. (accepting / declining)", "a": "accepting" },
+        { "q": "Es tut mir leid, ich kann nicht kommen. (accepting / declining)", "a": "declining" },
+        { "q": "Ich freue mich schon auf Samstag. (accepting / declining)", "a": "accepting" },
+        { "q": "Am Samstag muss ich arbeiten. (accepting / declining)", "a": "declining", "expl": "It is a reason for not coming." },
+        { "q": "Ich bin am Samstag schon verabredet. (accepting / declining)", "a": "declining" }
+      ]
+    },
+    {
+      "title": "Word order",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "Die Party / um 19 Uhr / beginnt", "a": "Die Party beginnt um 19 Uhr." },
+        { "q": "Der Treffpunkt / bei uns zu Hause / ist", "a": "Der Treffpunkt ist bei uns zu Hause." },
+        { "q": "einen Kuchen / mitbringen / Kannst du", "a": "Kannst du einen Kuchen mitbringen?" },
+        { "q": "treffen / Wir / uns / im Restaurant", "a": "Wir treffen uns im Restaurant." },
+        { "q": "Ich / möchte / dich / gern / einladen", "a": "Ich möchte dich gern einladen." },
+        { "q": "wir / bald / Hoffentlich / uns / sehen", "a": "Hoffentlich sehen wir uns bald.", "expl": "*Hoffentlich* is in position 1, so the verb is in position 2." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "Thank you for your invitation.", "a": "Vielen Dank für deine Einladung. / Danke für deine Einladung." },
+        { "q": "I would like to invite you.", "a": "Ich möchte dich einladen. / Ich möchte dich gern einladen." },
+        { "q": "I'm looking forward to Saturday.", "a": "Ich freue mich auf Samstag. / Ich freue mich schon auf Samstag." },
+        { "q": "Unfortunately I can't come.", "a": "Ich kann leider nicht kommen." },
+        { "q": "Can I bring something?", "a": "Kann ich etwas mitbringen?" },
+        { "q": "I wish you lots of fun.", "a": "Ich wünsche dir viel Spaß." }
+      ]
+    }
+  ],
+  "summary": [
+    "Letter structure: **Anrede** (Lieber / Liebe + name), text, **Grußformel** (Viele Grüße), **Unterschrift**.",
+    "Invite with **Ich möchte dich einladen.** and give the **Treffpunkt** and the time (**Die Party beginnt um 19 Uhr.**).",
+    "Separable verbs: **Kannst du einen Kuchen mitbringen?** / **Ich bringe einen Salat mit.**",
+    "Accept: **Vielen Dank ... Ich komme sehr gern.** Decline: **Es tut mir leid, aber ich kann nicht kommen.** + reason."
+  ]
+}

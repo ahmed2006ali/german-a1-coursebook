@@ -1,0 +1,177 @@
+{
+  "n": 62,
+  "title": "At the Post Office",
+  "titleDe": "Die Post",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; the vocabulary was reconstructed from context and standard German. A few extra words and phrases are marked as additions.",
+  "objectives": [
+    "I can name the people, places and things at the post office",
+    "I can send a letter, a postcard or a parcel",
+    "I can ask for stamps and for a registered letter",
+    "I can write sender and receiver details correctly"
+  ],
+  "vocab": [
+    { "de": "die Post", "pl": "–", "en": "post, post office", "ar": "البريد" },
+    { "de": "das Postamt", "pl": "die Postämter", "en": "post office", "ar": "مكتب البريد" },
+    { "de": "die Poststelle", "pl": "die Poststellen", "en": "post office branch", "ar": "فرع البريد" },
+    { "de": "die Postfiliale", "pl": "die Postfilialen", "en": "post office branch", "ar": "فرع البريد" },
+    { "de": "der Schalter", "pl": "die Schalter", "en": "counter", "ar": "شباك" },
+    { "de": "der Briefträger", "pl": "die Briefträger", "en": "postman", "ar": "ساعي البريد", "note": "feminine: die Briefträgerin" },
+    { "de": "der Paketbote", "pl": "die Paketboten", "en": "parcel courier", "ar": "موصّل الطرود", "note": "feminine: die Paketbotin" },
+    { "de": "der Postbeamte", "pl": "die Postbeamten", "en": "post office clerk", "ar": "موظف البريد", "note": "feminine: die Postbeamtin" },
+    { "de": "der Brief", "pl": "die Briefe", "en": "letter", "ar": "رسالة" },
+    { "de": "die Postkarte", "pl": "die Postkarten", "en": "postcard", "ar": "بطاقة بريدية", "sup": true },
+    { "de": "die Briefmarke", "pl": "die Briefmarken", "en": "stamp", "ar": "طابع بريد" },
+    { "de": "der Briefmarkenautomat", "pl": "die Briefmarkenautomaten", "en": "stamp machine", "ar": "آلة بيع الطوابع" },
+    { "de": "der Umschlag", "pl": "die Umschläge", "en": "envelope", "ar": "ظرف", "note": "also: das Kuvert" },
+    { "de": "das Paket", "pl": "die Pakete", "en": "parcel", "ar": "طرد" },
+    { "de": "das Päckchen", "pl": "die Päckchen", "en": "small parcel", "ar": "طرد صغير" },
+    { "de": "der Briefkasten", "pl": "die Briefkästen", "en": "letter box, post box", "ar": "صندوق البريد" },
+    { "de": "die Anschrift", "pl": "die Anschriften", "en": "address", "ar": "عنوان" },
+    { "de": "der Absender", "pl": "die Absender", "en": "sender", "ar": "المرسل" },
+    { "de": "der Empfänger", "pl": "die Empfänger", "en": "recipient", "ar": "المستلم" },
+    { "de": "der Paketaufkleber", "pl": "die Paketaufkleber", "en": "parcel label", "ar": "ملصق الطرد" },
+    { "de": "das Bestimmungsland", "pl": "die Bestimmungsländer", "en": "country of destination", "ar": "بلد الوجهة" },
+    { "de": "das Einschreiben", "pl": "die Einschreiben", "en": "registered mail", "ar": "رسالة مسجّلة" },
+    { "de": "die Sendungsnummer", "pl": "die Sendungsnummern", "en": "tracking number", "ar": "رقم التتبع" },
+    { "de": "schicken", "en": "to send", "ar": "يرسل" },
+    { "de": "schreiben", "en": "to write", "ar": "يكتب" },
+    { "de": "aufgeben", "en": "to post, to hand in (a parcel)", "ar": "يرسل (طرداً)", "note": "separable: ich gebe auf", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Ich möchte einen Brief nach Österreich schicken.", "en": "I would like to send a letter to Austria." },
+    { "de": "Ich möchte ein Paket nach London schicken.", "en": "I would like to send a parcel to London." },
+    { "de": "Ich möchte diesen Brief per Einschreiben schicken.", "en": "I would like to send this letter by registered mail." },
+    { "de": "Ich hätte gern eine Briefmarke.", "en": "I would like a stamp.", "sup": true },
+    { "de": "Wie lange braucht ein Paket nach London?", "en": "How long does a parcel to London take?" },
+    { "de": "Wo kann man Briefmarken kaufen?", "en": "Where can one buy stamps?", "sup": true },
+    { "de": "Man kann Briefmarken am Schalter oder am Automaten kaufen.", "en": "You can buy stamps at the counter or at the machine.", "sup": true }
+  ],
+  "patterns": [
+    { "form": "Ich möchte + [Brief / Paket] + nach + [Ort] + schicken.", "ex": "Ich möchte ein Päckchen nach Wien schicken.", "en": "I would like to send a small parcel to Vienna." },
+    { "form": "Ich möchte + [Brief] + per Einschreiben + schicken.", "ex": "Ich möchte diesen Brief per Einschreiben schicken.", "en": "I would like to send this letter by registered mail." },
+    { "form": "Wie lange braucht + [Paket / Brief] + nach + [Ort]?", "ex": "Wie lange braucht ein Brief nach Berlin?", "en": "How long does a letter to Berlin take?", "sup": true }
+  ],
+  "grammar": [
+    {
+      "title": "Post, Postamt, Postfiliale",
+      "body": "In Germany you often see a **yellow sign** with *Deutsche Post*. It means there is a post office or a branch of the Deutsche Post. Words you can use: **die Post, das Postamt, die Poststelle, die Postfiliale**. Austria and Switzerland also have *die Post*."
+    },
+    {
+      "title": "Masculine and feminine people",
+      "body": "People at the post office: **der Briefträger / die Briefträgerin**, **der Paketbote / die Paketbotin**, **der Postbeamte / die Postbeamtin**. Feminine forms add **-in**; the plural adds **-nen** (*die Briefträgerinnen*).",
+      "ar": "المؤنث يضيف -in والجمع -nen."
+    },
+    {
+      "title": "Writing letters and parcels",
+      "body": "Before posting a letter you write the **Anschrift** (address) of the **Empfänger** (right) and the **Absender** (left). Writing the address was practised in lesson 61: street, house number, postcode, city. A parcel needs a **Paketaufkleber** from the post office: sender on the left, receiver on the right. The country of destination is the **Bestimmungsland**.",
+      "examples": [
+        { "de": "Ich schreibe die Anschrift auf den Umschlag.", "en": "I write the address on the envelope.", "sup": true }
+      ]
+    },
+    {
+      "title": "Polite requests: ich möchte / ich hätte gern",
+      "body": "At the counter use **Ich möchte ...** or **Ich hätte gern ...**. The verb that completes *möchte* goes to the end: **Ich möchte einen Brief nach Österreich schicken.** *Einschreiben* is registered mail: you get a number (**die Sendungsnummer**) and can follow the letter online.",
+      "examples": [
+        { "de": "Ich möchte einen Brief per Einschreiben schicken.", "en": "I would like to send a letter by registered mail." },
+        { "de": "Ich möchte ein Paket nach London schicken.", "en": "I would like to send a parcel to London." }
+      ]
+    },
+    {
+      "title": "Stamps and machines",
+      "body": "You can buy stamps (**Briefmarken**) at the counter or at a **Briefmarkenautomat**. If someone collects stamps as a hobby, you say: **Mein Hobby ist Briefmarken sammeln.** (*sammeln* = to collect)",
+      "examples": [
+        { "de": "Mein Hobby ist Briefmarken sammeln.", "en": "My hobby is collecting stamps." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "die Briefträger (one woman)", "right": "die Briefträgerin", "why": "A woman needs the ending *-in*.", "sup": true },
+    { "wrong": "Ich möchte schicken einen Brief.", "right": "Ich möchte einen Brief schicken.", "why": "The infinitive goes to the end after *möchte*.", "sup": true }
+  ],
+  "pronunciation": [
+    { "de": "ä", "tip": "Like 'e' in 'bed'. *Päckchen, Empfänger, Postämter, Briefkästen*." },
+    { "de": "ck", "tip": "Short and sharp, like in 'back'. *Päckchen, Rücken, Brücke*." }
+  ],
+  "dialogues": [
+    {
+      "title": "At the counter",
+      "lines": [
+        { "who": "A", "de": "Guten Tag, ich möchte einen Brief nach Österreich schicken.", "en": "Good day, I would like to send a letter to Austria." },
+        { "who": "B", "de": "Gern. Möchten Sie den Brief per Einschreiben schicken?", "en": "Gladly. Would you like to send the letter by registered mail?" },
+        { "who": "A", "de": "Ja, bitte. Ich möchte auch ein Paket nach London schicken.", "en": "Yes, please. I would also like to send a parcel to London." },
+        { "who": "B", "de": "Dann brauchen Sie einen Paketaufkleber. Bitte schreiben Sie den Absender und den Empfänger darauf.", "en": "Then you need a parcel label. Please write the sender and the recipient on it." },
+        { "who": "A", "de": "Wie lange braucht das Paket nach London?", "en": "How long does the parcel take to London?" },
+        { "who": "B", "de": "Das Paket braucht ungefähr eine Woche.", "en": "The parcel takes about a week.", "sup": true },
+        { "who": "A", "de": "Vielen Dank. Auf Wiedersehen!", "en": "Thank you very much. Goodbye!" }
+      ]
+    }
+  ],
+  "tip": "A registered letter (Einschreiben) comes with a tracking number. Keep it, so that you can check online where your letter is.",
+  "comprehension": [
+    { "q": "What colour is the sign of the Deutsche Post?", "a": "Yellow." },
+    { "q": "What is the feminine form of der Briefträger?", "a": "die Briefträgerin." },
+    { "q": "Where do you write the sender and the recipient on a parcel label?", "a": "Sender on the left, recipient on the right." },
+    { "q": "How do you say that you want to send a registered letter?", "a": "Ich möchte einen Brief per Einschreiben schicken." }
+  ],
+  "exercises": [
+    {
+      "title": "Match the words",
+      "type": "match",
+      "instructions": "Match the German word with its English meaning.",
+      "items": [
+        { "q": "die Briefmarke", "a": "stamp" },
+        { "q": "der Umschlag", "a": "envelope" },
+        { "q": "das Paket", "a": "parcel" },
+        { "q": "der Absender", "a": "sender" },
+        { "q": "der Empfänger", "a": "recipient" },
+        { "q": "der Briefkasten", "a": "letter box" },
+        { "q": "das Einschreiben", "a": "registered mail" }
+      ]
+    },
+    {
+      "title": "Choose the correct article",
+      "type": "choose",
+      "instructions": "Choose the correct article.",
+      "items": [
+        { "q": "___ Brief ist für dich. (Der / Die / Das)", "a": "Der", "expl": "der Brief" },
+        { "q": "___ Briefmarke kostet einen Euro. (Der / Die / Das)", "a": "Die", "expl": "die Briefmarke" },
+        { "q": "___ Paket ist schwer. (Der / Die / Das)", "a": "Das", "expl": "das Paket" },
+        { "q": "___ Schalter ist links. (Der / Die / Das)", "a": "Der", "expl": "der Schalter" },
+        { "q": "___ Postfiliale ist hier. (Der / Die / Das)", "a": "Die", "expl": "die Postfiliale" }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentence.",
+      "items": [
+        { "q": "Ich möchte einen Brief nach Österreich ___. (schicken)", "a": "schicken", "expl": "The infinitive stands at the end after *möchte*." },
+        { "q": "Die Frau bringt die Post. Sie ist die ___. (Briefträger)", "a": "Briefträgerin" },
+        { "q": "Der Plural von *das Paket* ist die ___.", "a": "Pakete" },
+        { "q": "Der Plural von *der Brief* ist die ___.", "a": "Briefe" },
+        { "q": "Wie ___ braucht ein Paket nach London?", "a": "lange" },
+        { "q": "Ich möchte diesen Brief per ___ schicken. (registered mail)", "a": "Einschreiben" }
+      ]
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Translate the sentences into German.",
+      "items": [
+        { "q": "I would like to send a parcel to London.", "a": "Ich möchte ein Paket nach London schicken." },
+        { "q": "I would like to send a letter by registered mail.", "a": "Ich möchte einen Brief per Einschreiben schicken." },
+        { "q": "How long does a parcel to London take?", "a": "Wie lange braucht ein Paket nach London?" },
+        { "q": "My hobby is collecting stamps.", "a": "Mein Hobby ist Briefmarken sammeln." },
+        { "q": "Where is the post office?", "a": "Wo ist die Post? / Wo ist das Postamt? / Wo ist die Postfiliale?", "sup": true }
+      ]
+    }
+  ],
+  "summary": [
+    "Post office words: die Post, das Postamt, die Postfiliale, der Schalter, der Briefträger.",
+    "Things to send: der Brief, das Paket, das Päckchen, die Briefmarke, der Umschlag.",
+    "Write the Anschrift: Absender on the left, Empfänger on the right.",
+    "Ask: Ich möchte einen Brief / ein Paket nach ... schicken. Per Einschreiben = registered mail.",
+    "Ask how long: Wie lange braucht ein Paket nach ...?"
+  ]
+}

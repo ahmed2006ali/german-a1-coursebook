@@ -1,0 +1,185 @@
+{
+  "n": 54,
+  "title": "This / These - dies-",
+  "titleDe": "Demonstrativartikel \"dies-\"",
+  "level": "A1",
+  "sourceNote": "The transcript is garbled in several example sentences; the examples were reconstructed into standard German following the teacher's explanation of all cases and genders.",
+  "objectives": [
+    "I can point at something with *dieser, diese, dieses*",
+    "I can use the correct ending of *dies-* for gender and case",
+    "I can use *dies-* after dative prepositions such as *zu* and *mit*",
+    "I can use *dies-* in the plural (diese, diesen)"
+  ],
+  "vocab": [
+    { "de": "dieser / diese / dieses", "en": "this / these", "ar": "هذا / هذه", "note": "pointing at something" },
+    { "de": "der Pullover", "pl": "die Pullover", "en": "sweater", "ar": "سترة صوفية", "note": "" },
+    { "de": "die Hose", "pl": "die Hosen", "en": "trousers, pair of trousers", "ar": "بنطال", "note": "singular in German" },
+    { "de": "das Kleid", "pl": "die Kleider", "en": "dress", "ar": "فستان", "note": "" },
+    { "de": "der Schuh", "pl": "die Schuhe", "en": "shoe", "ar": "حذاء", "note": "dative plural: Schuhen" },
+    { "de": "das Auto", "pl": "die Autos", "en": "car", "ar": "سيارة", "note": "" },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل", "note": "dative plural: Kindern" },
+    { "de": "kosten", "en": "to cost", "ar": "يكلّف", "note": "Was kostet ...?" },
+    { "de": "passen zu", "en": "to go with, to match", "ar": "يناسب / ينسجم مع", "note": "zu + dative", "sup": true },
+    { "de": "schön", "en": "nice, beautiful", "ar": "جميل", "note": "" },
+    { "de": "spielen", "en": "to play", "ar": "يلعب", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Ich finde dieses Kleid schön.", "en": "I think this dress is nice.", "ar": "" },
+    { "de": "Was kostet dieser Pullover?", "en": "How much does this sweater cost?", "ar": "" },
+    { "de": "Was passt zu diesem Pullover?", "en": "What goes with this sweater?", "ar": "" },
+    { "de": "Diese Hose ist schön.", "en": "These trousers are nice.", "ar": "" },
+    { "de": "Dieses Auto gefällt mir.", "en": "I like this car.", "ar": "" },
+    { "de": "Ich spiele mit diesen Kindern.", "en": "I play with these children.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "dies- + [noun]", "ex": "dieses Kleid", "en": "this dress" },
+    { "form": "Was kostet / kosten + dies- + [noun]?", "ex": "Was kosten diese Schuhe?", "en": "How much do these shoes cost?" },
+    { "form": "[Preposition] + dies- + [noun]", "ex": "mit diesem Auto", "en": "with this car" }
+  ],
+  "grammar": [
+    {
+      "title": "dies- = this / these",
+      "body": "**dies-** points to a particular thing (this one here), maybe while you point at it with your finger. It works exactly like **welch-** in the last lesson: the endings are the endings of the definite article **der / die / das**.\n\nCompare: **Ich finde das Kleid schön** (a dress we both know) and **Ich finde dieses Kleid schön** (this very dress, I am pointing at it).",
+      "ar": "dies- تشير إلى شيء محدد (هذا). نهاياتها مثل نهايات أداة التعريف تمامًا.",
+      "examples": [
+        { "de": "Ich finde dieses Kleid schön.", "en": "I find this dress nice." },
+        { "de": "Was kostet dieser Pullover?", "en": "How much does this sweater cost?" }
+      ]
+    },
+    {
+      "title": "Masculine: dieser / diesen / diesem",
+      "body": "**der Pullover** → nominative **dieser Pullover**, accusative **diesen Pullover** (as object), dative **diesem Pullover** (after *zu*, *mit* ...).",
+      "examples": [
+        { "de": "Dieser Pullover ist schön.", "en": "This sweater is nice." },
+        { "de": "Ich finde diesen Pullover schön.", "en": "I think this sweater is nice." },
+        { "de": "Was passt zu diesem Pullover?", "en": "What goes with this sweater?" }
+      ]
+    },
+    {
+      "title": "Feminine: diese / diese / dieser",
+      "body": "The feminine does not change between nominative and accusative: **diese Hose**. In the dative it becomes **dieser Hose**.",
+      "examples": [
+        { "de": "Diese Hose ist schön.", "en": "These trousers are nice." },
+        { "de": "Ich finde diese Hose schön.", "en": "I think these trousers are nice." },
+        { "de": "Was passt zu dieser Hose?", "en": "What goes with these trousers?" }
+      ]
+    },
+    {
+      "title": "Neuter: dieses / dieses / diesem",
+      "body": "The neuter does not change between nominative and accusative: **dieses Auto**. After *mit*, *zu* etc. it is **diesem Auto** (like masculine).",
+      "examples": [
+        { "de": "Dieses Auto gefällt mir.", "en": "I like this car." },
+        { "de": "Ich finde dieses Auto toll.", "en": "I think this car is great." },
+        { "de": "Ich fahre mit diesem Auto.", "en": "I drive with this car." }
+      ]
+    },
+    {
+      "title": "Plural: diese / diese / diesen",
+      "body": "In the plural the nominative and accusative are **diese**. In the dative it is **diesen**, and the noun gets an extra **-n** (unless it already ends in *-n*): **diesen Schuhen**, **diesen Kindern**.",
+      "examples": [
+        { "de": "Was kosten diese Schuhe?", "en": "How much do these shoes cost?" },
+        { "de": "Was passt zu diesen Schuhen?", "en": "What goes with these shoes?" },
+        { "de": "Ich spiele mit diesen Kindern.", "en": "I play with these children." }
+      ]
+    },
+    {
+      "title": "Overview",
+      "body": "Same endings as the definite article. Remember the dative plural noun gets **-n**.",
+      "table": {
+        "head": ["", "Masculine", "Feminine", "Neuter", "Plural"],
+        "rows": [
+          ["Nominative", "dieser", "diese", "dieses", "diese"],
+          ["Accusative", "diesen", "diese", "dieses", "diese"],
+          ["Dative", "diesem", "dieser", "diesem", "diesen (+ -n)"]
+        ]
+      }
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich finde dieser Pullover schön.", "right": "Ich finde diesen Pullover schön.", "why": "Accusative masculine: *diesen*." },
+    { "wrong": "Was passt zu diese Hose?", "right": "Was passt zu dieser Hose?", "why": "*zu* + dative feminine: *dieser*." },
+    { "wrong": "Ich spiele mit diesen Kinder.", "right": "Ich spiele mit diesen Kindern.", "why": "Dative plural: noun gets *-n*." }
+  ],
+  "pronunciation": [
+    { "de": "ie", "tip": "A long 'ee' sound: *dieser* = 'DEE-zer'." },
+    { "de": "s between vowels", "tip": "Voiced, like English 'z': *dieser*, *diese*." }
+  ],
+  "dialogues": [],
+  "tip": "Use the same trick as with welch-: first find the case, then give dies- the same ending as the definite article.",
+  "comprehension": [
+    { "q": "What does dieser / diese / dieses mean?", "a": "this / these (pointing at something specific)." },
+    { "q": "Which form do you use for 'this sweater' as an object?", "a": "diesen Pullover" },
+    { "q": "What is the dative form of diese Hose?", "a": "dieser Hose" },
+    { "q": "What happens to the noun in the dative plural?", "a": "It gets an extra -n (diesen Kindern)." }
+  ],
+  "exercises": [
+    {
+      "title": "Complete with dies-",
+      "type": "fill",
+      "instructions": "Write the correct form of dies-.",
+      "items": [
+        { "q": "___ Pullover ist schön.", "a": "Dieser", "expl": "*der Pullover*, nominative." },
+        { "q": "Ich finde ___ Pullover schön.", "a": "diesen", "expl": "Accusative masculine." },
+        { "q": "Was passt zu ___ Pullover?", "a": "diesem", "expl": "*zu* + dative masculine." },
+        { "q": "___ Hose ist schön.", "a": "Diese" },
+        { "q": "Was passt zu ___ Hose?", "a": "dieser", "expl": "*zu* + dative feminine." },
+        { "q": "___ Kleid gefällt mir.", "a": "Dieses" },
+        { "q": "Ich fahre mit ___ Auto.", "a": "diesem", "expl": "*mit* + dative neuter." },
+        { "q": "Was kosten ___ Schuhe?", "a": "diese" },
+        { "q": "Ich spiele mit ___ Kindern.", "a": "diesen" }
+      ]
+    },
+    {
+      "title": "Complete the ending",
+      "type": "fill",
+      "instructions": "Write the ending of dies- (er, en, em, e, es).",
+      "items": [
+        { "q": "feminine, nominative: dies___", "a": "e" },
+        { "q": "masculine, accusative: dies___", "a": "en" },
+        { "q": "neuter, nominative: dies___", "a": "es" },
+        { "q": "neuter, dative: dies___", "a": "em" },
+        { "q": "feminine, dative: dies___", "a": "er" },
+        { "q": "plural, dative: dies___", "a": "en" }
+      ]
+    },
+    {
+      "title": "Question and answer",
+      "type": "choose",
+      "instructions": "Choose the correct form of dies-.",
+      "items": [
+        { "q": "Welches Kleid gefällt dir? - ___ Kleid. (Dieses / Diesem)", "a": "Dieses" },
+        { "q": "Welchen Pullover kaufst du? - ___ Pullover. (Dieser / Diesen)", "a": "Diesen", "expl": "Accusative masculine." },
+        { "q": "Zu welcher Hose passt der Pullover? - Zu ___ Hose. (diese / dieser)", "a": "dieser", "expl": "*zu* + dative feminine." },
+        { "q": "Mit welchen Kindern spielst du? - Mit ___ Kindern. (diese / diesen)", "a": "diesen" }
+      ]
+    },
+    {
+      "title": "Word order",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "kostet / Was / dieser / Pullover", "a": "Was kostet dieser Pullover?" },
+        { "q": "diese / Ich / schön / Hose / finde", "a": "Ich finde diese Hose schön." },
+        { "q": "zu / passt / Was / diesem / Pullover", "a": "Was passt zu diesem Pullover?" }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I like this dress.", "a": "Dieses Kleid gefällt mir. / Mir gefällt dieses Kleid." },
+        { "q": "How much does this sweater cost?", "a": "Was kostet dieser Pullover?" },
+        { "q": "I think these shoes are nice.", "a": "Ich finde diese Schuhe schön." },
+        { "q": "What goes with these trousers?", "a": "Was passt zu dieser Hose?" },
+        { "q": "I play with these children.", "a": "Ich spiele mit diesen Kindern." }
+      ]
+    }
+  ],
+  "summary": [
+    "**dies-** means *this / these* and points at something specific.",
+    "Endings are the same as **der / die / das**: dieser, diesen, diesem; diese, diese, dieser; dieses, dieses, diesem; diese, diese, diesen.",
+    "Dative plural: **diesen** + noun with **-n** (diesen Kindern).",
+    "Example sentences: **Ich finde diesen Pullover schön.** / **Was passt zu dieser Hose?**"
+  ]
+}

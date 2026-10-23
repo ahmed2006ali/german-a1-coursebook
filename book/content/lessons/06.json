@@ -1,0 +1,206 @@
+{
+  "n": 6,
+  "title": "Introducing Yourself",
+  "titleDe": "Sich vorstellen",
+  "level": "A1",
+  "sourceNote": "The auto-captions garble the German; sentences were reconstructed from context and standard German. The teacher uses the examples Monika Schmidt, Deutschland and Berlin.",
+  "objectives": [
+    "I can say my first name and family name",
+    "I can say where I come from and where I live",
+    "I can say my age, my job or student status and my languages",
+    "I can say if I am single or married and whether I have children",
+    "I can name my hobbies"
+  ],
+  "vocab": [
+    { "de": "der Name", "pl": "die Namen", "en": "name", "ar": "اسم" },
+    { "de": "der Familienname", "pl": "die Familiennamen", "en": "family name / surname", "ar": "اسم العائلة" },
+    { "de": "der Student", "pl": "die Studenten", "en": "student (male, university)", "ar": "طالب جامعي" },
+    { "de": "die Studentin", "pl": "die Studentinnen", "en": "student (female, university)", "ar": "طالبة جامعية" },
+    { "de": "der Schüler", "pl": "die Schüler", "en": "pupil (male, school)", "ar": "تلميذ" },
+    { "de": "die Schülerin", "pl": "die Schülerinnen", "en": "pupil (female, school)", "ar": "تلميذة" },
+    { "de": "der Lehrer", "pl": "die Lehrer", "en": "teacher (male)", "ar": "معلم" },
+    { "de": "die Lehrerin", "pl": "die Lehrerinnen", "en": "teacher (female)", "ar": "معلمة" },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل" },
+    { "de": "das Hobby", "pl": "die Hobbys", "en": "hobby", "ar": "هواية" },
+    { "de": "das Land", "pl": "die Länder", "en": "country", "ar": "بلد", "sup": true },
+    { "de": "die Stadt", "pl": "die Städte", "en": "city", "ar": "مدينة", "sup": true },
+    { "de": "ledig", "en": "single (unmarried)", "ar": "أعزب / عزباء" },
+    { "de": "verheiratet", "en": "married", "ar": "متزوج / متزوجة" },
+    { "de": "keine", "en": "no, none (before plural)", "ar": "لا", "note": "keine Kinder" },
+    { "de": "heißen", "en": "to be called", "ar": "يُسمّى" },
+    { "de": "kommen", "en": "to come", "ar": "يأتي" },
+    { "de": "wohnen", "en": "to live (reside)", "ar": "يسكن" },
+    { "de": "sprechen", "en": "to speak", "ar": "يتحدث" },
+    { "de": "haben", "en": "to have", "ar": "يملك" },
+    { "de": "sein", "en": "to be", "ar": "يكون" },
+    { "de": "fernsehen", "en": "to watch TV", "ar": "يشاهد التلفاز" },
+    { "de": "Musik hören", "en": "to listen to music", "ar": "يستمع إلى الموسيقى" }
+  ],
+  "expressions": [
+    { "de": "Ich heiße Monika.", "en": "My name is Monika.", "ar": "" },
+    { "de": "Ich bin Monika.", "en": "I am Monika. (informal)", "ar": "" },
+    { "de": "Mein Name ist Monika.", "en": "My name is Monika. (formal)", "ar": "" },
+    { "de": "Mein Familienname ist Schmidt.", "en": "My family name is Schmidt.", "ar": "" },
+    { "de": "Ich komme aus Deutschland.", "en": "I come from Germany.", "ar": "" },
+    { "de": "Ich wohne in Berlin.", "en": "I live in Berlin.", "ar": "" },
+    { "de": "Ich spreche Deutsch und Englisch.", "en": "I speak German and English.", "ar": "" },
+    { "de": "Ich kann Deutsch und Englisch.", "en": "I can speak German and English.", "ar": "" },
+    { "de": "Ich bin dreiundzwanzig Jahre alt.", "en": "I am 23 years old.", "ar": "" },
+    { "de": "Ich bin dreiundzwanzig.", "en": "I am 23.", "ar": "" },
+    { "de": "Ich bin Student. / Ich bin Studentin.", "en": "I am a student (m / f).", "ar": "" },
+    { "de": "Ich bin Schüler. / Ich bin Schülerin.", "en": "I am a pupil (m / f).", "ar": "" },
+    { "de": "Ich bin Lehrer. / Ich bin Lehrerin.", "en": "I am a teacher (m / f).", "ar": "" },
+    { "de": "Ich bin ledig.", "en": "I am single.", "ar": "" },
+    { "de": "Ich bin verheiratet.", "en": "I am married.", "ar": "" },
+    { "de": "Ich habe ein Kind.", "en": "I have one child.", "ar": "" },
+    { "de": "Ich habe zwei Kinder.", "en": "I have two children.", "ar": "" },
+    { "de": "Ich habe drei Kinder.", "en": "I have three children.", "ar": "" },
+    { "de": "Ich habe keine Kinder.", "en": "I have no children.", "ar": "" },
+    { "de": "Meine Hobbys sind Fernsehen und Musik hören.", "en": "My hobbies are watching TV and listening to music.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Ich heiße + [Name].", "ex": "Ich heiße Monika.", "en": "My name is Monika." },
+    { "form": "Ich komme aus + [Land].", "ex": "Ich komme aus Deutschland.", "en": "I come from Germany." },
+    { "form": "Ich wohne in + [Stadt].", "ex": "Ich wohne in Berlin.", "en": "I live in Berlin." },
+    { "form": "Ich spreche + [Sprache].", "ex": "Ich spreche Deutsch.", "en": "I speak German." },
+    { "form": "Ich bin + [Beruf].", "ex": "Ich bin Lehrerin.", "en": "I am a teacher (f)." },
+    { "form": "Ich habe + [Zahl] + Kinder.", "ex": "Ich habe zwei Kinder.", "en": "I have two children." }
+  ],
+  "grammar": [
+    {
+      "title": "Three ways to say your name",
+      "body": "**Ich heiße Monika** and **Ich bin Monika** are common and informal. **Mein Name ist Monika** is more formal. All three mean the same. To say your family name use **Mein Familienname ist Schmidt**.\n\nGerman nouns can be long compound words. Split them to understand them: **Familienname = Familie + Name**.",
+      "ar": "Ich heiße / Ich bin / Mein Name ist كلها تعني: اسمي ...",
+      "examples": [
+        { "de": "Ich heiße Monika Schmidt.", "en": "My name is Monika Schmidt." },
+        { "de": "Mein Name ist Monika Schmidt.", "en": "My name is Monika Schmidt." }
+      ]
+    },
+    {
+      "title": "Masculine and feminine job titles",
+      "body": "German has masculine and feminine forms for people. For the feminine form add **-in**: **der Student** / **die Studentin**, **der Lehrer** / **die Lehrerin**, **der Schüler** / **die Schülerin**.\n\nThe verb is **sein** and you do not use an article: **Ich bin Lehrer** (not 'ein Lehrer'). Men use the masculine form, women the feminine form.",
+      "ar": "للمؤنث نضيف -in إلى المذكر: Lehrer ← Lehrerin.",
+      "table": {
+        "head": ["Male", "Female"],
+        "rows": [
+          ["der Student", "die Studentin"],
+          ["der Schüler", "die Schülerin"],
+          ["der Lehrer", "die Lehrerin"]
+        ]
+      }
+    },
+    {
+      "title": "Verbs with ich",
+      "body": "Notice that most verbs after **ich** end in **-e**: **ich heiße**, **ich komme**, **ich wohne**, **ich spreche**, **ich habe**. The exception is **ich bin** (from *sein*). The full rules come in later lessons, so just learn these phrases now.",
+      "sup": true
+    },
+    {
+      "title": "Children: ein Kind, keine Kinder",
+      "body": "**das Kind** (one child) becomes **die Kinder** (plural). Say **ein Kind** for one child and the number plus **Kinder** for more: **zwei Kinder**, **drei Kinder**. For none use **keine Kinder** (plural).",
+      "examples": [
+        { "de": "Ich habe ein Kind.", "en": "I have one child." },
+        { "de": "Ich habe keine Kinder.", "en": "I have no children." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich bin Lehrer. (said by a woman)", "right": "Ich bin Lehrerin.", "why": "Women use the feminine form with *-in*." },
+    { "wrong": "Ich habe keine Kind.", "right": "Ich habe kein Kind. / Ich habe keine Kinder.", "why": "*Kind* is singular: *kein*; plural *Kinder*: *keine*." }
+  ],
+  "pronunciation": [
+    { "de": "ß", "tip": "*heiße* sounds like 'high-sse'." },
+    { "de": "w", "tip": "Sounds like English v: *wohne* = 'vohne'." },
+    { "de": "sch", "tip": "Like English sh: *Schmidt*, *Schüler*." },
+    { "de": "ü", "tip": "Rounded 'ee' sound: *Schüler*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Introducing yourself",
+      "lines": [
+        { "who": "A", "de": "Hallo! Ich heiße Monika Schmidt.", "en": "Hello! My name is Monika Schmidt." },
+        { "who": "A", "de": "Ich komme aus Deutschland und wohne in Berlin.", "en": "I come from Germany and live in Berlin." },
+        { "who": "A", "de": "Ich bin dreiundzwanzig Jahre alt und Lehrerin.", "en": "I am 23 years old and a teacher." },
+        { "who": "A", "de": "Ich bin ledig und habe keine Kinder.", "en": "I am single and have no children." },
+        { "who": "A", "de": "Meine Hobbys sind Fernsehen und Musik hören.", "en": "My hobbies are watching TV and listening to music." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Write your own introduction in German using these sentences, then say it aloud. Replace Monika, Deutschland and Berlin with your own details.",
+  "comprehension": [
+    { "q": "What are three ways to say your name in German?", "a": "Ich heiße ..., Ich bin ..., Mein Name ist ..." },
+    { "q": "How does a woman say she is a teacher?", "a": "Ich bin Lehrerin." },
+    { "q": "How do you say 'I have no children'?", "a": "Ich habe keine Kinder." },
+    { "q": "How do you say where you live?", "a": "Ich wohne in + city, for example Ich wohne in Berlin." },
+    { "q": "What does ledig mean?", "a": "Single (unmarried)." }
+  ],
+  "exercises": [
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete each sentence with the correct verb.",
+      "items": [
+        { "q": "Ich ___ aus Deutschland. (come)", "a": "komme" },
+        { "q": "Ich ___ in Berlin. (live)", "a": "wohne" },
+        { "q": "Ich ___ Monika. (am called)", "a": "heiße" },
+        { "q": "Ich ___ Deutsch und Englisch. (speak)", "a": "spreche" },
+        { "q": "Ich ___ zwei Kinder. (have)", "a": "habe" },
+        { "q": "Ich ___ verheiratet. (am)", "a": "bin" }
+      ]
+    },
+    {
+      "title": "Masculine or feminine?",
+      "type": "choose",
+      "instructions": "Choose the correct form.",
+      "items": [
+        { "q": "A woman says: Ich bin ___. (Lehrer / Lehrerin)", "a": "Lehrerin" },
+        { "q": "A man says: Ich bin ___. (Student / Studentin)", "a": "Student" },
+        { "q": "A girl at school says: Ich bin ___. (Schüler / Schülerin)", "a": "Schülerin" },
+        { "q": "A man says: Ich bin ___. (Lehrer / Lehrerin)", "a": "Lehrer" },
+        { "q": "A woman says: Ich bin ___. (Student / Studentin)", "a": "Studentin" }
+      ]
+    },
+    {
+      "title": "Children",
+      "type": "choose",
+      "instructions": "Choose the correct word.",
+      "items": [
+        { "q": "Ich habe ___ Kind. (ein / eine)", "a": "ein", "expl": "*das Kind* is neuter, so *ein*." },
+        { "q": "Ich habe ___ Kinder. (zwei / zwein)", "a": "zwei" },
+        { "q": "Ich habe ___ Kinder. (no children) (keine / kein)", "a": "keine", "expl": "*Kinder* is plural." },
+        { "q": "Ich habe drei ___. (Kind / Kinder)", "a": "Kinder", "expl": "After a number greater than one use the plural." }
+      ]
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Write the correct sentence. The word with a capital letter comes first.",
+      "items": [
+        { "q": "wohne / Ich / in / Berlin", "a": "Ich wohne in Berlin." },
+        { "q": "komme / Ich / aus / Deutschland", "a": "Ich komme aus Deutschland." },
+        { "q": "Ich / ledig / bin", "a": "Ich bin ledig." },
+        { "q": "habe / Ich / keine / Kinder", "a": "Ich habe keine Kinder." },
+        { "q": "Name / Mein / ist / Monika", "a": "Mein Name ist Monika." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I am 20 years old.", "a": "Ich bin zwanzig Jahre alt. / Ich bin zwanzig." },
+        { "q": "I speak German and English.", "a": "Ich spreche Deutsch und Englisch." },
+        { "q": "I am a student (female).", "a": "Ich bin Studentin." },
+        { "q": "I have two children.", "a": "Ich habe zwei Kinder." },
+        { "q": "My family name is Schmidt.", "a": "Mein Familienname ist Schmidt." }
+      ]
+    }
+  ],
+  "summary": [
+    "Say your name with Ich heiße ..., Ich bin ... or Mein Name ist ...; your surname is Mein Familienname ist ...",
+    "Say where you come from and live: Ich komme aus Deutschland. Ich wohne in Berlin.",
+    "Talk about yourself: Ich spreche ..., Ich bin ... Jahre alt, Ich bin Student/in, Lehrer/in, ledig, verheiratet.",
+    "Feminine job titles add -in; no article is used after Ich bin.",
+    "Children: Ich habe ein Kind / zwei Kinder / keine Kinder. Hobbies: Meine Hobbys sind ..."
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "n": 30,
+  "title": "Ordering in a Restaurant or Café",
+  "titleDe": "Im Restaurant oder Café bestellen",
+  "level": "A1",
+  "sourceNote": "The captions are fairly clear, but a few phrases were garbled (for example 'Was wünschen Sie?', 'Hier oder zum Mitnehmen?', 'Mit Karte, bitte.') and are restored to standard German. The teacher says 'Kaffee' for the word Café.",
+  "objectives": [
+    "I can book a table and answer Haben Sie reserviert?",
+    "I can order drinks and food politely",
+    "I can understand typical questions from a waiter",
+    "I can ask to pay and leave a tip",
+    "I can order in a café to take away"
+  ],
+  "vocab": [
+    { "de": "das Restaurant", "pl": "die Restaurants", "en": "restaurant", "ar": "مطعم", "note": "", "sup": false },
+    { "de": "das Café", "pl": "die Cafés", "en": "café", "ar": "مقهى", "note": "", "sup": false },
+    { "de": "bestellen", "en": "to order", "ar": "يطلب", "note": "", "sup": false },
+    { "de": "der Kellner", "pl": "die Kellner", "en": "waiter", "ar": "نادل", "note": "female: die Kellnerin", "sup": false },
+    { "de": "die Kellnerin", "pl": "die Kellnerinnen", "en": "waitress", "ar": "نادلة", "note": "", "sup": false },
+    { "de": "der Gast", "pl": "die Gäste", "en": "guest, customer", "ar": "ضيف / زبون", "note": "", "sup": false },
+    { "de": "die Speisekarte", "pl": "die Speisekarten", "en": "menu", "ar": "قائمة الطعام", "note": "", "sup": false },
+    { "de": "das Menü", "pl": "die Menüs", "en": "menu, set meal", "ar": "قائمة / وجبة", "note": "", "sup": false },
+    { "de": "zahlen", "en": "to pay", "ar": "يدفع", "note": "", "sup": false },
+    { "de": "das Trinkgeld", "pl": "–", "en": "tip (money)", "ar": "بقشيش", "note": "", "sup": false },
+    { "de": "der Wein", "pl": "die Weine", "en": "wine", "ar": "نبيذ", "note": "", "sup": false },
+    { "de": "der Saft", "pl": "die Säfte", "en": "juice", "ar": "عصير", "note": "", "sup": false },
+    { "de": "der Kaffee", "pl": "die Kaffees", "en": "coffee", "ar": "قهوة", "note": "", "sup": false },
+    { "de": "der Tee", "pl": "die Tees", "en": "tea", "ar": "شاي", "note": "", "sup": false },
+    { "de": "das Wasser", "pl": "–", "en": "water", "ar": "ماء", "note": "", "sup": false },
+    { "de": "das Bier", "pl": "die Biere", "en": "beer", "ar": "بيرة", "note": "", "sup": false },
+    { "de": "die Cola", "pl": "die Colas", "en": "cola", "ar": "كولا", "note": "", "sup": false },
+    { "de": "die Limonade", "pl": "die Limonaden", "en": "lemonade", "ar": "ليموناضة", "note": "", "sup": false },
+    { "de": "der Cappuccino", "pl": "die Cappuccinos", "en": "cappuccino", "ar": "كابتشينو", "note": "", "sup": false },
+    { "de": "die Pizza", "pl": "die Pizzen", "en": "pizza", "ar": "بيتزا", "note": "", "sup": false },
+    { "de": "die Suppe", "pl": "die Suppen", "en": "soup", "ar": "شوربة", "note": "", "sup": false },
+    { "de": "das Sandwich", "pl": "die Sandwiches", "en": "sandwich", "ar": "ساندويتش", "note": "", "sup": false },
+    { "de": "der Kuchen", "pl": "die Kuchen", "en": "cake", "ar": "كعكة", "note": "ein Stück Kuchen: a piece of cake", "sup": false },
+    { "de": "der Salat", "pl": "die Salate", "en": "salad", "ar": "سلطة", "note": "", "sup": false },
+    { "de": "der Burger", "pl": "die Burger", "en": "burger", "ar": "برغر", "note": "", "sup": false },
+    { "de": "der Hamburger", "pl": "die Hamburger", "en": "hamburger", "ar": "همبرغر", "note": "", "sup": false },
+    { "de": "die Pommes", "pl": "–", "en": "chips, fries", "ar": "بطاطا مقلية", "note": "plural word", "sup": false },
+    { "de": "die Nudeln", "pl": "–", "en": "noodles, pasta", "ar": "معكرونة", "note": "plural word", "sup": false }
+  ],
+  "expressions": [
+    { "de": "Wir möchten einen Tisch für zwei Personen.", "en": "We would like a table for two people.", "ar": "نريد طاولة لشخصين.", "sup": true },
+    { "de": "Wir wollen einen Tisch für zwei Personen.", "en": "We want a table for two people. (a bit direct)", "ar": "", "sup": false },
+    { "de": "Haben Sie reserviert?", "en": "Do you have a reservation?", "ar": "هل لديكم حجز؟", "sup": false },
+    { "de": "Ja, auf den Namen Müller.", "en": "Yes, under the name Müller.", "ar": "", "sup": false },
+    { "de": "Nein, wir haben nicht reserviert.", "en": "No, we have not reserved.", "ar": "", "sup": false },
+    { "de": "Bitte kommen Sie mit.", "en": "Please come with me.", "ar": "", "sup": false },
+    { "de": "Bitte nehmen Sie Platz.", "en": "Please take a seat.", "ar": "تفضّل بالجلوس.", "sup": false },
+    { "de": "Hier ist die Speisekarte.", "en": "Here is the menu.", "ar": "", "sup": false },
+    { "de": "Was möchten Sie trinken?", "en": "What would you like to drink?", "ar": "", "sup": false },
+    { "de": "Was hätten Sie gern zum Trinken?", "en": "What would you like to drink? (same meaning)", "ar": "", "sup": false },
+    { "de": "Wir hätten gern einen Wein, bitte.", "en": "We would like a wine, please.", "ar": "", "sup": false },
+    { "de": "Ich hätte gern eine Cola.", "en": "I would like a cola.", "ar": "", "sup": false },
+    { "de": "Ich nehme eine Limonade.", "en": "I will take a lemonade.", "ar": "", "sup": false },
+    { "de": "Kommt sofort.", "en": "Coming right away.", "ar": "حالاً.", "sup": false },
+    { "de": "Hier ist Ihr Wein.", "en": "Here is your wine.", "ar": "", "sup": false },
+    { "de": "Was darf es sein?", "en": "What can I get you?", "ar": "ماذا تريد؟", "sup": false },
+    { "de": "Was möchten Sie essen?", "en": "What would you like to eat?", "ar": "", "sup": false },
+    { "de": "Was hätten Sie gern zum Essen?", "en": "What would you like to eat?", "ar": "", "sup": false },
+    { "de": "Was wünschen Sie?", "en": "What would you like?", "ar": "", "sup": false },
+    { "de": "Ich hätte gern ein Sandwich.", "en": "I would like a sandwich.", "ar": "", "sup": false },
+    { "de": "Ich nehme einen Hamburger.", "en": "I will take a hamburger.", "ar": "", "sup": false },
+    { "de": "Noch einen Wunsch?", "en": "Anything else?", "ar": "", "sup": false },
+    { "de": "Guten Appetit!", "en": "Enjoy your meal!", "ar": "بالهناء والشفاء!", "sup": false },
+    { "de": "Schmeckt es Ihnen?", "en": "Do you like the food?", "ar": "هل أعجبكم الطعام؟", "sup": false },
+    { "de": "Wir möchten zahlen, bitte.", "en": "We would like to pay, please.", "ar": "نريد أن ندفع.", "sup": false },
+    { "de": "Zusammen oder getrennt?", "en": "Together or separately?", "ar": "معاً أم منفصلاً؟", "sup": false },
+    { "de": "Das macht zusammen 55 Euro.", "en": "That comes to 55 euros in total.", "ar": "", "sup": false },
+    { "de": "Stimmt so.", "en": "Keep the change.", "ar": "الباقي لك.", "sup": false },
+    { "de": "Hier oder zum Mitnehmen?", "en": "Eat here or take away?", "ar": "هنا أم للأخذ؟", "sup": false },
+    { "de": "Zum Mitnehmen, bitte.", "en": "To take away, please.", "ar": "", "sup": false },
+    { "de": "Möchten Sie noch etwas?", "en": "Would you like anything else?", "ar": "", "sup": false },
+    { "de": "Ihr Kaffee kommt gleich.", "en": "Your coffee is coming soon.", "ar": "", "sup": false }
+  ],
+  "patterns": [
+    { "form": "Ich möchte + einen / eine / ein + [item].", "ex": "Ich möchte ein Bier.", "en": "I would like a beer." },
+    { "form": "Ich hätte gern + einen / eine / ein + [item].", "ex": "Ich hätte gern eine Cola.", "en": "I would like a cola." },
+    { "form": "Ich nehme + einen / eine / ein + [item].", "ex": "Ich nehme einen Hamburger.", "en": "I will take a hamburger." }
+  ],
+  "grammar": [
+    {
+      "title": "Three ways to order",
+      "body": "Use any of these polite patterns: **Ich möchte ...**, **Ich hätte gern ...** or **Ich nehme ...** After them comes the item in the **accusative** (lessons 26 and 28). *hätte gern* is a fixed polite phrase; just learn it as it is.\n\nFor *Pommes* and *Nudeln* (plural) use no article: *Ich nehme Pommes. Ich möchte Nudeln.*",
+      "table": {
+        "head": ["Gender", "Nominative", "Accusative (after möchte / hätte gern / nehme)"],
+        "rows": [
+          ["masculine", "der Wein, der Saft, der Kaffee, der Tee", "einen Wein, einen Saft, einen Kaffee, einen Tee"],
+          ["feminine", "die Cola, die Limonade, die Pizza", "eine Cola, eine Limonade, eine Pizza"],
+          ["neuter", "das Wasser, das Bier, das Sandwich", "ein Wasser, ein Bier, ein Sandwich"]
+        ]
+      },
+      "ar": "المذكر يأخذ einen لأنه مفعول به في حالة Akkusativ.",
+      "examples": [
+        { "de": "Ich möchte einen Saft.", "en": "I would like a juice." },
+        { "de": "Ich hätte gern eine Pizza.", "en": "I would like a pizza." },
+        { "de": "Ich nehme Pommes.", "en": "I will take chips." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Waiter's questions: there is no fixed sentence",
+      "body": "A waiter can ask the same thing in many ways. You may hear: *Was möchten Sie trinken?*, *Was hätten Sie gern zum Trinken?*, *Was darf es sein?*, *Was möchten Sie essen?*, *Was wünschen Sie?*. They all mean 'What would you like?'.\n\nThe conversations in this lesson are only samples; real conversations can be different.",
+      "sup": false
+    },
+    {
+      "title": "Formal Sie in a restaurant",
+      "body": "The waiter speaks formally to guests: **Sie**, **Ihr**, **Ihnen** with a capital letter: *Haben Sie reserviert? Hier ist Ihr Wein.* In a café the situation is faster and less formal.",
+      "sup": false
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich möchte ein Wein.", "right": "Ich möchte einen Wein.", "why": "*Wein* is masculine and the object is accusative: *einen*." },
+    { "wrong": "Ich nehme ein Cola.", "right": "Ich nehme eine Cola.", "why": "*Cola* is feminine." },
+    { "wrong": "Ich hätte gern ein Kaffee.", "right": "Ich hätte gern einen Kaffee.", "why": "*Kaffee* is masculine: *einen*." }
+  ],
+  "pronunciation": [
+    { "de": "ä in hätte, Gäste, Säfte", "tip": "Like the 'e' in 'bed': *hätte*, *Gäste*, *Säfte*." },
+    { "de": "ü in Menü", "tip": "Round your lips as for 'oo' and say 'ee': *Menü*." },
+    { "de": "ei / ie", "tip": "*ei* sounds like 'eye': *Wein*, *zwei*. *ie* is a long 'ee': *Bier*, *Wiedersehen*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Im Restaurant",
+      "lines": [
+        { "who": "Kellnerin", "de": "Guten Tag. Haben Sie reserviert?", "en": "Good day. Do you have a reservation?" },
+        { "who": "Gast", "de": "Ja, auf den Namen Müller. Wir möchten einen Tisch für zwei Personen.", "en": "Yes, under the name Müller. We would like a table for two." },
+        { "who": "Kellnerin", "de": "Bitte nehmen Sie Platz. Hier ist die Speisekarte. Was möchten Sie trinken?", "en": "Please take a seat. Here is the menu. What would you like to drink?" },
+        { "who": "Gast", "de": "Wir hätten gern einen Wein, bitte.", "en": "We would like a wine, please." },
+        { "who": "Kellnerin", "de": "Kommt sofort. Was darf es sein?", "en": "Coming right away. What can I get you?" },
+        { "who": "Gast", "de": "Ich nehme einen Hamburger.", "en": "I will take a hamburger." },
+        { "who": "Kellnerin", "de": "Guten Appetit!", "en": "Enjoy your meal!" },
+        { "who": "Gast", "de": "Wir möchten zahlen, bitte.", "en": "We would like to pay, please." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Im Café",
+      "lines": [
+        { "who": "Kellner", "de": "Hallo, was darf es sein?", "en": "Hello, what can I get you?" },
+        { "who": "Gast", "de": "Einen großen Cappuccino, bitte.", "en": "A large cappuccino, please." },
+        { "who": "Kellner", "de": "Hier oder zum Mitnehmen?", "en": "Here or to take away?" },
+        { "who": "Gast", "de": "Zum Mitnehmen.", "en": "To take away." },
+        { "who": "Kellner", "de": "Möchten Sie noch etwas?", "en": "Would you like anything else?" },
+        { "who": "Gast", "de": "Nein, danke.", "en": "No, thank you." },
+        { "who": "Kellner", "de": "Das macht 4,80 Euro. Ihr Kaffee kommt gleich.", "en": "That is 4.80 euros. Your coffee is coming soon." }
+      ],
+      "sup": false
+    }
+  ],
+  "tip": "In Germany you usually round up the bill and say *Stimmt so* – this is the *Trinkgeld* (about 5 to 10 percent). Practise both dialogues with a friend and then write your own.",
+  "comprehension": [
+    { "q": "What does the waiter ask at the door?", "a": "Haben Sie reserviert?" },
+    { "q": "Name three ways to order a drink.", "a": "Ich möchte ... / Ich hätte gern ... / Ich nehme ..." },
+    { "q": "What do you say to pay for everyone together?", "a": "Zusammen, bitte." },
+    { "q": "What is 'tip' in German?", "a": "das Trinkgeld" },
+    { "q": "Why do we say 'einen Wein' and 'einen Kaffee'?", "a": "They are masculine accusative objects." }
+  ],
+  "exercises": [
+    {
+      "title": "ein, eine or einen?",
+      "type": "fill",
+      "instructions": "Complete with the correct article.",
+      "items": [
+        { "q": "Ich möchte ___ Wein.", "a": "einen", "expl": "*der Wein*, accusative." },
+        { "q": "Ich hätte gern ___ Cola.", "a": "eine", "expl": "*die Cola*." },
+        { "q": "Ich möchte ___ Wasser.", "a": "ein", "expl": "*das Wasser*." },
+        { "q": "Ich nehme ___ Hamburger.", "a": "einen", "expl": "*der Hamburger*." },
+        { "q": "Wir hätten gern ___ Suppe.", "a": "eine", "expl": "*die Suppe*." },
+        { "q": "Ich möchte ___ Bier.", "a": "ein", "expl": "*das Bier*." },
+        { "q": "Ich nehme ___ Salat.", "a": "einen", "expl": "*der Salat*." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Match the words",
+      "type": "match",
+      "instructions": "Match the German with the English.",
+      "items": [
+        { "q": "der Kellner", "a": "waiter" },
+        { "q": "die Speisekarte", "a": "menu card" },
+        { "q": "bestellen", "a": "to order" },
+        { "q": "zahlen", "a": "to pay" },
+        { "q": "das Trinkgeld", "a": "tip" },
+        { "q": "Stimmt so.", "a": "Keep the change." },
+        { "q": "Guten Appetit!", "a": "Enjoy your meal!" }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Form a correct sentence.",
+      "items": [
+        { "q": "möchte / Ich / eine / Suppe", "a": "Ich möchte eine Suppe." },
+        { "q": "hätte / Ich / gern / einen / Kaffee", "a": "Ich hätte gern einen Kaffee." },
+        { "q": "Sie / möchten / Was / trinken", "a": "Was möchten Sie trinken?" },
+        { "q": "nehme / Ich / Pizza / eine", "a": "Ich nehme eine Pizza." },
+        { "q": "reserviert / Sie / Haben", "a": "Haben Sie reserviert?" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "What do you say?",
+      "type": "answer",
+      "instructions": "Write a suitable answer or sentence in German.",
+      "items": [
+        { "q": "The waiter asks: 'Haben Sie reserviert?' You have no reservation.", "a": "Nein, wir haben nicht reserviert.", "expl": "Taken from the dialogue." },
+        { "q": "The waiter asks: 'Zusammen oder getrennt?' You pay together.", "a": "Zusammen, bitte." },
+        { "q": "The waiter says: 'Guten Appetit!'", "a": "Danke." },
+        { "q": "You want to pay.", "a": "Wir möchten zahlen, bitte. / Ich möchte zahlen, bitte. / Zahlen, bitte." },
+        { "q": "In the café: 'Hier oder zum Mitnehmen?' You take it away.", "a": "Zum Mitnehmen, bitte. / Zum Mitnehmen." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Order politely with *Ich möchte ...*, *Ich hätte gern ...* or *Ich nehme ...*.",
+    "The ordered item is in the accusative: einen Wein, eine Cola, ein Wasser.",
+    "The waiter asks: *Haben Sie reserviert? Was möchten Sie trinken? Was darf es sein?*",
+    "To pay say *Wir möchten zahlen, bitte.* Answer *Zusammen* or *getrennt*; add a *Trinkgeld* with *Stimmt so*.",
+    "In a café you hear *Hier oder zum Mitnehmen?*"
+  ]
+}

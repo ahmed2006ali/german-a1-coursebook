@@ -1,0 +1,587 @@
+{
+  "n": 40,
+  "title": "Giving Directions",
+  "titleDe": "Wegbeschreibung",
+  "level": "A1",
+  "sourceNote": "In the captions almost all the direction sentences are missing (only the teacher's comments and a few questions and answers survive). The sentences here were rebuilt from his comments (imperative, an der / am ... vorbei, dritte Straße, entlang, Kreisverkehr, gegenüber, zum / zur) and standard German.",
+  "objectives": [
+    "I can name important places in a city",
+    "I can say left, right and straight ahead",
+    "I can ask the way with Wie komme ich zum / zur ...?",
+    "I can give simple directions using the Sie-imperative"
+  ],
+  "vocab": [
+    {
+      "de": "das Rathaus",
+      "pl": "die Rathäuser",
+      "en": "town hall",
+      "ar": "دار البلدية"
+    },
+    {
+      "de": "die Bücherei",
+      "pl": "die Büchereien",
+      "en": "library",
+      "ar": "مكتبة عامة"
+    },
+    {
+      "de": "das Krankenhaus",
+      "pl": "die Krankenhäuser",
+      "en": "hospital",
+      "ar": "مستشفى"
+    },
+    {
+      "de": "die Kirche",
+      "pl": "die Kirchen",
+      "en": "church",
+      "ar": "كنيسة"
+    },
+    {
+      "de": "die Post",
+      "pl": "–",
+      "en": "post office",
+      "ar": "مكتب البريد"
+    },
+    {
+      "de": "die Apotheke",
+      "pl": "die Apotheken",
+      "en": "pharmacy",
+      "ar": "صيدلية"
+    },
+    {
+      "de": "der Bahnhof",
+      "pl": "die Bahnhöfe",
+      "en": "station",
+      "ar": "محطة القطار"
+    },
+    {
+      "de": "der Tierpark",
+      "pl": "die Tierparks",
+      "en": "zoo",
+      "ar": "حديقة حيوان"
+    },
+    {
+      "de": "die Schule",
+      "pl": "die Schulen",
+      "en": "school",
+      "ar": "مدرسة"
+    },
+    {
+      "de": "die Bäckerei",
+      "pl": "die Bäckereien",
+      "en": "bakery",
+      "ar": "مخبز"
+    },
+    {
+      "de": "das Reisebüro",
+      "pl": "die Reisebüros",
+      "en": "travel agency",
+      "ar": "وكالة سفر"
+    },
+    {
+      "de": "die Bank",
+      "pl": "die Banken",
+      "en": "bank",
+      "ar": "بنك"
+    },
+    {
+      "de": "das Restaurant",
+      "pl": "die Restaurants",
+      "en": "restaurant",
+      "ar": "مطعم"
+    },
+    {
+      "de": "die Straße",
+      "pl": "die Straßen",
+      "en": "street",
+      "ar": "شارع"
+    },
+    {
+      "de": "der Kreisverkehr",
+      "pl": "die Kreisverkehre",
+      "en": "roundabout",
+      "ar": "دوّار"
+    },
+    {
+      "de": "die U-Bahn",
+      "pl": "die U-Bahnen",
+      "en": "underground, subway",
+      "ar": "مترو"
+    },
+    {
+      "de": "links",
+      "en": "left",
+      "ar": "يسار"
+    },
+    {
+      "de": "rechts",
+      "en": "right",
+      "ar": "يمين"
+    },
+    {
+      "de": "geradeaus",
+      "en": "straight ahead",
+      "ar": "إلى الأمام"
+    },
+    {
+      "de": "gegenüber",
+      "en": "opposite",
+      "ar": "مقابل"
+    },
+    {
+      "de": "entlang",
+      "en": "along",
+      "ar": "على طول"
+    },
+    {
+      "de": "vorbei",
+      "en": "past, by",
+      "ar": "بجانب (مرورًا)"
+    },
+    {
+      "de": "weit",
+      "en": "far",
+      "ar": "بعيد"
+    },
+    {
+      "de": "die Nähe",
+      "pl": "–",
+      "en": "nearness, vicinity",
+      "ar": "قرب"
+    },
+    {
+      "de": "zu Fuß",
+      "en": "on foot",
+      "ar": "سيرًا على الأقدام"
+    }
+  ],
+  "expressions": [
+    {
+      "de": "Entschuldigen Sie, wie komme ich zum Bahnhof?",
+      "en": "Excuse me, how do I get to the station?"
+    },
+    {
+      "de": "Entschuldigen Sie bitte, wo finde ich hier eine Apotheke?",
+      "en": "Excuse me, where can I find a pharmacy here?"
+    },
+    {
+      "de": "Entschuldigen Sie, wie weit ist es zum Rathaus?",
+      "en": "Excuse me, how far is it to the town hall?"
+    },
+    {
+      "de": "Das ist ganz in der Nähe.",
+      "en": "That is very close."
+    },
+    {
+      "de": "Sie können 10 Minuten zu Fuß laufen.",
+      "en": "You can walk for 10 minutes."
+    },
+    {
+      "de": "Wissen Sie, ob es in der Nähe ein Restaurant gibt?",
+      "en": "Do you know whether there is a restaurant nearby?"
+    },
+    {
+      "de": "Ja, es ist der Kirche gegenüber.",
+      "en": "Yes, it is opposite the church."
+    },
+    {
+      "de": "Da nehmen Sie am besten den Bus oder die U-Bahn.",
+      "en": "It is best to take the bus or the underground."
+    },
+    {
+      "de": "Es tut mir leid, ich weiß es leider auch nicht.",
+      "en": "I am sorry, unfortunately I do not know either."
+    },
+    {
+      "de": "Danke! / Vielen Dank! – Bitte!",
+      "en": "Thanks! / Thank you very much! – You're welcome!"
+    }
+  ],
+  "patterns": [
+    {
+      "form": "Wie komme ich zum (m, n) / zur (f) + [Ort]?",
+      "ex": "Wie komme ich zur Apotheke?",
+      "en": "How do I get to the pharmacy?"
+    },
+    {
+      "form": "Wie weit ist es zum (m, n) / zur (f) + [Ort]?",
+      "ex": "Wie weit ist es zum Rathaus?",
+      "en": "How far is it to the town hall?"
+    },
+    {
+      "form": "Gehen Sie + links / rechts / geradeaus.",
+      "ex": "Gehen Sie links.",
+      "en": "Go left."
+    },
+    {
+      "form": "Gehen Sie die + [Ordinalzahl] + Straße + links / rechts.",
+      "ex": "Gehen Sie die dritte Straße rechts.",
+      "en": "Take the third street on the right."
+    },
+    {
+      "form": "Gehen Sie an der (f) / am (m, n) + [Ort] + vorbei.",
+      "ex": "Gehen Sie am Bahnhof vorbei.",
+      "en": "Go past the station."
+    },
+    {
+      "form": "Gehen Sie die + [Straße] + entlang.",
+      "ex": "Gehen Sie die Hauptstraße entlang.",
+      "en": "Go along the main street."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Directions are imperatives",
+      "body": "When you give directions you use the **imperative** (lesson 39). To strangers use the polite **Sie** form: verb first, then **Sie**: *Gehen Sie links. Nehmen Sie den Bus.* The three key direction words are **links** (left), **rechts** (right) and **geradeaus** (straight ahead).",
+      "examples": [
+        {
+          "de": "Gehen Sie geradeaus.",
+          "en": "Go straight ahead."
+        },
+        {
+          "de": "Gehen Sie links.",
+          "en": "Go left."
+        },
+        {
+          "de": "Gehen Sie rechts.",
+          "en": "Go right."
+        },
+        {
+          "de": "Gehen Sie die erste Straße links.",
+          "en": "Take the first street on the left."
+        },
+        {
+          "de": "Gehen Sie die dritte Straße rechts.",
+          "en": "Take the third street on the right."
+        }
+      ]
+    },
+    {
+      "title": "Passing something: an der / am ... vorbei",
+      "body": "To pass a place use **an ... vorbei**. If the place is **feminine (die)**, say **an der**: *an der Post vorbei*. If it is **masculine (der)** or **neuter (das)**, *an dem* becomes **am**: *am Bahnhof vorbei, am Rathaus vorbei*.\n\nTo go along a street use **entlang** after the street: *die Hauptstraße entlang*. At a roundabout you say where to leave it: *Nehmen Sie im Kreisverkehr die zweite Ausfahrt.*\n\nThe words *gegenüber, an, entlang* are prepositions; they are explained in the lessons on prepositions.",
+      "ar": "die → an der ؛ der / das → am.",
+      "examples": [
+        {
+          "de": "Gehen Sie an der Post vorbei.",
+          "en": "Go past the post office."
+        },
+        {
+          "de": "Gehen Sie am Bahnhof vorbei.",
+          "en": "Go past the station."
+        },
+        {
+          "de": "Gehen Sie am Rathaus vorbei.",
+          "en": "Go past the town hall."
+        },
+        {
+          "de": "Gehen Sie die Goethestraße entlang.",
+          "en": "Go along Goethestraße."
+        }
+      ]
+    },
+    {
+      "title": "Asking the way: zum and zur",
+      "body": "Use **zum** for places with **der** or **das**: *zum Bahnhof, zum Rathaus, zum Tierpark*. Use **zur** for places with **die**: *zur Apotheke, zur Bäckerei, zur Bank*. This works the same for *Wie komme ich ...?* and *Wie weit ist es ...?*",
+      "ar": "der / das → zum ؛ die → zur.",
+      "table": {
+        "head": [
+          "Article",
+          "Preposition",
+          "Example"
+        ],
+        "rows": [
+          [
+            "der",
+            "zum",
+            "Wie komme ich zum Bahnhof?"
+          ],
+          [
+            "das",
+            "zum",
+            "Wie komme ich zum Rathaus?"
+          ],
+          [
+            "die",
+            "zur",
+            "Wie komme ich zur Apotheke?"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "Where is it? Useful structures",
+      "body": "To say where something is: *Es ist der Kirche gegenüber* (it is opposite the church). Close by: *Das ist ganz in der Nähe.* A short walk: *Sie können 10 Minuten zu Fuß laufen.* Far away: *Das ist weit von hier.*\n\nIf you do not know the way: *Es tut mir leid, ich weiß es leider auch nicht.* After help say *Danke* or *Vielen Dank*; the answer is *Bitte*.",
+      "examples": [
+        {
+          "de": "Das ist ganz in der Nähe.",
+          "en": "That is very close."
+        },
+        {
+          "de": "Es ist der Kirche gegenüber.",
+          "en": "It is opposite the church."
+        },
+        {
+          "de": "Das ist weit von hier.",
+          "en": "That is far from here."
+        }
+      ]
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Wie komme ich zum Apotheke?",
+      "right": "Wie komme ich zur Apotheke?",
+      "why": "*Apotheke* is feminine: *zur*."
+    },
+    {
+      "wrong": "Gehen Sie am Post vorbei.",
+      "right": "Gehen Sie an der Post vorbei.",
+      "why": "*Post* is feminine: *an der*, not *am*."
+    },
+    {
+      "wrong": "Gehen Sie links die dritte Straße.",
+      "right": "Gehen Sie die dritte Straße links.",
+      "why": "The direction word comes after the street."
+    }
+  ],
+  "pronunciation": [
+    {
+      "de": "geradeaus",
+      "tip": "Stress the last part: 'ge-ra-de-AUS'."
+    },
+    {
+      "de": "Apotheke",
+      "tip": "The *th* is just a *t*: 'a-po-TEE-ke'."
+    },
+    {
+      "de": "Rathäuser",
+      "tip": "*äu* sounds like 'oy': 'RAHT-hoy-zer'."
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Where is the station?",
+      "lines": [
+        {
+          "who": "A",
+          "de": "Entschuldigen Sie bitte, wie komme ich zum Bahnhof?",
+          "en": "Excuse me, how do I get to the station?"
+        },
+        {
+          "who": "B",
+          "de": "Gehen Sie geradeaus und dann die zweite Straße links.",
+          "en": "Go straight ahead and then take the second street on the left."
+        },
+        {
+          "who": "A",
+          "de": "Wie weit ist es?",
+          "en": "How far is it?"
+        },
+        {
+          "who": "B",
+          "de": "Das ist ganz in der Nähe. Sie können 10 Minuten zu Fuß laufen.",
+          "en": "That is very close. You can walk for 10 minutes."
+        },
+        {
+          "who": "A",
+          "de": "Vielen Dank!",
+          "en": "Thank you very much!"
+        },
+        {
+          "who": "B",
+          "de": "Bitte!",
+          "en": "You're welcome!"
+        }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Looking for a pharmacy",
+      "lines": [
+        {
+          "who": "A",
+          "de": "Entschuldigen Sie bitte, wo finde ich hier eine Apotheke?",
+          "en": "Excuse me, where can I find a pharmacy here?"
+        },
+        {
+          "who": "B",
+          "de": "Es tut mir leid, ich weiß es leider auch nicht.",
+          "en": "I am sorry, I unfortunately do not know either."
+        },
+        {
+          "who": "A",
+          "de": "Kein Problem. Danke!",
+          "en": "No problem. Thanks!"
+        }
+      ]
+    }
+  ],
+  "tip": "Learn the places together with their article (der Bahnhof, die Apotheke): the article decides between zum and zur, and between am and an der.",
+  "comprehension": [
+    {
+      "q": "How do you say 'left', 'right' and 'straight ahead'?",
+      "a": "links, rechts, geradeaus."
+    },
+    {
+      "q": "When do you say 'zur' and when 'zum'?",
+      "a": "zur with die-words (zur Apotheke); zum with der- and das-words (zum Bahnhof, zum Rathaus)."
+    },
+    {
+      "q": "How do you say 'Go past the station'?",
+      "a": "Gehen Sie am Bahnhof vorbei."
+    },
+    {
+      "q": "What do you say if you do not know the way?",
+      "a": "Es tut mir leid, ich weiß es leider auch nicht."
+    },
+    {
+      "q": "What does 'Das ist ganz in der Nähe' mean?",
+      "a": "That is very close."
+    }
+  ],
+  "exercises": [
+    {
+      "title": "zum or zur?",
+      "type": "fill",
+      "instructions": "Complete with zum or zur.",
+      "items": [
+        {
+          "q": "Wie komme ich ___ Bahnhof?",
+          "a": "zum",
+          "expl": "der Bahnhof."
+        },
+        {
+          "q": "Wie komme ich ___ Apotheke?",
+          "a": "zur",
+          "expl": "die Apotheke."
+        },
+        {
+          "q": "Wie komme ich ___ Bäckerei?",
+          "a": "zur",
+          "expl": "die Bäckerei."
+        },
+        {
+          "q": "Wie weit ist es ___ Rathaus?",
+          "a": "zum",
+          "expl": "das Rathaus."
+        },
+        {
+          "q": "Wie weit ist es ___ Reisebüro?",
+          "a": "zum",
+          "expl": "das Reisebüro."
+        },
+        {
+          "q": "Wie komme ich ___ Schule?",
+          "a": "zur",
+          "expl": "die Schule."
+        },
+        {
+          "q": "Wie komme ich ___ Tierpark?",
+          "a": "zum",
+          "expl": "der Tierpark."
+        }
+      ]
+    },
+    {
+      "title": "Going past",
+      "type": "fill",
+      "instructions": "Complete with an der or am.",
+      "items": [
+        {
+          "q": "Gehen Sie ___ Post vorbei.",
+          "a": "an der",
+          "expl": "die Post."
+        },
+        {
+          "q": "Gehen Sie ___ Bahnhof vorbei.",
+          "a": "am",
+          "expl": "der Bahnhof."
+        },
+        {
+          "q": "Gehen Sie ___ Kirche vorbei.",
+          "a": "an der",
+          "expl": "die Kirche."
+        },
+        {
+          "q": "Gehen Sie ___ Rathaus vorbei.",
+          "a": "am",
+          "expl": "das Rathaus."
+        },
+        {
+          "q": "Gehen Sie ___ Bäckerei vorbei.",
+          "a": "an der",
+          "expl": "die Bäckerei."
+        },
+        {
+          "q": "Gehen Sie ___ Krankenhaus vorbei.",
+          "a": "am",
+          "expl": "das Krankenhaus."
+        }
+      ]
+    },
+    {
+      "title": "Build the sentence",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        {
+          "q": "Sie / links / Gehen",
+          "a": "Gehen Sie links."
+        },
+        {
+          "q": "komme / ich / Wie / zur / Apotheke",
+          "a": "Wie komme ich zur Apotheke?"
+        },
+        {
+          "q": "ist / es / weit / Wie / zum Rathaus",
+          "a": "Wie weit ist es zum Rathaus?"
+        },
+        {
+          "q": "Sie / geradeaus / Gehen / bitte",
+          "a": "Gehen Sie bitte geradeaus. / Bitte gehen Sie geradeaus."
+        },
+        {
+          "q": "Sie / vorbei / Gehen / am Bahnhof",
+          "a": "Gehen Sie am Bahnhof vorbei."
+        },
+        {
+          "q": "Sie / entlang / Gehen / die Hauptstraße",
+          "a": "Gehen Sie die Hauptstraße entlang."
+        }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        {
+          "q": "Go straight ahead.",
+          "a": "Gehen Sie geradeaus."
+        },
+        {
+          "q": "Take the third street on the right.",
+          "a": "Gehen Sie die dritte Straße rechts. / Nehmen Sie die dritte Straße rechts."
+        },
+        {
+          "q": "It is opposite the church.",
+          "a": "Es ist der Kirche gegenüber. / Es ist gegenüber der Kirche."
+        },
+        {
+          "q": "How do I get to the station?",
+          "a": "Wie komme ich zum Bahnhof?"
+        },
+        {
+          "q": "I am sorry, unfortunately I do not know either.",
+          "a": "Es tut mir leid, ich weiß es leider auch nicht."
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "Directions use the Sie-imperative: Gehen Sie links / rechts / geradeaus.",
+    "Ask the way: Wie komme ich zum (der, das) / zur (die) ...?",
+    "Passing a place: an der (die) / am (der, das) ... vorbei.",
+    "Street + ordinal + direction: die dritte Straße rechts; along: die Hauptstraße entlang.",
+    "Polite phrases: Entschuldigen Sie ..., Vielen Dank, Bitte, Es tut mir leid."
+  ]
+}

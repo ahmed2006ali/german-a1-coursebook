@@ -1,0 +1,184 @@
+{
+  "n": 61,
+  "title": "Filling in a Form",
+  "titleDe": "Ein Formular ausfüllen",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; the vocabulary was reconstructed from context and standard German. The sample form exercise at the end of the video could not be recovered from the captions, so it is replaced by new practice items.",
+  "objectives": [
+    "I can understand the common fields of a German form",
+    "I can fill in personal data: name, address, date of birth, nationality, job",
+    "I can write dates and addresses in the German way",
+    "I can fill in a form for a trip or a course"
+  ],
+  "vocab": [
+    { "de": "das Formular", "pl": "die Formulare", "en": "form", "ar": "استمارة" },
+    { "de": "ausfüllen", "en": "to fill in", "ar": "يملأ", "note": "separable: ich fülle aus" },
+    { "de": "der Name", "pl": "die Namen", "en": "name", "ar": "اسم" },
+    { "de": "der Nachname", "pl": "die Nachnamen", "en": "surname", "ar": "اسم العائلة", "note": "also: der Familienname" },
+    { "de": "der Vorname", "pl": "die Vornamen", "en": "first name", "ar": "الاسم الأول" },
+    { "de": "die Adresse", "pl": "die Adressen", "en": "address", "ar": "عنوان" },
+    { "de": "die Straße", "pl": "die Straßen", "en": "street", "ar": "شارع" },
+    { "de": "die Hausnummer", "pl": "die Hausnummern", "en": "house number", "ar": "رقم المنزل" },
+    { "de": "der Wohnort", "pl": "die Wohnorte", "en": "place of residence", "ar": "مكان السكن" },
+    { "de": "die Postleitzahl", "pl": "die Postleitzahlen", "en": "postcode", "ar": "الرمز البريدي", "note": "short: PLZ" },
+    { "de": "das Land", "pl": "die Länder", "en": "country", "ar": "بلد" },
+    { "de": "die E-Mail-Adresse", "pl": "die E-Mail-Adressen", "en": "email address", "ar": "بريد إلكتروني" },
+    { "de": "die Telefonnummer", "pl": "die Telefonnummern", "en": "telephone number", "ar": "رقم الهاتف" },
+    { "de": "die Handynummer", "pl": "die Handynummern", "en": "mobile number", "ar": "رقم الجوال" },
+    { "de": "die Muttersprache", "pl": "die Muttersprachen", "en": "mother tongue", "ar": "اللغة الأم" },
+    { "de": "die Staatsangehörigkeit", "pl": "die Staatsangehörigkeiten", "en": "nationality", "ar": "الجنسية" },
+    { "de": "das Alter", "pl": "–", "en": "age", "ar": "العمر" },
+    { "de": "das Geburtsdatum", "pl": "die Geburtsdaten", "en": "date of birth", "ar": "تاريخ الميلاد" },
+    { "de": "der Geburtsort", "pl": "die Geburtsorte", "en": "place of birth", "ar": "مكان الميلاد" },
+    { "de": "der Familienstand", "pl": "–", "en": "marital status", "ar": "الحالة الاجتماعية", "note": "ledig, verheiratet, geschieden" },
+    { "de": "das Geschlecht", "pl": "die Geschlechter", "en": "gender", "ar": "الجنس", "note": "weiblich / männlich" },
+    { "de": "der Beruf", "pl": "die Berufe", "en": "profession, job", "ar": "مهنة" },
+    { "de": "das Reiseziel", "pl": "die Reiseziele", "en": "travel destination", "ar": "وجهة السفر" },
+    { "de": "der Abflug", "pl": "die Abflüge", "en": "departure (by plane)", "ar": "إقلاع", "note": "also: die Abreise, die Abfahrt" },
+    { "de": "die Ankunft", "pl": "die Ankünfte", "en": "arrival", "ar": "وصول", "note": "also: die Anreise" },
+    { "de": "der Kurs", "pl": "die Kurse", "en": "course", "ar": "دورة" },
+    { "de": "der Kursbeginn", "pl": "–", "en": "start of the course", "ar": "بداية الدورة" },
+    { "de": "die Prüfung", "pl": "die Prüfungen", "en": "exam", "ar": "امتحان" },
+    { "de": "das Hobby", "pl": "die Hobbys", "en": "hobby", "ar": "هواية" },
+    { "de": "die Unterschrift", "pl": "die Unterschriften", "en": "signature", "ar": "توقيع" },
+    { "de": "der Ort", "pl": "die Orte", "en": "place", "ar": "مكان" },
+    { "de": "das Datum", "pl": "die Daten", "en": "date", "ar": "تاريخ" }
+  ],
+  "expressions": [
+    { "de": "ledig", "en": "single (not married)" },
+    { "de": "verheiratet", "en": "married" },
+    { "de": "geschieden", "en": "divorced" },
+    { "de": "weiblich / männlich", "en": "female / male" },
+    { "de": "Bitte füllen Sie das Formular aus.", "en": "Please fill in the form." },
+    { "de": "Name, Vorname", "en": "Surname, first name (typical form fields)" }
+  ],
+  "patterns": [
+    { "form": "Das Formular + ausfüllen.", "ex": "Ich fülle das Formular aus.", "en": "I fill in the form." },
+    { "form": "Straße + Hausnummer, PLZ + Ort", "ex": "Goethestraße 5, 10115 Berlin", "en": "Goethe Street 5, 10115 Berlin" },
+    { "form": "Tag.Monat.Jahr", "ex": "21.05.1990", "en": "21 May 1990" }
+  ],
+  "grammar": [
+    {
+      "title": "Fields on a form have no article",
+      "body": "In the vocabulary list we learn nouns with their articles (**der Nachname**, **die Adresse**). On the form itself they are written **without** article: *Nachname, Vorname, Adresse, Beruf*. **ausfüllen** is a separable verb: *Ich fülle das Formular aus.*"
+    },
+    {
+      "title": "Writing an address",
+      "body": "In Germany the order is: **street, house number, postcode, city**. Write the street first and the number after it. The postcode (PLZ) has five digits and comes before the city name. Sometimes the country (**das Land**) is asked separately.",
+      "table": {
+        "head": ["Field", "Example"],
+        "rows": [
+          ["Straße", "Goethestraße"],
+          ["Hausnummer", "5"],
+          ["PLZ", "12345"],
+          ["Wohnort", "Berlin"],
+          ["Land", "Deutschland"]
+        ]
+      }
+    },
+    {
+      "title": "Writing the date",
+      "body": "In German you write the **day first, then the month, then the year**: **Tag – Monat – Jahr**. For *Geburtsdatum* write for example **14.03.1995**. The place of birth is **der Geburtsort** (for example: Berlin).",
+      "ar": "ترتيب التاريخ: اليوم ثم الشهر ثم السنة."
+    },
+    {
+      "title": "Personal details: nationality, language, family",
+      "body": "**Staatsangehörigkeit:** deutsch, französisch ... **Muttersprache:** Arabisch, Englisch, ... **Familienstand:** ledig, verheiratet, geschieden. You can also be asked about **Kinder** (children). For **Geschlecht** choose *weiblich* or *männlich*.",
+      "examples": [
+        { "de": "Meine Muttersprache ist Arabisch.", "en": "My mother tongue is Arabic.", "sup": true },
+        { "de": "Ich bin verheiratet und habe zwei Kinder.", "en": "I am married and have two children.", "sup": true }
+      ]
+    },
+    {
+      "title": "Forms for trips and courses",
+      "body": "A form at the travel agent or hotel asks for **Reiseziel**, **Abflug** (also *Abreise* or *Abfahrt*) and **Ankunft** (also *Anreise*). A form for a course or exam asks for **Prüfung**, **Kurs** and **Kursbeginn**. A club form may ask for your **Hobby**. At the end of every form you give **Ort, Datum** and **Unterschrift**."
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Datum: 1990.05.21", "right": "Datum: 21.05.1990", "why": "In German the order is day, month, year.", "sup": true },
+    { "wrong": "Adresse: 12345 Berlin, Goethestraße 5", "right": "Adresse: Goethestraße 5, 12345 Berlin", "why": "Street and house number first, then PLZ and city.", "sup": true }
+  ],
+  "pronunciation": [
+    { "de": "Straße", "tip": "ß is a sharp 's'. Say *Strah-sse*." },
+    { "de": "Ankunft / Abflug", "tip": "Stress the first syllable of separable-verb nouns: *AN-kunft, AB-flug*.", "sup": true }
+  ],
+  "dialogues": [
+    {
+      "title": "At the language school office",
+      "sup": true,
+      "lines": [
+        { "who": "A", "de": "Guten Tag, ich möchte einen Kurs buchen.", "en": "Good day, I would like to book a course." },
+        { "who": "B", "de": "Gern. Bitte füllen Sie das Formular aus.", "en": "Gladly. Please fill in the form." },
+        { "who": "B", "de": "Wie ist Ihr Nachname?", "en": "What is your surname?" },
+        { "who": "A", "de": "Mein Nachname ist Schmidt, mein Vorname ist David.", "en": "My surname is Schmidt, my first name is David." },
+        { "who": "B", "de": "Und Ihre Adresse?", "en": "And your address?" },
+        { "who": "A", "de": "Goethestraße 5, 12345 Berlin.", "en": "Goethestraße 5, 12345 Berlin." }
+      ]
+    }
+  ],
+  "tip": "Fill in forms in capital letters if the form asks for it, and always check name, date of birth and signature before you hand it in.",
+  "comprehension": [
+    { "q": "In which order do you write an address in Germany?", "a": "Street, house number, postcode, city." },
+    { "q": "In which order do you write the date?", "a": "Day, month, year." },
+    { "q": "What are three possible answers for Familienstand?", "a": "ledig, verheiratet, geschieden." },
+    { "q": "What do you give at the end of a form?", "a": "Ort, Datum and Unterschrift." }
+  ],
+  "exercises": [
+    {
+      "title": "Match the form fields",
+      "type": "match",
+      "instructions": "Match the German field with its English meaning.",
+      "items": [
+        { "q": "der Vorname", "a": "first name" },
+        { "q": "der Nachname", "a": "surname" },
+        { "q": "die Postleitzahl", "a": "postcode" },
+        { "q": "das Geburtsdatum", "a": "date of birth" },
+        { "q": "die Staatsangehörigkeit", "a": "nationality" },
+        { "q": "die Unterschrift", "a": "signature" },
+        { "q": "der Beruf", "a": "profession" }
+      ]
+    },
+    {
+      "title": "Which field is it?",
+      "type": "answer",
+      "instructions": "Write the correct form field (with article) for each entry.",
+      "items": [
+        { "q": "Berlin (where you live)", "a": "der Wohnort / der Ort" },
+        { "q": "Arabisch (your first language)", "a": "die Muttersprache" },
+        { "q": "ledig / verheiratet / geschieden", "a": "der Familienstand" },
+        { "q": "12345", "a": "die Postleitzahl" },
+        { "q": "Lehrerin", "a": "der Beruf" },
+        { "q": "Goethestraße", "a": "die Straße" }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentences.",
+      "items": [
+        { "q": "Ich ___ das Formular aus. (ausfüllen)", "a": "fülle", "expl": "Separable verb: ich fülle ... aus." },
+        { "q": "Bei der Adresse schreibt man zuerst die ___ und dann die Hausnummer.", "a": "Straße" },
+        { "q": "Das Datum schreibt man: Tag, ___, Jahr.", "a": "Monat" },
+        { "q": "Am Ende des Formulars schreibt man die ___. (signature)", "a": "Unterschrift" },
+        { "q": "Wer nicht verheiratet und nicht geschieden ist, ist ___.", "a": "ledig" }
+      ]
+    },
+    {
+      "title": "Put the address in the right order",
+      "type": "reorder",
+      "instructions": "Write the address in the correct German order.",
+      "items": [
+        { "q": "10115 Berlin / Goethestraße / 5", "a": "Goethestraße 5, 10115 Berlin" },
+        { "q": "Hamburg / 20095 / 12 / Hauptstraße", "a": "Hauptstraße 12, 20095 Hamburg" },
+        { "q": "Köln / 3 / Bahnhofstraße / 50667", "a": "Bahnhofstraße 3, 50667 Köln" }
+      ]
+    }
+  ],
+  "summary": [
+    "A Formular has fields such as Nachname, Vorname, Adresse, Geburtsdatum, Beruf.",
+    "Address order: Straße, Hausnummer, PLZ, Ort. Date order: Tag, Monat, Jahr.",
+    "Family status: ledig, verheiratet, geschieden. Gender: weiblich / männlich.",
+    "Travel and course forms ask for Reiseziel, Abflug, Ankunft, Kursbeginn.",
+    "Finish every form with Ort, Datum and Unterschrift."
+  ]
+}

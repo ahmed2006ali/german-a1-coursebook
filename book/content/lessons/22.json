@@ -1,0 +1,164 @@
+{
+  "n": 22,
+  "title": "Official Time",
+  "titleDe": "Die Uhrzeit (offiziell)",
+  "level": "A1",
+  "sourceNote": "The auto-captions are garbled; the numbers in the video's exercise could not be recovered, so the exercises below are new and based on the rules taught.",
+  "objectives": [
+    "I can ask for the time: Wie spät ist es? / Wie viel Uhr ist es?",
+    "I can read and say the time in the 24-hour (official) format",
+    "I know when official time is used",
+    "I can say 'ein Uhr' instead of 'eins Uhr'"
+  ],
+  "vocab": [
+    { "de": "die Uhr", "pl": "die Uhren", "en": "clock, watch; o'clock", "ar": "ساعة", "note": "same word for clock and watch" },
+    { "de": "die Uhrzeit", "pl": "die Uhrzeiten", "en": "time (of day)", "ar": "الوقت", "note": "", "sup": true },
+    { "de": "die Stunde", "pl": "die Stunden", "en": "hour", "ar": "ساعة (مدة)", "note": "", "sup": true },
+    { "de": "die Minute", "pl": "die Minuten", "en": "minute", "ar": "دقيقة", "note": "", "sup": true },
+    { "de": "spät", "en": "late", "ar": "متأخر", "note": "" },
+    { "de": "offiziell", "en": "official", "ar": "رسمي", "note": "" },
+    { "de": "inoffiziell", "en": "unofficial", "ar": "غير رسمي", "note": "" },
+    { "de": "der Flughafen", "pl": "die Flughäfen", "en": "airport", "ar": "مطار", "note": "" },
+    { "de": "der Bahnhof", "pl": "die Bahnhöfe", "en": "train station", "ar": "محطة قطار", "note": "" },
+    { "de": "das Büro", "pl": "die Büros", "en": "office", "ar": "مكتب", "note": "" },
+    { "de": "das Radio", "pl": "die Radios", "en": "radio", "ar": "راديو", "note": "" },
+    { "de": "die Zeit", "pl": "–", "en": "time", "ar": "وقت", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Wie spät ist es?", "en": "What time is it?", "ar": "كم الساعة؟" },
+    { "de": "Wie viel Uhr ist es?", "en": "What time is it?", "ar": "كم الساعة؟" },
+    { "de": "Es ist ein Uhr.", "en": "It is one o'clock.", "ar": "" },
+    { "de": "Es ist dreizehn Uhr fünfzehn.", "en": "It is 13:15.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Es ist + [hour] + Uhr + [minutes].", "ex": "Es ist sieben Uhr zwanzig.", "en": "It is 7:20." },
+    { "form": "Es ist + [hour] + Uhr.", "ex": "Es ist zwölf Uhr.", "en": "It is 12 o'clock." }
+  ],
+  "grammar": [
+    {
+      "title": "Two ways of telling time",
+      "body": "Time can be read in the **12-hour** or the **24-hour** format. In Germany the **24-hour format** is used in **official** situations: radio, airport, train station, timetables. The 12-hour format is used in **unofficial** situations, for example with friends and family (next lesson).\n\nThis lesson is about the official way. Make sure you know the numbers from lessons 3 and 4.",
+      "ar": "النظام الرسمي (24 ساعة) في المطارات والمحطات والراديو."
+    },
+    {
+      "title": "How to ask and answer",
+      "body": "Two questions are common: **Wie spät ist es?** and **Wie viel Uhr ist es?** The answer begins with **Es ist ...**\n\nOfficial time is simple: say the **hour**, then **Uhr**, then the **minutes**, all as normal numbers.",
+      "examples": [
+        { "de": "Es ist acht Uhr fünfzehn.", "en": "It is 8:15." },
+        { "de": "Es ist dreizehn Uhr dreißig.", "en": "It is 13:30." },
+        { "de": "Es ist neunzehn Uhr fünfundvierzig.", "en": "It is 19:45." },
+        { "de": "Es ist zwölf Uhr.", "en": "It is twelve o'clock.", "sup": true }
+      ]
+    },
+    {
+      "title": "ein Uhr, not eins Uhr",
+      "body": "For one o'clock you do **not** say *eins*, you say **ein**: **Es ist ein Uhr.** For all other hours you use the normal number: *zwei Uhr, drei Uhr, sechs Uhr ...*\n\nAfter twelve o'clock you simply keep counting: **dreizehn Uhr** (13:00), **vierzehn Uhr** (14:00), **fünfzehn Uhr** (15:00) and so on, up to **dreiundzwanzig Uhr** (23:00).",
+      "table": {
+        "head": ["Digits", "German"],
+        "rows": [
+          ["1:00", "Es ist ein Uhr."],
+          ["2:00", "Es ist zwei Uhr."],
+          ["12:00", "Es ist zwölf Uhr."],
+          ["13:00", "Es ist dreizehn Uhr."],
+          ["15:10", "Es ist fünfzehn Uhr zehn."],
+          ["21:35", "Es ist einundzwanzig Uhr fünfunddreißig."]
+        ]
+      },
+      "ar": "الساعة الواحدة: ein Uhr وليس eins Uhr."
+    },
+    {
+      "title": "Midnight",
+      "body": "In official time midnight (00:00) is **null Uhr**. For minutes after midnight, for example 00:15, you say **null Uhr fünfzehn**.",
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Es ist eins Uhr.", "right": "Es ist ein Uhr.", "why": "Before *Uhr* use *ein*, not *eins*." },
+    { "wrong": "Es ist sieben Uhr fünf und zwanzig.", "right": "Es ist sieben Uhr fünfundzwanzig.", "why": "Numbers from 21 are one word." }
+  ],
+  "pronunciation": [
+    { "de": "Uhr", "tip": "Long 'oo' followed by a soft 'r'. *Uhr*, *Uhren*." },
+    { "de": "zwölf", "tip": "'ö' like the vowel in 'bird' without the r: *zwölf*." }
+  ],
+  "dialogues": [
+    {
+      "title": "At the train station",
+      "lines": [
+        { "who": "A", "de": "Entschuldigung, wie spät ist es?", "en": "Excuse me, what time is it?" },
+        { "who": "B", "de": "Es ist vierzehn Uhr dreißig.", "en": "It is 14:30." },
+        { "who": "A", "de": "Danke!", "en": "Thank you!" },
+        { "who": "B", "de": "Bitte!", "en": "You're welcome!" }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Look at your watch several times a day and say the official time aloud in German.",
+  "comprehension": [
+    { "q": "Which two questions ask for the time?", "a": "Wie spät ist es? and Wie viel Uhr ist es?" },
+    { "q": "Where is the 24-hour format used in Germany?", "a": "In official situations: radio, airport, train station." },
+    { "q": "How do you say 1:00 correctly?", "a": "Es ist ein Uhr." },
+    { "q": "How do you say 13:00?", "a": "Es ist dreizehn Uhr." }
+  ],
+  "exercises": [
+    {
+      "title": "Write the time in words",
+      "type": "translate",
+      "instructions": "Write the official time as a full sentence beginning with Es ist.",
+      "items": [
+        { "q": "08:15", "a": "Es ist acht Uhr fünfzehn." },
+        { "q": "13:30", "a": "Es ist dreizehn Uhr dreißig." },
+        { "q": "07:55", "a": "Es ist sieben Uhr fünfundfünfzig." },
+        { "q": "21:45", "a": "Es ist einundzwanzig Uhr fünfundvierzig." },
+        { "q": "01:10", "a": "Es ist ein Uhr zehn.", "expl": "*ein*, not *eins*." },
+        { "q": "17:20", "a": "Es ist siebzehn Uhr zwanzig." },
+        { "q": "23:59", "a": "Es ist dreiundzwanzig Uhr neunundfünfzig." },
+        { "q": "12:00", "a": "Es ist zwölf Uhr." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Ein or eins?",
+      "type": "choose",
+      "instructions": "Choose the correct word.",
+      "items": [
+        { "q": "Es ist ___ Uhr. (1:00) (ein / eins)", "a": "ein" },
+        { "q": "Es ist ___ Uhr zwanzig. (1:20) (ein / eins)", "a": "ein" },
+        { "q": "Es ist ___ Uhr. (2:00) (zwei / zweie)", "a": "zwei" },
+        { "q": "Es ist ___ Uhr. (13:00) (dreizehn / dreizehnte)", "a": "dreizehn" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Write the digits",
+      "type": "answer",
+      "instructions": "Write the time as digits (hh:mm).",
+      "items": [
+        { "q": "Es ist fünfzehn Uhr zehn.", "a": "15:10" },
+        { "q": "Es ist neun Uhr dreißig.", "a": "09:30 / 9:30" },
+        { "q": "Es ist neunzehn Uhr fünfundvierzig.", "a": "19:45" },
+        { "q": "Es ist zwanzig Uhr zwölf.", "a": "20:12" },
+        { "q": "Es ist ein Uhr fünf.", "a": "01:05 / 1:05" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Translate the sentences.",
+      "items": [
+        { "q": "What time is it?", "a": "Wie spät ist es? / Wie viel Uhr ist es?" },
+        { "q": "It is one o'clock.", "a": "Es ist ein Uhr." },
+        { "q": "It is 16:00.", "a": "Es ist sechzehn Uhr." },
+        { "q": "It is 6:30.", "a": "Es ist sechs Uhr dreißig." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Ask: Wie spät ist es? or Wie viel Uhr ist es?",
+    "Official time uses the 24-hour clock (radio, airport, train station).",
+    "Pattern: Es ist [hour] Uhr [minutes].",
+    "Say ein Uhr, not eins Uhr.",
+    "After 12:00 keep counting: dreizehn, vierzehn, fünfzehn ..."
+  ]
+}

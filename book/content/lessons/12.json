@@ -1,0 +1,188 @@
+{
+  "n": 12,
+  "title": "Haben and Sein",
+  "titleDe": "haben und sein",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; some example sentences were reconstructed from context and may differ slightly from the video.",
+  "objectives": [
+    "I can conjugate haben with all pronouns",
+    "I can conjugate sein with all pronouns",
+    "I can choose the right form for a noun or a name as the subject",
+    "I can build simple sentences with haben and sein"
+  ],
+  "vocab": [
+    { "de": "haben", "en": "to have", "ar": "يملك / لديه" },
+    { "de": "sein", "en": "to be", "ar": "يكون" },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل" },
+    { "de": "das Haus", "pl": "die Häuser", "en": "house", "ar": "منزل" },
+    { "de": "das Auto", "pl": "die Autos", "en": "car", "ar": "سيارة", "sup": true },
+    { "de": "die Freundin", "pl": "die Freundinnen", "en": "friend (female)", "ar": "صديقة" },
+    { "de": "die Zeit", "pl": "–", "en": "time", "ar": "وقت" },
+    { "de": "zu Hause", "en": "at home", "ar": "في المنزل" },
+    { "de": "glücklich", "en": "happy", "ar": "سعيد" },
+    { "de": "fleißig", "en": "hard-working", "ar": "مجتهد", "sup": true },
+    { "de": "alt", "en": "old", "ar": "قديم / كبير في السن" }
+  ],
+  "expressions": [
+    { "de": "Ich habe ein Haus.", "en": "I have a house." },
+    { "de": "Du hast eine Freundin.", "en": "You have a girlfriend / female friend." },
+    { "de": "Wir haben ein Kind.", "en": "We have a child." },
+    { "de": "Ich bin glücklich.", "en": "I am happy." },
+    { "de": "Wie alt bist du?", "en": "How old are you?" },
+    { "de": "Wir sind glücklich.", "en": "We are happy." },
+    { "de": "Frau Schmidt, sind Sie zu Hause?", "en": "Mrs Schmidt, are you at home?" }
+  ],
+  "patterns": [
+    { "form": "Subject + haben + object.", "ex": "Ich habe ein Haus.", "en": "I have a house." },
+    { "form": "Subject + sein + adjective / noun.", "ex": "Wir sind glücklich.", "en": "We are happy." }
+  ],
+  "grammar": [
+    {
+      "title": "Conjugation of haben (to have)",
+      "body": "*Haben* and *sein* are the two most important verbs. They are used as main verbs and also as helping verbs (you will meet this later). The verb always agrees with the subject. *Haben* follows the regular endings, except that *du hast* and *er/sie/es hat* lose the *b*.",
+      "table": {
+        "head": ["Pronoun", "haben"],
+        "rows": [
+          ["ich", "habe"],
+          ["du", "hast"],
+          ["er / sie / es", "hat"],
+          ["wir", "haben"],
+          ["ihr", "habt"],
+          ["sie / Sie", "haben"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich habe ein Haus.", "en": "I have a house." },
+        { "de": "Du hast eine Freundin.", "en": "You have a girlfriend." },
+        { "de": "Wir haben ein Kind.", "en": "We have a child." },
+        { "de": "Ihr habt ein Kind.", "en": "You (plural) have a child." }
+      ]
+    },
+    {
+      "title": "Conjugation of sein (to be)",
+      "body": "*Sein* is a special verb: it does **not** follow the regular endings. You simply have to learn the forms by heart. Note that *wir* and *sie / Sie* use the same form: *sind*.",
+      "table": {
+        "head": ["Pronoun", "sein"],
+        "rows": [
+          ["ich", "bin"],
+          ["du", "bist"],
+          ["er / sie / es", "ist"],
+          ["wir", "sind"],
+          ["ihr", "seid"],
+          ["sie / Sie", "sind"]
+        ]
+      },
+      "ar": "الفعل sein شاذّ: يجب حفظ تصريفاته كما هي.",
+      "examples": [
+        { "de": "Ich bin zu Hause.", "en": "I am at home.", "sup": true },
+        { "de": "Wie alt bist du?", "en": "How old are you?" },
+        { "de": "Wir sind glücklich.", "en": "We are happy." },
+        { "de": "Ihr seid glücklich.", "en": "You (plural) are happy." },
+        { "de": "Frau Schmidt, sind Sie zu Hause?", "en": "Mrs Schmidt, are you at home?" }
+      ]
+    },
+    {
+      "title": "Names and nouns as subject",
+      "body": "When the subject is a name or a noun, think of the pronoun that could replace it and use that verb form. *Maria* can be replaced by *sie* (she), so: *Maria hat ...*, *Maria ist ...*. *Anna und Tom* could be replaced by *sie* (they), so: *Anna und Tom haben ...*, *Anna und Tom sind ...*.",
+      "examples": [
+        { "de": "Maria hat ein Haus.", "en": "Maria has a house. (Maria = sie, singular)" },
+        { "de": "Maria ist zu Hause.", "en": "Maria is at home." },
+        { "de": "Anna und Tom haben ein Kind.", "en": "Anna and Tom have a child. (= sie, plural)" },
+        { "de": "Anna und Tom sind glücklich.", "en": "Anna and Tom are happy." }
+      ],
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Du habst ein Auto.", "right": "Du hast ein Auto.", "why": "*Haben* loses the b: du hast, er hat." },
+    { "wrong": "Ihr seit glücklich.", "right": "Ihr seid glücklich.", "why": "The form is *seid*, with d." },
+    { "wrong": "Ich habe 20 Jahre.", "right": "Ich bin 20 Jahre alt.", "why": "In German age is expressed with *sein*.", "sup": true }
+  ],
+  "pronunciation": [
+    { "de": "hast / hat", "tip": "The *h* is breathed. *hat* sounds like 'hut' with a short a: *hat*, *hast*." },
+    { "de": "sind / seid", "tip": "*s* at the start of a word is voiced, like English z: *sind*, *seid*." }
+  ],
+  "dialogues": [
+    {
+      "title": "At home",
+      "lines": [
+        { "who": "A", "de": "Hallo, Frau Schmidt! Sind Sie zu Hause?", "en": "Hello, Mrs Schmidt! Are you at home?" },
+        { "who": "B", "de": "Ja, ich bin zu Hause. Wir haben heute Zeit.", "en": "Yes, I am at home. We have time today." },
+        { "who": "A", "de": "Haben Sie ein Kind?", "en": "Do you have a child?" },
+        { "who": "B", "de": "Ja, wir haben ein Kind. Es ist glücklich.", "en": "Yes, we have a child. It is happy." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn the pronouns and the verb forms together as a table. Cover one column and test yourself.",
+  "comprehension": [
+    { "q": "What is the *du* form of haben?", "a": "du hast." },
+    { "q": "What is the *ihr* form of sein?", "a": "ihr seid." },
+    { "q": "Which form of sein is used for *wir* and *sie / Sie*?", "a": "sind." },
+    { "q": "Which pronoun can replace *Maria*, and which form of haben follows?", "a": "sie (she); Maria hat." },
+    { "q": "Which of the two verbs has no regular endings?", "a": "sein." }
+  ],
+  "exercises": [
+    {
+      "title": "Conjugate haben",
+      "type": "fill",
+      "instructions": "Write the correct form of haben.",
+      "items": [
+        { "q": "Wir ___ ein Haus.", "a": "haben" },
+        { "q": "Ihr ___ ein Kind.", "a": "habt" },
+        { "q": "Du ___ eine Freundin.", "a": "hast" },
+        { "q": "Er ___ ein Auto.", "a": "hat" },
+        { "q": "Ich ___ Zeit.", "a": "habe" },
+        { "q": "Maria ___ ein Haus.", "a": "hat", "expl": "Maria = sie (singular)." },
+        { "q": "Anna und Tom ___ ein Kind.", "a": "haben", "expl": "Anna und Tom = sie (plural)." }
+      ]
+    },
+    {
+      "title": "Conjugate sein",
+      "type": "fill",
+      "instructions": "Write the correct form of sein.",
+      "items": [
+        { "q": "Ich ___ Anna.", "a": "bin" },
+        { "q": "Wie alt ___ du?", "a": "bist" },
+        { "q": "Er ___ glücklich.", "a": "ist" },
+        { "q": "Wir ___ zu Hause.", "a": "sind" },
+        { "q": "Ihr ___ glücklich.", "a": "seid" },
+        { "q": "Frau Schmidt, ___ Sie zu Hause?", "a": "sind", "expl": "Formal *Sie* takes *sind*." },
+        { "q": "Anna und Tom ___ in Berlin.", "a": "sind" }
+      ]
+    },
+    {
+      "title": "haben or sein?",
+      "type": "choose",
+      "instructions": "Choose the correct verb form.",
+      "items": [
+        { "q": "Du ___ Zeit. (hast / bist)", "a": "hast" },
+        { "q": "Sie ___ zu Hause. (she) (hat / ist)", "a": "ist" },
+        { "q": "Wir ___ glücklich. (haben / sind)", "a": "sind" },
+        { "q": "Ihr ___ ein Haus. (habt / seid)", "a": "habt" },
+        { "q": "Ich ___ 25 Jahre alt. (habe / bin)", "a": "bin", "expl": "Age uses *sein*." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "We have a child.", "a": "Wir haben ein Kind." },
+        { "q": "You (du) are happy.", "a": "Du bist glücklich." },
+        { "q": "She has a house.", "a": "Sie hat ein Haus." },
+        { "q": "You (ihr) are at home.", "a": "Ihr seid zu Hause." },
+        { "q": "They are happy.", "a": "Sie sind glücklich." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "haben: ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie/Sie haben.",
+    "sein: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind.",
+    "Both verbs are used as main verbs and as helping verbs.",
+    "With a name or noun as subject, use the form of the pronoun that could replace it.",
+    "Age is expressed with sein: Ich bin 20 Jahre alt."
+  ]
+}

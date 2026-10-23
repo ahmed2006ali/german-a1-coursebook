@@ -1,0 +1,189 @@
+{
+  "n": 33,
+  "title": "Ordinal Numbers",
+  "titleDe": "Ordinalzahlen",
+  "level": "A1",
+  "sourceNote": "The captions are garbled for most of the ordinal numbers from 13 upwards (the teacher says them in a quick list); the forms here follow the rules he states and standard German.",
+  "objectives": [
+    "I can explain the difference between cardinal and ordinal numbers",
+    "I can form ordinal numbers from 1 to 1000",
+    "I can say dates with der + ordinal and am + ordinal",
+    "I can say when my birthday is"
+  ],
+  "vocab": [
+    { "de": "die Kardinalzahl", "pl": "die Kardinalzahlen", "en": "cardinal number (1, 2, 3 ...)", "ar": "العدد الأصلي" },
+    { "de": "die Ordinalzahl", "pl": "die Ordinalzahlen", "en": "ordinal number (1st, 2nd ...)", "ar": "العدد الترتيبي" },
+    { "de": "erste", "en": "first", "ar": "الأول", "note": "irregular: am ersten" },
+    { "de": "zweite", "en": "second", "ar": "الثاني", "note": "am zweiten" },
+    { "de": "dritte", "en": "third", "ar": "الثالث", "note": "irregular: am dritten" },
+    { "de": "vierte", "en": "fourth", "ar": "الرابع" },
+    { "de": "fünfte", "en": "fifth", "ar": "الخامس" },
+    { "de": "sechste", "en": "sixth", "ar": "السادس" },
+    { "de": "siebte", "en": "seventh", "ar": "السابع", "note": "irregular: sieb- + te" },
+    { "de": "achte", "en": "eighth", "ar": "الثامن", "note": "irregular: only one t" },
+    { "de": "neunte", "en": "ninth", "ar": "التاسع" },
+    { "de": "zehnte", "en": "tenth", "ar": "العاشر" },
+    { "de": "elfte", "en": "eleventh", "ar": "الحادي عشر" },
+    { "de": "zwölfte", "en": "twelfth", "ar": "الثاني عشر" },
+    { "de": "zwanzigste", "en": "twentieth", "ar": "العشرون", "note": "from 20 on: -ste" },
+    { "de": "hundertste", "en": "hundredth", "ar": "المئة" },
+    { "de": "tausendste", "en": "thousandth", "ar": "الألف" },
+    { "de": "der Geburtstag", "pl": "die Geburtstage", "en": "birthday", "ar": "عيد الميلاد" },
+    { "de": "das Haus", "pl": "die Häuser", "en": "house", "ar": "بيت" },
+    { "de": "die Liebe", "pl": "–", "en": "love", "ar": "حب" },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل" }
+  ],
+  "expressions": [
+    { "de": "Heute ist der 6. April.", "en": "Today is the 6th of April.", "ar": "اليوم هو السادس من أبريل." },
+    { "de": "Ich komme am 1. April.", "en": "I am coming on the 1st of April." },
+    { "de": "Ich habe am 6. April Geburtstag.", "en": "My birthday is on the 6th of April." },
+    { "de": "Ich wurde am 6.4. geboren.", "en": "I was born on 6 April." },
+    { "de": "Das dritte Haus von links ist mein Haus.", "en": "The third house from the left is my house." },
+    { "de": "Wann hast du Geburtstag?", "en": "When is your birthday?" }
+  ],
+  "patterns": [
+    { "form": "Heute ist der + [Ordinalzahl] + [Monat].", "ex": "Heute ist der sechste April.", "en": "Today is the sixth of April." },
+    { "form": "am + [Ordinalzahl] + -n + [Monat]", "ex": "Ich komme am ersten April.", "en": "I am coming on the first of April." },
+    { "form": "Ich habe am + [Ordinalzahl]-n + [Monat] Geburtstag.", "ex": "Ich habe am sechsten April Geburtstag.", "en": "My birthday is on the sixth of April." }
+  ],
+  "grammar": [
+    {
+      "title": "Cardinal and ordinal numbers",
+      "body": "There are two kinds of numbers. **Kardinalzahlen** answer 'how many?': eins, zwei, drei ... **Ordinalzahlen** give an order or position: *erste*, *zweite*, *dritte* ... In writing with digits, an ordinal always gets a **point** after the number: **1.**, **2.**, **3.**\n\nBecause an ordinal works like an adjective, it follows the noun's article: *der erste Juli* (masculine), *das erste Kind* (neuter), *die erste Liebe* (feminine).",
+      "ar": "العدد الترتيبي يُكتب بالأرقام مع نقطة بعده، ويتبع جنس الاسم مثل الصفة.",
+      "examples": [
+        { "de": "der erste Juli", "en": "the first of July" },
+        { "de": "das erste Kind", "en": "the first child" },
+        { "de": "die erste Liebe", "en": "the first love" }
+      ]
+    },
+    {
+      "title": "How to form ordinals",
+      "body": "From 1 to 19 you add **-te** to the number: *vier* → *vierte*, *fünf* → *fünfte*, *dreizehn* → *dreizehnte*. Four numbers are irregular: **erste** (1), **dritte** (3), **siebte** (7), **achte** (8). Note: *sieben* loses its *-en* (sieb-te) and *acht* only gets one *t* (ach-te). *Elf* → *elfte* and *zwölf* → *zwölfte* are regular.\n\nFrom 20 on you add **-ste**: *zwanzigste*, *einundzwanzigste*, *dreißigste*, *hundertste*, *tausendste*. This rule is the same for all larger numbers, including 21, 30, 40 ... 101, 102 and so on.",
+      "ar": "من 1 إلى 19 نضيف te، ومن 20 فما فوق نضيف ste.",
+      "table": {
+        "head": ["Number", "Ordinal (der/die/das)", "With am"],
+        "rows": [
+          ["1.", "erste", "am ersten"],
+          ["2.", "zweite", "am zweiten"],
+          ["3.", "dritte", "am dritten"],
+          ["4.", "vierte", "am vierten"],
+          ["5.", "fünfte", "am fünften"],
+          ["6.", "sechste", "am sechsten"],
+          ["7.", "siebte", "am siebten"],
+          ["8.", "achte", "am achten"],
+          ["9.", "neunte", "am neunten"],
+          ["10.", "zehnte", "am zehnten"],
+          ["11.", "elfte", "am elften"],
+          ["12.", "zwölfte", "am zwölften"],
+          ["19.", "neunzehnte", "am neunzehnten"],
+          ["20.", "zwanzigste", "am zwanzigsten"],
+          ["21.", "einundzwanzigste", "am einundzwanzigsten"],
+          ["30.", "dreißigste", "am dreißigsten"],
+          ["100.", "hundertste", "am hundertsten"],
+          ["1000.", "tausendste", "am tausendsten"]
+        ]
+      }
+    },
+    {
+      "title": "Dates: der ... and am ...",
+      "body": "To say today's date use **der** + ordinal (month names are masculine, so the article is *der*): *Heute ist der sechste April.* To say that something happens ON a date use **am** + ordinal ending in **-n**: *am ersten April*, *am sechsten April*.\n\nSo the ending changes from **-e** (with der/die/das) to **-en** (with am).",
+      "examples": [
+        { "de": "Heute ist der 6. April.", "en": "Today is the 6th of April." },
+        { "de": "Sie kommt am 6. April.", "en": "She comes on the 6th of April." },
+        { "de": "Ich habe am 6. April Geburtstag.", "en": "My birthday is on the 6th of April." },
+        { "de": "Das dritte Haus von links ist mein Haus.", "en": "The third house from the left is my house." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich komme am erste April.", "right": "Ich komme am ersten April.", "why": "After *am* the ordinal ends in *-en*." },
+    { "wrong": "Heute ist der dreite April.", "right": "Heute ist der dritte April.", "why": "The ordinal of 3 is irregular: *dritte*." },
+    { "wrong": "Ich habe am 6 April Geburtstag.", "right": "Ich habe am 6. April Geburtstag.", "why": "Ordinal numbers in digits need a point." }
+  ],
+  "pronunciation": [
+    { "de": "zwölfte", "tip": "Say *zwölf* clearly, then add *-te*. The *ö* is like 'ur' with rounded lips." },
+    { "de": "-ste", "tip": "In *zwanzigste* the *s* and *t* are both pronounced: 'tsvan-tsig-ste'." }
+  ],
+  "dialogues": [
+    {
+      "title": "A birthday",
+      "lines": [
+        { "who": "A", "de": "Wann hast du Geburtstag?", "en": "When is your birthday?" },
+        { "who": "B", "de": "Ich habe am sechsten April Geburtstag.", "en": "My birthday is on the sixth of April." },
+        { "who": "A", "de": "Heute ist der vierte April.", "en": "Today is the fourth of April." },
+        { "who": "B", "de": "Ja, in zwei Tagen!", "en": "Yes, in two days!" }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn the four exceptions first: erste, dritte, siebte, achte. Then practise your own birthday: Ich habe am ... Geburtstag.",
+  "comprehension": [
+    { "q": "What is written after an ordinal number in digits?", "a": "A point, for example 3." },
+    { "q": "Which ending do you add to ordinals from 1 to 19?", "a": "-te (for example vierte)." },
+    { "q": "Which ending do you add from 20 onwards?", "a": "-ste (for example zwanzigste)." },
+    { "q": "How do you say 'on the 1st of April'?", "a": "am ersten April." },
+    { "q": "Which numbers are exceptions?", "a": "erste, dritte, siebte and achte." }
+  ],
+  "exercises": [
+    {
+      "title": "Ordinals with der / die / das",
+      "type": "fill",
+      "instructions": "Write the ordinal number as a word (nominative).",
+      "items": [
+        { "q": "Der ___ (1.) Juli ist ein Samstag.", "a": "erste", "expl": "1 is irregular: erste." },
+        { "q": "Das ___ (3.) Haus von links ist mein Haus.", "a": "dritte", "expl": "3 is irregular: dritte." },
+        { "q": "Heute ist der ___ (7.) Mai.", "a": "siebte", "expl": "7: sieb- + te." },
+        { "q": "Heute ist der ___ (8.) Juni.", "a": "achte", "expl": "8 has only one t." },
+        { "q": "Heute ist der ___ (12.) April.", "a": "zwölfte", "expl": "zwölf + te." },
+        { "q": "Heute ist der ___ (20.) August.", "a": "zwanzigste", "expl": "From 20: -ste." }
+      ]
+    },
+    {
+      "title": "Dates with am",
+      "type": "fill",
+      "instructions": "Write the ordinal number with the ending needed after am.",
+      "items": [
+        { "q": "Ich komme am ___ (1.) April.", "a": "ersten", "expl": "After am: -en." },
+        { "q": "Sie kommt am ___ (2.) Mai.", "a": "zweiten" },
+        { "q": "Ich habe am ___ (7.) Juni Geburtstag.", "a": "siebten", "expl": "sieb- + ten." },
+        { "q": "Wir kommen am ___ (5.) Juli.", "a": "fünften" },
+        { "q": "Er hat am ___ (21.) August Geburtstag.", "a": "einundzwanzigsten", "expl": "From 20: -sten after am." },
+        { "q": "Ich habe am ___ (30.) März Geburtstag.", "a": "dreißigsten" }
+      ]
+    },
+    {
+      "title": "Digits and words",
+      "type": "match",
+      "instructions": "Match the ordinal number in digits with the word.",
+      "items": [
+        { "q": "4.", "a": "vierte" },
+        { "q": "6.", "a": "sechste" },
+        { "q": "9.", "a": "neunte" },
+        { "q": "11.", "a": "elfte" },
+        { "q": "13.", "a": "dreizehnte" },
+        { "q": "100.", "a": "hundertste" },
+        { "q": "1000.", "a": "tausendste" }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German. Write the ordinals as words.",
+      "items": [
+        { "q": "Today is the sixth of April.", "a": "Heute ist der sechste April." },
+        { "q": "My birthday is on the third of May.", "a": "Ich habe am dritten Mai Geburtstag.", "expl": "am + dritten." },
+        { "q": "She comes on the first of April.", "a": "Sie kommt am ersten April." },
+        { "q": "the first love", "a": "die erste Liebe", "expl": "Liebe is feminine." },
+        { "q": "the first child", "a": "das erste Kind", "expl": "Kind is neuter." }
+      ]
+    }
+  ],
+  "summary": [
+    "Ordinals are written with a point: 1., 2., 3.",
+    "1 to 19: number + -te; from 20: number + -ste.",
+    "Exceptions: erste, dritte, siebte, achte.",
+    "Today's date: Heute ist der + ordinal + month.",
+    "On a date: am + ordinal ending in -en: am ersten April."
+  ]
+}

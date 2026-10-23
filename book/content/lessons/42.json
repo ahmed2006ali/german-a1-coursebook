@@ -1,0 +1,197 @@
+{
+  "n": 42,
+  "title": "Inseparable Verbs",
+  "titleDe": "Untrennbare Verben",
+  "level": "A1",
+  "sourceNote": "Transcript is auto-captioned and some German words were garbled (for example 'entlehren' is really 'entleeren', 'fair' is 'ver-'). All German here is reconstructed.",
+  "objectives": [
+    "I can explain the difference between separable and inseparable verbs",
+    "I can use inseparable verbs in statements, questions and with modal verbs",
+    "I can conjugate verbs like verstehen",
+    "I know the inseparable prefixes be-, emp-, ent-, er-, ge-, miss-, ver-, zer-"
+  ],
+  "vocab": [
+    { "de": "verstehen", "en": "to understand", "ar": "يفهم", "note": "er versteht" },
+    { "de": "bekommen", "en": "to get, to receive", "ar": "يحصل على" },
+    { "de": "bezahlen", "en": "to pay", "ar": "يدفع" },
+    { "de": "empfehlen", "en": "to recommend", "ar": "ينصح بـ", "note": "du empfiehlst, er empfiehlt" },
+    { "de": "empfangen", "en": "to receive (a guest)", "ar": "يستقبل", "note": "er empfängt" },
+    { "de": "entdecken", "en": "to discover", "ar": "يكتشف" },
+    { "de": "entleeren", "en": "to empty", "ar": "يفرغ", "note": "transcript: garbled as 'entlehren'" },
+    { "de": "erzählen", "en": "to tell (a story)", "ar": "يروي" },
+    { "de": "erkennen", "en": "to recognise", "ar": "يتعرف على" },
+    { "de": "gehören", "en": "to belong to", "ar": "يخص", "note": "takes Dativ" },
+    { "de": "gefallen", "en": "to like, to be pleasing", "ar": "يعجب", "note": "takes Dativ; er gefällt" },
+    { "de": "missbrauchen", "en": "to abuse, to misuse", "ar": "يسيء استخدام" },
+    { "de": "missverstehen", "en": "to misunderstand", "ar": "يسيء الفهم" },
+    { "de": "verkaufen", "en": "to sell", "ar": "يبيع" },
+    { "de": "verlieren", "en": "to lose", "ar": "يخسر" },
+    { "de": "zerstören", "en": "to destroy", "ar": "يدمر" },
+    { "de": "zerkleinern", "en": "to chop up, to cut small", "ar": "يقطع إلى قطع صغيرة" },
+    { "de": "aufstehen", "en": "to get up (separable)", "ar": "ينهض", "note": "for comparison" },
+    { "de": "der Schulleiter", "pl": "die Schulleiter", "en": "headmaster", "ar": "مدير المدرسة" },
+    { "de": "das Erdbeben", "pl": "die Erdbeben", "en": "earthquake", "ar": "زلزال" },
+    { "de": "das Vertrauen", "pl": "–", "en": "trust", "ar": "ثقة" },
+    { "de": "die Mülltonne", "pl": "die Mülltonnen", "en": "rubbish bin", "ar": "سلة قمامة" }
+  ],
+  "expressions": [
+    { "de": "Verstehst du mich?", "en": "Do you understand me?" },
+    { "de": "Ich kann dich verstehen.", "en": "I can understand you." },
+    { "de": "Was empfehlen Sie mir heute?", "en": "What do you recommend to me today?" }
+  ],
+  "patterns": [
+    { "form": "[Subject] + [inseparable verb, conjugated] + ...", "ex": "Er versteht mich gut.", "en": "He understands me well." },
+    { "form": "[W-word] + [inseparable verb] + [Subject] + ...?", "ex": "Warum verstehst du mich nicht?", "en": "Why don't you understand me?" },
+    { "form": "[Modal verb] + ... + [inseparable verb, infinitive].", "ex": "Ich kann dich verstehen.", "en": "I can understand you." }
+  ],
+  "grammar": [
+    {
+      "title": "Separable or inseparable?",
+      "body": "Some verbs have a prefix. With **separable** verbs (*aufstehen*) the prefix splits off and goes to the end of the sentence. With **inseparable** verbs (*verstehen*, **untrennbare Verben**) the prefix **never** separates; the verb stays in one piece.\n\nStress is a clue: in separable verbs the stress is **on the prefix** (*AUF-stehen*); in inseparable verbs the stress is **not on the prefix** (*ver-STE-hen*).",
+      "ar": "الأفعال غير المنفصلة: البادئة لا تنفصل أبدًا ولا يقع عليها التشديد.",
+      "examples": [
+        { "de": "Ich stehe früh auf.", "en": "I get up early. (separable)" },
+        { "de": "Ich verstehe dich.", "en": "I understand you. (inseparable)" }
+      ]
+    },
+    {
+      "title": "Word order",
+      "body": "An inseparable verb behaves like any normal verb: **position 2** in statements and W-questions, **position 1** in yes/no questions. With a modal verb, the modal is in position 2 and the inseparable verb goes to the **end in the infinitive**.",
+      "examples": [
+        { "de": "Er versteht mich gut.", "en": "He understands me well." },
+        { "de": "Warum verstehst du mich nicht?", "en": "Why don't you understand me?" },
+        { "de": "Verstehst du mich?", "en": "Do you understand me?" },
+        { "de": "Ich kann dich verstehen.", "en": "I can understand you." }
+      ]
+    },
+    {
+      "title": "Conjugation",
+      "body": "Because the prefix does not separate, conjugation is easy: conjugate the verb as usual (regular or irregular). Irregular ones keep their vowel change, e.g. *empfangen* becomes *er empfängt*, *gefallen* becomes *es gefällt*.",
+      "table": {
+        "head": ["Person", "verstehen"],
+        "rows": [
+          ["ich", "verstehe"],
+          ["du", "verstehst"],
+          ["er / sie / es", "versteht"],
+          ["wir", "verstehen"],
+          ["ihr", "versteht"],
+          ["sie / Sie", "verstehen"]
+        ]
+      }
+    },
+    {
+      "title": "Common inseparable prefixes",
+      "body": "The prefixes **be-, emp-, ent-, er-, ge-, miss-, ver-, zer-** are always inseparable. When you meet a new verb with one of them, treat it as inseparable.",
+      "table": {
+        "head": ["Prefix", "Verb", "Example"],
+        "rows": [
+          ["be-", "bekommen", "Wir bekommen bald eine neue Lehrerin."],
+          ["be-", "bezahlen", "Kannst du bitte heute bezahlen?"],
+          ["emp-", "empfehlen", "Was empfehlen Sie mir heute?"],
+          ["emp-", "empfangen", "Der Schulleiter empfängt seine Gäste herzlich."],
+          ["ent-", "entdecken", "Mein Sohn entdeckt jeden Tag etwas Neues."],
+          ["ent-", "entleeren", "Am Montag müssen wir die Mülltonne entleeren."],
+          ["er-", "erzählen", "Mein Großvater erzählt interessante Geschichten."],
+          ["er-", "erkennen", "Kannst du mich auf diesem Foto erkennen?"],
+          ["ge-", "gehören", "Die Uhr gehört mir."],
+          ["ge-", "gefallen", "Mir gefällt dein neues Haus."],
+          ["miss-", "missbrauchen", "Tom kann nie mein Vertrauen missbrauchen."],
+          ["miss-", "missverstehen", "Im Unterricht kann man die Anweisungen manchmal missverstehen."],
+          ["ver-", "verkaufen", "Er verkauft sein altes Haus."],
+          ["ver-", "verlieren", "Wenn ich Schach spiele, verliere ich immer."],
+          ["zer-", "zerstören", "Ein Erdbeben kann manchmal viele Häuser zerstören."],
+          ["zer-", "zerkleinern", "Man zerkleinert erst alle Gemüsesorten."]
+        ]
+      }
+    },
+    {
+      "title": "Gehören and gefallen take the Dativ",
+      "body": "The verbs *gehören* and *gefallen* are dative verbs: the person is in the Dativ (*mir, dir, ihm ...*). *Die Uhr gehört **mir**.* *Das Haus gefällt **mir**.*"
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich stehe dich ver.", "right": "Ich verstehe dich.", "why": "*verstehen* is inseparable; the prefix stays attached." },
+    { "wrong": "Ich kann dich versteht.", "right": "Ich kann dich verstehen.", "why": "After a modal verb the main verb is an infinitive at the end." },
+    { "wrong": "Er kauft sein Haus ver.", "right": "Er verkauft sein Haus.", "why": "*verkaufen* is inseparable; never send *ver-* to the end." }
+  ],
+  "pronunciation": [
+    { "de": "Stress", "tip": "Separable: stress on the prefix (*AUF-stehen*). Inseparable: no stress on the prefix (*ver-STE-hen*, *be-ZAH-len*)." }
+  ],
+  "dialogues": [
+    {
+      "title": "In the restaurant",
+      "lines": [
+        { "who": "A", "de": "Herr Ober, was empfehlen Sie mir heute?", "en": "Waiter, what do you recommend to me today?" },
+        { "who": "B", "de": "Ich empfehle den Fisch.", "en": "I recommend the fish." },
+        { "who": "A", "de": "Gut. Kann ich mit Karte bezahlen?", "en": "Good. Can I pay by card?" },
+        { "who": "B", "de": "Ja, natürlich.", "en": "Yes, of course." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Whenever you meet a new verb, try to use it in your own sentence and decide: is the prefix one of be-, emp-, ent-, er-, ge-, miss-, ver-, zer-? Then it is inseparable.",
+  "comprehension": [
+    { "q": "What does an inseparable verb do with its prefix?", "a": "The prefix never separates from the verb." },
+    { "q": "Where is the stress in a separable verb?", "a": "On the prefix." },
+    { "q": "Where does the inseparable verb go when there is a modal verb?", "a": "To the end of the sentence, in the infinitive." },
+    { "q": "Name three inseparable prefixes.", "a": "For example be-, ver-, zer-, er-, ent-, emp-, ge-, miss-." }
+  ],
+  "exercises": [
+    {
+      "title": "Conjugate the verb",
+      "type": "fill",
+      "instructions": "Fill in the correct form of the verb in brackets.",
+      "items": [
+        { "q": "Er ___ sein altes Haus. (verkaufen)", "a": "verkauft" },
+        { "q": "Wir ___ bald eine neue Lehrerin. (bekommen)", "a": "bekommen" },
+        { "q": "Die Uhr ___ mir. (gehören)", "a": "gehört" },
+        { "q": "Du ___ immer, wenn du Schach spielst. (verlieren)", "a": "verlierst" },
+        { "q": "Mein Großvater ___ interessante Geschichten. (erzählen)", "a": "erzählt" },
+        { "q": "Ihr ___ mich nicht. (verstehen)", "a": "versteht" }
+      ]
+    },
+    {
+      "title": "Separable or inseparable?",
+      "type": "choose",
+      "instructions": "Choose: is the verb separable or inseparable?",
+      "items": [
+        { "q": "aufstehen (separable / inseparable)", "a": "separable", "expl": "Prefix *auf-* is stressed and separates." },
+        { "q": "bezahlen (separable / inseparable)", "a": "inseparable", "expl": "*be-* is always inseparable." },
+        { "q": "zerstören (separable / inseparable)", "a": "inseparable", "expl": "*zer-* is always inseparable." },
+        { "q": "verkaufen (separable / inseparable)", "a": "inseparable", "expl": "*ver-* is always inseparable." },
+        { "q": "gefallen (separable / inseparable)", "a": "inseparable", "expl": "*ge-* is inseparable here." }
+      ]
+    },
+    {
+      "title": "Reorder the words",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "mich / du / Verstehst / ?", "a": "Verstehst du mich?", "expl": "Yes/no question: verb first." },
+        { "q": "kann / Ich / verstehen / dich", "a": "Ich kann dich verstehen.", "expl": "Modal in position 2, infinitive at the end." },
+        { "q": "gehört / mir / Die Uhr", "a": "Die Uhr gehört mir.", "expl": "Verb in position 2." },
+        { "q": "du / bezahlen / Kannst / bitte / heute / ?", "a": "Kannst du bitte heute bezahlen?", "expl": "Modal first in a yes/no question, infinitive at the end." },
+        { "q": "verstehst / Warum / du / nicht / mich / ?", "a": "Warum verstehst du mich nicht?", "expl": "W-question: verb in position 2." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I understand you.", "a": "Ich verstehe dich." },
+        { "q": "He sells his old house.", "a": "Er verkauft sein altes Haus." },
+        { "q": "Do you like my new house? (du)", "a": "Gefällt dir mein neues Haus?", "expl": "*gefallen* takes the Dativ: *dir*." },
+        { "q": "The watch belongs to me.", "a": "Die Uhr gehört mir." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Inseparable verbs (untrennbare Verben) keep their prefix attached in every position.",
+    "Typical prefixes: be-, emp-, ent-, er-, ge-, miss-, ver-, zer-.",
+    "They follow normal word order: position 2 in statements, position 1 in yes/no questions, infinitive at the end after a modal verb.",
+    "Conjugate them like any verb: ich verstehe, du verstehst, er versteht ...",
+    "gehören and gefallen use the Dativ."
+  ]
+}

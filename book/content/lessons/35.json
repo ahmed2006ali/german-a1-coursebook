@@ -1,0 +1,186 @@
+{
+  "n": 35,
+  "title": "Possessive Articles in Dative",
+  "titleDe": "Possessivartikel im Dativ",
+  "level": "A1",
+  "sourceNote": "",
+  "objectives": [
+    "I can find the subject, the accusative object and the dative object in a sentence",
+    "I can use mein, dein, sein, ihr, unser and euer in the dative",
+    "I can add -n to plural nouns in the dative",
+    "I can build sentences like Ich gebe meinem Mann einen Kuss"
+  ],
+  "vocab": [
+    { "de": "der Kuss", "pl": "die Küsse", "en": "kiss", "ar": "قبلة" },
+    { "de": "der Mann", "pl": "die Männer", "en": "husband, man", "ar": "زوج، رجل" },
+    { "de": "die Frau", "pl": "die Frauen", "en": "wife, woman", "ar": "زوجة، امرأة" },
+    { "de": "die Tochter", "pl": "die Töchter", "en": "daughter", "ar": "ابنة" },
+    { "de": "das Baby", "pl": "die Babys", "en": "baby", "ar": "رضيع" },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل" },
+    { "de": "der Bruder", "pl": "die Brüder", "en": "brother", "ar": "أخ" },
+    { "de": "die Schwester", "pl": "die Schwestern", "en": "sister", "ar": "أخت" },
+    { "de": "der Freund", "pl": "die Freunde", "en": "friend (male), boyfriend", "ar": "صديق" },
+    { "de": "die Freundin", "pl": "die Freundinnen", "en": "friend (female), girlfriend", "ar": "صديقة" },
+    { "de": "der Nachbar", "pl": "die Nachbarn", "en": "neighbour", "ar": "جار" },
+    { "de": "der Vater", "pl": "die Väter", "en": "father", "ar": "أب" },
+    { "de": "die Mutter", "pl": "die Mütter", "en": "mother", "ar": "أم" },
+    { "de": "die Eltern", "pl": "(nur Plural)", "en": "parents", "ar": "الوالدان" },
+    { "de": "die Großeltern", "pl": "(nur Plural)", "en": "grandparents", "ar": "الأجداد" },
+    { "de": "das Haustier", "pl": "die Haustiere", "en": "pet", "ar": "حيوان أليف" },
+    { "de": "die Schokolade", "pl": "die Schokoladen", "en": "chocolate", "ar": "شوكولاتة" },
+    { "de": "das Essen", "pl": "–", "en": "food, meal", "ar": "طعام" },
+    { "de": "das Geschenk", "pl": "die Geschenke", "en": "present, gift", "ar": "هدية" },
+    { "de": "der Knochen", "pl": "die Knochen", "en": "bone", "ar": "عظمة" },
+    { "de": "der Wein", "pl": "die Weine", "en": "wine", "ar": "نبيذ" },
+    { "de": "der Ring", "pl": "die Ringe", "en": "ring", "ar": "خاتم" },
+    { "de": "das Buch", "pl": "die Bücher", "en": "book", "ar": "كتاب" },
+    { "de": "geben", "en": "to give", "ar": "يعطي", "note": "ich gebe, du gibst" },
+    { "de": "kaufen", "en": "to buy", "ar": "يشتري" },
+    { "de": "bringen", "en": "to bring", "ar": "يحضر" }
+  ],
+  "expressions": [
+    { "de": "Ich gebe meinem Mann einen Kuss.", "en": "I give my husband a kiss." },
+    { "de": "Er kauft seiner Frau eine Schokolade.", "en": "He buys his wife a chocolate." },
+    { "de": "Sie bringt ihrem Freund das Essen.", "en": "She brings her boyfriend the food." },
+    { "de": "Wir kaufen unseren Großeltern ein Geschenk.", "en": "We buy our grandparents a present." },
+    { "de": "Bringst du deinem Vater ein Buch?", "en": "Are you bringing your father a book?" }
+  ],
+  "patterns": [
+    { "form": "[Subjekt] + [Verb] + [Possessivartikel im Dativ] + [Person] + [Akkusativ-Objekt].", "ex": "Ich gebe meiner Tochter einen Kuss.", "en": "I give my daughter a kiss." }
+  ],
+  "grammar": [
+    {
+      "title": "Subject, direct object, indirect object",
+      "body": "In *Ich gebe meinem Mann einen Kuss* there are three parts:\n\n**ich** = subject (nominative). **einen Kuss** = direct object (accusative). **meinem Mann** = indirect object (dative).\n\nThe indirect object is the **recipient** of the direct object: the husband receives the kiss. The dative object is the one that changes to the dative form, and with a possessive article (mein, dein ...) the endings are the same as for *einem, einer*.",
+      "ar": "المفعول به غير المباشر (من يستلم الشيء) يكون في حالة Dativ.",
+      "examples": [
+        { "de": "Ich gebe meinem Mann einen Kuss.", "en": "I give my husband a kiss." },
+        { "de": "Ich gebe meiner Tochter einen Kuss.", "en": "I give my daughter a kiss." },
+        { "de": "Ich gebe meinem Baby einen Kuss.", "en": "I give my baby a kiss." },
+        { "de": "Ich gebe meinen Kindern einen Kuss.", "en": "I give my children a kiss." }
+      ]
+    },
+    {
+      "title": "Endings of possessive articles in dative",
+      "body": "Take the possessive article that matches the owner (ich → mein, du → dein, er/es → sein, sie → ihr, wir → unser, ihr → euer, Sie → Ihr). Then add the ending that matches the gender of the **dative noun**:\n\n**masculine: -em**, **neuter: -em**, **feminine: -er**, **plural: -en**.\n\nIn the plural, the **noun** also gets an extra **-n**: *die Kinder* → *meinen Kindern*, *die Freunde* → *seinen Freunden*. If the plural noun already ends in -n, nothing is added: *meinen Nachbarn*, *unseren Großeltern*.\n\n*euer* drops the middle *e* when an ending is added: *eurem, eurer, euren*. Also *unser* is used as *unserem, unserer, unseren*.",
+      "ar": "المذكر والمحايد: em ، المؤنث: er ، الجمع: en + إضافة n للاسم.",
+      "table": {
+        "head": ["", "masc. (dem)", "fem. (der)", "neut. (dem)", "plural (den + n)"],
+        "rows": [
+          ["ich", "meinem", "meiner", "meinem", "meinen"],
+          ["du", "deinem", "deiner", "deinem", "deinen"],
+          ["er / es", "seinem", "seiner", "seinem", "seinen"],
+          ["sie (she)", "ihrem", "ihrer", "ihrem", "ihren"],
+          ["wir", "unserem", "unserer", "unserem", "unseren"],
+          ["ihr", "eurem", "eurer", "eurem", "euren"],
+          ["Sie / sie (they)", "Ihrem / ihrem", "Ihrer / ihrer", "Ihrem / ihrem", "Ihren / ihren"]
+        ]
+      }
+    },
+    {
+      "title": "Examples with sein, ihr and unser",
+      "body": "Martin is masculine, so we use **sein**; Maria is feminine, so we use **ihr**; Lukas and Katharina are 'we', so we use **unser**. Then the dative ending depends on the person who receives.",
+      "examples": [
+        { "de": "Er kauft seinem Bruder eine Schokolade.", "en": "He buys his brother a chocolate." },
+        { "de": "Er kauft seiner Frau eine Schokolade.", "en": "He buys his wife a chocolate." },
+        { "de": "Er kauft seinem Kind eine Schokolade.", "en": "He buys his child a chocolate." },
+        { "de": "Er kauft seinen Freunden Schokoladen.", "en": "He buys his friends chocolates." },
+        { "de": "Sie bringt ihrem Freund das Essen.", "en": "She brings her boyfriend the food." },
+        { "de": "Sie bringt ihrer Schwester das Essen.", "en": "She brings her sister the food." },
+        { "de": "Sie bringt ihren Nachbarn das Essen.", "en": "She brings her neighbours the food." },
+        { "de": "Wir kaufen unserem Vater ein Geschenk.", "en": "We buy our father a present." },
+        { "de": "Wir kaufen unserer Mutter ein Geschenk.", "en": "We buy our mother a present." },
+        { "de": "Wir kaufen unserem Haustier einen Knochen.", "en": "We buy our pet a bone." },
+        { "de": "Wir kaufen unseren Großeltern ein Geschenk.", "en": "We buy our grandparents a present." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich gebe meine Tochter einen Kuss.", "right": "Ich gebe meiner Tochter einen Kuss.", "why": "The person who receives is dative: feminine = *-er*." },
+    { "wrong": "Ich gebe meinen Kinder einen Kuss.", "right": "Ich gebe meinen Kindern einen Kuss.", "why": "In the dative plural the noun gets an extra *-n*." },
+    { "wrong": "Er kauft seinen Frau eine Schokolade.", "right": "Er kauft seiner Frau eine Schokolade.", "why": "*Frau* is singular and feminine, so *seiner*, not *seinen*." }
+  ],
+  "pronunciation": [
+    { "de": "-er", "tip": "At the end of *meiner, deiner, seiner* the *-er* sounds like a short 'a': 'mai-na'." },
+    { "de": "ü", "tip": "In *Küsse* and *Bücher* round your lips as for 'oo' and say 'ee'." }
+  ],
+  "dialogues": [
+    {
+      "title": "Presents",
+      "lines": [
+        { "who": "A", "de": "Was kaufst du deinem Vater?", "en": "What are you buying your father?" },
+        { "who": "B", "de": "Ich kaufe meinem Vater ein Buch. Und du?", "en": "I am buying my father a book. And you?" },
+        { "who": "A", "de": "Ich kaufe meiner Mutter eine Schokolade.", "en": "I am buying my mother a chocolate." },
+        { "who": "B", "de": "Und deinen Eltern?", "en": "And your parents?" },
+        { "who": "A", "de": "Ich bringe meinen Eltern einen Wein.", "en": "I am bringing my parents a wine." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Think of einem / einer / einen: the possessive endings in dative are exactly the same, just with mein-, dein- ... in front.",
+  "comprehension": [
+    { "q": "Which endings do possessive articles take in the dative?", "a": "-em (masculine, neuter), -er (feminine), -en (plural)." },
+    { "q": "What is the indirect object?", "a": "The recipient of the direct object, for example meinem Mann in: Ich gebe meinem Mann einen Kuss." },
+    { "q": "What happens to a plural noun in the dative?", "a": "It gets an extra -n (Kindern), unless it already ends in -n." },
+    { "q": "Why do we say 'unseren Großeltern' and not 'unseren Großelternn'?", "a": "Großeltern already ends in -n." },
+    { "q": "Which possessive article goes with 'wir'?", "a": "unser (unserem, unserer, unseren)." }
+  ],
+  "exercises": [
+    {
+      "title": "Choose the correct form",
+      "type": "choose",
+      "instructions": "Choose the correct possessive article.",
+      "items": [
+        { "q": "Wir bringen ___ Eltern einen Wein. (unseren / unserem / unserer)", "a": "unseren", "expl": "Eltern is plural: -en." },
+        { "q": "Ich kaufe ___ Freundin einen Ring. (meinem / meiner / meinen)", "a": "meiner", "expl": "Freundin is feminine: -er." },
+        { "q": "Bringst du ___ Vater ein Buch? (deinem / deiner / deinen)", "a": "deinem", "expl": "Vater is masculine: -em." },
+        { "q": "Er kauft ___ Kind eine Schokolade. (seinem / seiner / seinen)", "a": "seinem", "expl": "Kind is neuter: -em.", "sup": true },
+        { "q": "Sie bringt ___ Schwester das Essen. (ihrem / ihrer / ihren)", "a": "ihrer", "expl": "Schwester is feminine: -er.", "sup": true }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Write the possessive article in the dative.",
+      "items": [
+        { "q": "Ich gebe ___ (mein) Mann einen Kuss.", "a": "meinem", "expl": "Mann is masculine." },
+        { "q": "Er kauft ___ (sein) Frau eine Schokolade.", "a": "seiner", "expl": "Frau is feminine." },
+        { "q": "Sie bringt ___ (ihr) Kind das Essen.", "a": "ihrem", "expl": "Kind is neuter." },
+        { "q": "Wir kaufen ___ (unser) Großeltern ein Geschenk.", "a": "unseren", "expl": "Plural." },
+        { "q": "Ich gebe ___ (mein) Kindern einen Kuss.", "a": "meinen", "expl": "Plural." },
+        { "q": "Du bringst ___ (dein) Bruder ein Buch.", "a": "deinem", "expl": "Bruder is masculine.", "sup": true },
+        { "q": "Ihr kauft ___ (euer) Mutter ein Geschenk.", "a": "eurer", "expl": "Mutter is feminine; euer drops the e.", "sup": true }
+      ]
+    },
+    {
+      "title": "Add the -n",
+      "type": "fill",
+      "instructions": "Write the dative plural of the noun (with article-ending already given).",
+      "items": [
+        { "q": "Ich gebe meinen ___ (die Kinder) einen Kuss.", "a": "Kindern" },
+        { "q": "Er kauft seinen ___ (die Freunde) Schokolade.", "a": "Freunden" },
+        { "q": "Sie bringt ihren ___ (die Nachbarn) das Essen.", "a": "Nachbarn", "expl": "Already ends in -n." },
+        { "q": "Wir bringen unseren ___ (die Eltern) einen Wein.", "a": "Eltern", "expl": "Already ends in -n." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I give my daughter a kiss.", "a": "Ich gebe meiner Tochter einen Kuss." },
+        { "q": "She brings her boyfriend the food.", "a": "Sie bringt ihrem Freund das Essen.", "expl": "Freund is masculine: ihrem." },
+        { "q": "We buy our mother a present.", "a": "Wir kaufen unserer Mutter ein Geschenk." },
+        { "q": "He buys his brother a chocolate.", "a": "Er kauft seinem Bruder eine Schokolade." },
+        { "q": "Are you bringing your father a book?", "a": "Bringst du deinem Vater ein Buch?" }
+      ]
+    }
+  ],
+  "summary": [
+    "The indirect object (the recipient) is in the dative.",
+    "Possessive articles in dative: -em (m, n), -er (f), -en (plural).",
+    "In the dative plural the noun gets -n unless it already ends in -n.",
+    "euer becomes eurem, eurer, euren.",
+    "The endings are the same as einem, einer."
+  ]
+}

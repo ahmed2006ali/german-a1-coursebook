@@ -1,0 +1,169 @@
+{
+  "n": 11,
+  "title": "Personal Pronouns",
+  "titleDe": "Personalpronomen",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; names and sentences were reconstructed from context.",
+  "objectives": [
+    "I can name all personal pronouns in the nominative",
+    "I can choose between du, ihr and Sie when speaking to people",
+    "I can use er, sie and es for people and things",
+    "I can replace a noun with the right pronoun"
+  ],
+  "vocab": [
+    { "de": "ich", "en": "I", "ar": "أنا" },
+    { "de": "du", "en": "you (one friend)", "ar": "أنتَ / أنتِ" },
+    { "de": "er", "en": "he / it (masculine)", "ar": "هو" },
+    { "de": "sie", "en": "she / it (feminine)", "ar": "هي" },
+    { "de": "es", "en": "it (neuter)", "ar": "هو / هي (لغير العاقل)" },
+    { "de": "wir", "en": "we", "ar": "نحن" },
+    { "de": "ihr", "en": "you (several friends)", "ar": "أنتم / أنتنّ" },
+    { "de": "sie", "en": "they", "ar": "هم / هنّ", "note": "plural, same as she" },
+    { "de": "Sie", "en": "you (formal)", "ar": "حضرتك / حضراتكم", "note": "always capital S" },
+    { "de": "das Pronomen", "pl": "die Pronomen", "en": "pronoun", "ar": "ضمير" },
+    { "de": "die Person", "pl": "die Personen", "en": "person", "ar": "شخص" },
+    { "de": "der Singular", "pl": "–", "en": "singular", "ar": "المفرد" },
+    { "de": "der Plural", "pl": "die Plurale", "en": "plural", "ar": "الجمع" },
+    { "de": "das Buch", "pl": "die Bücher", "en": "book", "ar": "كتاب" },
+    { "de": "die Familie", "pl": "die Familien", "en": "family", "ar": "عائلة", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Ich wohne in New York.", "en": "I live in New York." },
+    { "de": "Wir wohnen in New York.", "en": "We live in New York." },
+    { "de": "Michael wohnt in London. Er wohnt in London.", "en": "Michael lives in London. He lives in London." },
+    { "de": "Das Buch ist alt. Es ist alt.", "en": "The book is old. It is old." }
+  ],
+  "patterns": [
+    { "form": "Pronoun + verb + rest.", "ex": "Er wohnt in London.", "en": "He lives in London." },
+    { "form": "Name / noun  →  er / sie / es", "ex": "Michaela wohnt in Paris. Sie wohnt in Paris.", "en": "Michaela lives in Paris. She lives in Paris." }
+  ],
+  "grammar": [
+    {
+      "title": "What is a personal pronoun?",
+      "body": "A personal pronoun **replaces a noun**. It makes sentences shorter and avoids repeating the same noun. German pronouns depend on three things: the **person** (1st = I/we, 2nd = you, 3rd = he/she/it/they), **singular or plural**, and the **gender** of the noun. They are used for people and for things.",
+      "ar": "الضمير الشخصي يحلّ محلّ الاسم ويمنع تكراره."
+    },
+    {
+      "title": "All pronouns (nominative)",
+      "body": "In the second person you must decide between the informal *du / ihr* (friends, family, children, first names) and the formal **Sie** (strangers, official situations). *Sie* (you) is always written with a capital S, also in the middle of a sentence.",
+      "table": {
+        "head": ["Person", "Singular", "Plural"],
+        "rows": [
+          ["1st", "ich", "wir"],
+          ["2nd informal", "du", "ihr"],
+          ["2nd formal", "Sie", "Sie"],
+          ["3rd masculine", "er", "sie"],
+          ["3rd feminine", "sie", "sie"],
+          ["3rd neuter", "es", "sie"]
+        ]
+      }
+    },
+    {
+      "title": "Examples for each person",
+      "body": "First person: *ich* = only me, *wir* = me and others. Second person: *du* for one friend, *ihr* for several friends, *Sie* for one or more people you address formally. Third person: *er* replaces a masculine person, *sie* a feminine person, *es* a neuter noun, and plural *sie* replaces more than one person or thing.",
+      "examples": [
+        { "de": "Max, wohnst du in Köln?", "en": "Max, do you live in Cologne? (one friend)" },
+        { "de": "Julia und Peter, wohnt ihr in Köln?", "en": "Julia and Peter, do you live in Cologne? (two friends)" },
+        { "de": "Herr Müller, wohnen Sie in Köln?", "en": "Mr Müller, do you live in Cologne? (formal)" },
+        { "de": "Herr und Frau Müller, wohnen Sie in Köln?", "en": "Mr and Mrs Müller, do you live in Cologne? (formal, plural)" }
+      ]
+    },
+    {
+      "title": "Replacing nouns: er, sie, es",
+      "body": "Michael is masculine, so *Michael* becomes **er**. Michaela is feminine, so she becomes **sie**. *Das Buch* is neuter, so it becomes **es**. Petra and Jürgen (more than one person) become plural **sie**. Note that *sie* can mean *she* or *they*: the verb shows which one (*sie wohnt* = she lives; *sie wohnen* = they live).",
+      "examples": [
+        { "de": "Michael wohnt in London. Er wohnt in London.", "en": "Michael lives in London. He lives in London." },
+        { "de": "Michaela wohnt in Paris. Sie wohnt in Paris.", "en": "Michaela lives in Paris. She lives in Paris." },
+        { "de": "Das Buch ist alt. Es ist alt.", "en": "The book is old. It is old." },
+        { "de": "Petra und Jürgen wohnen in Hamburg. Sie wohnen in Hamburg.", "en": "Petra and Jürgen live in Hamburg. They live in Hamburg." }
+      ]
+    },
+    {
+      "title": "Four meanings of sie / Sie",
+      "body": "The word is written the same in four cases: **sie** = she, **sie** = they, **Sie** = you (formal singular) and **Sie** = you (formal plural). It is capitalised only when it means *you* (formal) or when it is the first word of a sentence. Use the verb ending and the context to tell them apart.",
+      "ar": "كلمة sie/Sie لها أربعة معانٍ: هي، هم، حضرتك، حضراتكم.",
+      "examples": [
+        { "de": "Sie wohnt in Paris.", "en": "She lives in Paris." },
+        { "de": "Sie wohnen in Hamburg.", "en": "They live in Hamburg. / You live in Hamburg. (formal)" }
+      ],
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Frau Schmidt, wohnst du in Berlin?", "right": "Frau Schmidt, wohnen Sie in Berlin?", "why": "Use formal *Sie* for adults you do not know well." },
+    { "wrong": "Wie heißen sie? (to a stranger)", "right": "Wie heißen Sie?", "why": "Formal *you* is always capital *Sie*." },
+    { "wrong": "Das Buch ist alt. Er ist alt.", "right": "Das Buch ist alt. Es ist alt.", "why": "*Das Buch* is neuter, so the pronoun is *es*." }
+  ],
+  "pronunciation": [
+    { "de": "ie / ei", "tip": "*sie* sounds like English 'zee'. *wir* has a short i like 'veer'. *ihr* is like 'eer' with a long vowel." }
+  ],
+  "dialogues": [
+    {
+      "title": "Who lives where?",
+      "lines": [
+        { "who": "A", "de": "Hallo, ich bin Maria. Ich wohne in Berlin.", "en": "Hello, I am Maria. I live in Berlin." },
+        { "who": "B", "de": "Hallo, Maria! Wir wohnen auch in Berlin.", "en": "Hello, Maria! We also live in Berlin." },
+        { "who": "A", "de": "Wer ist das? Wohnt er auch in Berlin?", "en": "Who is that? Does he also live in Berlin?" },
+        { "who": "B", "de": "Nein, er wohnt in London. Aber Petra und Jürgen wohnen in Hamburg. Sie wohnen nicht in Berlin.", "en": "No, he lives in London. But Petra and Jürgen live in Hamburg. They do not live in Berlin." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "When you talk to someone, first decide: one person or more, friend or stranger? That gives you du, ihr or Sie.",
+  "comprehension": [
+    { "q": "What does a personal pronoun do?", "a": "It replaces a noun." },
+    { "q": "Which pronoun do you use for one friend, and which for several friends?", "a": "du for one friend, ihr for several friends." },
+    { "q": "Which pronoun do you use for the formal *you*?", "a": "Sie, always with a capital S." },
+    { "q": "Which pronoun replaces *das Buch*?", "a": "es." },
+    { "q": "Which pronoun replaces Petra and Jürgen?", "a": "sie (they)." }
+  ],
+  "exercises": [
+    {
+      "title": "Replace with a pronoun",
+      "type": "fill",
+      "instructions": "Write the pronoun that replaces the underlined noun.",
+      "items": [
+        { "q": "Michael wohnt in London. = ___ wohnt in London.", "a": "Er", "expl": "Michael is masculine." },
+        { "q": "Michaela wohnt in Paris. = ___ wohnt in Paris.", "a": "Sie", "expl": "Michaela is feminine." },
+        { "q": "Das Buch ist alt. = ___ ist alt.", "a": "Es", "expl": "*Das Buch* is neuter." },
+        { "q": "Petra und Jürgen wohnen in Hamburg. = ___ wohnen in Hamburg.", "a": "Sie", "expl": "More than one person: plural *sie*." },
+        { "q": "Anna und ich wohnen in Wien. = ___ wohnen in Wien.", "a": "Wir", "expl": "You are included, so *wir*." },
+        { "q": "Max wohnt in Köln. = ___ wohnt in Köln.", "a": "Er" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "du, ihr or Sie?",
+      "type": "choose",
+      "instructions": "Which pronoun do you use when you speak to these people?",
+      "items": [
+        { "q": "Your friend Max. (du / ihr / Sie)", "a": "du" },
+        { "q": "Your friends Julia and Peter. (du / ihr / Sie)", "a": "ihr" },
+        { "q": "Frau Schmidt, a stranger. (du / ihr / Sie)", "a": "Sie" },
+        { "q": "Herr and Frau Schmidt, strangers. (du / ihr / Sie)", "a": "Sie", "expl": "Formal plural is also *Sie*." },
+        { "q": "Your classmate Anna. (du / ihr / Sie)", "a": "du" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "We live in Berlin.", "a": "Wir wohnen in Berlin." },
+        { "q": "She lives in Paris.", "a": "Sie wohnt in Paris.", "expl": "*wohnt* shows that *sie* is singular." },
+        { "q": "They live in Hamburg.", "a": "Sie wohnen in Hamburg." },
+        { "q": "He lives in London.", "a": "Er wohnt in London." },
+        { "q": "I live in New York.", "a": "Ich wohne in New York." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Personal pronouns replace nouns; they depend on person, number and gender.",
+    "Singular: ich, du, Sie (formal), er, sie, es. Plural: wir, ihr, Sie (formal), sie.",
+    "Use du / ihr for friends and family, and Sie for formal situations.",
+    "er, sie, es replace masculine, feminine and neuter nouns, including things.",
+    "sie = she or they; Sie = you (formal), always capital."
+  ]
+}

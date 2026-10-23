@@ -1,0 +1,175 @@
+{
+  "n": 18,
+  "title": "Introducing Someone Else",
+  "titleDe": "Jemanden vorstellen",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled. The structure (questions and verb endings for er, sie, es and sie plural) is clear; the example sentences were reconstructed from context, and some details of the original examples (for example the children's ages and hobbies) could not be recovered.",
+  "objectives": [
+    "I can introduce another person with er, sie and es",
+    "I can ask and answer: Woher kommt er? Wo wohnt sie? Wie alt ist es?",
+    "I can use the correct verb ending for er/sie/es (-t) and sie plural (-en)",
+    "I can introduce a group of people with sie (plural)"
+  ],
+  "vocab": [
+    { "de": "der Freund", "pl": "die Freunde", "en": "friend (male)", "ar": "صديق", "note": "", "sup": true },
+    { "de": "die Freundin", "pl": "die Freundinnen", "en": "friend (female)", "ar": "صديقة", "note": "", "sup": true },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل", "note": "" },
+    { "de": "die Eltern", "en": "parents", "ar": "الوالدان", "note": "plural only", "sup": true },
+    { "de": "kommen", "en": "to come", "ar": "يأتي", "note": "" },
+    { "de": "wohnen", "en": "to live (reside)", "ar": "يسكن", "note": "" },
+    { "de": "arbeiten", "en": "to work", "ar": "يعمل", "note": "" },
+    { "de": "sein", "en": "to be", "ar": "يكون", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Wer ist das?", "en": "Who is that?", "ar": "من هذا؟" },
+    { "de": "Woher kommt er? / Woher kommt sie?", "en": "Where does he/she come from?", "ar": "من أين هو / هي؟" },
+    { "de": "Wo wohnt er? / Wo wohnt sie?", "en": "Where does he/she live?", "ar": "أين يسكن / تسكن؟" },
+    { "de": "Wie alt ist er? / Wie alt ist sie?", "en": "How old is he/she?", "ar": "كم عمره / عمرها؟" },
+    { "de": "Woher kommen sie? / Wo wohnen sie?", "en": "Where do they come from? / Where do they live?", "ar": "" },
+    { "de": "Wunderbar!", "en": "Wonderful!", "ar": "رائع!" }
+  ],
+  "patterns": [
+    { "form": "Das ist + [Name].", "ex": "Das ist Martina.", "en": "This is Martina." },
+    { "form": "Er / Sie / Es + kommt aus + [Land].", "ex": "Sie kommt aus Österreich.", "en": "She comes from Austria." },
+    { "form": "Er / Sie / Es + wohnt in + [Stadt].", "ex": "Er wohnt in Frankfurt.", "en": "He lives in Frankfurt." },
+    { "form": "Sie + kommen / wohnen ...", "ex": "Sie wohnen in München.", "en": "They live in Munich." }
+  ],
+  "grammar": [
+    {
+      "title": "Third-person pronouns",
+      "body": "To introduce someone else you use a pronoun of the 3rd person. In the singular there are three: **er** (he), **sie** (she), **es** (it – for example for a child). For more than one person you use **sie** (they).",
+      "table": {
+        "head": ["Pronoun", "Meaning", "Question word"],
+        "rows": [
+          ["er", "he", "Wo wohnt er?"],
+          ["sie", "she", "Wo wohnt sie?"],
+          ["es", "it (child)", "Wo wohnt es?"],
+          ["sie (plural)", "they", "Wo wohnen sie?"]
+        ]
+      },
+      "ar": "للتعريف بشخص آخر نستخدم er / sie / es للمفرد وsie للجمع."
+    },
+    {
+      "title": "Verb endings: er/sie/es -t, sie (plural) -en",
+      "body": "Take the verb stem and add the ending that fits the pronoun. For **er, sie, es** the ending is **-t**. For **sie** (plural) the ending is **-en**, the same as the infinitive.\n\nBe careful: **sie** can be singular (*sie kommt*) or plural (*sie kommen*). The verb ending tells you which one it is.",
+      "table": {
+        "head": ["", "kommen", "wohnen", "arbeiten"],
+        "rows": [
+          ["er", "kommt", "wohnt", "arbeitet"],
+          ["sie", "kommt", "wohnt", "arbeitet"],
+          ["es", "kommt", "wohnt", "arbeitet"],
+          ["sie (pl.)", "kommen", "wohnen", "arbeiten"]
+        ]
+      },
+      "examples": [
+        { "de": "Er kommt aus Deutschland. Er wohnt in Frankfurt.", "en": "He comes from Germany. He lives in Frankfurt." },
+        { "de": "Sie wohnt in Leipzig. Sie arbeitet bei Lufthansa.", "en": "She lives in Leipzig. She works at Lufthansa." },
+        { "de": "Laura und Antonio kommen aus Italien. Sie wohnen in München.", "en": "Laura and Antonio come from Italy. They live in Munich." }
+      ]
+    },
+    {
+      "title": "Note on arbeiten",
+      "body": "Verbs whose stem ends in **-t** (like *arbeit-en*) add an extra **e** before the **-t** ending: **er arbeitet**.",
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Er kommen aus Spanien.", "right": "Er kommt aus Spanien.", "why": "*er* needs the ending *-t*." },
+    { "wrong": "Laura und Antonio wohnt in Berlin.", "right": "Laura und Antonio wohnen in Berlin.", "why": "Two people = *sie* (plural) = ending *-en*." }
+  ],
+  "pronunciation": [
+    { "de": "ö", "tip": "Round lips as for 'oh' and say 'eh'. *Österreich*." },
+    { "de": "w", "tip": "Pronounced like English 'v'. *wohnen*, *wer*, *wo*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Who is that?",
+      "lines": [
+        { "who": "A", "de": "Wer ist das?", "en": "Who is that?" },
+        { "who": "B", "de": "Das ist Martina.", "en": "That is Martina." },
+        { "who": "A", "de": "Woher kommt sie?", "en": "Where does she come from?" },
+        { "who": "B", "de": "Sie kommt aus Österreich.", "en": "She comes from Austria." },
+        { "who": "A", "de": "Und wo wohnt sie?", "en": "And where does she live?" },
+        { "who": "B", "de": "Sie wohnt in Leipzig. Sie arbeitet bei Lufthansa.", "en": "She lives in Leipzig. She works at Lufthansa." }
+      ]
+    },
+    {
+      "title": "Laura and Antonio",
+      "lines": [
+        { "who": "A", "de": "Das sind Laura und Antonio.", "en": "These are Laura and Antonio." },
+        { "who": "B", "de": "Woher kommen sie?", "en": "Where do they come from?" },
+        { "who": "A", "de": "Sie kommen aus Italien.", "en": "They come from Italy." },
+        { "who": "B", "de": "Und wo wohnen sie?", "en": "And where do they live?" },
+        { "who": "A", "de": "Sie wohnen in München.", "en": "They live in Munich." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Use the structures to describe your parents, a group of friends or one friend. Say it aloud.",
+  "comprehension": [
+    { "q": "Which pronouns do you use to introduce one other person or a child?", "a": "er, sie, es" },
+    { "q": "Which pronoun do you use for more than one person?", "a": "sie (plural)" },
+    { "q": "What is the verb ending after er, sie, es?", "a": "-t (kommt, wohnt)" },
+    { "q": "What is the verb ending after sie (plural)?", "a": "-en (kommen, wohnen)" }
+  ],
+  "exercises": [
+    {
+      "title": "Conjugate the verb",
+      "type": "fill",
+      "instructions": "Write the verb in the correct form.",
+      "items": [
+        { "q": "Er ___ in Frankfurt. (wohnen)", "a": "wohnt" },
+        { "q": "Sie ___ aus Italien. (kommen) [one woman]", "a": "kommt" },
+        { "q": "Es ___ in Berlin. (wohnen)", "a": "wohnt" },
+        { "q": "Laura und Antonio ___ in München. (wohnen)", "a": "wohnen", "expl": "Plural subject: *-en*." },
+        { "q": "Martina ___ aus Österreich. (kommen)", "a": "kommt" },
+        { "q": "Peter ___ bei Siemens. (arbeiten)", "a": "arbeitet", "expl": "Stem ends in *-t*: extra *e*." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Choose the pronoun",
+      "type": "choose",
+      "instructions": "Choose the correct pronoun.",
+      "items": [
+        { "q": "Martina wohnt in Leipzig. ___ ist 28 Jahre alt. (Er / Sie / Es)", "a": "Sie" },
+        { "q": "Das Kind ist neun Jahre alt. ___ wohnt in Berlin. (Er / Sie / Es)", "a": "Es" },
+        { "q": "Peter und Anna kommen aus Italien. ___ wohnen in München. (Er / Sie / Es)", "a": "Sie", "expl": "Plural = *sie*." },
+        { "q": "Peter wohnt in Hamburg. ___ arbeitet bei Siemens. (Er / Sie / Es)", "a": "Er" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Choose the question word",
+      "type": "choose",
+      "instructions": "Choose the correct question word.",
+      "items": [
+        { "q": "___ kommt sie? – Sie kommt aus Italien. (Wo / Woher / Wer)", "a": "Woher" },
+        { "q": "___ wohnt er? – Er wohnt in Berlin. (Wo / Woher / Wer)", "a": "Wo" },
+        { "q": "___ ist das? – Das ist Martina. (Wo / Woher / Wer)", "a": "Wer" },
+        { "q": "___ alt ist er? – Er ist 30. (Wie / Wer / Wo)", "a": "Wie" },
+        { "q": "___ wohnen sie? – Sie wohnen in München. (Wo / Woher / Wer)", "a": "Wo" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Write the correct sentence. The verb is in second position.",
+      "items": [
+        { "q": "kommt / aus / Er / Spanien", "a": "Er kommt aus Spanien. / Aus Spanien kommt er." },
+        { "q": "wohnt / Sie / in / Leipzig", "a": "Sie wohnt in Leipzig. / In Leipzig wohnt sie." },
+        { "q": "wohnen / Sie / in / München", "a": "Sie wohnen in München. / In München wohnen sie." },
+        { "q": "arbeitet / bei / Siemens / Er", "a": "Er arbeitet bei Siemens. / Bei Siemens arbeitet er." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Introduce others with the 3rd-person pronouns: er, sie, es (singular), sie (plural).",
+    "Questions: Wer ist das? Woher kommt er/sie? Wo wohnt er/sie? Wie alt ist er/sie?",
+    "er/sie/es + verb stem + -t: kommt, wohnt, arbeitet.",
+    "sie (plural) + verb in -en: kommen, wohnen.",
+    "Check the verb ending to know whether sie means 'she' or 'they'."
+  ]
+}

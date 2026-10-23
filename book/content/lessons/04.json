@@ -1,0 +1,194 @@
+{
+  "n": 4,
+  "title": "Numbers 21–100",
+  "titleDe": "Zahlen 21–100",
+  "level": "A1",
+  "sourceNote": "The auto-captions garble the numbers badly; they were reconstructed from standard German. 'Jahre alt' is added as supplementary since the age answer in the video is garbled.",
+  "objectives": [
+    "I can count from 21 to 100 in German",
+    "I can build a number like 24 or 67 with 'und'",
+    "I can write number words correctly as one word",
+    "I can ask about and state someone's age"
+  ],
+  "vocab": [
+    { "de": "dreißig", "en": "30", "ar": "ثلاثون", "note": "ß, not -zig" },
+    { "de": "vierzig", "en": "40", "ar": "أربعون" },
+    { "de": "fünfzig", "en": "50", "ar": "خمسون" },
+    { "de": "sechzig", "en": "60", "ar": "ستون", "note": "sechs loses the -s" },
+    { "de": "siebzig", "en": "70", "ar": "سبعون", "note": "sieben loses the -en" },
+    { "de": "achtzig", "en": "80", "ar": "ثمانون" },
+    { "de": "neunzig", "en": "90", "ar": "تسعون" },
+    { "de": "hundert", "en": "100", "ar": "مئة", "note": "also: einhundert" },
+    { "de": "einundzwanzig", "en": "21", "ar": "واحد وعشرون" },
+    { "de": "zweiundzwanzig", "en": "22", "ar": "اثنان وعشرون" },
+    { "de": "dreiundzwanzig", "en": "23", "ar": "ثلاثة وعشرون" },
+    { "de": "vierundzwanzig", "en": "24", "ar": "أربعة وعشرون" },
+    { "de": "fünfundzwanzig", "en": "25", "ar": "خمسة وعشرون" },
+    { "de": "sechsundzwanzig", "en": "26", "ar": "ستة وعشرون" },
+    { "de": "siebenundzwanzig", "en": "27", "ar": "سبعة وعشرون" },
+    { "de": "achtundzwanzig", "en": "28", "ar": "ثمانية وعشرون" },
+    { "de": "neunundzwanzig", "en": "29", "ar": "تسعة وعشرون" },
+    { "de": "einunddreißig", "en": "31", "ar": "واحد وثلاثون" },
+    { "de": "das Jahr", "pl": "die Jahre", "en": "year", "ar": "سنة", "sup": true },
+    { "de": "alt", "en": "old", "ar": "عمر / قديم" }
+  ],
+  "expressions": [
+    { "de": "Wie alt sind Sie?", "en": "How old are you? (formal)", "ar": "" },
+    { "de": "Wie alt bist du?", "en": "How old are you? (informal)", "ar": "" },
+    { "de": "Ich bin vierundzwanzig Jahre alt.", "en": "I am 24 years old.", "ar": "" },
+    { "de": "Ich bin vierundzwanzig.", "en": "I am 24.", "ar": "", "sup": true }
+  ],
+  "patterns": [
+    { "form": "[Einer] + und + [Zehner]", "ex": "vierundsechzig", "en": "sixty-four (literally: four and sixty)" },
+    { "form": "Ich bin + [Zahl] + Jahre alt.", "ex": "Ich bin dreißig Jahre alt.", "en": "I am thirty years old." }
+  ],
+  "grammar": [
+    {
+      "title": "Units first, then tens",
+      "body": "In English you say the tens first: twenty-**one**. In German the order is reversed: first the **unit**, then **und** (and), then the **ten**: **ein-und-zwanzig** ('one and twenty').\n\nThe whole number is written as **one word** without spaces. The -s of **eins** disappears: **einundzwanzig** (not einsundzwanzig).",
+      "ar": "الترتيب بالألمانية: الآحاد ثم und ثم العشرات، مثل العربية: واحد وعشرون.",
+      "table": {
+        "head": ["Number", "Unit", "+ und +", "Ten", "Word"],
+        "rows": [
+          ["21", "ein", "und", "zwanzig", "einundzwanzig"],
+          ["32", "zwei", "und", "dreißig", "zweiunddreißig"],
+          ["43", "drei", "und", "vierzig", "dreiundvierzig"],
+          ["54", "vier", "und", "fünfzig", "vierundfünfzig"],
+          ["65", "fünf", "und", "sechzig", "fünfundsechzig"],
+          ["76", "sechs", "und", "siebzig", "sechsundsiebzig"],
+          ["87", "sieben", "und", "achtzig", "siebenundachtzig"],
+          ["98", "acht", "und", "neunzig", "achtundneunzig"]
+        ]
+      }
+    },
+    {
+      "title": "The tens",
+      "body": "The tens end in **-zig**, with two exceptions: **dreißig** (30) ends in **-ßig**, and two numbers lose letters: **sechzig** (sechs without -s) and **siebzig** (sieben without -en). 100 is **hundert** or **einhundert**.",
+      "table": {
+        "head": ["Number", "Word"],
+        "rows": [
+          ["20", "zwanzig"],
+          ["30", "dreißig"],
+          ["40", "vierzig"],
+          ["50", "fünfzig"],
+          ["60", "sechzig"],
+          ["70", "siebzig"],
+          ["80", "achtzig"],
+          ["90", "neunzig"],
+          ["100", "hundert"]
+        ]
+      }
+    },
+    {
+      "title": "Asking and giving age",
+      "body": "Use **alt** (old) with **sein** (to be). Formal: **Wie alt sind Sie?** Informal: **Wie alt bist du?** Answer with **Ich bin ... Jahre alt.** In Germany it can be slightly rude to ask an adult's age, so use this question mainly for practice.",
+      "examples": [
+        { "de": "Ich bin fünfundzwanzig Jahre alt.", "en": "I am 25 years old." },
+        { "de": "Wie alt bist du?", "en": "How old are you?" }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "zwanzig und eins", "right": "einundzwanzig", "why": "German says the unit first and writes everything as one word." },
+    { "wrong": "einsundzwanzig", "right": "einundzwanzig", "why": "The -s of *eins* is dropped." },
+    { "wrong": "sechszig", "right": "sechzig", "why": "*sechs* loses its -s before -zig." },
+    { "wrong": "siebenzig", "right": "siebzig", "why": "*sieben* loses -en before -zig." }
+  ],
+  "pronunciation": [
+    { "de": "ß", "tip": "dreißig has the double-s sound: 'dry-sich'." },
+    { "de": "-zig", "tip": "Pronounced '-tsich': *zwanzig*, *vierzig*." },
+    { "de": "und", "tip": "Short and quick inside the number: *vierundzwanzig* = 'feer-oont-tsvan-tsich'." }
+  ],
+  "dialogues": [
+    {
+      "title": "Practising age",
+      "lines": [
+        { "who": "A", "de": "Wie alt bist du?", "en": "How old are you?" },
+        { "who": "B", "de": "Ich bin vierundzwanzig Jahre alt. Und du?", "en": "I am 24 years old. And you?" },
+        { "who": "A", "de": "Ich bin sechsundzwanzig Jahre alt.", "en": "I am 26 years old." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Practise by reading house numbers, prices and phone numbers aloud. Always say the last digit first.",
+  "comprehension": [
+    { "q": "In which order does German say 24: units first or tens first?", "a": "Units first: vierundzwanzig (four and twenty)." },
+    { "q": "How do you write 31?", "a": "einunddreißig (one word)." },
+    { "q": "Which two tens lose letters?", "a": "sechzig (60) and siebzig (70)." },
+    { "q": "How do you say 100?", "a": "hundert (or einhundert)." },
+    { "q": "How do you ask 'How old are you?' formally?", "a": "Wie alt sind Sie?" }
+  ],
+  "exercises": [
+    {
+      "title": "Digits to words",
+      "type": "fill",
+      "instructions": "Write the number as one German word.",
+      "items": [
+        { "q": "21", "a": "einundzwanzig" },
+        { "q": "32", "a": "zweiunddreißig" },
+        { "q": "45", "a": "fünfundvierzig" },
+        { "q": "56", "a": "sechsundfünfzig" },
+        { "q": "67", "a": "siebenundsechzig" },
+        { "q": "78", "a": "achtundsiebzig" },
+        { "q": "99", "a": "neunundneunzig" },
+        { "q": "100", "a": "hundert / einhundert" }
+      ]
+    },
+    {
+      "title": "Words to digits",
+      "type": "answer",
+      "instructions": "Write the number as a digit.",
+      "items": [
+        { "q": "dreiundzwanzig", "a": "23" },
+        { "q": "vierunddreißig", "a": "34" },
+        { "q": "einundvierzig", "a": "41" },
+        { "q": "sechsundsechzig", "a": "66" },
+        { "q": "neunundachtzig", "a": "89" },
+        { "q": "siebzig", "a": "70" }
+      ]
+    },
+    {
+      "title": "Choose the correct spelling",
+      "type": "choose",
+      "instructions": "Choose the correct word.",
+      "items": [
+        { "q": "21 (einundzwanzig / einsundzwanzig)", "a": "einundzwanzig", "expl": "The -s of eins is dropped." },
+        { "q": "60 (sechzig / sechszig)", "a": "sechzig" },
+        { "q": "70 (siebenzig / siebzig)", "a": "siebzig" },
+        { "q": "30 (dreizig / dreißig)", "a": "dreißig" },
+        { "q": "38 (achtunddreißig / dreißigundacht)", "a": "achtunddreißig", "expl": "Unit first, then und, then the ten." }
+      ]
+    },
+    {
+      "title": "Say your age",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I am 25 years old.", "a": "Ich bin fünfundzwanzig Jahre alt." },
+        { "q": "I am 31 years old.", "a": "Ich bin einunddreißig Jahre alt." },
+        { "q": "How old are you? (informal)", "a": "Wie alt bist du?" },
+        { "q": "How old are you? (formal)", "a": "Wie alt sind Sie?" },
+        { "q": "I am 40 years old.", "a": "Ich bin vierzig Jahre alt." }
+      ]
+    },
+    {
+      "title": "Match the tens",
+      "type": "match",
+      "instructions": "Match the German word with the digit.",
+      "items": [
+        { "q": "dreißig", "a": "30" },
+        { "q": "vierzig", "a": "40" },
+        { "q": "fünfzig", "a": "50" },
+        { "q": "sechzig", "a": "60" },
+        { "q": "achtzig", "a": "80" },
+        { "q": "neunzig", "a": "90" }
+      ]
+    }
+  ],
+  "summary": [
+    "Numbers from 21 to 99 put the unit first: Einer + und + Zehner, written as one word (vierundzwanzig).",
+    "The tens: zwanzig, dreißig, vierzig, fünfzig, sechzig, siebzig, achtzig, neunzig, hundert.",
+    "Exceptions: sechzig and siebzig lose letters; dreißig is spelled with ß; eins becomes ein- in compounds.",
+    "Ask age with Wie alt sind Sie? / Wie alt bist du? and answer Ich bin ... Jahre alt."
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "n": 36,
+  "title": "Personal Pronouns in Dative",
+  "titleDe": "Personalpronomen im Dativ",
+  "level": "A1",
+  "sourceNote": "In the captions most example sentences and several pronouns are missing or garbled. The pronoun table follows the teacher's explanation; the example sentences were rebuilt with the same pattern (subject + verb + dative pronoun + accusative object).",
+  "objectives": [
+    "I can say why a dative pronoun is needed in a sentence",
+    "I can name all dative personal pronouns: mir, dir, ihm, ihr, ihm, uns, euch, Ihnen, ihnen",
+    "I can replace a dative noun with the correct pronoun",
+    "I can use dative pronouns in everyday sentences"
+  ],
+  "vocab": [
+    { "de": "mir", "en": "(to) me", "ar": "لي" },
+    { "de": "dir", "en": "(to) you (informal)", "ar": "لك" },
+    { "de": "ihm", "en": "(to) him / it (masc., neuter)", "ar": "له" },
+    { "de": "ihr", "en": "(to) her", "ar": "لها" },
+    { "de": "uns", "en": "(to) us", "ar": "لنا" },
+    { "de": "euch", "en": "(to) you (informal plural)", "ar": "لكم" },
+    { "de": "Ihnen", "en": "(to) you (formal)", "ar": "لكم / لك (رسمي)" },
+    { "de": "ihnen", "en": "(to) them", "ar": "لهم" },
+    { "de": "das Objekt", "pl": "die Objekte", "en": "object (in a sentence)", "ar": "مفعول" },
+    { "de": "der Architekt", "pl": "die Architekten", "en": "architect", "ar": "مهندس معماري" },
+    { "de": "geben", "en": "to give", "ar": "يعطي" },
+    { "de": "kaufen", "en": "to buy", "ar": "يشتري" },
+    { "de": "bringen", "en": "to bring", "ar": "يحضر" },
+    { "de": "danken", "en": "to thank (+ Dativ)", "ar": "يشكر", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Wie geht es dir?", "en": "How are you? (informal)" },
+    { "de": "Wie geht es Ihnen?", "en": "How are you? (formal)", "sup": true },
+    { "de": "Mir geht es gut.", "en": "I am fine.", "sup": true },
+    { "de": "Ich danke dir.", "en": "I thank you. (informal)", "sup": true },
+    { "de": "Ich danke Ihnen.", "en": "I thank you. (formal)", "sup": true }
+  ],
+  "patterns": [
+    { "form": "[Subjekt] + [Verb] + [Dativ-Pronomen] + [Akkusativ-Objekt].", "ex": "Ich gebe dir einen Kuss.", "en": "I give you a kiss." }
+  ],
+  "grammar": [
+    {
+      "title": "Why do we need dative pronouns?",
+      "body": "To avoid repeating a noun we use a pronoun. If the noun is the **dative object** (the recipient), the pronoun must also be **dative**.\n\nIn *Ich gebe meinem Mann einen Kuss*: **ich** is the subject (nominative), **einen Kuss** is the direct object (accusative) and **meinem Mann** is the indirect object (dative). The pronoun that replaces *meinem Mann* is **ihm**: *Ich gebe ihm einen Kuss.*",
+      "ar": "عندما يكون المفعول غير المباشر ضميرًا نستخدم ضمير Dativ.",
+      "examples": [
+        { "de": "Ich gebe meinem Mann einen Kuss.", "en": "I give my husband a kiss." },
+        { "de": "Ich gebe ihm einen Kuss.", "en": "I give him a kiss." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "The dative personal pronouns",
+      "body": "Learn this table: the nominative pronoun on the left, the dative form on the right.\n\n**Er** and **es** have the same dative form: **ihm**. The formal **Ihnen** (you) is always written with a **capital I**, the plural **ihnen** (to them) with a **small i**. The dative of **sie** (she) is **ihr**.",
+      "ar": "ihm لـ er و es ؛ Ihnen بحرف كبير (رسمي) ، ihnen بحرف صغير (لهم).",
+      "table": {
+        "head": ["Person", "Nominative", "Dative"],
+        "rows": [
+          ["1st singular", "ich", "mir"],
+          ["2nd singular (informal)", "du", "dir"],
+          ["2nd singular/plural (formal)", "Sie", "Ihnen"],
+          ["3rd masculine", "er", "ihm"],
+          ["3rd feminine", "sie", "ihr"],
+          ["3rd neuter", "es", "ihm"],
+          ["1st plural", "wir", "uns"],
+          ["2nd plural (informal)", "ihr", "euch"],
+          ["3rd plural", "sie", "ihnen"]
+        ]
+      }
+    },
+    {
+      "title": "Examples in sentences",
+      "body": "The sentences use the same pattern every time so that you can see the three parts clearly: subject, dative pronoun, accusative object.",
+      "examples": [
+        { "de": "Maria gibt mir einen Kuss.", "en": "Maria gives me a kiss." },
+        { "de": "Maria gibt dir einen Kuss.", "en": "Maria gives you a kiss." },
+        { "de": "Maria gibt Ihnen einen Kuss.", "en": "Maria gives you a kiss. (formal)" },
+        { "de": "Maria gibt ihm einen Kuss.", "en": "Maria gives him a kiss." },
+        { "de": "Maria gibt ihr einen Kuss.", "en": "Maria gives her a kiss." },
+        { "de": "Maria gibt uns einen Kuss.", "en": "Maria gives us a kiss." },
+        { "de": "Maria gibt euch einen Kuss.", "en": "Maria gives you a kiss. (plural)" },
+        { "de": "Maria gibt ihnen einen Kuss.", "en": "Maria gives them a kiss." }
+      ],
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich gebe er einen Kuss.", "right": "Ich gebe ihm einen Kuss.", "why": "The recipient needs the dative pronoun *ihm*." },
+    { "wrong": "Ich danke ihnen, Frau Müller.", "right": "Ich danke Ihnen, Frau Müller.", "why": "The formal *Ihnen* has a capital I." },
+    { "wrong": "Er kauft sie einen Ring.", "right": "Er kauft ihr einen Ring.", "why": "Dative of *sie* (she) is *ihr*." }
+  ],
+  "pronunciation": [
+    { "de": "ihm / ihr / ihnen", "tip": "The *ih* is a long 'ee': *ihm* = 'eem', *ihr* = 'eer', *ihnen* = 'ee-nen'." },
+    { "de": "euch", "tip": "Say 'oy' then the soft *ch* of *ich*: 'oykh' with a hissing *ch*." }
+  ],
+  "dialogues": [
+    {
+      "title": "At a birthday party",
+      "lines": [
+        { "who": "A", "de": "Hallo Anna! Wie geht es dir?", "en": "Hello Anna! How are you?" },
+        { "who": "B", "de": "Mir geht es gut, danke. Und dir?", "en": "I am fine, thanks. And you?" },
+        { "who": "A", "de": "Auch gut. Das ist mein Bruder. Ich gebe ihm ein Buch.", "en": "Also fine. That is my brother. I am giving him a book." },
+        { "who": "B", "de": "Und deinen Eltern?", "en": "And your parents?" },
+        { "who": "A", "de": "Ich bringe ihnen einen Wein.", "en": "I am bringing them a wine." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Er and es both become ihm in the dative. The three look-alikes are ihm (him/it), ihr (her) and ihnen (them) – only Ihnen with a capital I is formal 'you'.",
+  "comprehension": [
+    { "q": "What is the dative form of 'ich'?", "a": "mir." },
+    { "q": "Which two pronouns have the dative form 'ihm'?", "a": "er and es." },
+    { "q": "How do you write the formal dative 'you'?", "a": "Ihnen, with a capital I." },
+    { "q": "What is the dative of 'wir' and of 'ihr'?", "a": "uns and euch." },
+    { "q": "What is the dative of 'sie' (she) and of 'sie' (they)?", "a": "ihr and ihnen." }
+  ],
+  "exercises": [
+    {
+      "title": "Which pronoun?",
+      "type": "fill",
+      "instructions": "Replace the noun in brackets with the dative pronoun.",
+      "items": [
+        { "q": "Das ist Anna. Ich gebe ___ (Anna) einen Kuss.", "a": "ihr", "expl": "Anna is feminine." },
+        { "q": "Das ist mein Bruder. Ich kaufe ___ (meinem Bruder) einen Wein.", "a": "ihm", "expl": "Masculine." },
+        { "q": "Das ist das Baby. Ich gebe ___ (dem Baby) das Essen.", "a": "ihm", "expl": "Neuter: ihm." },
+        { "q": "Das sind meine Eltern. Ich bringe ___ (meinen Eltern) einen Wein.", "a": "ihnen", "expl": "Plural 'them'." },
+        { "q": "Wir sind deine Freunde. Du gibst ___ (deinen Freunden) ein Geschenk.", "a": "uns", "expl": "The speakers are 'wir'." },
+        { "q": "Ihr seid meine Freunde. Ich kaufe ___ (euch) ein Buch.", "a": "euch", "expl": "Talking to 'ihr'." },
+        { "q": "Herr Müller, ich gebe ___ das Buch.", "a": "Ihnen", "expl": "Formal you, capital I." }
+      ]
+    },
+    {
+      "title": "Choose the correct pronoun",
+      "type": "choose",
+      "instructions": "Choose the correct dative pronoun.",
+      "items": [
+        { "q": "Maria und Tom sind hier. Ich gebe ___ das Essen. (ihnen / ihm / ihr)", "a": "ihnen", "expl": "Two people." },
+        { "q": "Frau Meyer, ich kaufe ___ eine Schokolade. (ihr / Ihnen / ihnen)", "a": "Ihnen", "expl": "Formal address." },
+        { "q": "Wir sind hier. Er gibt ___ ein Buch. (uns / euch / mir)", "a": "uns", "expl": "'We' = uns." },
+        { "q": "Das ist meine Mutter. Ich bringe ___ einen Wein. (ihm / ihr / ihnen)", "a": "ihr", "expl": "Feminine singular." },
+        { "q": "Das Kind hat Geburtstag. Wir geben ___ ein Geschenk. (ihm / ihr / ihnen)", "a": "ihm", "expl": "Kind is neuter." }
+      ]
+    },
+    {
+      "title": "Nominative to dative",
+      "type": "match",
+      "instructions": "Match the nominative pronoun with its dative form.",
+      "items": [
+        { "q": "ich", "a": "mir" },
+        { "q": "du", "a": "dir" },
+        { "q": "er", "a": "ihm" },
+        { "q": "sie (she)", "a": "ihr" },
+        { "q": "wir", "a": "uns" },
+        { "q": "ihr", "a": "euch" },
+        { "q": "Sie (formal)", "a": "Ihnen" }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "She buys me a ring.", "a": "Sie kauft mir einen Ring." },
+        { "q": "He brings us the food.", "a": "Er bringt uns das Essen." },
+        { "q": "I give him a book.", "a": "Ich gebe ihm ein Buch." },
+        { "q": "I give you (informal) a present.", "a": "Ich gebe dir ein Geschenk." },
+        { "q": "How are you? (formal)", "a": "Wie geht es Ihnen?" }
+      ]
+    }
+  ],
+  "summary": [
+    "The recipient (indirect object) takes a dative pronoun.",
+    "ich – mir, du – dir, er – ihm, sie – ihr, es – ihm.",
+    "wir – uns, ihr – euch, sie (they) – ihnen, Sie (formal) – Ihnen.",
+    "Ihnen (formal) has a capital I; ihnen (they) a small i.",
+    "Dative pronouns are very common in everyday speech: Wie geht es dir?"
+  ]
+}

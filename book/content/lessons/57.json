@@ -1,0 +1,224 @@
+{
+  "n": 57,
+  "title": "Adverbs of Time",
+  "titleDe": "Zeitadverbien",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; the adverbs and example sentences were reconstructed from context and standard German.",
+  "objectives": [
+    "I can say on which day and at what time of day something happens",
+    "I can talk about the past, the present and the future with time adverbs",
+    "I can put actions in order with zuerst, dann and danach",
+    "I can say how often I do something"
+  ],
+  "vocab": [
+    { "de": "montags", "en": "on Mondays", "ar": "أيام الاثنين", "note": "also: am Montag" },
+    { "de": "sonntags", "en": "on Sundays", "ar": "أيام الأحد" },
+    { "de": "morgens", "en": "in the morning", "ar": "في الصباح" },
+    { "de": "mittags", "en": "at noon", "ar": "عند الظهر" },
+    { "de": "abends", "en": "in the evening", "ar": "في المساء" },
+    { "de": "nachts", "en": "at night", "ar": "في الليل" },
+    { "de": "gestern", "en": "yesterday", "ar": "أمس" },
+    { "de": "vorgestern", "en": "the day before yesterday", "ar": "أول أمس" },
+    { "de": "früher", "en": "in the past, formerly", "ar": "سابقاً" },
+    { "de": "damals", "en": "back then", "ar": "في ذلك الوقت" },
+    { "de": "heute", "en": "today", "ar": "اليوم" },
+    { "de": "jetzt", "en": "now", "ar": "الآن" },
+    { "de": "gerade", "en": "right now, just now", "ar": "الآن تحديداً" },
+    { "de": "sofort", "en": "immediately", "ar": "فوراً" },
+    { "de": "heutzutage", "en": "nowadays", "ar": "في هذه الأيام" },
+    { "de": "morgen", "en": "tomorrow", "ar": "غداً" },
+    { "de": "übermorgen", "en": "the day after tomorrow", "ar": "بعد غد" },
+    { "de": "bald", "en": "soon", "ar": "قريباً" },
+    { "de": "später", "en": "later", "ar": "لاحقاً" },
+    { "de": "zuerst", "en": "first", "ar": "أولاً" },
+    { "de": "dann", "en": "then", "ar": "ثم" },
+    { "de": "danach", "en": "after that", "ar": "بعد ذلك" },
+    { "de": "immer", "en": "always", "ar": "دائماً" },
+    { "de": "meistens", "en": "mostly", "ar": "في الغالب" },
+    { "de": "oft", "en": "often", "ar": "غالباً" },
+    { "de": "manchmal", "en": "sometimes", "ar": "أحياناً" },
+    { "de": "selten", "en": "rarely", "ar": "نادراً" },
+    { "de": "nie", "en": "never", "ar": "أبداً" }
+  ],
+  "expressions": [
+    { "de": "Am Montag beginnt der Unterricht um 15 Uhr.", "en": "On Monday the class begins at 3 pm." },
+    { "de": "Ab und zu brauche ich eine Pause.", "en": "Now and then I need a break." },
+    { "de": "Ich muss jetzt gehen.", "en": "I have to go now." },
+    { "de": "Soll ich dich später anrufen?", "en": "Shall I call you later?" },
+    { "de": "Ich habe ihn nie gesehen.", "en": "I have never seen him." }
+  ],
+  "patterns": [
+    { "form": "Wann? + [Zeitadverb]", "ex": "Gestern hat es geregnet.", "en": "Yesterday it rained." },
+    { "form": "Wie lange? + [Zeitadverb]", "ex": "Ich habe lange darauf gewartet.", "en": "I waited a long time for it." },
+    { "form": "Wie oft? + [Häufigkeitsadverb]", "ex": "Er kommt immer zu spät.", "en": "He always comes late." },
+    { "form": "[Zeitadverb] + Verb + Subjekt ...", "ex": "Heute möchte ich Tee trinken.", "en": "Today I want to drink tea." }
+  ],
+  "grammar": [
+    {
+      "title": "Three questions: wann, wie lange, wie oft",
+      "body": "Adverbs of time answer three questions: **wann?** (when), **wie lange?** (how long) and **wie oft?** (how often). They do not change their form. When an adverb of time stands in first position, the verb comes second (V2): **Heute** *kommt* mein Mann.",
+      "examples": [
+        { "de": "Heute kommt mein Mann.", "en": "Today my husband is coming." },
+        { "de": "Sie telefoniert gerade.", "en": "She is on the phone right now." }
+      ]
+    },
+    {
+      "title": "Days and parts of the day",
+      "body": "Add **-s** to a day or part of the day to say that something happens regularly: **montags** = every Monday. You can also say **am Montag** for one particular Monday. For times of the day use **morgens, vormittags, mittags, nachmittags, abends, nachts**.",
+      "ar": "الإضافة -s تعني التكرار: montags = كل يوم اثنين.",
+      "table": {
+        "head": ["Day", "Regularly", "One day"],
+        "rows": [
+          ["Montag", "montags", "am Montag"],
+          ["Dienstag", "dienstags", "am Dienstag"],
+          ["Mittwoch", "mittwochs", "am Mittwoch"],
+          ["Donnerstag", "donnerstags", "am Donnerstag"],
+          ["Freitag", "freitags", "am Freitag"],
+          ["Samstag", "samstags", "am Samstag"],
+          ["Sonntag", "sonntags", "am Sonntag"]
+        ]
+      },
+      "examples": [
+        { "de": "Er arbeitet gern sonntags.", "en": "He likes working on Sundays." },
+        { "de": "Abends gehen wir alle spazieren.", "en": "In the evening we all go for a walk." },
+        { "de": "Sie muss morgens verreisen.", "en": "She has to travel in the morning." }
+      ]
+    },
+    {
+      "title": "Past, present, future",
+      "body": "**Past:** vorgestern, gestern, früher, damals. **Present:** heute, jetzt, nun, gerade, sofort, heutzutage. **Future:** morgen, übermorgen, bald, später. Do not mix up **morgen** (tomorrow) and **morgens** (in the morning).",
+      "table": {
+        "head": ["Past", "Present", "Future"],
+        "rows": [
+          ["vorgestern", "heute", "morgen"],
+          ["gestern", "jetzt / nun", "übermorgen"],
+          ["früher / damals", "gerade / sofort", "bald / später"]
+        ]
+      },
+      "examples": [
+        { "de": "Früher habe ich kein Gemüse gegessen.", "en": "In the past I did not eat vegetables." },
+        { "de": "Damals war ich ein kleiner Junge.", "en": "Back then I was a little boy." },
+        { "de": "Sie bekommt bald ein Baby.", "en": "She is going to have a baby soon." },
+        { "de": "Heutzutage ist es sehr warm.", "en": "Nowadays it is very warm." }
+      ]
+    },
+    {
+      "title": "Sequence: zuerst, dann, danach, später",
+      "body": "Use these adverbs to put actions in order. Remember V2: the verb stays in second position after them.",
+      "examples": [
+        { "de": "Zuerst sollst du lesen und dann übersetzen.", "en": "First you should read and then translate." },
+        { "de": "Danach gehen wir einkaufen und später essen wir Eis.", "en": "After that we go shopping and later we eat ice cream." }
+      ]
+    },
+    {
+      "title": "How often? From always to never",
+      "body": "From 100 % to 0 %: **immer, fast immer, meistens, oft / häufig, manchmal / ab und zu, selten, fast nie, nie**.",
+      "table": {
+        "head": ["Frequency", "German"],
+        "rows": [
+          ["always", "immer"],
+          ["almost always", "fast immer"],
+          ["mostly", "meistens"],
+          ["often", "oft / häufig"],
+          ["sometimes", "manchmal / ab und zu"],
+          ["rarely", "selten"],
+          ["almost never", "fast nie"],
+          ["never", "nie"]
+        ]
+      },
+      "examples": [
+        { "de": "Er kommt immer zu spät.", "en": "He always comes late." },
+        { "de": "Um diese Zeit bin ich meistens schon im Bett.", "en": "At this time I am mostly already in bed." },
+        { "de": "Er macht manchmal viele Fehler.", "en": "He sometimes makes many mistakes." },
+        { "de": "Sie kommt sehr selten aus dem Haus.", "en": "She very rarely leaves the house." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Heute ich möchte Tee trinken.", "right": "Heute möchte ich Tee trinken.", "why": "After an adverb in first position the verb comes second." },
+    { "wrong": "Ich habe ihn nicht nie gesehen.", "right": "Ich habe ihn nie gesehen.", "why": "*nie* already means never; do not add *nicht*.", "sup": true }
+  ],
+  "pronunciation": [
+    { "de": "ü", "tip": "Round your lips as for 'oo' and say 'ee'. *übermorgen, früher, später* (ä sounds like 'e')." }
+  ],
+  "dialogues": [
+    {
+      "title": "Daily routine",
+      "sup": true,
+      "lines": [
+        { "who": "A", "de": "Wann arbeitest du?", "en": "When do you work?" },
+        { "who": "B", "de": "Ich arbeite montags bis freitags.", "en": "I work Monday to Friday." },
+        { "who": "A", "de": "Und am Wochenende?", "en": "And at the weekend?" },
+        { "who": "B", "de": "Samstags schlafe ich lange, und abends gehe ich oft spazieren.", "en": "On Saturdays I sleep late, and in the evening I often go for a walk." }
+      ]
+    }
+  ],
+  "tip": "Learn the adverbs in groups (past, present, future, frequency) and make one true sentence about your own life for each group.",
+  "comprehension": [
+    { "q": "What do you add to a day to say that something happens every week on that day?", "a": "The ending -s, for example montags." },
+    { "q": "Which three questions do adverbs of time answer?", "a": "Wann? Wie lange? Wie oft?" },
+    { "q": "What is the difference between morgen and morgens?", "a": "morgen means tomorrow; morgens means in the morning." },
+    { "q": "How do you say 'never' and 'almost never'?", "a": "nie and fast nie." }
+  ],
+  "exercises": [
+    {
+      "title": "Match the adverbs",
+      "type": "match",
+      "instructions": "Match each German adverb with its English meaning.",
+      "items": [
+        { "q": "heute", "a": "today" },
+        { "q": "gestern", "a": "yesterday" },
+        { "q": "vorgestern", "a": "the day before yesterday" },
+        { "q": "übermorgen", "a": "the day after tomorrow" },
+        { "q": "bald", "a": "soon" },
+        { "q": "nie", "a": "never" },
+        { "q": "selten", "a": "rarely" }
+      ]
+    },
+    {
+      "title": "Choose the right adverb",
+      "type": "choose",
+      "instructions": "Choose the adverb that fits the sentence.",
+      "items": [
+        { "q": "___ war ich ein kleiner Junge. (Damals / Morgen)", "a": "Damals", "expl": "The sentence is about the past." },
+        { "q": "Sie bekommt ___ ein Baby. (bald / gestern)", "a": "bald", "expl": "The present tense *bekommt* with a future meaning needs *bald*." },
+        { "q": "Er kommt ___ zu spät. Das ist immer so. (immer / nie)", "a": "immer", "expl": "*Das ist immer so* = it is always like that." },
+        { "q": "Ich habe ihn ___ gesehen. Wir kennen uns nicht. (nie / oft)", "a": "nie", "expl": "We do not know each other, so never." },
+        { "q": "Ich muss ___ gehen. Der Bus kommt gleich. (jetzt / vorgestern)", "a": "jetzt" },
+        { "q": "Zuerst lesen wir, ___ übersetzen wir. (dann / gestern)", "a": "dann", "expl": "*dann* continues a sequence." }
+      ]
+    },
+    {
+      "title": "Days of the week",
+      "type": "fill",
+      "instructions": "Complete the sentence with the correct German form.",
+      "items": [
+        { "q": "Der Unterricht beginnt am ___ um 15 Uhr. (Monday)", "a": "Montag", "expl": "*am* + day, with a capital letter." },
+        { "q": "Er arbeitet gern ___. (on Sundays)", "a": "sonntags", "expl": "Regular action: ending -s, small letter." },
+        { "q": "Heute ist Mittwoch, morgen ist ___.", "a": "Donnerstag" },
+        { "q": "Gestern war Freitag, heute ist ___.", "a": "Samstag" },
+        { "q": "___ gehen wir alle spazieren. (In the evening)", "a": "Abends" },
+        { "q": "Heute ist Dienstag, übermorgen ist ___.", "a": "Donnerstag", "expl": "Tuesday + 2 days = Thursday." }
+      ]
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Write the correct sentence. Begin with a capital letter.",
+      "items": [
+        { "q": "möchte / Heute / ich / Tee / trinken", "a": "Heute möchte ich Tee trinken.", "expl": "Adverb first, then the verb (V2)." },
+        { "q": "gerade / telefoniert / Sie", "a": "Sie telefoniert gerade. / Gerade telefoniert sie." },
+        { "q": "Ich / manchmal / habe / Kopfschmerzen", "a": "Ich habe manchmal Kopfschmerzen. / Manchmal habe ich Kopfschmerzen." },
+        { "q": "mein Mann / kommt / Heute", "a": "Heute kommt mein Mann." },
+        { "q": "Wir / gehen / abends / spazieren", "a": "Wir gehen abends spazieren. / Abends gehen wir spazieren." }
+      ]
+    }
+  ],
+  "summary": [
+    "Adverbs of time answer wann, wie lange and wie oft and never change form.",
+    "Add -s to a day or part of the day for regular actions: montags, abends.",
+    "Past: gestern, früher, damals. Present: heute, jetzt, gerade. Future: morgen, bald, später.",
+    "Sequence: zuerst, dann, danach, später.",
+    "Frequency: immer, meistens, oft, manchmal, selten, nie."
+  ]
+}

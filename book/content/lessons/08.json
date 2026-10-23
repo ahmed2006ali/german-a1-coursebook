@@ -1,0 +1,196 @@
+{
+  "n": 8,
+  "title": "How Are You?",
+  "titleDe": "Wie geht's?",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled and the video is short. The phrases were reconstructed from context. The first name in the informal dialogue could not be understood (it sounds like 'Lukas' or similar), so Lukas is used.",
+  "objectives": [
+    "I can ask people how they are, formally and informally",
+    "I can say that I am doing well or badly in several ways",
+    "I can say that I am tired or ill",
+    "I can ask back with 'And you?'"
+  ],
+  "vocab": [
+    { "de": "gut", "en": "good, well", "ar": "جيد" },
+    { "de": "sehr gut", "en": "very good", "ar": "جيد جدًا" },
+    { "de": "super", "en": "super, great", "ar": "رائع" },
+    { "de": "wunderbar", "en": "wonderful", "ar": "رائع" },
+    { "de": "ausgezeichnet", "en": "excellent", "ar": "ممتاز" },
+    { "de": "toll", "en": "great", "ar": "عظيم" },
+    { "de": "prima", "en": "great, fine", "ar": "ممتاز" },
+    { "de": "fantastisch", "en": "fantastic", "ar": "رائع" },
+    { "de": "es geht", "en": "so-so, it's OK", "ar": "لا بأس" },
+    { "de": "schlecht", "en": "bad", "ar": "سيّئ" },
+    { "de": "sehr schlecht", "en": "very bad", "ar": "سيّئ جدًا" },
+    { "de": "miserabel", "en": "miserable, terrible", "ar": "بائس" },
+    { "de": "furchtbar", "en": "terrible", "ar": "فظيع" },
+    { "de": "müde", "en": "tired", "ar": "متعب" },
+    { "de": "krank", "en": "ill, sick", "ar": "مريض" },
+    { "de": "auch", "en": "also, too", "ar": "أيضًا" },
+    { "de": "und", "en": "and", "ar": "و" },
+    { "de": "Herr", "en": "Mr", "ar": "السيد", "sup": true },
+    { "de": "Frau", "en": "Mrs / Ms, woman", "ar": "السيدة", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Wie geht es Ihnen?", "en": "How are you? (formal)", "ar": "" },
+    { "de": "Wie geht es dir?", "en": "How are you? (informal)", "ar": "" },
+    { "de": "Wie geht's?", "en": "How's it going? (short, casual)", "ar": "كيف حالك؟" },
+    { "de": "Mir geht es gut.", "en": "I'm fine / I'm doing well.", "ar": "أنا بخير" },
+    { "de": "Mir geht es sehr gut.", "en": "I'm doing very well.", "ar": "" },
+    { "de": "Es geht.", "en": "So-so.", "ar": "" },
+    { "de": "Mir geht es nicht gut.", "en": "I'm not doing well.", "ar": "" },
+    { "de": "Mir geht es schlecht.", "en": "I'm doing badly.", "ar": "" },
+    { "de": "Mir geht es sehr schlecht.", "en": "I'm doing very badly.", "ar": "" },
+    { "de": "Ich bin müde.", "en": "I am tired.", "ar": "أنا متعب" },
+    { "de": "Ich bin krank.", "en": "I am ill.", "ar": "أنا مريض" },
+    { "de": "Und Ihnen?", "en": "And you? (formal)", "ar": "" },
+    { "de": "Und dir?", "en": "And you? (informal)", "ar": "" },
+    { "de": "Auch gut, danke.", "en": "Also fine, thanks.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Wie geht es + Ihnen / dir?", "ex": "Wie geht es dir?", "en": "How are you?" },
+    { "form": "Mir geht es + [sehr] gut / schlecht.", "ex": "Mir geht es sehr gut.", "en": "I'm doing very well." },
+    { "form": "Ich bin + müde / krank.", "ex": "Ich bin müde.", "en": "I am tired." },
+    { "form": "Und + Ihnen / dir?", "ex": "Und dir?", "en": "And you?" }
+  ],
+  "grammar": [
+    {
+      "title": "Asking how someone is",
+      "body": "Use **Wie geht es Ihnen?** for people you address formally (**Sie**) and **Wie geht es dir?** for friends and family (**du**). The short form **Wie geht's?** is casual: **geht's** is **geht es** shortened.\n\nThe words **Ihnen**, **dir** and **mir** are special forms of *Sie*, *du* and *ich*. Learn them as fixed phrases for now; the grammar comes later.",
+      "ar": "Ihnen / dir / mir أشكال خاصة؛ احفظ العبارات كما هي.",
+      "examples": [
+        { "de": "Wie geht es Ihnen?", "en": "How are you? (formal)" },
+        { "de": "Wie geht es dir?", "en": "How are you? (informal)" },
+        { "de": "Wie geht's?", "en": "How's it going?" }
+      ]
+    },
+    {
+      "title": "Answering",
+      "body": "Answer with **Mir geht es + adjective**: **gut** (good), **sehr gut** (very good), or more enthusiastic words: **super**, **wunderbar**, **ausgezeichnet**, **toll**, **prima**, **fantastisch**.\n\nIf things are so-so say **Es geht.** For negative feelings: **Mir geht es nicht gut / schlecht / sehr schlecht**, or stronger: **miserabel**, **furchtbar**.\n\nTo say what is wrong, use **Ich bin + müde / krank**.",
+      "table": {
+        "head": ["Positive", "So-so", "Negative"],
+        "rows": [
+          ["gut", "Es geht.", "nicht gut"],
+          ["sehr gut", "", "schlecht"],
+          ["super", "", "sehr schlecht"],
+          ["wunderbar", "", "miserabel"],
+          ["ausgezeichnet", "", "furchtbar"],
+          ["toll / prima / fantastisch", "", ""]
+        ]
+      }
+    },
+    {
+      "title": "Asking back",
+      "body": "After you answer, ask the other person back: **Und Ihnen?** (formal) or **Und dir?** (informal). You can also answer **Auch gut, danke.** (Also fine, thanks.)",
+      "examples": [
+        { "de": "Mir geht es gut, danke. Und dir?", "en": "I'm fine, thanks. And you?" },
+        { "de": "Auch gut, danke.", "en": "Also fine, thanks." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Wie geht es du?", "right": "Wie geht es dir?", "why": "Use the special form *dir* (informal) or *Ihnen* (formal)." },
+    { "wrong": "Ich geht gut.", "right": "Mir geht es gut.", "why": "In German the structure is 'To me goes it well'." }
+  ],
+  "pronunciation": [
+    { "de": "ü", "tip": "Rounded 'ee': *müde* sounds like 'MEE-deh' with rounded lips." },
+    { "de": "ie / eh", "tip": "In *Wie geht es dir?* the vowel in *geht* is a long 'ay'; *dir* has a long 'ee'." },
+    { "de": "sch", "tip": "Like English sh: *schlecht*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Between friends",
+      "lines": [
+        { "who": "A", "de": "Hallo, Maria!", "en": "Hello, Maria!" },
+        { "who": "B", "de": "Hallo, Lukas! Wie geht es dir?", "en": "Hello, Lukas! How are you?" },
+        { "who": "A", "de": "Gut, danke. Und dir?", "en": "Fine, thanks. And you?" },
+        { "who": "B", "de": "Auch gut, danke.", "en": "Also fine, thanks." }
+      ]
+    },
+    {
+      "title": "Formal",
+      "lines": [
+        { "who": "A", "de": "Guten Tag, Frau Schmidt!", "en": "Good day, Mrs Schmidt!" },
+        { "who": "B", "de": "Guten Tag, Herr Meier! Wie geht es Ihnen?", "en": "Good day, Mr Meier! How are you?" },
+        { "who": "A", "de": "Mir geht es sehr gut, danke. Und Ihnen?", "en": "I'm doing very well, thanks. And you?" },
+        { "who": "B", "de": "Mir geht es gut, danke.", "en": "I'm doing well, thanks." }
+      ]
+    }
+  ],
+  "tip": "In Germany people often answer Wie geht's? honestly. An answer like Es geht is normal and not rude.",
+  "comprehension": [
+    { "q": "How do you ask 'How are you?' formally?", "a": "Wie geht es Ihnen?" },
+    { "q": "How do you ask it informally?", "a": "Wie geht es dir?" },
+    { "q": "Name three words for 'great' or 'excellent'.", "a": "For example super, wunderbar, ausgezeichnet, toll, prima, fantastisch." },
+    { "q": "How do you say 'I am tired'?", "a": "Ich bin müde." },
+    { "q": "How do you ask back 'And you?' informally?", "a": "Und dir?" }
+  ],
+  "exercises": [
+    {
+      "title": "Match the feelings",
+      "type": "match",
+      "instructions": "Match the German word with its English meaning.",
+      "items": [
+        { "q": "müde", "a": "tired" },
+        { "q": "krank", "a": "ill" },
+        { "q": "schlecht", "a": "bad" },
+        { "q": "wunderbar", "a": "wonderful" },
+        { "q": "furchtbar", "a": "terrible" },
+        { "q": "ausgezeichnet", "a": "excellent" }
+      ]
+    },
+    {
+      "title": "Formal or informal?",
+      "type": "fill",
+      "instructions": "Write Ihnen or dir.",
+      "items": [
+        { "q": "Wie geht es ___? (to your friend Anna)", "a": "dir" },
+        { "q": "Wie geht es ___? (to your teacher, formal)", "a": "Ihnen" },
+        { "q": "Und ___? (to a stranger, formal)", "a": "Ihnen" },
+        { "q": "Und ___? (to your sister)", "a": "dir" }
+      ]
+    },
+    {
+      "title": "Positive or negative?",
+      "type": "choose",
+      "instructions": "Choose the word that matches the meaning in brackets.",
+      "items": [
+        { "q": "Mir geht es ___. (very good) (sehr gut / sehr schlecht)", "a": "sehr gut" },
+        { "q": "Mir geht es ___. (bad) (schlecht / prima)", "a": "schlecht" },
+        { "q": "Mir geht es ___. (excellent) (miserabel / ausgezeichnet)", "a": "ausgezeichnet" },
+        { "q": "Mir geht es ___. (terrible) (furchtbar / toll)", "a": "furchtbar" },
+        { "q": "Mir geht es ___. (so-so) (Es geht / sehr gut)", "a": "Es geht", "expl": "*Es geht* means so-so." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I am tired.", "a": "Ich bin müde." },
+        { "q": "I am ill.", "a": "Ich bin krank." },
+        { "q": "I am doing very well.", "a": "Mir geht es sehr gut." },
+        { "q": "I am not doing well.", "a": "Mir geht es nicht gut." },
+        { "q": "Also fine, thanks.", "a": "Auch gut, danke." }
+      ]
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Write the correct sentence. The word with a capital letter comes first.",
+      "items": [
+        { "q": "geht / dir / Wie / es", "a": "Wie geht es dir?" },
+        { "q": "es / gut / geht / Mir", "a": "Mir geht es gut." },
+        { "q": "Ihnen / es / Wie / geht", "a": "Wie geht es Ihnen?" },
+        { "q": "danke / gut / Auch", "a": "Auch gut, danke." }
+      ]
+    }
+  ],
+  "summary": [
+    "Ask Wie geht es Ihnen? (formal) or Wie geht es dir? (informal); Wie geht's? is the short casual form.",
+    "Answer with Mir geht es gut / sehr gut, or stronger: super, wunderbar, ausgezeichnet, toll, prima, fantastisch.",
+    "Es geht means so-so. Negative: Mir geht es nicht gut / schlecht / sehr schlecht, miserabel, furchtbar.",
+    "Say Ich bin müde or Ich bin krank.",
+    "Ask back with Und Ihnen? or Und dir? and reply Auch gut, danke."
+  ]
+}

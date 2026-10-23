@@ -1,0 +1,232 @@
+{
+  "n": 45,
+  "title": "Perfekt: haben or sein?",
+  "titleDe": "Das Perfekt, Teil 2",
+  "level": "A1",
+  "sourceNote": "Transcript is mostly clean. The exercise sentences were shown on screen; only the teacher's answers are in the transcript.",
+  "objectives": [
+    "I can conjugate haben and sein as helping verbs",
+    "I know that verbs of change of place take sein",
+    "I know that verbs of change of state take sein",
+    "I can use common verbs with their Hilfsverb and Partizip II"
+  ],
+  "vocab": [
+    { "de": "kaufen", "en": "to buy", "note": "hat gekauft", "ar": "يشتري" },
+    { "de": "trinken", "en": "to drink", "note": "hat getrunken", "ar": "يشرب" },
+    { "de": "regnen", "en": "to rain", "note": "hat geregnet", "ar": "تمطر" },
+    { "de": "schreiben", "en": "to write", "note": "hat geschrieben", "ar": "يكتب" },
+    { "de": "sprechen", "en": "to speak", "note": "hat gesprochen", "ar": "يتكلم" },
+    { "de": "kochen", "en": "to cook", "note": "hat gekocht", "ar": "يطبخ" },
+    { "de": "helfen", "en": "to help", "note": "hat geholfen", "ar": "يساعد" },
+    { "de": "fliegen", "en": "to fly", "note": "ist geflogen", "ar": "يطير" },
+    { "de": "kommen", "en": "to come", "note": "ist gekommen", "ar": "يأتي" },
+    { "de": "springen", "en": "to jump", "note": "ist gesprungen", "ar": "يقفز" },
+    { "de": "reisen", "en": "to travel", "note": "ist gereist", "ar": "يسافر" },
+    { "de": "schwimmen", "en": "to swim", "note": "ist geschwommen", "ar": "يسبح" },
+    { "de": "losgehen", "en": "to set off", "note": "ist losgegangen", "ar": "ينطلق" },
+    { "de": "laufen", "en": "to run, to walk", "note": "ist gelaufen", "ar": "يجري" },
+    { "de": "wandern", "en": "to hike", "note": "ist gewandert", "ar": "يتنزه مشيًا" },
+    { "de": "sterben", "en": "to die", "note": "ist gestorben", "ar": "يموت" },
+    { "de": "einschlafen", "en": "to fall asleep", "note": "ist eingeschlafen", "ar": "ينام (يغفو)" },
+    { "de": "aufwachen", "en": "to wake up", "note": "ist aufgewacht", "ar": "يستيقظ" },
+    { "de": "wachsen", "en": "to grow", "note": "ist gewachsen", "ar": "ينمو" },
+    { "de": "aufstehen", "en": "to get up", "note": "ist aufgestanden", "ar": "ينهض" },
+    { "de": "bleiben", "en": "to stay", "note": "ist geblieben", "ar": "يبقى" },
+    { "de": "passieren", "en": "to happen", "note": "ist passiert", "ar": "يحدث" },
+    { "de": "werden", "en": "to become", "note": "ist geworden", "ar": "يصبح" },
+    { "de": "die Ortsveränderung", "pl": "die Ortsveränderungen", "en": "change of place", "ar": "تغيّر المكان" },
+    { "de": "die Zustandsveränderung", "pl": "die Zustandsveränderungen", "en": "change of state", "ar": "تغيّر الحالة" }
+  ],
+  "expressions": [
+    { "de": "Was ist passiert?", "en": "What happened?" },
+    { "de": "Wo bist du gestern gewesen?", "en": "Where were you yesterday?" },
+    { "de": "Es hat wieder geregnet.", "en": "It rained again." }
+  ],
+  "patterns": [
+    { "form": "[Subject] + hat/habe/... + ... + [Partizip II].", "ex": "Er hat ein neues Auto gekauft.", "en": "He bought a new car." },
+    { "form": "[Subject] + ist/bin/... + ... + [Partizip II].", "ex": "Meine Eltern sind gestern nach London geflogen.", "en": "My parents flew to London yesterday." }
+  ],
+  "grammar": [
+    {
+      "title": "The Hilfsverb must be conjugated",
+      "body": "The Hilfsverb is in position 2 and is conjugated; the Partizip II at the end never changes. Notice that **er/sie/es** takes **hat** or **ist**.",
+      "table": {
+        "head": ["Person", "haben (essen)", "sein (fahren)"],
+        "rows": [
+          ["ich", "habe gegessen", "bin gefahren"],
+          ["du", "hast gegessen", "bist gefahren"],
+          ["er / sie / es", "hat gegessen", "ist gefahren"],
+          ["wir", "haben gegessen", "sind gefahren"],
+          ["ihr", "habt gegessen", "seid gefahren"],
+          ["sie / Sie", "haben gegessen", "sind gefahren"]
+        ]
+      }
+    },
+    {
+      "title": "Most verbs use haben",
+      "body": "Most verbs form the Perfekt with **haben**. Learn them with *hat*:",
+      "examples": [
+        { "de": "Er hat ein neues Auto gekauft.", "en": "He bought a new car." },
+        { "de": "Sabina hat heute viel Kaffee getrunken.", "en": "Sabina drank a lot of coffee today." },
+        { "de": "Es hat wieder geregnet.", "en": "It rained again." },
+        { "de": "Maria hat mir viel geholfen.", "en": "Maria helped me a lot." }
+      ],
+      "table": {
+        "head": ["Infinitive", "Perfekt"],
+        "rows": [
+          ["essen", "hat gegessen"],
+          ["machen", "hat gemacht"],
+          ["spielen", "hat gespielt"],
+          ["schreiben", "hat geschrieben"],
+          ["studieren", "hat studiert"],
+          ["sprechen", "hat gesprochen"],
+          ["anrufen", "hat angerufen"],
+          ["kochen", "hat gekocht"]
+        ]
+      }
+    },
+    {
+      "title": "Sein: change of place",
+      "body": "Verbs that show a **change of place** (from A to B) take **sein**.",
+      "examples": [
+        { "de": "Meine Eltern sind gestern nach London geflogen.", "en": "My parents flew to London yesterday." },
+        { "de": "Er ist mit Miriam ins Kino gegangen.", "en": "He went to the cinema with Miriam." }
+      ],
+      "table": {
+        "head": ["Infinitive", "Perfekt"],
+        "rows": [
+          ["fliegen", "ist geflogen"],
+          ["gehen", "ist gegangen"],
+          ["fahren", "ist gefahren"],
+          ["kommen", "ist gekommen"],
+          ["springen", "ist gesprungen"],
+          ["reisen", "ist gereist"],
+          ["schwimmen", "ist geschwommen"],
+          ["losgehen", "ist losgegangen"],
+          ["laufen", "ist gelaufen"],
+          ["wandern", "ist gewandert"]
+        ]
+      }
+    },
+    {
+      "title": "Sein: change of state",
+      "body": "Verbs that show a **change of state** also take **sein**. It is not always easy to see the change, so learn these verbs with their Perfekt as a fixed form.",
+      "examples": [
+        { "de": "Letzte Woche ist sein Vater gestorben.", "en": "Last week his father died." },
+        { "de": "Maria ist im Unterricht eingeschlafen.", "en": "Maria fell asleep in class." }
+      ],
+      "table": {
+        "head": ["Infinitive", "Perfekt"],
+        "rows": [
+          ["sterben", "ist gestorben"],
+          ["einschlafen", "ist eingeschlafen"],
+          ["aufwachen", "ist aufgewacht"],
+          ["wachsen", "ist gewachsen"],
+          ["aufstehen", "ist aufgestanden"]
+        ]
+      }
+    },
+    {
+      "title": "Other verbs with sein",
+      "body": "A few other verbs take **sein**: *bleiben*, *sein*, *passieren*, *werden*. In spoken German the **Präteritum** of *sein* is normally used (*Wo warst du gestern?*), but the Perfekt *ist gewesen* also exists.",
+      "examples": [
+        { "de": "Ich bin letzte Woche in Spanien geblieben.", "en": "I stayed in Spain last week." },
+        { "de": "Was ist passiert?", "en": "What happened?" },
+        { "de": "Oma ist heute 70 geworden.", "en": "Grandma turned 70 today." },
+        { "de": "Wo bist du gestern gewesen?", "en": "Where were you yesterday?" }
+      ]
+    },
+    {
+      "title": "Verbs with both haben and sein",
+      "body": "Some verbs take **sein** when there is a change of place (a destination) and **haben** when there is none. Example: *fahren*.",
+      "examples": [
+        { "de": "Ich bin nach Köln gefahren.", "en": "I drove to Cologne. (change of place)" },
+        { "de": "Ich habe mein neues Auto gefahren.", "en": "I drove my new car. (no destination)" }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich habe nach Berlin gefahren.", "right": "Ich bin nach Berlin gefahren.", "why": "Going to a place is a change of place, so *sein*." },
+    { "wrong": "Er ist ein Auto gekauft.", "right": "Er hat ein Auto gekauft.", "why": "*kaufen* takes *haben*." },
+    { "wrong": "Wir sind gestern in der Schule eingeschlafen haben.", "right": "Wir sind gestern in der Schule eingeschlafen.", "why": "Only one Hilfsverb; *einschlafen* takes *sein*." }
+  ],
+  "dialogues": [
+    {
+      "title": "A weekend",
+      "lines": [
+        { "who": "A", "de": "Wo bist du am Wochenende gewesen?", "en": "Where were you at the weekend?" },
+        { "who": "B", "de": "Ich bin nach Köln gefahren. Und du?", "en": "I drove to Cologne. And you?" },
+        { "who": "A", "de": "Ich bin zu Hause geblieben und habe gekocht.", "en": "I stayed at home and cooked." },
+        { "who": "B", "de": "Hat es geregnet?", "en": "Did it rain?" },
+        { "who": "A", "de": "Ja, es hat viel geregnet.", "en": "Yes, it rained a lot." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "If you are unsure, learn each verb as a trio: infinitive, hat/ist, Partizip II. For example: fliegen – ist geflogen.",
+  "comprehension": [
+    { "q": "Which two kinds of verbs usually take sein?", "a": "Verbs of change of place and verbs of change of state." },
+    { "q": "What is the Perfekt of kaufen?", "a": "hat gekauft" },
+    { "q": "Which Hilfsverb does 'bleiben' use?", "a": "sein (ist geblieben)." },
+    { "q": "Why can 'fahren' take both haben and sein?", "a": "With a destination (change of place) it takes sein; without one it takes haben." }
+  ],
+  "exercises": [
+    {
+      "title": "Fill in haben or sein",
+      "type": "fill",
+      "instructions": "Fill in the correct form of haben or sein.",
+      "items": [
+        { "q": "Maria ___ mir viel geholfen.", "a": "hat", "expl": "*helfen – hat geholfen*." },
+        { "q": "Wo ___ du geblieben?", "a": "bist", "expl": "*bleiben – ist geblieben*; du bist." },
+        { "q": "Heute ___ ich spät aufgestanden.", "a": "bin", "expl": "*aufstehen – ist aufgestanden*; ich bin." },
+        { "q": "Wir ___ gestern viel Kaffee getrunken.", "a": "haben", "expl": "*trinken – hat getrunken*." },
+        { "q": "Meine Eltern ___ nach London geflogen.", "a": "sind", "expl": "*fliegen – ist geflogen*." },
+        { "q": "Ihr ___ gestern lange gekocht.", "a": "habt", "expl": "*kochen – hat gekocht*; ihr habt." }
+      ]
+    },
+    {
+      "title": "Haben or sein?",
+      "type": "choose",
+      "instructions": "Choose the correct Hilfsverb.",
+      "items": [
+        { "q": "Er ___ ein neues Auto gekauft. (hat / ist)", "a": "hat" },
+        { "q": "Letzte Woche ___ sein Vater gestorben. (hat / ist)", "a": "ist", "expl": "Change of state." },
+        { "q": "Sie ___ im Unterricht eingeschlafen. (hat / ist)", "a": "ist", "expl": "Change of state." },
+        { "q": "Es ___ wieder geregnet. (hat / ist)", "a": "hat" },
+        { "q": "Wir ___ nach Berlin gereist. (haben / sind)", "a": "sind", "expl": "Change of place." },
+        { "q": "Du ___ einen Brief geschrieben. (hast / bist)", "a": "hast" }
+      ]
+    },
+    {
+      "title": "Reorder the words",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "ein neues Auto / hat / Er / gekauft", "a": "Er hat ein neues Auto gekauft." },
+        { "q": "ist / Was / passiert / ?", "a": "Was ist passiert?" },
+        { "q": "bin / Ich / geblieben / in Spanien / letzte Woche", "a": "Ich bin letzte Woche in Spanien geblieben. / Letzte Woche bin ich in Spanien geblieben.", "expl": "Hilfsverb in position 2." },
+        { "q": "geworden / Oma / ist / heute 70", "a": "Oma ist heute 70 geworden. / Heute ist Oma 70 geworden." }
+      ]
+    },
+    {
+      "title": "Match",
+      "type": "match",
+      "instructions": "Match the infinitive with its Perfekt.",
+      "items": [
+        { "q": "fliegen", "a": "ist geflogen" },
+        { "q": "trinken", "a": "hat getrunken" },
+        { "q": "sterben", "a": "ist gestorben" },
+        { "q": "kochen", "a": "hat gekocht" },
+        { "q": "wandern", "a": "ist gewandert" },
+        { "q": "sprechen", "a": "hat gesprochen" }
+      ]
+    }
+  ],
+  "summary": [
+    "The Hilfsverb (haben or sein) is conjugated; the Partizip II stays unchanged at the end.",
+    "Most verbs take haben: kaufen, trinken, machen, schreiben, kochen, helfen ...",
+    "Verbs of change of place take sein: fliegen, gehen, fahren, kommen, laufen ...",
+    "Verbs of change of state take sein: sterben, einschlafen, aufwachen, aufstehen ...",
+    "Also sein: bleiben, sein, passieren, werden. Fahren can take either, depending on a destination."
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "n": 25,
+  "title": "My Family",
+  "titleDe": "Meine Familie",
+  "level": "A1",
+  "sourceNote": "The transcript is heavily garbled in places, but the family words and the example sentences are clear. The family-tree sentence at the end and the Swiss German remark are summarised from the video.",
+  "objectives": [
+    "I can name the members of my family in German",
+    "I can say who someone is with 'Das ist mein/meine ...'",
+    "I can say that my family is big or small",
+    "I can use the plural words Eltern, Geschwister and Großeltern"
+  ],
+  "vocab": [
+    { "de": "die Familie", "pl": "die Familien", "en": "family", "ar": "العائلة", "note": "", "sup": false },
+    { "de": "der Vater", "pl": "die Väter", "en": "father", "ar": "الأب", "note": "", "sup": false },
+    { "de": "die Mutter", "pl": "die Mütter", "en": "mother", "ar": "الأم", "note": "", "sup": false },
+    { "de": "die Eltern", "pl": "–", "en": "parents", "ar": "الوالدان", "note": "plural only", "sup": false },
+    { "de": "der Bruder", "pl": "die Brüder", "en": "brother", "ar": "الأخ", "note": "", "sup": false },
+    { "de": "die Schwester", "pl": "die Schwestern", "en": "sister", "ar": "الأخت", "note": "", "sup": false },
+    { "de": "die Geschwister", "pl": "–", "en": "siblings (brothers and sisters)", "ar": "الإخوة والأخوات", "note": "plural only", "sup": false },
+    { "de": "der Großvater", "pl": "die Großväter", "en": "grandfather", "ar": "الجد", "note": "", "sup": false },
+    { "de": "der Opa", "pl": "die Opas", "en": "grandpa", "ar": "جد (عامية: جدو)", "note": "informal", "sup": false },
+    { "de": "die Großmutter", "pl": "die Großmütter", "en": "grandmother", "ar": "الجدة", "note": "", "sup": false },
+    { "de": "die Oma", "pl": "die Omas", "en": "grandma", "ar": "جدة (عامية: تيتا)", "note": "informal", "sup": false },
+    { "de": "die Großeltern", "pl": "–", "en": "grandparents", "ar": "الأجداد", "note": "plural only", "sup": false },
+    { "de": "der Onkel", "pl": "die Onkel", "en": "uncle", "ar": "العم / الخال", "note": "", "sup": false },
+    { "de": "die Tante", "pl": "die Tanten", "en": "aunt", "ar": "العمة / الخالة", "note": "", "sup": false },
+    { "de": "der Cousin", "pl": "die Cousins", "en": "cousin (male)", "ar": "ابن العم / ابن الخال", "note": "", "sup": false },
+    { "de": "die Cousine", "pl": "die Cousinen", "en": "cousin (female)", "ar": "بنت العم / بنت الخال", "note": "", "sup": false },
+    { "de": "der Familienbaum", "pl": "die Familienbäume", "en": "family tree", "ar": "شجرة العائلة", "note": "", "sup": false },
+    { "de": "der Sohn", "pl": "die Söhne", "en": "son", "ar": "الابن", "note": "", "sup": true },
+    { "de": "die Tochter", "pl": "die Töchter", "en": "daughter", "ar": "الابنة", "note": "", "sup": true },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "الطفل", "note": "", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Das ist meine Familie.", "en": "This is my family.", "ar": "هذه عائلتي.", "sup": false },
+    { "de": "Meine Familie ist klein.", "en": "My family is small.", "ar": "عائلتي صغيرة.", "sup": false },
+    { "de": "Meine Familie ist groß.", "en": "My family is big.", "ar": "عائلتي كبيرة.", "sup": false },
+    { "de": "Wie groß ist deine Familie?", "en": "How big is your family?", "ar": "ما حجم عائلتك؟", "sup": false },
+    { "de": "Wie sieht dein Familienbaum aus?", "en": "What does your family tree look like?", "ar": "كيف تبدو شجرة عائلتك؟", "sup": false }
+  ],
+  "patterns": [
+    { "form": "Das ist mein + [masculine / neuter noun].", "ex": "Das ist mein Vater.", "en": "This is my father." },
+    { "form": "Das ist meine + [feminine noun].", "ex": "Das ist meine Mutter.", "en": "This is my mother." },
+    { "form": "Das sind meine + [plural noun].", "ex": "Das sind meine Eltern.", "en": "These are my parents." }
+  ],
+  "grammar": [
+    {
+      "title": "mein or meine? (revision of possessive articles)",
+      "body": "In the last lessons you learned the possessive articles (*mein*, *dein* ...). Here you use them to talk about your family.\n\nFor **masculine** nouns use **mein**: *mein Vater, mein Bruder, mein Onkel*.\n\nFor **feminine** nouns use **meine**: *meine Mutter, meine Schwester, meine Tante*.\n\nFor **plural** nouns use **meine**, and the verb is **sind**: *Das sind meine Eltern.*",
+      "ar": "mein للمذكر، meine للمؤنث وللجمع.",
+      "table": {
+        "head": ["", "Singular", "Plural"],
+        "rows": [
+          ["masculine (der)", "mein Vater", "–"],
+          ["feminine (die)", "meine Mutter", "–"],
+          ["plural only", "–", "meine Eltern / Geschwister / Großeltern"]
+        ]
+      },
+      "examples": [
+        { "de": "Das ist mein Bruder.", "en": "This is my brother." },
+        { "de": "Das ist meine Schwester.", "en": "This is my sister." },
+        { "de": "Das sind meine Geschwister.", "en": "These are my siblings." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Plural-only words: Eltern, Geschwister, Großeltern",
+      "body": "**die Eltern** (mother + father), **die Geschwister** (brother + sister together) and **die Großeltern** (grandmother + grandfather) are always plural. The article is **die** and you say **Das sind ...** (not *Das ist*).\n\nThe teacher mentions that in Swiss German you may hear *das Geschwister* for one sibling. In standard German, always use *die Geschwister*.",
+      "ar": "هذه الكلمات تُستعمل دائماً بصيغة الجمع.",
+      "examples": [
+        { "de": "Das sind meine Eltern.", "en": "These are my parents." },
+        { "de": "Das sind meine Großeltern.", "en": "These are my grandparents." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Describing your family",
+      "body": "To say how big your family is, use *groß* (big) or *klein* (small):\n\n*Meine Familie ist groß.* / *Meine Familie ist klein.*\n\nTo ask someone: *Wie groß ist deine Familie?*",
+      "examples": [
+        { "de": "Meine Familie ist klein.", "en": "My family is small." },
+        { "de": "Wie groß ist deine Familie?", "en": "How big is your family?" }
+      ],
+      "sup": false
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Das ist mein Mutter.", "right": "Das ist meine Mutter.", "why": "*Mutter* is feminine, so use *meine*." },
+    { "wrong": "Das ist meine Eltern.", "right": "Das sind meine Eltern.", "why": "*Eltern* is plural, so the verb is *sind*." },
+    { "wrong": "Das ist meine Bruder.", "right": "Das ist mein Bruder.", "why": "*Bruder* is masculine, so use *mein* without an ending." }
+  ],
+  "pronunciation": [
+    { "de": "ä / ü in Väter, Mütter, Brüder", "tip": "The plural of many family words gets an umlaut. *Vater* becomes *Väter*; *Bruder* becomes *Brüder*." },
+    { "de": "Cousin / Cousine", "tip": "From French: *Cousin* sounds like 'koo-zang' (nasal), *Cousine* like 'koo-zee-ne'." }
+  ],
+  "dialogues": [
+    {
+      "title": "Talking about family",
+      "lines": [
+        { "who": "A", "de": "Wie groß ist deine Familie?", "en": "How big is your family?" },
+        { "who": "B", "de": "Meine Familie ist klein. Das sind meine Eltern und das ist mein Bruder.", "en": "My family is small. These are my parents and this is my brother." },
+        { "who": "A", "de": "Und wer ist das?", "en": "And who is that?" },
+        { "who": "B", "de": "Das ist meine Tante.", "en": "That is my aunt." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Draw your own Familienbaum and write under each person: *Das ist mein/meine ...* Say each sentence aloud.",
+  "comprehension": [
+    { "q": "How do you say 'my parents' in German?", "a": "meine Eltern" },
+    { "q": "What do you call brothers and sisters together?", "a": "die Geschwister" },
+    { "q": "Which word is used for grandmother in an informal way?", "a": "die Oma" },
+    { "q": "How do you ask 'How big is your family?'", "a": "Wie groß ist deine Familie?" }
+  ],
+  "exercises": [
+    {
+      "title": "mein or meine?",
+      "type": "fill",
+      "instructions": "Complete with mein or meine.",
+      "items": [
+        { "q": "Das ist ___ Mutter.", "a": "meine", "expl": "*Mutter* is feminine." },
+        { "q": "Das ist ___ Bruder.", "a": "mein", "expl": "*Bruder* is masculine." },
+        { "q": "Das sind ___ Eltern.", "a": "meine", "expl": "*Eltern* is plural." },
+        { "q": "Das ist ___ Onkel.", "a": "mein", "expl": "*Onkel* is masculine." },
+        { "q": "Das ist ___ Tante.", "a": "meine", "expl": "*Tante* is feminine." },
+        { "q": "Das sind ___ Großeltern.", "a": "meine", "expl": "*Großeltern* is plural." },
+        { "q": "Das ist ___ Cousin.", "a": "mein", "expl": "*Cousin* is masculine." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Match the family words",
+      "type": "match",
+      "instructions": "Match the German word with its English meaning.",
+      "items": [
+        { "q": "die Schwester", "a": "sister" },
+        { "q": "der Großvater", "a": "grandfather" },
+        { "q": "die Geschwister", "a": "siblings" },
+        { "q": "die Tante", "a": "aunt" },
+        { "q": "der Cousin", "a": "male cousin" },
+        { "q": "der Familienbaum", "a": "family tree" },
+        { "q": "die Eltern", "a": "parents" }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Write the sentence in German.",
+      "items": [
+        { "q": "This is my grandfather.", "a": "Das ist mein Großvater. / Das ist mein Opa.", "expl": "*Opa* is the informal word." },
+        { "q": "These are my grandparents.", "a": "Das sind meine Großeltern.", "expl": "Plural: *sind* and *meine*." },
+        { "q": "My family is small.", "a": "Meine Familie ist klein." },
+        { "q": "How big is your family?", "a": "Wie groß ist deine Familie?", "expl": "*groß* is written with ß." },
+        { "q": "This is my aunt.", "a": "Das ist meine Tante." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Quick answers",
+      "type": "answer",
+      "instructions": "Answer in German.",
+      "items": [
+        { "q": "Mother and father together are ...?", "a": "die Eltern" },
+        { "q": "Brother and sister together are ...?", "a": "die Geschwister" },
+        { "q": "What is the plural of 'die Schwester'?", "a": "die Schwestern" },
+        { "q": "What is the plural of 'der Bruder'?", "a": "die Brüder" },
+        { "q": "What is the plural of 'die Mutter'?", "a": "die Mütter" }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Family words: der Vater, die Mutter, der Bruder, die Schwester, der Großvater, die Großmutter, der Onkel, die Tante, der Cousin, die Cousine.",
+    "Eltern, Geschwister and Großeltern are plural only: *Das sind meine ...*",
+    "Use *mein* with masculine nouns and *meine* with feminine and plural nouns.",
+    "Say *Meine Familie ist groß/klein.* and ask *Wie groß ist deine Familie?*"
+  ]
+}

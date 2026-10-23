@@ -1,0 +1,165 @@
+{
+  "n": 17,
+  "title": "Adjectives and Opposites",
+  "titleDe": "Adjektive und Gegenteile",
+  "level": "A1",
+  "sourceNote": "The auto-captions for this video are heavily garbled. Some example sentences (for example the ones for 'alt', 'dick/dünn' and 'teuer/billig') could not be reconstructed with certainty, so the examples here use the clearly recognisable word pairs; extra examples are marked as supplementary.",
+  "objectives": [
+    "I can name common adjectives together with their opposites",
+    "I can describe people and things with the pattern 'X ist + adjective'",
+    "I can use aber to contrast two statements",
+    "I can tell the two meanings of alt (old person / old thing)"
+  ],
+  "vocab": [
+    { "de": "groß", "en": "big, tall", "ar": "كبير", "note": "" },
+    { "de": "klein", "en": "small, short", "ar": "صغير", "note": "" },
+    { "de": "langsam", "en": "slow", "ar": "بطيء", "note": "" },
+    { "de": "schnell", "en": "fast", "ar": "سريع", "note": "" },
+    { "de": "glücklich", "en": "happy", "ar": "سعيد", "note": "" },
+    { "de": "traurig", "en": "sad", "ar": "حزين", "note": "" },
+    { "de": "lang", "en": "long", "ar": "طويل", "note": "" },
+    { "de": "kurz", "en": "short (length, time)", "ar": "قصير", "note": "" },
+    { "de": "dumm", "en": "stupid", "ar": "غبي", "note": "also: doof (colloquial)" },
+    { "de": "intelligent", "en": "intelligent, clever", "ar": "ذكي", "note": "" },
+    { "de": "gut", "en": "good", "ar": "جيد", "note": "" },
+    { "de": "schlecht", "en": "bad", "ar": "سيئ", "note": "" },
+    { "de": "leicht", "en": "light, easy", "ar": "سهل / خفيف", "note": "" },
+    { "de": "schwer", "en": "heavy, difficult", "ar": "ثقيل / صعب", "note": "" },
+    { "de": "alt", "en": "old", "ar": "قديم / كبير في السن", "note": "for people and things" },
+    { "de": "jung", "en": "young", "ar": "شاب / صغير في السن", "note": "opposite of alt (people)" },
+    { "de": "neu", "en": "new", "ar": "جديد", "note": "opposite of alt (things)" },
+    { "de": "dick", "en": "thick, fat", "ar": "سمين / سميك", "note": "" },
+    { "de": "dünn", "en": "thin", "ar": "نحيف / رفيع", "note": "" },
+    { "de": "teuer", "en": "expensive", "ar": "غالٍ", "note": "" },
+    { "de": "billig", "en": "cheap", "ar": "رخيص", "note": "" },
+    { "de": "der Elefant", "pl": "die Elefanten", "en": "elephant", "ar": "فيل", "note": "" },
+    { "de": "der Fuchs", "pl": "die Füchse", "en": "fox", "ar": "ثعلب", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Das Gegenteil von 'groß' ist 'klein'.", "en": "The opposite of 'big' is 'small'.", "ar": "", "sup": true }
+  ],
+  "patterns": [
+    { "form": "[Person/Thing] ist + [adjective].", "ex": "Der Elefant ist langsam.", "en": "The elephant is slow." },
+    { "form": "[X] ist ..., aber [Y] ist ...", "ex": "Paul ist glücklich, aber Robert ist traurig.", "en": "Paul is happy, but Robert is sad." }
+  ],
+  "grammar": [
+    {
+      "title": "Learn adjectives in pairs",
+      "body": "The teacher's main tip: always learn an adjective **together with its opposite**. One word reminds you of the other, so both stay in your memory.\n\nThe pairs of this lesson: **groß – klein**, **langsam – schnell**, **glücklich – traurig**, **lang – kurz**, **dumm – intelligent**, **gut – schlecht**, **leicht – schwer**, **alt – jung / neu**, **dick – dünn**, **teuer – billig**.",
+      "ar": "تعلّم كل صفة مع ضدّها حتى تتذكرهما معًا."
+    },
+    {
+      "title": "Adjective after sein: no ending",
+      "body": "When the adjective stands after **sein** (*ist, sind, bin*), it does not change. It is always the same basic form, whether the subject is a man, a woman or a thing.",
+      "examples": [
+        { "de": "Der Elefant ist langsam.", "en": "The elephant is slow." },
+        { "de": "Paul ist glücklich, aber Robert ist traurig.", "en": "Paul is happy, but Robert is sad." },
+        { "de": "Der Mann ist dumm, aber der Fuchs ist intelligent.", "en": "The man is stupid, but the fox is intelligent." }
+      ]
+    },
+    {
+      "title": "alt: two contexts",
+      "body": "Just like English *old*, **alt** is used for people and for things. But the opposite is different: for a person the opposite is **jung** (young), for a thing it is **neu** (new).",
+      "table": {
+        "head": ["", "Opposite", "Meaning"],
+        "rows": [
+          ["Person: alt", "jung", "old person – young person"],
+          ["Thing: alt", "neu", "old thing – new thing"]
+        ]
+      },
+      "ar": "alt للأشخاص ضدها jung، وللأشياء ضدها neu.",
+      "examples": [
+        { "de": "Der Mann ist alt, aber das Kind ist jung.", "en": "The man is old, but the child is young.", "sup": true }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Contrast with aber",
+      "body": "**aber** (but) joins two statements. Put a comma before it. Each part keeps its own verb in second position.",
+      "examples": [
+        { "de": "Er ist schnell, aber sie ist langsam.", "en": "He is fast, but she is slow." }
+      ],
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Der Elefant ist langsame.", "right": "Der Elefant ist langsam.", "why": "After *ist* the adjective has no ending." },
+    { "wrong": "Das Kind ist neu.", "right": "Das Kind ist jung.", "why": "For people the opposite of *alt* is *jung*; *neu* is for things." }
+  ],
+  "pronunciation": [
+    { "de": "ü", "tip": "Round your lips as for 'oo' but say 'ee'. *glücklich*, *dünn*." },
+    { "de": "ch in -lich", "tip": "After i, soft 'ch' like a hissing 'h'. *glücklich*, *billig* (ends in a soft 'ch' sound)." }
+  ],
+  "dialogues": [
+    {
+      "title": "Describing animals",
+      "lines": [
+        { "who": "A", "de": "Ist der Elefant schnell?", "en": "Is the elephant fast?" },
+        { "who": "B", "de": "Nein, er ist langsam. Er ist groß.", "en": "No, he is slow. He is big." },
+        { "who": "A", "de": "Und der Fuchs?", "en": "And the fox?" },
+        { "who": "B", "de": "Der Fuchs ist klein, aber er ist schnell und intelligent.", "en": "The fox is small, but he is fast and intelligent." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Make flashcards with one adjective on the front and its opposite on the back.",
+  "comprehension": [
+    { "q": "What is the teacher's tip for learning adjectives?", "a": "Always learn them together with their opposites." },
+    { "q": "What is the opposite of 'schnell'?", "a": "langsam" },
+    { "q": "What is the opposite of 'alt' for a person?", "a": "jung" },
+    { "q": "What is the opposite of 'alt' for a thing?", "a": "neu" }
+  ],
+  "exercises": [
+    {
+      "title": "Match the words",
+      "type": "match",
+      "instructions": "Match each German adjective with its English meaning.",
+      "items": [
+        { "q": "groß", "a": "big" },
+        { "q": "klein", "a": "small" },
+        { "q": "langsam", "a": "slow" },
+        { "q": "schnell", "a": "fast" },
+        { "q": "glücklich", "a": "happy" },
+        { "q": "traurig", "a": "sad" },
+        { "q": "teuer", "a": "expensive" },
+        { "q": "billig", "a": "cheap" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Write the opposite",
+      "type": "fill",
+      "instructions": "Write the opposite adjective.",
+      "items": [
+        { "q": "lang – ___", "a": "kurz" },
+        { "q": "dick – ___", "a": "dünn" },
+        { "q": "gut – ___", "a": "schlecht" },
+        { "q": "leicht – ___", "a": "schwer", "expl": "Here *leicht* means 'light'; its opposite is *schwer* (heavy)." },
+        { "q": "intelligent – ___", "a": "dumm" },
+        { "q": "schnell – ___", "a": "langsam" },
+        { "q": "Der Mann ist alt, aber das Kind ist ___.", "a": "jung", "expl": "For people the opposite of *alt* is *jung*." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Translate the sentences.",
+      "items": [
+        { "q": "The elephant is slow.", "a": "Der Elefant ist langsam." },
+        { "q": "He is happy.", "a": "Er ist glücklich." },
+        { "q": "She is sad.", "a": "Sie ist traurig." },
+        { "q": "The man is old.", "a": "Der Mann ist alt." },
+        { "q": "I am small, but he is big.", "a": "Ich bin klein, aber er ist groß.", "expl": "Comma before *aber*." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Learn adjectives together with their opposites.",
+    "After *sein* the adjective has no ending: *Der Elefant ist langsam.*",
+    "Pairs: groß–klein, langsam–schnell, glücklich–traurig, lang–kurz, dumm–intelligent, gut–schlecht, leicht–schwer, dick–dünn, teuer–billig.",
+    "alt has two opposites: jung (people) and neu (things).",
+    "Use *aber* with a comma to contrast two statements."
+  ]
+}

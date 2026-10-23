@@ -1,0 +1,177 @@
+{
+  "n": 41,
+  "title": "War or hatte: Simple Past",
+  "titleDe": "War oder hatte",
+  "level": "A1",
+  "sourceNote": "Transcript is auto-captioned; the exercise sentences in the video were shown on screen and are partly missing, so the exercises here are based on the answers the teacher gives.",
+  "objectives": [
+    "I can name the three time levels: Vergangenheit, Gegenwart, Zukunft",
+    "I can use the Präteritum of haben: hatte, hattest, hatten ...",
+    "I can use the Präteritum of sein: war, warst, waren ...",
+    "I can say what I had or where I was yesterday or last week"
+  ],
+  "vocab": [
+    { "de": "die Vergangenheit", "pl": "–", "en": "past", "ar": "الماضي" },
+    { "de": "die Gegenwart", "pl": "–", "en": "present", "ar": "الحاضر" },
+    { "de": "die Zukunft", "pl": "–", "en": "future", "ar": "المستقبل" },
+    { "de": "gestern", "en": "yesterday", "ar": "أمس" },
+    { "de": "vorgestern", "en": "the day before yesterday", "ar": "أول أمس" },
+    { "de": "heute", "en": "today", "ar": "اليوم" },
+    { "de": "morgen", "en": "tomorrow", "ar": "غدًا" },
+    { "de": "letztes Jahr", "en": "last year", "ar": "السنة الماضية" },
+    { "de": "letzte Woche", "en": "last week", "ar": "الأسبوع الماضي" },
+    { "de": "vor ein paar Tagen", "en": "a few days ago", "ar": "قبل بضعة أيام" },
+    { "de": "vor ein paar Jahren", "en": "a few years ago", "ar": "قبل بضع سنوات" },
+    { "de": "das Wetter", "pl": "–", "en": "weather", "ar": "الطقس" },
+    { "de": "müde", "en": "tired", "ar": "متعب" },
+    { "de": "munter", "en": "awake, lively", "ar": "نشيط" },
+    { "de": "pünktlich", "en": "on time", "ar": "في الموعد" },
+    { "de": "spät", "en": "late", "ar": "متأخر", "note": "zu spät = too late" },
+    { "de": "das Fieber", "pl": "–", "en": "fever", "ar": "حمى", "note": "no plural in daily use" },
+    { "de": "der Hund", "pl": "die Hunde", "en": "dog", "ar": "كلب" },
+    { "de": "das Geld", "pl": "–", "en": "money", "ar": "مال" },
+    { "de": "die Zeit", "pl": "–", "en": "time", "ar": "وقت" }
+  ],
+  "expressions": [
+    { "de": "Letztes Jahr hatte ich kein Auto.", "en": "Last year I did not have a car." },
+    { "de": "Gestern war das Wetter schlecht.", "en": "Yesterday the weather was bad." },
+    { "de": "Letzte Woche waren wir in Berlin.", "en": "Last week we were in Berlin." }
+  ],
+  "patterns": [
+    { "form": "[Time word] + hatte/hatten + [Subject] + [Noun].", "ex": "Gestern hatte Maria keine Zeit.", "en": "Yesterday Maria had no time." },
+    { "form": "[Time word] + war/waren + [Subject] + [Place/Adjective].", "ex": "Vorgestern war er müde.", "en": "The day before yesterday he was tired." }
+  ],
+  "grammar": [
+    {
+      "title": "Three time levels",
+      "body": "German talks about time with **die Vergangenheit** (past), **die Gegenwart** (present) and **die Zukunft** (future). Time words such as *gestern*, *vorgestern*, *letztes Jahr*, *letzte Woche* and *vor ein paar Tagen* tell you that something already happened.\n\nThis lesson covers one past form, the **Präteritum** (simple past), only for the two most important verbs: **haben** and **sein**. Other verbs get their past form in a later lesson.",
+      "ar": "الماضي في الألمانية: Vergangenheit، ونتعلم اليوم الماضي البسيط لـ haben و sein فقط."
+    },
+    {
+      "title": "Präteritum of haben",
+      "body": "The conjugated verb stays in **position 2**. Note that **ich** and **er/sie/es** have the same form: **hatte**.",
+      "table": {
+        "head": ["Person", "haben (Präteritum)"],
+        "rows": [
+          ["ich", "hatte"],
+          ["du", "hattest"],
+          ["er / sie / es", "hatte"],
+          ["wir", "hatten"],
+          ["ihr", "hattet"],
+          ["sie / Sie", "hatten"]
+        ]
+      },
+      "examples": [
+        { "de": "Letztes Jahr hatte ich kein Auto. Heute habe ich ein Auto.", "en": "Last year I had no car. Today I have a car." },
+        { "de": "Vor ein paar Jahren hatten wir kein Geld. Heute haben wir viel Geld.", "en": "A few years ago we had no money. Today we have a lot of money." },
+        { "de": "Gestern hatte Maria keine Zeit. Heute hat sie viel Zeit.", "en": "Yesterday Maria had no time. Today she has a lot of time." }
+      ]
+    },
+    {
+      "title": "Präteritum of sein",
+      "body": "Again, **ich** and **er/sie/es** are identical: **war**.",
+      "table": {
+        "head": ["Person", "sein (Präteritum)"],
+        "rows": [
+          ["ich", "war"],
+          ["du", "warst"],
+          ["er / sie / es", "war"],
+          ["wir", "waren"],
+          ["ihr", "wart"],
+          ["sie / Sie", "waren"]
+        ]
+      },
+      "examples": [
+        { "de": "Gestern war das Wetter schlecht, heute ist das Wetter schön.", "en": "Yesterday the weather was bad, today the weather is nice." },
+        { "de": "Vorgestern war er müde, heute ist er munter.", "en": "The day before yesterday he was tired, today he is lively." },
+        { "de": "Letzte Woche waren wir in Berlin. Heute sind wir in London.", "en": "Last week we were in Berlin. Today we are in London." },
+        { "de": "Gestern war Robert zu spät, heute ist er pünktlich.", "en": "Yesterday Robert was late (too late), today he is on time." }
+      ]
+    },
+    {
+      "title": "Word order with a time word first",
+      "body": "When the time word is in position 1, the verb is still in position 2 and the subject follows it: *Gestern **hatte** Maria keine Zeit.* You can also start with the subject: *Maria **hatte** gestern keine Zeit.*"
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Gestern ich war müde.", "right": "Gestern war ich müde.", "why": "The verb must be in position 2, so the subject comes after it." },
+    { "wrong": "Ich hattete einen Hund.", "right": "Ich hatte einen Hund.", "why": "The ich-form is just *hatte*, with no extra ending." },
+    { "wrong": "Wir war in Berlin.", "right": "Wir waren in Berlin.", "why": "*wir* needs *waren*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Yesterday and today",
+      "lines": [
+        { "who": "A", "de": "Warst du gestern müde?", "en": "Were you tired yesterday?" },
+        { "who": "B", "de": "Ja, gestern war ich sehr müde. Heute bin ich munter.", "en": "Yes, yesterday I was very tired. Today I am lively." },
+        { "who": "A", "de": "Hattest du gestern Zeit?", "en": "Did you have time yesterday?" },
+        { "who": "B", "de": "Nein, gestern hatte ich keine Zeit. Heute habe ich viel Zeit.", "en": "No, yesterday I had no time. Today I have a lot of time." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Both verbs are irregular in the past, so learn the tables by heart. Remember the shortcut: ich and er/sie/es are always identical in the Präteritum.",
+  "comprehension": [
+    { "q": "What is the Präteritum of haben for ich?", "a": "ich hatte" },
+    { "q": "What is the Präteritum of sein for wir?", "a": "wir waren" },
+    { "q": "Which two persons have the same form in the Präteritum?", "a": "ich and er/sie/es (hatte / war)." },
+    { "q": "Name two time words that signal the past.", "a": "For example gestern, vorgestern, letzte Woche, letztes Jahr." }
+  ],
+  "exercises": [
+    {
+      "title": "War or hatte?",
+      "type": "fill",
+      "instructions": "Fill in the gap with the correct past form of sein or haben.",
+      "items": [
+        { "q": "Wir ___ gestern einen Hund. (haben)", "a": "hatten", "expl": "wir + haben in the past: *hatten*." },
+        { "q": "Vorgestern ___ wir im Unterricht. (sein)", "a": "waren", "expl": "wir + sein in the past: *waren*." },
+        { "q": "Gestern ___ Peter Fieber. (haben)", "a": "hatte", "expl": "er/sie/es + haben in the past: *hatte*." },
+        { "q": "Letzte Woche ___ ich sehr müde. (sein)", "a": "war", "expl": "ich + sein in the past: *war*." },
+        { "q": "Du ___ gestern keine Zeit. (haben)", "a": "hattest", "expl": "du + haben: *hattest*." },
+        { "q": "Ihr ___ gestern in Berlin. (sein)", "a": "wart", "expl": "ihr + sein: *wart*." }
+      ]
+    },
+    {
+      "title": "Choose the right form",
+      "type": "choose",
+      "instructions": "Choose the correct verb form.",
+      "items": [
+        { "q": "Gestern ___ das Wetter schlecht. (war / waren)", "a": "war", "expl": "*das Wetter* is singular." },
+        { "q": "Vor ein paar Jahren ___ wir kein Geld. (hatte / hatten)", "a": "hatten", "expl": "wir needs the -en form." },
+        { "q": "Du ___ gestern sehr müde. (war / warst)", "a": "warst", "expl": "du + -st." },
+        { "q": "Maria ___ gestern keine Zeit. (hatte / hattest)", "a": "hatte", "expl": "Maria = sie, so *hatte*." },
+        { "q": "Sie ___ letzte Woche in Berlin. (waren / wart) (Plural: they)", "a": "waren", "expl": "sie (they) + sein: *waren*." }
+      ]
+    },
+    {
+      "title": "Reorder the words",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order. Start with the time word.",
+      "items": [
+        { "q": "Gestern / Robert / zu spät / war", "a": "Gestern war Robert zu spät. / Robert war gestern zu spät.", "expl": "Verb in position 2." },
+        { "q": "hatten / Vor ein paar Jahren / wir / kein Geld", "a": "Vor ein paar Jahren hatten wir kein Geld.", "expl": "Time expression in position 1, then the verb." },
+        { "q": "ich / Letztes Jahr / hatte / kein Auto", "a": "Letztes Jahr hatte ich kein Auto.", "expl": "Verb in position 2." },
+        { "q": "waren / Letzte Woche / wir / in Berlin", "a": "Letzte Woche waren wir in Berlin.", "expl": "Verb in position 2." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German using the past tense.",
+      "items": [
+        { "q": "Yesterday I was tired.", "a": "Gestern war ich müde. / Ich war gestern müde." },
+        { "q": "Yesterday Maria had no time.", "a": "Gestern hatte Maria keine Zeit. / Maria hatte gestern keine Zeit." },
+        { "q": "Last week we were in Berlin.", "a": "Letzte Woche waren wir in Berlin. / Wir waren letzte Woche in Berlin." },
+        { "q": "Last year I had no car.", "a": "Letztes Jahr hatte ich kein Auto. / Ich hatte letztes Jahr kein Auto." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Past = Vergangenheit, present = Gegenwart, future = Zukunft.",
+    "haben in the Präteritum: ich hatte, du hattest, er/sie/es hatte, wir hatten, ihr hattet, sie/Sie hatten.",
+    "sein in the Präteritum: ich war, du warst, er/sie/es war, wir waren, ihr wart, sie/Sie waren.",
+    "ich and er/sie/es always have the same form in the Präteritum.",
+    "The conjugated verb stays in position 2, even after a time word like gestern."
+  ]
+}

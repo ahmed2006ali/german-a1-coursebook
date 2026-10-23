@@ -1,0 +1,1392 @@
+{
+ "generated": "2026-10-23",
+ "playlist": "PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW",
+ "videos": 66,
+ "pdfPages": 452,
+ "designTokens": {
+  "paper": "#FBF8F1",
+  "ink": "#1B2233",
+  "navy": "#14284B",
+  "blue": "#3F6B9E",
+  "red": "#B5352B",
+  "green": "#4F7A63",
+  "gray": "#6A7080",
+  "rule": "#D8D2C4",
+  "fonts": [
+   "Source Serif 4",
+   "Source Sans 3",
+   "Noto Naskh Arabic"
+  ],
+  "page": "A4"
+ },
+ "illustrations": [
+  "u1_greeting.jpg",
+  "u2_classroom.jpg",
+  "u3_family.jpg",
+  "u4_cafe.jpg",
+  "u5_time.jpg",
+  "u6_travel.jpg",
+  "u7_everyday.jpg",
+  "u8_services.jpg"
+ ],
+ "lessons": [
+  {
+   "n": 1,
+   "videoId": "RuGmc662HDg",
+   "url": "https://youtu.be/RuGmc662HDg",
+   "title": "A1 - Lesson 1 | Begrüßungen | Greetings | Revised | German for beginners | Learn German",
+   "unit": 1,
+   "transcriptChars": 5109,
+   "pdfPage": 8,
+   "vocab": 4,
+   "exerciseItems": 21,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions garble most German words; all greetings were reconstructed from context and standard German. The teacher says he will explain the endings in 'Guten' / 'Gute' in a later video."
+  },
+  {
+   "n": 2,
+   "videoId": "S8ukFF6SdGk",
+   "url": "https://youtu.be/S8ukFF6SdGk",
+   "title": "A1 - Lesson 2 | Common Phrases | Revised | German for beginners | Learn German",
+   "unit": 1,
+   "transcriptChars": 4112,
+   "pdfPage": 12,
+   "vocab": 8,
+   "exerciseItems": 28,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled. The phrases were reconstructed from context. The phrase marked as supplementary (Ich verstehe) was cut off in the captions and is added for completeness."
+  },
+  {
+   "n": 3,
+   "videoId": "d54ioeKA-jc",
+   "url": "https://youtu.be/d54ioeKA-jc",
+   "title": "A1 - Lesson 3 | Numbers 0-20 | Zahlen | Revised | German for beginners | Learn German",
+   "unit": 1,
+   "transcriptChars": 4110,
+   "pdfPage": 17,
+   "vocab": 23,
+   "exerciseItems": 29,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions garble every number word; they were reconstructed from standard German. The sample phone number in the video was unclear, so the examples here are invented and marked as supplementary."
+  },
+  {
+   "n": 4,
+   "videoId": "IaerX0Y6wmE",
+   "url": "https://youtu.be/IaerX0Y6wmE",
+   "title": "A1 - Lesson 4 | Numbers 21-100 | Zahlen | Revised | German for beginners | Learn German",
+   "unit": 1,
+   "transcriptChars": 4860,
+   "pdfPage": 22,
+   "vocab": 20,
+   "exerciseItems": 30,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions garble the numbers badly; they were reconstructed from standard German. 'Jahre alt' is added as supplementary since the age answer in the video is garbled."
+  },
+  {
+   "n": 5,
+   "videoId": "HCytWm3RC9g",
+   "url": "https://youtu.be/HCytWm3RC9g",
+   "title": "A1 - Lesson 5 | Alphabets | das Alphabet | Revised | German for beginners | Learn German",
+   "unit": 1,
+   "transcriptChars": 3454,
+   "pdfPage": 28,
+   "vocab": 21,
+   "exerciseItems": 22,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions garble the letter names and example words. Letter names are standard German. Example words for L, T, W, Y, Ö and Ü could not be recovered from the captions and are marked as supplementary; the others were reconstructed from the sounds in the captions."
+  },
+  {
+   "n": 6,
+   "videoId": "RElBVZ1Wke0",
+   "url": "https://youtu.be/RElBVZ1Wke0",
+   "title": "A1 - Lesson 6 | sich vorstellen | introducing yourself in German | Revised | Learn German",
+   "unit": 1,
+   "transcriptChars": 5058,
+   "pdfPage": 33,
+   "vocab": 23,
+   "exerciseItems": 25,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions garble the German; sentences were reconstructed from context and standard German. The teacher uses the examples Monika Schmidt, Deutschland and Berlin."
+  },
+  {
+   "n": 7,
+   "videoId": "KDkQOXcEr4o",
+   "url": "https://youtu.be/KDkQOXcEr4o",
+   "title": "A1 - Lesson 7 | jemanden kennenlernen | Getting to know someone | Revised | Learn German",
+   "unit": 1,
+   "transcriptChars": 4003,
+   "pdfPage": 39,
+   "vocab": 18,
+   "exerciseItems": 29,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are very garbled in this lesson, but the question list at the end of the video is clear enough to reconstruct all questions in the formal (Sie) and informal (du) form."
+  },
+  {
+   "n": 8,
+   "videoId": "iWyOKwIf_94",
+   "url": "https://youtu.be/iWyOKwIf_94",
+   "title": "A1 - Lesson 8 | Wie geht's? | How are you? | Revised | Learn German",
+   "unit": 1,
+   "transcriptChars": 2130,
+   "pdfPage": 45,
+   "vocab": 19,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled and the video is short. The phrases were reconstructed from context. The first name in the informal dialogue could not be understood (it sounds like 'Lukas' or similar), so Lukas is used."
+  },
+  {
+   "n": 9,
+   "videoId": "n6db5VSUm2o",
+   "url": "https://youtu.be/n6db5VSUm2o",
+   "title": "A1 - Lesson 9 | Satzstruktur | Sentence Structure Part 1 | Revised | Learn German",
+   "unit": 2,
+   "transcriptChars": 5918,
+   "pdfPage": 55,
+   "vocab": 14,
+   "exerciseItems": 17,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; the sentences were reconstructed from context and the teacher's explanation."
+  },
+  {
+   "n": 10,
+   "videoId": "ZNc0y2Dy5N8",
+   "url": "https://youtu.be/ZNc0y2Dy5N8",
+   "title": "A1 - Lesson 10 | Satzstruktur | Sentence Structure Part 2 | Revised | Learn German",
+   "unit": 2,
+   "transcriptChars": 4309,
+   "pdfPage": 60,
+   "vocab": 11,
+   "exerciseItems": 19,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; the sentences were reconstructed from context and the teacher's explanation."
+  },
+  {
+   "n": 11,
+   "videoId": "hY4lHC6YZuQ",
+   "url": "https://youtu.be/hY4lHC6YZuQ",
+   "title": "A1 - Lesson 11 | Personalpronomen | Personal pronouns ich du wir | Revised | Learn German",
+   "unit": 2,
+   "transcriptChars": 6506,
+   "pdfPage": 64,
+   "vocab": 15,
+   "exerciseItems": 16,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; names and sentences were reconstructed from context."
+  },
+  {
+   "n": 12,
+   "videoId": "xy4a1c7W7k0",
+   "url": "https://youtu.be/xy4a1c7W7k0",
+   "title": "A1 - Lesson 12 | haben und sein | Verb conjugation | Revised | Learn German",
+   "unit": 2,
+   "transcriptChars": 5560,
+   "pdfPage": 69,
+   "vocab": 11,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; some example sentences were reconstructed from context and may differ slightly from the video."
+  },
+  {
+   "n": 13,
+   "videoId": "07WCBZRchY0",
+   "url": "https://youtu.be/07WCBZRchY0",
+   "title": "A1 - Lesson 13 | Was ist ein Verb? | Verb structure in German | Revised | Learn German",
+   "unit": 2,
+   "transcriptChars": 6242,
+   "pdfPage": 74,
+   "vocab": 17,
+   "exerciseItems": 18,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; the verb lists were reconstructed from context, so a few verbs may differ slightly from the video."
+  },
+  {
+   "n": 14,
+   "videoId": "IowuDehrLFk",
+   "url": "https://youtu.be/IowuDehrLFk",
+   "title": "A1 - Lesson 14 | Regelmäßige Verben | Regular Verbs in German | Revised | Learn German",
+   "unit": 2,
+   "transcriptChars": 4697,
+   "pdfPage": 78,
+   "vocab": 15,
+   "exerciseItems": 20,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; the verb forms are standard German, but the exercise sentences at the end were reconstructed from context."
+  },
+  {
+   "n": 15,
+   "videoId": "15hmmpt15ag",
+   "url": "https://youtu.be/15hmmpt15ag",
+   "title": "A1 - Lesson 15 | Unregelmäßige Verben | Irregular Verbs in German | Revised | Learn German",
+   "unit": 2,
+   "transcriptChars": 4219,
+   "pdfPage": 83,
+   "vocab": 12,
+   "exerciseItems": 20,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; the verb forms are standard German, but the exercise sentences at the end were reconstructed from context."
+  },
+  {
+   "n": 16,
+   "videoId": "BISRFfjDKfY",
+   "url": "https://youtu.be/BISRFfjDKfY",
+   "title": "A1 - Lesson 16 | Numbers above 100 in German | Zahlen Teil 3 | Revised | Learn German",
+   "unit": 2,
+   "transcriptChars": 4847,
+   "pdfPage": 87,
+   "vocab": 16,
+   "exerciseItems": 26,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; the numbers and the year example were reconstructed from context and standard German."
+  },
+  {
+   "n": 17,
+   "videoId": "PARun113NuA",
+   "url": "https://youtu.be/PARun113NuA",
+   "title": "A1 - Lesson 17 | Adjectives and Opposites | Adjektive und Gegenteile | Revised | Learn German",
+   "unit": 3,
+   "transcriptChars": 2819,
+   "pdfPage": 97,
+   "vocab": 23,
+   "exerciseItems": 20,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions for this video are heavily garbled. Some example sentences (for example the ones for 'alt', 'dick/dünn' and 'teuer/billig') could not be reconstructed with certainty, so the examples here use the clearly recognisable word pairs; extra examples are marked as supplementary."
+  },
+  {
+   "n": 18,
+   "videoId": "zNh1CmEP-B0",
+   "url": "https://youtu.be/zNh1CmEP-B0",
+   "title": "A1 - Lesson 18 | Introducing someone in German | jemanden vorstellen | Revised | Learn German",
+   "unit": 3,
+   "transcriptChars": 3845,
+   "pdfPage": 101,
+   "vocab": 8,
+   "exerciseItems": 19,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled. The structure (questions and verb endings for er, sie, es and sie plural) is clear; the example sentences were reconstructed from context, and some details of the original examples (for example the children's ages and hobbies) could not be recovered."
+  },
+  {
+   "n": 19,
+   "videoId": "b2feLAJX9gI",
+   "url": "https://youtu.be/b2feLAJX9gI",
+   "title": "A1 - Lesson 19 | Articles in German | Bestimmte Artikel im Nominativ | Revised | Learn German",
+   "unit": 3,
+   "transcriptChars": 4928,
+   "pdfPage": 106,
+   "vocab": 20,
+   "exerciseItems": 18,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are garbled in several places (some example sentences could not be reconstructed). The explanation of the nominative case and the table of definite articles are clear; extra nouns and examples are marked as supplementary."
+  },
+  {
+   "n": 20,
+   "videoId": "4M6PN4yfwgI",
+   "url": "https://youtu.be/4M6PN4yfwgI",
+   "title": "A1 - Lesson 20 | Indefinite Articles in German | Unbestimmte Artikel | Revised | Learn German",
+   "unit": 3,
+   "transcriptChars": 4063,
+   "pdfPage": 110,
+   "vocab": 13,
+   "exerciseItems": 22,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are garbled, and the exercise nouns in the video's mini-quiz could only partly be recovered; the exercises below are rebuilt from the rules taught in the video."
+  },
+  {
+   "n": 21,
+   "videoId": "LULFzldtkyk",
+   "url": "https://youtu.be/LULFzldtkyk",
+   "title": "A1 - Lesson 21 | Negative Articles in German | Negative Artikel | Revised | Learn German",
+   "unit": 3,
+   "transcriptChars": 3361,
+   "pdfPage": 114,
+   "vocab": 12,
+   "exerciseItems": 20,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are garbled. The pen/pencil example (Kuli/Bleistift) and the rules are clear; the plural example in the video could not be reconstructed, so plural examples here are supplementary."
+  },
+  {
+   "n": 22,
+   "videoId": "MQhR0AMNr_U",
+   "url": "https://youtu.be/MQhR0AMNr_U",
+   "title": "A1 - Lesson 22 | official time in German | Zeit offiziell | Revised | Learn German",
+   "unit": 3,
+   "transcriptChars": 3727,
+   "pdfPage": 118,
+   "vocab": 12,
+   "exerciseItems": 21,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are garbled; the numbers in the video's exercise could not be recovered, so the exercises below are new and based on the rules taught."
+  },
+  {
+   "n": 23,
+   "videoId": "svbe7Q0FJlI",
+   "url": "https://youtu.be/svbe7Q0FJlI",
+   "title": "A1 - Lesson 23 | unofficial time in German | Uhrzeit inoffiziell | Revised | Learn German",
+   "unit": 3,
+   "transcriptChars": 4563,
+   "pdfPage": 123,
+   "vocab": 14,
+   "exerciseItems": 17,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are garbled in places (some of the video's exercise answers are missing). The rules for nach, vor, Viertel, halb, kurz vor/nach and fast are clear; the regional variants mentioned in the video are not taught here."
+  },
+  {
+   "n": 24,
+   "videoId": "sBUR0Q9ZTN4",
+   "url": "https://youtu.be/sBUR0Q9ZTN4",
+   "title": "A1 - Lesson 24 | possessive articles in German | Possessivartikel | Revised | Learn German",
+   "unit": 3,
+   "transcriptChars": 6568,
+   "pdfPage": 128,
+   "vocab": 12,
+   "exerciseItems": 19,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are garbled. The full list of possessive articles and the two-step rule are clear; some of the video's example sentences could not be reconstructed, so the examples here were rebuilt from the rules (those not in the video are marked as supplementary)."
+  },
+  {
+   "n": 25,
+   "videoId": "VuCqbaBXiQs",
+   "url": "https://youtu.be/VuCqbaBXiQs",
+   "title": "A1 - Lesson 25 | the family in German | die Familie | Meine Familie | Revised | Learn German",
+   "unit": 3,
+   "transcriptChars": 1825,
+   "pdfPage": 133,
+   "vocab": 20,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is heavily garbled in places, but the family words and the example sentences are clear. The family-tree sentence at the end and the Swiss German remark are summarised from the video."
+  },
+  {
+   "n": 26,
+   "videoId": "p4whuXE_f94",
+   "url": "https://youtu.be/p4whuXE_f94",
+   "title": "A1 - Lesson 26 | Accusative case | Akkusativ | Revised | German for beginners | Learn German",
+   "unit": 4,
+   "transcriptChars": 6861,
+   "pdfPage": 143,
+   "vocab": 11,
+   "exerciseItems": 23,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is garbled; the rules, tables and the question words Wen/Was are clear. The example sentences are reconstructed from context and extended with extra examples."
+  },
+  {
+   "n": 27,
+   "videoId": "6w-HrxZcIBU",
+   "url": "https://youtu.be/6w-HrxZcIBU",
+   "title": "A1 - Lesson 27 | Possessive Artikel | Accusative case | Revised | Learn German for beginners",
+   "unit": 4,
+   "transcriptChars": 4093,
+   "pdfPage": 148,
+   "vocab": 7,
+   "exerciseItems": 22,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is badly garbled. The rule and the table are clear; the example sentences are reconstructed from context, and the exercise sentences are rebuilt in standard German."
+  },
+  {
+   "n": 28,
+   "videoId": "aS5ZdypKsZE",
+   "url": "https://youtu.be/aS5ZdypKsZE",
+   "title": "A1- Lesson 28 | möchten | Modal verbs | Modalverben | Revised |  Learn German | German for beginners",
+   "unit": 4,
+   "transcriptChars": 3232,
+   "pdfPage": 152,
+   "vocab": 8,
+   "exerciseItems": 19,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is garbled. The rules about position and conjugation are clear. Most example sentences are reconstructed from context (Tobi / Pizza, Was möchtest du trinken?, ordering and buying)."
+  },
+  {
+   "n": 29,
+   "videoId": "jKTtQb6qJgY",
+   "url": "https://youtu.be/jKTtQb6qJgY",
+   "title": "A1 - Lesson 29 | W-Fragen | Question Words in German | Revised | Learn German for beginners",
+   "unit": 4,
+   "transcriptChars": 1740,
+   "pdfPage": 157,
+   "vocab": 10,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is garbled and partly corrupted. The question words and example questions are recognisable; one example (ein Fahrrad) is reconstructed from context."
+  },
+  {
+   "n": 30,
+   "videoId": "jJiE4Rfcl9w",
+   "url": "https://youtu.be/jJiE4Rfcl9w",
+   "title": "A1- Lesson 30 | Ordering in a Restaurant or Café in German | Revised | Learn German for beginners",
+   "unit": 4,
+   "transcriptChars": 4512,
+   "pdfPage": 163,
+   "vocab": 28,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The captions are fairly clear, but a few phrases were garbled (for example 'Was wünschen Sie?', 'Hier oder zum Mitnehmen?', 'Mit Karte, bitte.') and are restored to standard German. The teacher says 'Kaffee' for the word Café."
+  },
+  {
+   "n": 31,
+   "videoId": "_pQICJjSB-c",
+   "url": "https://youtu.be/_pQICJjSB-c",
+   "title": "A1- Lesson 31 | Personal Pronouns in German | Accusative Case | Revised | Learn German for beginners",
+   "unit": 4,
+   "transcriptChars": 5398,
+   "pdfPage": 169,
+   "vocab": 12,
+   "exerciseItems": 20,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The captions are mostly clear. The teacher mixes English and German; all example sentences are given here in correct German."
+  },
+  {
+   "n": 32,
+   "videoId": "ywhdo-UQjBM",
+   "url": "https://youtu.be/ywhdo-UQjBM",
+   "title": "A1 - Lesson 32 | Artikel im Dativ | Revised | Dative Case | Learn German for beginners",
+   "unit": 5,
+   "transcriptChars": 4851,
+   "pdfPage": 181,
+   "vocab": 12,
+   "exerciseItems": 22,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is badly garbled in the middle. The rule, the question word Wem and the dative tables are clear. Only the first example (Die Mutter kauft der Tochter ein Kleid) and the verb danken are fully recognisable; the other examples are reconstructed or added."
+  },
+  {
+   "n": 33,
+   "videoId": "l_KjteqzRqE",
+   "url": "https://youtu.be/l_KjteqzRqE",
+   "title": "A1 - Lesson 33 | Ordinalzahlen | Ordinal numbers | Revised | Learn German for beginners",
+   "unit": 5,
+   "transcriptChars": 4542,
+   "pdfPage": 186,
+   "vocab": 21,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The captions are garbled for most of the ordinal numbers from 13 upwards (the teacher says them in a quick list); the forms here follow the rules he states and standard German."
+  },
+  {
+   "n": 34,
+   "videoId": "FnLx4nV3_fs",
+   "url": "https://youtu.be/FnLx4nV3_fs",
+   "title": "A1 - Lesson 34 | Zeit - Fragewörter der Zeit | Time related questions | Revised | Learn German",
+   "unit": 5,
+   "transcriptChars": 4984,
+   "pdfPage": 191,
+   "vocab": 26,
+   "exerciseItems": 26,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The video says 'seit letzte Woche' and 'ab nächste Woche'. In careful German these take the dative (seit letzter Woche, ab nächster Woche), so this lesson avoids them in exercises."
+  },
+  {
+   "n": 35,
+   "videoId": "-rU7DBOPGXg",
+   "url": "https://youtu.be/-rU7DBOPGXg",
+   "title": "A1 - Lesson 35 | Dative case | Possessive articles | Revised | Learn German for beginners",
+   "unit": 5,
+   "transcriptChars": 6393,
+   "pdfPage": 197,
+   "vocab": 26,
+   "exerciseItems": 21,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": ""
+  },
+  {
+   "n": 36,
+   "videoId": "_EvcUxsmE6k",
+   "url": "https://youtu.be/_EvcUxsmE6k",
+   "title": "A1 - Lesson 36 | mir, dir, euch, Ihnen... | Personal Pronouns | Revised | Learn German for beginners",
+   "unit": 5,
+   "transcriptChars": 5321,
+   "pdfPage": 202,
+   "vocab": 14,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "In the captions most example sentences and several pronouns are missing or garbled. The pronoun table follows the teacher's explanation; the example sentences were rebuilt with the same pattern (subject + verb + dative pronoun + accusative object)."
+  },
+  {
+   "n": 37,
+   "videoId": "le-mSvX_Ekk",
+   "url": "https://youtu.be/le-mSvX_Ekk",
+   "title": "A1 - Lesson 37 | Trennbare Verben | Separable verbs in German | Revised | Learn German for beginners",
+   "unit": 5,
+   "transcriptChars": 4944,
+   "pdfPage": 207,
+   "vocab": 15,
+   "exerciseItems": 23,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The captions drop most of the German verbs and example sentences in this lesson. The verb list (mitkommen, mitbringen, anrufen, ankommen, anfangen, einladen, fernsehen, aufstehen, losgehen) was rebuilt from the teacher's description of the prefixes; the example sentences follow the rules he states."
+  },
+  {
+   "n": 38,
+   "videoId": "L7-SK1cA1kQ",
+   "url": "https://youtu.be/L7-SK1cA1kQ",
+   "title": "A1 - Lesson 38 | Tagesablauf | Daily routine | Revised | Learn German for beginners",
+   "unit": 5,
+   "transcriptChars": 5413,
+   "pdfPage": 212,
+   "vocab": 30,
+   "exerciseItems": 25,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The captions of this lesson are fairly complete. A few odd spots (an unclear time near 'um 4:50 fahre ich zur Arbeit') were dropped or replaced by a normal time."
+  },
+  {
+   "n": 39,
+   "videoId": "2b44fRJYg5Y",
+   "url": "https://youtu.be/2b44fRJYg5Y",
+   "title": "A1 - Lesson 39 | Imperativ | Imperative | Revised | Learn German for beginners",
+   "unit": 5,
+   "transcriptChars": 6670,
+   "pdfPage": 218,
+   "vocab": 20,
+   "exerciseItems": 26,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The captions lose almost all German example sentences and verb forms in this lesson. The example sentences and the verb lists (geben, kommen, lernen, fahren; reden, senden, arbeiten; essen, lesen, aufstehen/anfangen) were rebuilt from the teacher's rules. For the special verbs the first (haben) and the last (sein) are clear; the middle verb is unclear in the captions, so sehen was added as a supplement."
+  },
+  {
+   "n": 40,
+   "videoId": "JsH6DAh0Pqw",
+   "url": "https://youtu.be/JsH6DAh0Pqw",
+   "title": "A1 - Lesson 40 | Wegbeschreibung | Directions | Revised | Learn German for beginners",
+   "unit": 6,
+   "transcriptChars": 4689,
+   "pdfPage": 229,
+   "vocab": 25,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "In the captions almost all the direction sentences are missing (only the teacher's comments and a few questions and answers survive). The sentences here were rebuilt from his comments (imperative, an der / am ... vorbei, dritte Straße, entlang, Kreisverkehr, gegenüber, zum / zur) and standard German."
+  },
+  {
+   "n": 41,
+   "videoId": "nmyEEsPEv-k",
+   "url": "https://youtu.be/nmyEEsPEv-k",
+   "title": "A1 - Lesson 41 | war oder hatte | Revised | Learn German for beginners",
+   "unit": 6,
+   "transcriptChars": 4465,
+   "pdfPage": 236,
+   "vocab": 20,
+   "exerciseItems": 19,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "Transcript is auto-captioned; the exercise sentences in the video were shown on screen and are partly missing, so the exercises here are based on the answers the teacher gives."
+  },
+  {
+   "n": 42,
+   "videoId": "SkEBKVWh94Y",
+   "url": "https://youtu.be/SkEBKVWh94Y",
+   "title": "A1 - Lesson 42 | Untrennbare Verben | Non separable verbs | Learn German for beginners",
+   "unit": 6,
+   "transcriptChars": 6979,
+   "pdfPage": 241,
+   "vocab": 22,
+   "exerciseItems": 20,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "Transcript is auto-captioned and some German words were garbled (for example 'entlehren' is really 'entleeren', 'fair' is 'ver-'). All German here is reconstructed."
+  },
+  {
+   "n": 43,
+   "videoId": "NIrQgPq6C8I",
+   "url": "https://youtu.be/NIrQgPq6C8I",
+   "title": "A1 - Lesson 43 l krank sein | Being unwell | Learn German for beginners",
+   "unit": 6,
+   "transcriptChars": 6519,
+   "pdfPage": 247,
+   "vocab": 25,
+   "exerciseItems": 21,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "Transcript is auto-captioned; a few lines were garbled (for example 'Mein Kopf weh' is really 'Mein Kopf tut weh'). The body-part words are assumed from earlier lessons."
+  },
+  {
+   "n": 44,
+   "videoId": "qX4aVgbD6YY",
+   "url": "https://youtu.be/qX4aVgbD6YY",
+   "title": "A1 - Lesson 44 | Perfekt | Past tense | Part 1 | Learn German for beginners",
+   "unit": 6,
+   "transcriptChars": 7150,
+   "pdfPage": 252,
+   "vocab": 18,
+   "exerciseItems": 21,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "Transcript is mostly clean. The exercise sentences were shown on screen; only the teacher's spoken answers are in the transcript."
+  },
+  {
+   "n": 45,
+   "videoId": "4XXtiNfuwhY",
+   "url": "https://youtu.be/4XXtiNfuwhY",
+   "title": "A1 - Lesson 45 | Perfekt | Past tense | Part 2 | (Revised) Learn German for beginners",
+   "unit": 6,
+   "transcriptChars": 7101,
+   "pdfPage": 257,
+   "vocab": 25,
+   "exerciseItems": 22,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "Transcript is mostly clean. The exercise sentences were shown on screen; only the teacher's answers are in the transcript."
+  },
+  {
+   "n": 46,
+   "videoId": "PqboPq6pSUU",
+   "url": "https://youtu.be/PqboPq6pSUU",
+   "title": "A1 - Lesson 46 | Perfekt Teil 3 | Past tense | Part 3 | Learn German for beginners",
+   "unit": 6,
+   "transcriptChars": 6695,
+   "pdfPage": 263,
+   "vocab": 26,
+   "exerciseItems": 23,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "Transcript is auto-captioned and partly garbled in the middle (irregular verbs section). Rules were reconstructed from the examples; the final promotional part is omitted."
+  },
+  {
+   "n": 47,
+   "videoId": "CUjRSS7R8Yc",
+   "url": "https://youtu.be/CUjRSS7R8Yc",
+   "title": "A1 - Lesson 47 | Was hast du im Urlaub gemacht? | What did you do on vacation? | Learn German",
+   "unit": 6,
+   "transcriptChars": 3357,
+   "pdfPage": 269,
+   "vocab": 27,
+   "exerciseItems": 22,
+   "hasSupplementary": false,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "Transcript is partly auto-captioned; the lesson is mostly a list of model answers. The ending is a book promotion and is left out."
+  },
+  {
+   "n": 48,
+   "videoId": "B_muZm2XT8M",
+   "url": "https://youtu.be/B_muZm2XT8M",
+   "title": "A1 - Lesson 48 | Im Supermarkt | In the supermarket | Learn German for beginners",
+   "unit": 7,
+   "transcriptChars": 4076,
+   "pdfPage": 280,
+   "vocab": 33,
+   "exerciseItems": 20,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "Transcript is partly auto-captioned; the section names and some quantities were reconstructed. The ending is cut off."
+  },
+  {
+   "n": 49,
+   "videoId": "5pIb0epkyAk",
+   "url": "https://youtu.be/5pIb0epkyAk",
+   "title": "A1 - Lesson 49 | Wie ist das Wetter? | How's the weather? | Learn German for beginners",
+   "unit": 7,
+   "transcriptChars": 4101,
+   "pdfPage": 286,
+   "vocab": 26,
+   "exerciseItems": 33,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is garbled in places (some weather nouns and plurals are missing). Missing plurals were filled in with standard German."
+  },
+  {
+   "n": 50,
+   "videoId": "bIUOSQZGVZ8",
+   "url": "https://youtu.be/bIUOSQZGVZ8",
+   "title": "A1 - Lesson 50 | Verabredungen | Appointments | Learn German for beginners",
+   "unit": 7,
+   "transcriptChars": 5922,
+   "pdfPage": 292,
+   "vocab": 20,
+   "exerciseItems": 25,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript of this lesson is heavily garbled. The phrases below were reconstructed from context into standard German; the sample dialogues are based on the video's structure."
+  },
+  {
+   "n": 51,
+   "videoId": "5alTxRuLvdM",
+   "url": "https://youtu.be/5alTxRuLvdM",
+   "title": "A1 - Lesson 51 | Brief schreiben-Einladung | Letter writing-Invitation | Learn German for beginner",
+   "unit": 7,
+   "transcriptChars": 4418,
+   "pdfPage": 298,
+   "vocab": 24,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is badly garbled (mixed English and misheard German). The phrases and sample letters were reconstructed into standard German following the structure the teacher presents."
+  },
+  {
+   "n": 52,
+   "videoId": "ClJUVsjoDM8",
+   "url": "https://youtu.be/ClJUVsjoDM8",
+   "title": "A1 - Lesson 52 | Gefallen und Missfallen ausdrücken | Express likes & dislikes l Learn German",
+   "unit": 7,
+   "transcriptChars": 2548,
+   "pdfPage": 304,
+   "vocab": 17,
+   "exerciseItems": 21,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is very garbled. Some of the teacher's sentences (especially the ones with past tense and some adverbs) were reconstructed into standard German."
+  },
+  {
+   "n": 53,
+   "videoId": "VI3VNRWKHiw",
+   "url": "https://youtu.be/VI3VNRWKHiw",
+   "title": "A1 - Lesson 53 | Fragepronomen \"welch-\" | Interrogative pronoun l Learn German for beginner",
+   "unit": 7,
+   "transcriptChars": 6536,
+   "pdfPage": 309,
+   "vocab": 12,
+   "exerciseItems": 28,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is garbled, especially the example sentences. The examples below keep the teacher's structure (nominative, accusative, dative for all genders and the plural) in standard German."
+  },
+  {
+   "n": 54,
+   "videoId": "w_LJT0FZTYE",
+   "url": "https://youtu.be/w_LJT0FZTYE",
+   "title": "A1 - Lesson 54 | Demonstrativartikel \"dies-\" | Demonstrative article \"dies-\" | Learn German",
+   "unit": 7,
+   "transcriptChars": 6146,
+   "pdfPage": 314,
+   "vocab": 11,
+   "exerciseItems": 27,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is garbled in several example sentences; the examples were reconstructed into standard German following the teacher's explanation of all cases and genders."
+  },
+  {
+   "n": 55,
+   "videoId": "trzgP5-zy84",
+   "url": "https://youtu.be/trzgP5-zy84",
+   "title": "A1 - Lesson 55 | Im Kaufhaus | Buying clothes | Shopping | Learn German",
+   "unit": 7,
+   "transcriptChars": 5759,
+   "pdfPage": 319,
+   "vocab": 23,
+   "exerciseItems": 27,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is partly garbled. The shopping phrases were reconstructed into standard German; some details (for example what exactly the customer wants in the first dialogue) were adapted."
+  },
+  {
+   "n": 56,
+   "videoId": "L9fzpvT3Ops",
+   "url": "https://youtu.be/L9fzpvT3Ops",
+   "title": "A1 - Lesson 56 | Mit dem Taxi fahren | Taxi | Hiring a cab | Learn German",
+   "unit": 7,
+   "transcriptChars": 5756,
+   "pdfPage": 326,
+   "vocab": 23,
+   "exerciseItems": 29,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The transcript is very garbled. Phrases were reconstructed into standard German from context; the polite forms *Würden / Könnten Sie ...* are only to be memorised as set phrases at this level."
+  },
+  {
+   "n": 57,
+   "videoId": "nFBOwzDCzrg",
+   "url": "https://youtu.be/nFBOwzDCzrg",
+   "title": "A1 - Lesson 57 | Zeitadverbien | Adverbs of time | Learn German",
+   "unit": 7,
+   "transcriptChars": 2593,
+   "pdfPage": 333,
+   "vocab": 28,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; the adverbs and example sentences were reconstructed from context and standard German."
+  },
+  {
+   "n": 58,
+   "videoId": "YhURm1cnQww",
+   "url": "https://youtu.be/YhURm1cnQww",
+   "title": "A1 - Lesson 58 | am Telefon sprechen | To make telephone conversation | Learn German",
+   "unit": 7,
+   "transcriptChars": 6314,
+   "pdfPage": 339,
+   "vocab": 18,
+   "exerciseItems": 21,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are very garbled for this lesson; phrases were reconstructed from context and standard German. A few supporting phrases are marked as additions."
+  },
+  {
+   "n": 59,
+   "videoId": "JybuldB6q5M",
+   "url": "https://youtu.be/JybuldB6q5M",
+   "title": "A1 - Lesson 59 | Beim Arzt | At the Doctor's | Arzttermin vereinbaren | Learn German",
+   "unit": 7,
+   "transcriptChars": 6152,
+   "pdfPage": 345,
+   "vocab": 23,
+   "exerciseItems": 23,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; the vocabulary and the phone dialogue were reconstructed from context and standard German. The doctor and patient phrases follow the teacher's list as closely as the captions allow; a few extra phrases are marked as additions."
+  },
+  {
+   "n": 60,
+   "videoId": "ATLnq06AfrA",
+   "url": "https://youtu.be/ATLnq06AfrA",
+   "title": "A1 - Lesson 60 | Brief schreiben | Formal Letter | Hotelreservierung | Start Deutsch1 | Learn German",
+   "unit": 8,
+   "transcriptChars": 4330,
+   "pdfPage": 357,
+   "vocab": 26,
+   "exerciseItems": 20,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are garbled in places; the structure of the letter and the sample letters were reconstructed from context and standard German."
+  },
+  {
+   "n": 61,
+   "videoId": "ZdBp66rzA0o",
+   "url": "https://youtu.be/ZdBp66rzA0o",
+   "title": "A1 - Lesson 61 | Formular ausfüllen | How to fill in a form | Start Deutsch1 | Learn German",
+   "unit": 8,
+   "transcriptChars": 6378,
+   "pdfPage": 363,
+   "vocab": 32,
+   "exerciseItems": 21,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; the vocabulary was reconstructed from context and standard German. The sample form exercise at the end of the video could not be recovered from the captions, so it is replaced by new practice items."
+  },
+  {
+   "n": 62,
+   "videoId": "8vLRrKgOkD0",
+   "url": "https://youtu.be/8vLRrKgOkD0",
+   "title": "A1 - Lesson 62 | Die Post | The post office | Learn German for beginners",
+   "unit": 8,
+   "transcriptChars": 5086,
+   "pdfPage": 368,
+   "vocab": 26,
+   "exerciseItems": 23,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are heavily garbled; the vocabulary was reconstructed from context and standard German. A few extra words and phrases are marked as additions."
+  },
+  {
+   "n": 63,
+   "videoId": "b8lHjfAklgM",
+   "url": "https://youtu.be/b8lHjfAklgM",
+   "title": "A1 - Lesson 63 | die Bank | the Bank | Learn German for beginners",
+   "unit": 8,
+   "transcriptChars": 4748,
+   "pdfPage": 373,
+   "vocab": 25,
+   "exerciseItems": 23,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": ""
+  },
+  {
+   "n": 64,
+   "videoId": "JphfVvja3Bs",
+   "url": "https://youtu.be/JphfVvja3Bs",
+   "title": "A1 - Lesson 64 | Wohnungssuche | Apartment - hunting | Learn German for beginners",
+   "unit": 8,
+   "transcriptChars": 4407,
+   "pdfPage": 379,
+   "vocab": 26,
+   "exerciseItems": 24,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are badly garbled in places (mixed with other scripts); the vocabulary, abbreviations and the phone dialogue were reconstructed from context and standard German. The advertisement shown in the video could not be recovered."
+  },
+  {
+   "n": 65,
+   "videoId": "1_WSkHySOqs",
+   "url": "https://youtu.be/1_WSkHySOqs",
+   "title": "A1 - Lesson 65 | eine Fahrkarte kaufen | Buying a train ticket | Learn German for beginners",
+   "unit": 8,
+   "transcriptChars": 3268,
+   "pdfPage": 385,
+   "vocab": 31,
+   "exerciseItems": 23,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The auto-captions are garbled in places; vocabulary, timetable questions and the ticket-counter dialogue were reconstructed from context and standard German. The timetable shown in the video could not be recovered, so only the times and prices that are clear in the captions are used."
+  },
+  {
+   "n": 66,
+   "videoId": "-3TFXzLlJ38",
+   "url": "https://youtu.be/-3TFXzLlJ38",
+   "title": "Test Your German | Level A1 | November Special | Teste Dein Deutsch | Learn German",
+   "unit": "test",
+   "transcriptChars": 3663,
+   "pdfPage": 399,
+   "vocab": 0,
+   "exerciseItems": 30,
+   "hasSupplementary": true,
+   "status": {
+    "drafted": true,
+    "germanReviewed": true,
+    "answerKey": true,
+    "qa": "automated"
+   },
+   "sourceNote": "The video is a multiple-choice test of about 20 questions; the auto-captions are very garbled and the answer options are not readable. The first set of ten questions follows the topics of the video; the other 20 questions were added to make a 30-item A1 test."
+  }
+ ],
+ "units": [
+  {
+   "n": 1,
+   "title": "Hallo!",
+   "lessons": [
+    1,
+    8
+   ],
+   "reviewPage": 51,
+   "openerPage": 7,
+   "illustration": "u1_greeting.jpg"
+  },
+  {
+   "n": 2,
+   "title": "Satzbau und Verben",
+   "lessons": [
+    9,
+    16
+   ],
+   "reviewPage": 92,
+   "openerPage": 54,
+   "illustration": "u2_classroom.jpg"
+  },
+  {
+   "n": 3,
+   "title": "Wörter und Artikel",
+   "lessons": [
+    17,
+    25
+   ],
+   "reviewPage": 138,
+   "openerPage": 96,
+   "illustration": "u3_family.jpg"
+  },
+  {
+   "n": 4,
+   "title": "Akkusativ und Bestellen",
+   "lessons": [
+    26,
+    31
+   ],
+   "reviewPage": 174,
+   "openerPage": 142,
+   "illustration": "u4_cafe.jpg"
+  },
+  {
+   "n": 5,
+   "title": "Dativ und Zeit",
+   "lessons": [
+    32,
+    39
+   ],
+   "reviewPage": 224,
+   "openerPage": 180,
+   "illustration": "u5_time.jpg"
+  },
+  {
+   "n": 6,
+   "title": "Unterwegs und Vergangenheit",
+   "lessons": [
+    40,
+    47
+   ],
+   "reviewPage": 275,
+   "openerPage": 228,
+   "illustration": "u6_travel.jpg"
+  },
+  {
+   "n": 7,
+   "title": "Alltag",
+   "lessons": [
+    48,
+    59
+   ],
+   "reviewPage": 351,
+   "openerPage": 279,
+   "illustration": "u7_everyday.jpg"
+  },
+  {
+   "n": 8,
+   "title": "Formulare, Post und Wohnen",
+   "lessons": [
+    60,
+    65
+   ],
+   "reviewPage": 391,
+   "openerPage": 356,
+   "illustration": "u8_services.jpg"
+  }
+ ],
+ "sectionPages": {
+  "TOC": 5,
+  "U1": 7,
+  "R1": 51,
+  "ANS": 405,
+  "GR": 438,
+  "IDX": 443,
+  "VID": 450
+ },
+ "remaining": [
+  "Human proofreading by a native German speaker is recommended; transcripts are auto-captions with garbled German.",
+  "Lesson 66 test questions were authored by the editors (the video questions were unreadable in the captions).",
+  "DOCX layout has not been opened in Microsoft Word in this environment (structure validated programmatically)."
+ ]
+}

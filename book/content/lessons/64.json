@@ -1,0 +1,215 @@
+{
+  "n": 64,
+  "title": "Looking for an Apartment",
+  "titleDe": "Wohnungssuche",
+  "level": "A1",
+  "sourceNote": "The auto-captions are badly garbled in places (mixed with other scripts); the vocabulary, abbreviations and the phone dialogue were reconstructed from context and standard German. The advertisement shown in the video could not be recovered.",
+  "objectives": [
+    "I can name the people and things involved in renting an apartment",
+    "I can read the most common abbreviations in apartment ads",
+    "I can ask about rent, deposit and extra costs",
+    "I can phone a landlord and arrange a viewing"
+  ],
+  "vocab": [
+    { "de": "die Wohnung", "pl": "die Wohnungen", "en": "apartment, flat", "ar": "شقة", "note": "short: Whg." },
+    { "de": "das Apartment", "pl": "die Apartments", "en": "apartment", "ar": "شقة صغيرة" },
+    { "de": "die Wohngemeinschaft", "pl": "die Wohngemeinschaften", "en": "shared flat", "ar": "سكن مشترك", "note": "short: die WG" },
+    { "de": "das Zimmer", "pl": "die Zimmer", "en": "room", "ar": "غرفة", "note": "short: Zi." },
+    { "de": "der Umzug", "pl": "die Umzüge", "en": "move, removal", "ar": "انتقال (سكن)" },
+    { "de": "umziehen", "en": "to move (house)", "ar": "ينتقل (إلى سكن جديد)", "note": "ist umgezogen" },
+    { "de": "der Vermieter", "pl": "die Vermieter", "en": "landlord", "ar": "المؤجِّر" },
+    { "de": "vermieten", "en": "to rent out", "ar": "يؤجّر", "note": "hat vermietet" },
+    { "de": "der Mieter", "pl": "die Mieter", "en": "tenant", "ar": "المستأجر" },
+    { "de": "mieten", "en": "to rent (as a tenant)", "ar": "يستأجر", "note": "hat gemietet" },
+    { "de": "die Miete", "pl": "die Mieten", "en": "rent", "ar": "الإيجار" },
+    { "de": "der Makler", "pl": "die Makler", "en": "real estate agent", "ar": "وسيط عقاري" },
+    { "de": "die Kaution", "pl": "die Kautionen", "en": "deposit", "ar": "تأمين (وديعة)" },
+    { "de": "die Nebenkosten", "pl": "–", "en": "extra costs (utilities)", "ar": "تكاليف إضافية", "note": "short: NK; plural word" },
+    { "de": "besichtigen", "en": "to view (a flat)", "ar": "يعاين", "note": "hat besichtigt" },
+    { "de": "die Besichtigung", "pl": "die Besichtigungen", "en": "viewing", "ar": "معاينة", "note": "der Besichtigungstermin" },
+    { "de": "die Anzeige", "pl": "die Anzeigen", "en": "advertisement", "ar": "إعلان", "note": "also: das Inserat, die Annonce" },
+    { "de": "das Inserat", "pl": "die Inserate", "en": "advertisement", "ar": "إعلان" },
+    { "de": "die Annonce", "pl": "die Annoncen", "en": "advertisement", "ar": "إعلان" },
+    { "de": "der Balkon", "pl": "die Balkone", "en": "balcony", "ar": "شرفة" },
+    { "de": "das Ferienhaus", "pl": "die Ferienhäuser", "en": "holiday home", "ar": "بيت عطلات" },
+    { "de": "das Wohnzimmer", "pl": "die Wohnzimmer", "en": "living room", "ar": "غرفة المعيشة" },
+    { "de": "das Schlafzimmer", "pl": "die Schlafzimmer", "en": "bedroom", "ar": "غرفة النوم" },
+    { "de": "das Gäste-WC", "pl": "die Gäste-WCs", "en": "guest toilet", "ar": "مرحاض الضيوف" },
+    { "de": "die Auskunft", "pl": "die Auskünfte", "en": "information", "ar": "معلومة" },
+    { "de": "gehören", "en": "to belong to", "ar": "ينتمي إلى، يخص", "note": "+ Dativ" }
+  ],
+  "expressions": [
+    { "de": "Nächste Woche ziehe ich um.", "en": "Next week I am moving." },
+    { "de": "Das Haus gehört meinem Vermieter.", "en": "The house belongs to my landlord." },
+    { "de": "Mein neuer Mieter zahlt seine Miete pünktlich.", "en": "My new tenant pays his rent on time." },
+    { "de": "Für das Wochenende haben wir ein Ferienhaus gemietet.", "en": "We rented a holiday home for the weekend." },
+    { "de": "Ein Makler hat mir bei der Wohnungssuche geholfen.", "en": "An agent helped me with the flat search." },
+    { "de": "Die Miete für mein Haus ist ziemlich hoch.", "en": "The rent for my house is quite high." },
+    { "de": "Zusätzlich zur Miete müssen Sie auch Nebenkosten zahlen.", "en": "In addition to the rent you also have to pay extra costs." },
+    { "de": "Wann kann ich die Wohnung besichtigen?", "en": "When can I view the flat?" },
+    { "de": "Wie viele Zimmer hat die Wohnung?", "en": "How many rooms does the flat have?" },
+    { "de": "Wie hoch ist die Miete?", "en": "How high is the rent?" },
+    { "de": "Wie hoch ist die Kaution?", "en": "How high is the deposit?" },
+    { "de": "Hat die Wohnung einen Balkon?", "en": "Does the flat have a balcony?" },
+    { "de": "Ist die Wohnung noch frei?", "en": "Is the flat still available?" }
+  ],
+  "patterns": [
+    { "form": "Wie viele Zimmer hat + [die Wohnung]?", "ex": "Wie viele Zimmer hat die Wohnung?", "en": "How many rooms does the flat have?" },
+    { "form": "Wie hoch ist + [die Miete / die Kaution]?", "ex": "Wie hoch ist die Kaution?", "en": "How high is the deposit?" },
+    { "form": "Hat die Wohnung + [ein / einen / eine ...]?", "ex": "Hat die Wohnung einen Balkon?", "en": "Does the flat have a balcony?" },
+    { "form": "[Sache] + gehört + [Dativ].", "ex": "Das Haus gehört meinem Vermieter.", "en": "The house belongs to my landlord." }
+  ],
+  "grammar": [
+    {
+      "title": "gehören takes the Dativ",
+      "body": "**gehören** (to belong to) is a Dativ verb: the owner is in the **Dativ**. For example *mein Vermieter* (nominative) becomes **meinem Vermieter** (Dativ). The teacher says the reason will be explained later; for now learn the sentence as a pattern.",
+      "examples": [
+        { "de": "Das ist nicht mein Haus, aber es gehört meinem Vermieter.", "en": "That is not my house, but it belongs to my landlord." }
+      ]
+    },
+    {
+      "title": "Landlord and tenant: two verbs",
+      "body": "**vermieten** = to rent out (the owner does it). **mieten** = to rent (the tenant does it). The nouns are **der Vermieter** and **der Mieter**; for women add -in: **die Vermieterin, die Mieterin**. The Perfekt: *hat vermietet*, *hat gemietet*. **umziehen** is separable and uses *sein*: *ich ziehe um – ich bin umgezogen*.",
+      "examples": [
+        { "de": "Ich vermiete mein Haus im Sommer an Touristen.", "en": "I rent out my house to tourists in summer." },
+        { "de": "Für das Wochenende haben wir ein Ferienhaus gemietet.", "en": "We rented a holiday home for the weekend." }
+      ]
+    },
+    {
+      "title": "Costs of a flat",
+      "body": "Besides the **Miete** you pay **Nebenkosten (NK)**: electricity (**Strom**), heating (**Heizung**) and water (**Wasser**). You also pay a **Kaution**, often two monthly rents (**2 MM** = zwei Monatsmieten). A holiday home is a **Ferienhaus**.",
+      "ar": "الإيجار + التكاليف الإضافية (كهرباء، تدفئة، ماء) + تأمين."
+    },
+    {
+      "title": "Where to find a flat",
+      "body": "**Wo findet man freie Wohnungen?** As an **Anzeige** in the newspaper or on the internet (many websites), at the **Makler**, as a notice (**Aushang**) in the supermarket or at the university, or through friends. For a flat advert you can say **Wohnungsanzeige**, and to put an ad in you say **eine Anzeige aufgeben**."
+    },
+    {
+      "title": "Abbreviations in apartment ads",
+      "body": "Ads are short, so they use many abbreviations. Learn the most common ones:",
+      "table": {
+        "head": ["Abbreviation", "Full word", "Meaning"],
+        "rows": [
+          ["Whg.", "Wohnung", "flat"],
+          ["Zi.", "Zimmer", "room"],
+          ["EG", "Erdgeschoss", "ground floor"],
+          ["OG", "Obergeschoss", "upper floor"],
+          ["DG", "Dachgeschoss", "attic floor"],
+          ["UG", "Untergeschoss", "basement"],
+          ["EBK", "Einbauküche", "fitted kitchen"],
+          ["WC", "Toilette", "toilet"],
+          ["qm", "Quadratmeter", "square metre"],
+          ["inkl.", "inklusive", "included"],
+          ["NK", "Nebenkosten", "extra costs"],
+          ["WZ", "Wohnzimmer", "living room"],
+          ["ca.", "circa", "about"],
+          ["frei ab", "frei ab", "available from"]
+        ]
+      },
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Das Haus gehört mein Vermieter.", "right": "Das Haus gehört meinem Vermieter.", "why": "*gehören* takes the Dativ.", "sup": true },
+    { "wrong": "Ich habe umgezogen.", "right": "Ich bin umgezogen.", "why": "*umziehen* (change of place) uses *sein* in the Perfekt.", "sup": true }
+  ],
+  "pronunciation": [
+    { "de": "ie", "tip": "Always a long 'ee': *Miete, Mieter, vermieten*." },
+    { "de": "ig / ch", "tip": "After i and e the ch is a soft hiss: *Besichtigung, ich*. *-ig* at the end also sounds like 'ich'.", "sup": true }
+  ],
+  "dialogues": [
+    {
+      "title": "Phoning about a flat",
+      "lines": [
+        { "who": "A", "de": "Guten Tag, mein Name ist Schmidt. Ich finde Ihre Wohnung in Köln interessant. Ist sie noch frei?", "en": "Good day, my name is Schmidt. I find your flat in Cologne interesting. Is it still available?" },
+        { "who": "B", "de": "Ja, die ist noch frei. Möchten Sie sie besichtigen?", "en": "Yes, it is still available. Would you like to view it?" },
+        { "who": "A", "de": "Ja, gern. Gibt es denn einen Besichtigungstermin für die Wohnung?", "en": "Yes, gladly. Is there a viewing date for the flat?" },
+        { "who": "B", "de": "Ja, diesen Donnerstag um 13 Uhr in der Musterstraße 20.", "en": "Yes, this Thursday at 1 pm at Musterstraße 20." },
+        { "who": "A", "de": "Noch eine Frage: Hat die Wohnung ein Gäste-WC?", "en": "One more question: does the flat have a guest toilet?" },
+        { "who": "B", "de": "Ja, im Erdgeschoss.", "en": "Yes, on the ground floor." },
+        { "who": "A", "de": "Vielen Dank für die Auskunft. Bis Donnerstag dann! Auf Wiederhören.", "en": "Thank you for the information. See you Thursday then! Goodbye." }
+      ]
+    },
+    {
+      "title": "Questions about an advertisement",
+      "sup": true,
+      "lines": [
+        { "who": "A", "de": "Wie viele Zimmer hat die Wohnung?", "en": "How many rooms does the flat have?" },
+        { "who": "B", "de": "Drei Zimmer, Küche, Bad: ein Wohnzimmer und zwei Schlafzimmer.", "en": "Three rooms, kitchen, bathroom: one living room and two bedrooms." },
+        { "who": "A", "de": "Wie hoch ist die Miete?", "en": "How high is the rent?" },
+        { "who": "B", "de": "770 Euro plus Nebenkosten.", "en": "770 euros plus extra costs." },
+        { "who": "A", "de": "Und wie hoch ist die Kaution?", "en": "And how high is the deposit?" },
+        { "who": "B", "de": "Zwei Monatsmieten.", "en": "Two monthly rents." }
+      ]
+    }
+  ],
+  "tip": "In ads, a number with the word *Zi.* tells you the number of rooms, and *plus NK* means you pay extra costs on top of the rent.",
+  "comprehension": [
+    { "q": "Who rents out a flat, and who rents it?", "a": "Der Vermieter rents it out; der Mieter rents it." },
+    { "q": "What are Nebenkosten?", "a": "Extra costs such as electricity (Strom), heating (Heizung) and water (Wasser)." },
+    { "q": "Which case follows the verb gehören?", "a": "The Dativ." },
+    { "q": "Name three places where you can find a flat.", "a": "Zeitung, Internet, Makler (or Aushang, Freunde)." }
+  ],
+  "exercises": [
+    {
+      "title": "Match the words",
+      "type": "match",
+      "instructions": "Match the German words with their English meanings.",
+      "items": [
+        { "q": "der Vermieter", "a": "landlord" },
+        { "q": "der Mieter", "a": "tenant" },
+        { "q": "die Kaution", "a": "deposit" },
+        { "q": "die Nebenkosten", "a": "extra costs" },
+        { "q": "besichtigen", "a": "to view" },
+        { "q": "der Umzug", "a": "move, removal" },
+        { "q": "die Anzeige", "a": "advertisement" }
+      ]
+    },
+    {
+      "title": "Read the abbreviations",
+      "type": "match",
+      "instructions": "Match the abbreviation with the full word.",
+      "items": [
+        { "q": "EG", "a": "Erdgeschoss" },
+        { "q": "OG", "a": "Obergeschoss" },
+        { "q": "DG", "a": "Dachgeschoss" },
+        { "q": "EBK", "a": "Einbauküche" },
+        { "q": "qm", "a": "Quadratmeter" },
+        { "q": "NK", "a": "Nebenkosten" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Choose the right word",
+      "type": "choose",
+      "instructions": "Choose the correct word.",
+      "items": [
+        { "q": "Das Haus gehört ___ Vermieter. (meinem / mein / meinen)", "a": "meinem", "expl": "*gehören* + Dativ (masculine: meinem)." },
+        { "q": "Nächste Woche ___ ich um. (ziehe / ziehen / zieht)", "a": "ziehe", "expl": "Separable verb: ich ziehe ... um." },
+        { "q": "Wer eine Wohnung zur Miete anbietet, ist der ___. (Vermieter / Mieter)", "a": "Vermieter", "expl": "The owner who rents out is the Vermieter." },
+        { "q": "Ich habe ein Ferienhaus ___. (gemietet / vermietet)", "a": "gemietet", "expl": "I am the tenant: *mieten*." },
+        { "q": "Wir sind letzte Woche ___. (umgezogen / umgezieht)", "a": "umgezogen" }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentences.",
+      "items": [
+        { "q": "Wie ___ Zimmer hat die Wohnung?", "a": "viele" },
+        { "q": "Wie hoch ist die ___? (rent)", "a": "Miete" },
+        { "q": "Zusätzlich zur Miete muss man auch ___ zahlen. (extra costs)", "a": "Nebenkosten" },
+        { "q": "Wann kann ich die Wohnung ___? (to view)", "a": "besichtigen" },
+        { "q": "Hat die Wohnung ___ Balkon? (ein / einen)", "a": "einen", "expl": "*der Balkon*, accusative after *haben*: *einen*." },
+        { "q": "Die Wohnung ist noch ___. (available)", "a": "frei" }
+      ]
+    }
+  ],
+  "summary": [
+    "Vermieter rents out (vermieten), Mieter rents (mieten): hat vermietet, hat gemietet.",
+    "umziehen is separable and uses sein: ich bin umgezogen.",
+    "gehören takes the Dativ: Das Haus gehört meinem Vermieter.",
+    "Pay Miete + Nebenkosten (Strom, Heizung, Wasser) and a Kaution.",
+    "Learn ad abbreviations: EG, OG, DG, EBK, qm, NK, inkl. Ask: Wie hoch ist die Miete?"
+  ]
+}

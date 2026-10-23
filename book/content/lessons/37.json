@@ -1,0 +1,186 @@
+{
+  "n": 37,
+  "title": "Separable Verbs",
+  "titleDe": "Trennbare Verben",
+  "level": "A1",
+  "sourceNote": "The captions drop most of the German verbs and example sentences in this lesson. The verb list (mitkommen, mitbringen, anrufen, ankommen, anfangen, einladen, fernsehen, aufstehen, losgehen) was rebuilt from the teacher's description of the prefixes; the example sentences follow the rules he states.",
+  "objectives": [
+    "I can explain what a separable verb (trennbares Verb) is",
+    "I can put the conjugated verb in position 2 and the prefix at the end",
+    "I can use separable verbs in questions and with modal verbs",
+    "I can conjugate and use common separable verbs"
+  ],
+  "vocab": [
+    { "de": "das trennbare Verb", "pl": "die trennbaren Verben", "en": "separable verb", "ar": "فعل منفصل" },
+    { "de": "das Präfix", "pl": "die Präfixe", "en": "prefix", "ar": "بادئة" },
+    { "de": "aufstehen", "en": "to get up", "ar": "ينهض", "note": "steht auf" },
+    { "de": "losgehen", "en": "to set off, to leave", "ar": "ينطلق", "note": "geht los" },
+    { "de": "mitkommen", "en": "to come along", "ar": "يأتي معًا", "note": "kommt mit" },
+    { "de": "mitbringen", "en": "to bring along", "ar": "يحضر معه", "note": "bringt mit" },
+    { "de": "ankommen", "en": "to arrive", "ar": "يصل", "note": "kommt an" },
+    { "de": "anrufen", "en": "to call (phone)", "ar": "يتصل هاتفيًا", "note": "ruft an" },
+    { "de": "anfangen", "en": "to begin", "ar": "يبدأ", "note": "fängt an" },
+    { "de": "einladen", "en": "to invite", "ar": "يدعو", "note": "lädt ein" },
+    { "de": "fernsehen", "en": "to watch TV", "ar": "يشاهد التلفزيون", "note": "sieht fern" },
+    { "de": "einkaufen", "en": "to shop", "ar": "يتسوق", "note": "kauft ein", "sup": true },
+    { "de": "stehen", "en": "to stand", "ar": "يقف", "note": "normal verb" },
+    { "de": "gehen", "en": "to go", "ar": "يذهب", "note": "normal verb" },
+    { "de": "kommen", "en": "to come", "ar": "يأتي" }
+  ],
+  "expressions": [
+    { "de": "Ich stehe um 6 Uhr auf.", "en": "I get up at 6 o'clock." },
+    { "de": "Ich gehe um 7 Uhr los.", "en": "I leave at 7 o'clock." },
+    { "de": "Kommst du mit?", "en": "Are you coming along?" },
+    { "de": "Ich bringe Kuchen mit.", "en": "I am bringing cake.", "sup": true },
+    { "de": "Ich möchte um 7 Uhr aufstehen.", "en": "I would like to get up at 7.", "sup": true }
+  ],
+  "patterns": [
+    { "form": "[Subjekt] + [Verb] + ... + [Präfix].", "ex": "Ich stehe um 6 Uhr auf.", "en": "I get up at 6." },
+    { "form": "[Verb] + [Subjekt] + ... + [Präfix]?", "ex": "Stehst du um 6 Uhr auf?", "en": "Do you get up at 6?" },
+    { "form": "[Subjekt] + [Modalverb] + ... + [Infinitiv].", "ex": "Ich möchte um 6 Uhr aufstehen.", "en": "I would like to get up at 6." }
+  ],
+  "grammar": [
+    {
+      "title": "What are separable verbs?",
+      "body": "The verb **trennen** means 'to separate', so **trennbare Verben** are verbs that can be separated. Such a verb has two parts: a **prefix** and a normal verb. *auf* + *stehen* = **aufstehen**; *los* + *gehen* = **losgehen**.\n\nAdding a prefix changes the meaning: *stehen* = to stand, **aufstehen** = to get up; *gehen* = to go, **losgehen** = to set off.\n\nIn the dictionary you find the whole verb together, as one word (**aufstehen**).",
+      "ar": "الفعل المنفصل = بادئة + فعل عادي، والمعنى يتغير بالبادئة.",
+      "examples": [
+        { "de": "stehen → aufstehen", "en": "to stand → to get up" },
+        { "de": "gehen → losgehen", "en": "to go → to set off" }
+      ]
+    },
+    {
+      "title": "Position in the sentence",
+      "body": "In a statement the **conjugated verb** is in **position 2** and the **prefix** goes to the **end** of the sentence: *Ich stehe um 6 Uhr **auf**.*\n\nIn a **yes/no question** the conjugated verb is first and the prefix is still at the end: *Stehst du um 6 Uhr **auf**?* In a **W-question** the verb is second: *Wann stehst du **auf**?*\n\nWith a **modal verb** the modal is in position 2 and the whole verb stays together in the **infinitive at the end**: *Ich möchte um 6 Uhr **aufstehen**.* The verb is then not separated.",
+      "ar": "الفعل المصرَّف في المكان الثاني والبادئة في آخر الجملة؛ مع الفعل المساعد يبقى الفعل كاملًا في المصدر.",
+      "examples": [
+        { "de": "Ich stehe um 6 Uhr auf.", "en": "I get up at 6." },
+        { "de": "Ich gehe um 7 Uhr los.", "en": "I leave at 7." },
+        { "de": "Wann stehst du auf?", "en": "When do you get up?" },
+        { "de": "Stehst du um 6 Uhr auf?", "en": "Do you get up at 6?" },
+        { "de": "Ich möchte um 6 Uhr aufstehen.", "en": "I would like to get up at 6." }
+      ]
+    },
+    {
+      "title": "Conjugation of aufstehen",
+      "body": "The verb part is conjugated normally (see lessons 14 and 15); the prefix does not change and stays at the end.",
+      "table": {
+        "head": ["Pronoun", "aufstehen"],
+        "rows": [
+          ["ich", "stehe auf"],
+          ["du", "stehst auf"],
+          ["er / sie / es", "steht auf"],
+          ["wir", "stehen auf"],
+          ["ihr", "steht auf"],
+          ["sie / Sie", "stehen auf"]
+        ]
+      }
+    },
+    {
+      "title": "Common separable verbs",
+      "body": "Irregular ones change the vowel in the verb part: *anfangen* → er fängt an, *einladen* → er lädt ein, *fernsehen* → er sieht fern.",
+      "table": {
+        "head": ["Infinitive", "Sentence"],
+        "rows": [
+          ["mitkommen", "Kommst du mit?"],
+          ["mitbringen", "Ich bringe Kuchen mit."],
+          ["ankommen", "Der Zug kommt um 8 Uhr an."],
+          ["anrufen", "Ich rufe Peter an."],
+          ["anfangen", "Der Film fängt um 8 Uhr an."],
+          ["einladen", "Sie lädt ihre Freunde ein."],
+          ["fernsehen", "Wir wollen fernsehen."]
+        ]
+      },
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich aufstehe um 6 Uhr.", "right": "Ich stehe um 6 Uhr auf.", "why": "The prefix goes to the end of the sentence." },
+    { "wrong": "Ich möchte um 6 Uhr stehe auf.", "right": "Ich möchte um 6 Uhr aufstehen.", "why": "With a modal verb the separable verb stays together in the infinitive." },
+    { "wrong": "Der Film fangt um 8 Uhr an.", "right": "Der Film fängt um 8 Uhr an.", "why": "*anfangen* is irregular: er fängt an." }
+  ],
+  "pronunciation": [
+    { "de": "Betonung", "tip": "The stress is on the **prefix**: *AUF-stehen*, *MIT-kommen*, *AN-rufen*." },
+    { "de": "ä", "tip": "In *fängt* and *lädt* the *ä* is like the 'e' in 'bed'." }
+  ],
+  "dialogues": [
+    {
+      "title": "Are you coming along?",
+      "lines": [
+        { "who": "A", "de": "Wann stehst du morgen auf?", "en": "When do you get up tomorrow?" },
+        { "who": "B", "de": "Ich stehe um 7 Uhr auf. Warum?", "en": "I get up at 7. Why?" },
+        { "who": "A", "de": "Wir gehen um 8 Uhr los. Kommst du mit?", "en": "We set off at 8. Are you coming along?" },
+        { "who": "B", "de": "Ja, gern. Ich möchte nur schnell Peter anrufen.", "en": "Yes, gladly. I just want to quickly call Peter." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Always learn the verb together with its prefix and one sentence: aufstehen – Ich stehe um 6 Uhr auf.",
+  "comprehension": [
+    { "q": "Where does the conjugated verb stand in a statement with a separable verb?", "a": "In position 2." },
+    { "q": "Where does the prefix stand?", "a": "At the end of the sentence." },
+    { "q": "What happens to a separable verb with a modal verb?", "a": "It stays together in the infinitive at the end." },
+    { "q": "Conjugate aufstehen with 'wir'.", "a": "Wir stehen auf." },
+    { "q": "What does losgehen mean?", "a": "To set off, to leave." }
+  ],
+  "exercises": [
+    {
+      "title": "Find the prefix",
+      "type": "fill",
+      "instructions": "Complete the sentence with the missing prefix.",
+      "items": [
+        { "q": "Ich stehe um 6 Uhr ___.", "a": "auf", "expl": "aufstehen." },
+        { "q": "Kommst du ___?", "a": "mit", "expl": "mitkommen." },
+        { "q": "Wir fangen um 9 Uhr ___.", "a": "an", "expl": "anfangen." },
+        { "q": "Der Zug kommt um 8 Uhr in Berlin ___.", "a": "an", "expl": "ankommen." },
+        { "q": "Ich rufe Peter ___.", "a": "an", "expl": "anrufen." },
+        { "q": "Sie lädt ihre Freunde ___.", "a": "ein", "expl": "einladen." },
+        { "q": "Wir gehen um 7 Uhr ___.", "a": "los", "expl": "losgehen." }
+      ]
+    },
+    {
+      "title": "Conjugate the verb",
+      "type": "fill",
+      "instructions": "Write the correct form of the verb part.",
+      "items": [
+        { "q": "Du ___ heute früh auf. (aufstehen)", "a": "stehst" },
+        { "q": "Peter ___ Maria um 5 Uhr an. (anrufen)", "a": "ruft" },
+        { "q": "Der Film ___ um 8 Uhr an. (anfangen)", "a": "fängt", "expl": "Irregular: a → ä." },
+        { "q": "Wir ___ heute mit. (mitkommen)", "a": "kommen" },
+        { "q": "Er ___ abends fern. (fernsehen)", "a": "sieht", "expl": "Irregular: e → ie." },
+        { "q": "Ihr ___ um 7 Uhr auf. (aufstehen)", "a": "steht" }
+      ]
+    },
+    {
+      "title": "With modal verbs",
+      "type": "fill",
+      "instructions": "Write the verb in the infinitive (together).",
+      "items": [
+        { "q": "Ich möchte um 7 Uhr ___. (aufstehen)", "a": "aufstehen" },
+        { "q": "Du musst heute ___. (mitkommen)", "a": "mitkommen" },
+        { "q": "Wir wollen heute ___. (fernsehen)", "a": "fernsehen" },
+        { "q": "Kannst du bitte Peter ___? (anrufen)", "a": "anrufen" }
+      ]
+    },
+    {
+      "title": "Build the sentence",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order. The sentence starts with the capitalised word.",
+      "items": [
+        { "q": "Ich / um 8 Uhr / an / fange", "a": "Ich fange um 8 Uhr an." },
+        { "q": "Wir / um 7 Uhr / auf / stehen", "a": "Wir stehen um 7 Uhr auf." },
+        { "q": "Kommst / du / mit", "a": "Kommst du mit?" },
+        { "q": "Wann / du / stehst / auf", "a": "Wann stehst du auf?" },
+        { "q": "Ich / Peter / an / rufe", "a": "Ich rufe Peter an." },
+        { "q": "Ich / um 6 Uhr / möchte / aufstehen", "a": "Ich möchte um 6 Uhr aufstehen." }
+      ]
+    }
+  ],
+  "summary": [
+    "A separable verb = prefix + verb: aufstehen, mitkommen, anrufen ...",
+    "Statement: conjugated verb in position 2, prefix at the end.",
+    "Yes/no question: verb first, prefix at the end.",
+    "With a modal verb: the whole verb stays in the infinitive at the end.",
+    "Irregular verbs keep their irregular forms: er fängt an, er sieht fern."
+  ]
+}

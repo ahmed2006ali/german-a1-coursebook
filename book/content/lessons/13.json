@@ -1,0 +1,148 @@
+{
+  "n": 13,
+  "title": "What Is a Verb?",
+  "titleDe": "Was ist ein Verb?",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; the verb lists were reconstructed from context, so a few verbs may differ slightly from the video.",
+  "objectives": [
+    "I can explain what a verb is",
+    "I can find the stem and the ending of an infinitive",
+    "I can explain why verbs are conjugated",
+    "I can tell regular and irregular verbs apart"
+  ],
+  "vocab": [
+    { "de": "lernen", "en": "to learn", "ar": "يتعلّم" },
+    { "de": "wohnen", "en": "to live (reside)", "ar": "يسكن" },
+    { "de": "spielen", "en": "to play", "ar": "يلعب" },
+    { "de": "kommen", "en": "to come", "ar": "يأتي" },
+    { "de": "hören", "en": "to hear / listen", "ar": "يسمع" },
+    { "de": "machen", "en": "to do / make", "ar": "يفعل / يصنع", "sup": true },
+    { "de": "studieren", "en": "to study (at university)", "ar": "يدرس (في الجامعة)" },
+    { "de": "arbeiten", "en": "to work", "ar": "يعمل" },
+    { "de": "sprechen", "en": "to speak", "ar": "يتكلم", "note": "irregular" },
+    { "de": "lesen", "en": "to read", "ar": "يقرأ", "note": "irregular" },
+    { "de": "sehen", "en": "to see", "ar": "يرى", "note": "irregular" },
+    { "de": "nehmen", "en": "to take", "ar": "يأخذ", "note": "irregular" },
+    { "de": "treffen", "en": "to meet", "ar": "يقابل", "note": "irregular" },
+    { "de": "fahren", "en": "to drive / go (by vehicle)", "ar": "يقود / يسافر", "note": "irregular" },
+    { "de": "der Verbstamm", "pl": "die Verbstämme", "en": "verb stem", "ar": "جذع الفعل" },
+    { "de": "die Endung", "pl": "die Endungen", "en": "ending", "ar": "نهاية الفعل" },
+    { "de": "der Fußball", "pl": "–", "en": "football", "ar": "كرة القدم" }
+  ],
+  "expressions": [
+    { "de": "Ich spiele Fußball.", "en": "I play football." },
+    { "de": "Ich komme aus Syrien.", "en": "I come from Syria.", "sup": true },
+    { "de": "Wir kommen aus Syrien.", "en": "We come from Syria.", "sup": true }
+  ],
+  "patterns": [
+    { "form": "infinitive = stem + -en", "ex": "lernen = lern + en", "en": "to learn" },
+    { "form": "conjugated verb = stem + ending (by subject)", "ex": "du lernst = lern + st", "en": "you learn" }
+  ],
+  "grammar": [
+    {
+      "title": "What is a verb?",
+      "body": "A **verb** describes an action or a state: *spielen* (to play), *lernen* (to learn). The verb is the core of the sentence, and the sentence structure depends on it.",
+      "examples": [
+        { "de": "Ich spiele Fußball.", "en": "I play football. (verb: spiele)" }
+      ]
+    },
+    {
+      "title": "Infinitive: stem and ending",
+      "body": "The basic form of a verb is the **infinitive**. You find it in the dictionary. It always has two parts: the **stem** (*Verbstamm*) and the ending (*Endung*). Almost all German infinitives end in **-en**, a few in **-n**. The best way to learn a verb is to learn its infinitive.",
+      "table": {
+        "head": ["Infinitive", "Stem", "Ending"],
+        "rows": [
+          ["lernen", "lern", "-en"],
+          ["wohnen", "wohn", "-en"],
+          ["spielen", "spiel", "-en"],
+          ["kommen", "komm", "-en"],
+          ["sprechen", "sprech", "-en"]
+        ]
+      }
+    },
+    {
+      "title": "Conjugation depends on the subject",
+      "body": "In a sentence the verb must be **conjugated**: you keep the stem and add an ending that fits the subject. Two things decide the ending: the **person** (1st, 2nd, 3rd) and **singular or plural**. This is why you learned the personal pronouns in lesson 11. The same verb changes with the subject: *ich komme*, but *wir kommen*.",
+      "examples": [
+        { "de": "Ich komme aus Syrien.", "en": "I come from Syria.", "sup": true },
+        { "de": "Wir kommen aus Syrien.", "en": "We come from Syria.", "sup": true },
+        { "de": "Du lernst Deutsch.", "en": "You learn German. (lern + st)" }
+      ]
+    },
+    {
+      "title": "Regular and irregular verbs",
+      "body": "**Regular verbs** (*regelmäßige Verben*, also called weak verbs) keep their stem in every form. Example: *lernen* has the stem *lern* in *ich lerne, du lernst, wir lernen*.\n\n**Irregular verbs** (*unregelmäßige Verben*, strong verbs) change their stem vowel in some forms, e.g. *sprechen*: *du sprichst*. The endings stay the same as for regular verbs. A few verbs keep the stem but are still irregular. You will conjugate regular verbs in lesson 14 and irregular verbs in lesson 15.",
+      "ar": "الأفعال المنتظمة تحافظ على جذعها، وغير المنتظمة يتغيّر فيها حرف العلّة.",
+      "table": {
+        "head": ["Type", "Verb stem", "Examples"],
+        "rows": [
+          ["Regular", "never changes", "lernen, wohnen, spielen, studieren, arbeiten"],
+          ["Irregular", "vowel changes", "sprechen, lesen, sehen, nehmen, treffen, fahren"]
+        ]
+      }
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich lernen Deutsch.", "right": "Ich lerne Deutsch.", "why": "The verb must be conjugated; do not use the infinitive after *ich*." },
+    { "wrong": "Du sprechst Deutsch.", "right": "Du sprichst Deutsch.", "why": "*sprechen* is irregular: e becomes i with *du*." }
+  ],
+  "tip": "Always learn a new verb in its infinitive form and mark it R (regular) or I (irregular).",
+  "comprehension": [
+    { "q": "What does a verb describe?", "a": "An action (or a state)." },
+    { "q": "What are the two parts of an infinitive?", "a": "The stem and the ending." },
+    { "q": "What ending do most infinitives have?", "a": "-en." },
+    { "q": "What two things decide the verb ending?", "a": "The person and whether the subject is singular or plural." },
+    { "q": "What is the difference between regular and irregular verbs?", "a": "Regular verbs keep their stem; irregular verbs change the stem vowel in some forms." }
+  ],
+  "exercises": [
+    {
+      "title": "Find the stem",
+      "type": "fill",
+      "instructions": "Write the verb stem (the infinitive without -en).",
+      "items": [
+        { "q": "lernen", "a": "lern" },
+        { "q": "wohnen", "a": "wohn" },
+        { "q": "spielen", "a": "spiel" },
+        { "q": "kommen", "a": "komm" },
+        { "q": "sprechen", "a": "sprech" },
+        { "q": "studieren", "a": "studier" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Regular or irregular?",
+      "type": "choose",
+      "instructions": "Decide: regular or irregular?",
+      "items": [
+        { "q": "lernen (regular / irregular)", "a": "regular" },
+        { "q": "sprechen (regular / irregular)", "a": "irregular", "expl": "du sprichst" },
+        { "q": "wohnen (regular / irregular)", "a": "regular" },
+        { "q": "lesen (regular / irregular)", "a": "irregular", "expl": "du liest" },
+        { "q": "spielen (regular / irregular)", "a": "regular" },
+        { "q": "nehmen (regular / irregular)", "a": "irregular", "expl": "du nimmst" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Conjugate the verb",
+      "type": "fill",
+      "instructions": "Write the correct form of the verb in brackets.",
+      "items": [
+        { "q": "Du ___ Deutsch. (lernen)", "a": "lernst" },
+        { "q": "Ich ___ Fußball. (spielen)", "a": "spiele" },
+        { "q": "Wir ___ in Berlin. (wohnen)", "a": "wohnen" },
+        { "q": "Du ___ Deutsch. (sprechen)", "a": "sprichst", "expl": "Irregular: e becomes i." },
+        { "q": "Sie ___ aus England. (kommen) (formal: you)", "a": "kommen" },
+        { "q": "Ich ___ in Berlin. (arbeiten)", "a": "arbeite" }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "A verb describes an action; the sentence structure depends on it.",
+    "The infinitive = stem + ending (-en, rarely -n).",
+    "In a sentence the verb is conjugated: stem + ending that fits the subject.",
+    "Regular verbs keep their stem; irregular verbs change the stem vowel (du sprichst).",
+    "Regular verbs follow in lesson 14, irregular verbs in lesson 15."
+  ]
+}

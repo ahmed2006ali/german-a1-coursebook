@@ -1,0 +1,203 @@
+{
+  "n": 65,
+  "title": "Buying a Train Ticket",
+  "titleDe": "Eine Fahrkarte kaufen",
+  "level": "A1",
+  "sourceNote": "The auto-captions are garbled in places; vocabulary, timetable questions and the ticket-counter dialogue were reconstructed from context and standard German. The timetable shown in the video could not be recovered, so only the times and prices that are clear in the captions are used.",
+  "objectives": [
+    "I can name means of transport, stations and tickets",
+    "I can understand arrival, departure and platform information",
+    "I can ask when a train leaves and arrives and where to change",
+    "I can buy a ticket at the counter"
+  ],
+  "vocab": [
+    { "de": "der Zug", "pl": "die Züge", "en": "train", "ar": "قطار" },
+    { "de": "die S-Bahn", "pl": "die S-Bahnen", "en": "suburban train", "ar": "قطار الضواحي" },
+    { "de": "die U-Bahn", "pl": "die U-Bahnen", "en": "underground", "ar": "مترو الأنفاق" },
+    { "de": "der Bahnhof", "pl": "die Bahnhöfe", "en": "railway station", "ar": "محطة قطار" },
+    { "de": "der Hauptbahnhof", "pl": "die Hauptbahnhöfe", "en": "main station", "ar": "المحطة الرئيسية", "note": "short: Hbf" },
+    { "de": "der Wagen", "pl": "die Wagen", "en": "carriage, coach", "ar": "عربة" },
+    { "de": "das Gleis", "pl": "die Gleise", "en": "platform, track", "ar": "رصيف / مسار", "note": "Auf Gleis 4" },
+    { "de": "der Bahnsteig", "pl": "die Bahnsteige", "en": "platform", "ar": "رصيف المحطة" },
+    { "de": "der Schalter", "pl": "die Schalter", "en": "counter", "ar": "شباك" },
+    { "de": "das Ticket", "pl": "die Tickets", "en": "ticket", "ar": "تذكرة" },
+    { "de": "der Fahrschein", "pl": "die Fahrscheine", "en": "ticket", "ar": "تذكرة" },
+    { "de": "die Fahrkarte", "pl": "die Fahrkarten", "en": "ticket", "ar": "تذكرة" },
+    { "de": "der Fahrkartenautomat", "pl": "die Fahrkartenautomaten", "en": "ticket machine", "ar": "آلة التذاكر" },
+    { "de": "der Fahrkartenschalter", "pl": "die Fahrkartenschalter", "en": "ticket counter", "ar": "شباك التذاكر" },
+    { "de": "der Bus", "pl": "die Busse", "en": "bus", "ar": "حافلة" },
+    { "de": "die Bushaltestelle", "pl": "die Bushaltestellen", "en": "bus stop", "ar": "موقف الحافلات" },
+    { "de": "der Busbahnhof", "pl": "die Busbahnhöfe", "en": "bus station", "ar": "محطة الحافلات" },
+    { "de": "die Ankunft", "pl": "die Ankünfte", "en": "arrival", "ar": "وصول" },
+    { "de": "ankommen", "en": "to arrive", "ar": "يصل", "note": "ich komme an; ist angekommen" },
+    { "de": "die Abfahrt", "pl": "die Abfahrten", "en": "departure", "ar": "مغادرة" },
+    { "de": "abfahren", "en": "to depart", "ar": "يغادر", "note": "er fährt ab; ist abgefahren" },
+    { "de": "umsteigen", "en": "to change (trains)", "ar": "يغيّر القطار", "note": "ich steige um" },
+    { "de": "die Verspätung", "pl": "die Verspätungen", "en": "delay", "ar": "تأخير" },
+    { "de": "sich verspäten", "en": "to be late", "ar": "يتأخر", "note": "Der Zug hat sich verspätet." },
+    { "de": "der Fahrplan", "pl": "die Fahrpläne", "en": "timetable", "ar": "جدول المواعيد" },
+    { "de": "die Fahrt", "pl": "die Fahrten", "en": "journey, trip", "ar": "رحلة" },
+    { "de": "dauern", "en": "to last, to take (time)", "ar": "يستغرق" },
+    { "de": "das Sparangebot", "pl": "die Sparangebote", "en": "saver fare", "ar": "عرض توفير" },
+    { "de": "die Sitzplatzreservierung", "pl": "die Sitzplatzreservierungen", "en": "seat reservation", "ar": "حجز مقعد" },
+    { "de": "einfach", "en": "one way", "ar": "ذهاب فقط", "note": "also: nur Hinfahrt" },
+    { "de": "hin und zurück", "en": "return (there and back)", "ar": "ذهاب وإياب" }
+  ],
+  "expressions": [
+    { "de": "Ich brauche eine Fahrkarte nach München.", "en": "I need a ticket to Munich." },
+    { "de": "Einfach oder hin und zurück?", "en": "One way or return?" },
+    { "de": "Nur Hinfahrt, bitte.", "en": "Just one way, please." },
+    { "de": "Mit dem nächsten Zug.", "en": "With the next train." },
+    { "de": "Wann fährt der Zug von Frankfurt ab?", "en": "When does the train leave Frankfurt?" },
+    { "de": "Wann kommt der Zug in München an?", "en": "When does the train arrive in Munich?" },
+    { "de": "Auf welchem Gleis fährt der Zug ab?", "en": "From which platform does the train leave?" },
+    { "de": "Muss man umsteigen?", "en": "Do you have to change?" },
+    { "de": "Wo muss man umsteigen?", "en": "Where do you have to change?" },
+    { "de": "Wie lange dauert die Fahrt?", "en": "How long does the journey take?" },
+    { "de": "Was kostet eine Fahrkarte?", "en": "How much is a ticket?" },
+    { "de": "Der ICE 219 hat 30 Minuten Verspätung.", "en": "The ICE 219 is 30 minutes late." },
+    { "de": "Gute Reise!", "en": "Have a good trip!" }
+  ],
+  "patterns": [
+    { "form": "Ich brauche eine Fahrkarte nach + [Ort].", "ex": "Ich brauche eine Fahrkarte nach Hamburg.", "en": "I need a ticket to Hamburg." },
+    { "form": "Wann + fährt / kommt + [Zug] + [ab / an]?", "ex": "Wann fährt der Zug ab?", "en": "When does the train leave?" },
+    { "form": "Auf welchem Gleis + [Verb] + [Zug]?", "ex": "Auf welchem Gleis kommt der Zug an?", "en": "On which platform does the train arrive?" },
+    { "form": "Der Zug + [Verb] + um + [Uhrzeit] + [Präfix].", "ex": "Der Zug fährt um 20 Uhr ab.", "en": "The train leaves at 8 pm." }
+  ],
+  "grammar": [
+    {
+      "title": "Trains and tickets",
+      "body": "There are several kinds of local train: **die S-Bahn**, **die U-Bahn** and **der Regionalzug**. The main station is **der Hauptbahnhof** (*Hbf*). For tickets you can say **das Ticket, der Fahrschein, die Fahrkarte**; they are the same thing. You buy them at the **Fahrkartenschalter**, at the **Fahrkartenautomat**, in an app or online."
+    },
+    {
+      "title": "Separable verbs: ankommen, abfahren, umsteigen",
+      "body": "The prefix goes to the end of the main clause: **Der Zug kommt um 16 Uhr an.** **Der Zug fährt um 20 Uhr ab.** **Wir steigen in Nürnberg um.** *abfahren* changes a to ä (er **fährt** ab). The nouns are **die Ankunft** and **die Abfahrt**.",
+      "table": {
+        "head": ["Noun", "Verb", "Example"],
+        "rows": [
+          ["die Ankunft", "ankommen", "Der Zug kommt um 16 Uhr an."],
+          ["die Abfahrt", "abfahren", "Der Zug fährt um 20 Uhr ab."],
+          ["der Umstieg", "umsteigen", "Wir müssen in Nürnberg umsteigen."]
+        ]
+      }
+    },
+    {
+      "title": "Gleis, Bahnsteig and delays",
+      "body": "In German the platform is **das Gleis** (the teacher also calls it *Bahnsteig*). We say: **Auf welchem Gleis kommt der Zug an?** – **Auf Gleis 4.** A delay is **die Verspätung**: *Der ICE 219 hat 30 Minuten Verspätung.* or *Der ICE 219 hat sich verspätet.*",
+      "ar": "Gleis = رصيف (das Gleis) وتُقال auf Gleis 4."
+    },
+    {
+      "title": "Reading a timetable",
+      "body": "A **Fahrplan** shows departure and arrival times, the length of the trip, changes and the platform at each station. You will see **Hbf** for Hauptbahnhof and the **Umsteigezeit** (the time you have to change). A **Sparangebot** is a cheaper saver fare; the price is often lower than the normal price.",
+      "examples": [
+        { "de": "Wann fährt der Zug von Frankfurt ab? – Um 16 Uhr 21.", "en": "When does the train leave Frankfurt? – At 4.21 pm." },
+        { "de": "Wie lange dauert die Fahrt? – Drei Stunden 39 Minuten.", "en": "How long does the journey take? – Three hours 39 minutes." },
+        { "de": "Auf welchem Gleis kommt der Zug in München an? – Auf Gleis 9.", "en": "On which platform does the train arrive in Munich? – On platform 9." }
+      ]
+    },
+    {
+      "title": "Buying a ticket",
+      "body": "At the counter you say what you need and whether you want a one-way or a return ticket. **einfach** = one way; **hin und zurück** = return. A seat reservation costs extra: the ticket with **Sitzplatzreservierung** is more expensive than the one **ohne Reservierung**."
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Der Zug kommt um 16 Uhr.", "right": "Der Zug kommt um 16 Uhr an.", "why": "*ankommen* is separable: you need the prefix *an* at the end.", "sup": true },
+    { "wrong": "Der Zug fahrt um 20 Uhr ab.", "right": "Der Zug fährt um 20 Uhr ab.", "why": "*fahren* has a > ä in the er-form.", "sup": true },
+    { "wrong": "Auf welcher Gleis fährt der Zug ab?", "right": "Auf welchem Gleis fährt der Zug ab?", "why": "*das Gleis* needs *welchem* after *auf* with *wo?*.", "sup": true }
+  ],
+  "pronunciation": [
+    { "de": "ä", "tip": "Like 'e' in 'bed': *fährt, Verspätung, Fahrpläne, Bahnhöfe* (ö)." },
+    { "de": "sp / st", "tip": "At the start of a word 'sp' = 'shp', 'st' = 'sht': *Sparangebot, Station, Stunde*." }
+  ],
+  "dialogues": [
+    {
+      "title": "At the ticket counter",
+      "lines": [
+        { "who": "A", "de": "Guten Tag, wie kann ich Ihnen helfen?", "en": "Good day, how can I help you?" },
+        { "who": "B", "de": "Guten Tag, ich brauche eine Fahrkarte nach München, bitte.", "en": "Good day, I need a ticket to Munich, please." },
+        { "who": "A", "de": "Einfach oder hin und zurück?", "en": "One way or return?" },
+        { "who": "B", "de": "Nur Hinfahrt, bitte.", "en": "Just one way, please." },
+        { "who": "A", "de": "Wann wollen Sie fahren?", "en": "When do you want to travel?" },
+        { "who": "B", "de": "Mit dem nächsten Zug. Wann fährt der?", "en": "With the next train. When does it leave?" },
+        { "who": "A", "de": "In 20 Minuten, um 16 Uhr 30.", "en": "In 20 minutes, at 4.30 pm." },
+        { "who": "B", "de": "Auf welchem Gleis fährt der Zug ab? Muss ich umsteigen?", "en": "From which platform does the train leave? Do I have to change?" },
+        { "who": "A", "de": "Auf Gleis 4, und Sie müssen nicht umsteigen.", "en": "From platform 4, and you do not have to change." },
+        { "who": "B", "de": "Wann kommt der Zug in München an?", "en": "When does the train arrive in Munich?" },
+        { "who": "A", "de": "Um 19 Uhr 45.", "en": "At 7.45 pm." },
+        { "who": "B", "de": "Danke für die Information. Was kostet die Fahrkarte?", "en": "Thank you for the information. How much is the ticket?" },
+        { "who": "A", "de": "Die Fahrkarte kostet 58 Euro, mit Sitzplatzreservierung 62 Euro 50.", "en": "The ticket costs 58 euros, with seat reservation 62 euros 50." },
+        { "who": "B", "de": "Ohne Reservierung, bitte. Hier sind 58 Euro.", "en": "Without reservation, please. Here are 58 euros." },
+        { "who": "A", "de": "Alles klar, und hier ist Ihre Fahrkarte. Gute Reise!", "en": "All right, and here is your ticket. Have a good trip!" },
+        { "who": "B", "de": "Dankeschön. Auf Wiedersehen!", "en": "Thank you. Goodbye!" }
+      ]
+    }
+  ],
+  "tip": "German trains are often late. Listen for the word Verspätung in station announcements and check the platform (Gleis) before you go.",
+  "comprehension": [
+    { "q": "Name three words for a ticket.", "a": "das Ticket, der Fahrschein, die Fahrkarte." },
+    { "q": "How do you ask for the platform of a train?", "a": "Auf welchem Gleis fährt der Zug ab? / Auf welchem Gleis kommt der Zug an?" },
+    { "q": "What does Hbf stand for?", "a": "Hauptbahnhof." },
+    { "q": "What does 'einfach' mean when you buy a ticket?", "a": "One way." },
+    { "q": "What is a delay called in German?", "a": "Die Verspätung." }
+  ],
+  "exercises": [
+    {
+      "title": "Match the words",
+      "type": "match",
+      "instructions": "Match the German words with their English meanings.",
+      "items": [
+        { "q": "die Ankunft", "a": "arrival" },
+        { "q": "die Abfahrt", "a": "departure" },
+        { "q": "die Verspätung", "a": "delay" },
+        { "q": "der Fahrplan", "a": "timetable" },
+        { "q": "das Gleis", "a": "platform" },
+        { "q": "umsteigen", "a": "to change trains" },
+        { "q": "einfach", "a": "one way" }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentences with the correct verb form.",
+      "items": [
+        { "q": "Der Zug ___ um 16 Uhr an. (ankommen)", "a": "kommt" },
+        { "q": "Der Zug ___ um 20 Uhr ab. (abfahren)", "a": "fährt", "expl": "a changes to ä." },
+        { "q": "Wir ___ in Nürnberg um. (umsteigen)", "a": "steigen" },
+        { "q": "Wie lange ___ die Fahrt? (dauern)", "a": "dauert" },
+        { "q": "Der Plural von *der Bahnhof* ist die ___.", "a": "Bahnhöfe" },
+        { "q": "Der Plural von *der Zug* ist die ___.", "a": "Züge" }
+      ]
+    },
+    {
+      "title": "Choose the right answer",
+      "type": "choose",
+      "instructions": "Choose the correct word.",
+      "items": [
+        { "q": "Auf ___ Gleis fährt der Zug ab? (welchem / welcher)", "a": "welchem", "expl": "*das Gleis*, neuter, Dativ after *auf*." },
+        { "q": "Ich brauche eine Fahrkarte ___ München. (nach / zu)", "a": "nach", "expl": "Cities need *nach*." },
+        { "q": "Nur eine Richtung: Ich möchte eine ___ Fahrkarte. (einfache / hin und zurück)", "a": "einfache", "expl": "*einfach* = one way." },
+        { "q": "Der Zug ist zu spät. Er hat eine ___. (Verspätung / Ankunft)", "a": "Verspätung" },
+        { "q": "Fahrkarten kauft man am Schalter oder am ___. (Fahrkartenautomaten / Bahnhof)", "a": "Fahrkartenautomaten" }
+      ]
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Write the correct sentence.",
+      "items": [
+        { "q": "Zug / fährt / der / ab / Wann / ?", "a": "Wann fährt der Zug ab?" },
+        { "q": "Gleis / Auf / fährt / welchem / der Zug / ab / ?", "a": "Auf welchem Gleis fährt der Zug ab?" },
+        { "q": "in München / kommt / Wann / an / der Zug / ?", "a": "Wann kommt der Zug in München an?" },
+        { "q": "brauche / Ich / Fahrkarte / eine / nach München", "a": "Ich brauche eine Fahrkarte nach München." },
+        { "q": "man / Muss / umsteigen / ?", "a": "Muss man umsteigen?" }
+      ]
+    }
+  ],
+  "summary": [
+    "Words: der Zug, der Bahnhof, das Gleis, der Schalter, die Fahrkarte / der Fahrschein / das Ticket.",
+    "Separable verbs: ankommen, abfahren, umsteigen. Er fährt ab (a > ä).",
+    "Ask: Wann fährt der Zug ab? Auf welchem Gleis? Muss man umsteigen? Wie lange dauert die Fahrt?",
+    "Buy a ticket: Ich brauche eine Fahrkarte nach ... Einfach oder hin und zurück?",
+    "Delay = die Verspätung. Hbf = Hauptbahnhof."
+  ]
+}

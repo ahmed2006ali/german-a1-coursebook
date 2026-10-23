@@ -1,0 +1,214 @@
+{
+  "n": 26,
+  "title": "The Accusative Case",
+  "titleDe": "Der Akkusativ",
+  "level": "A1",
+  "sourceNote": "The transcript is garbled; the rules, tables and the question words Wen/Was are clear. The example sentences are reconstructed from context and extended with extra examples.",
+  "objectives": [
+    "I can explain what the accusative object is",
+    "I can ask Wen? and Was? to find the accusative object",
+    "I can use einen / eine / ein in the accusative",
+    "I can use den / die / das and keinen / keine / kein in the accusative"
+  ],
+  "vocab": [
+    { "de": "der Akkusativ", "pl": "–", "en": "accusative case", "ar": "حالة المفعول به", "note": "", "sup": false },
+    { "de": "der Apfel", "pl": "die Äpfel", "en": "apple", "ar": "تفاحة", "note": "", "sup": false },
+    { "de": "das Baby", "pl": "die Babys", "en": "baby", "ar": "رضيع", "note": "", "sup": false },
+    { "de": "das Sandwich", "pl": "die Sandwiches", "en": "sandwich", "ar": "ساندويتش", "note": "", "sup": false },
+    { "de": "der Bruder", "pl": "die Brüder", "en": "brother", "ar": "أخ", "note": "", "sup": false },
+    { "de": "lieben", "en": "to love", "ar": "يحب", "note": "ich liebe, er liebt", "sup": false },
+    { "de": "haben", "en": "to have", "ar": "يملك", "note": "ich habe, du hast, er hat", "sup": true },
+    { "de": "kaufen", "en": "to buy", "ar": "يشتري", "note": "ich kaufe, er kauft", "sup": true },
+    { "de": "essen", "en": "to eat", "ar": "يأكل", "note": "ich esse, du isst, er isst", "sup": true },
+    { "de": "suchen", "en": "to look for", "ar": "يبحث عن", "note": "ich suche, er sucht", "sup": true },
+    { "de": "kennen", "en": "to know (a person)", "ar": "يعرف (شخصاً)", "note": "ich kenne, du kennst", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Wen liebt Petra?", "en": "Whom does Petra love?", "ar": "من تحب بيترا؟", "sup": false },
+    { "de": "Was isst du?", "en": "What are you eating?", "ar": "ماذا تأكل؟", "sup": true }
+  ],
+  "patterns": [
+    { "form": "Subject (nominative) + verb + object (accusative).", "ex": "Ich habe einen Bruder.", "en": "I have a brother." },
+    { "form": "Wen + verb + subject?  (person)", "ex": "Wen liebt Petra?", "en": "Whom does Petra love?" },
+    { "form": "Was + verb + subject?  (thing)", "ex": "Was isst du?", "en": "What are you eating?" }
+  ],
+  "grammar": [
+    {
+      "title": "What is the accusative?",
+      "body": "Every sentence has a **subject** (nominative). Many sentences also have an **object**. This direct object is in the **accusative**.\n\nThe accusative object can be a person or a thing, singular or plural.\n\n*Petra liebt Max.* Petra is the subject (nominative). Max is the object (accusative).",
+      "ar": "الفاعل في حالة Nominativ، والمفعول به المباشر في حالة Akkusativ.",
+      "examples": [
+        { "de": "Petra liebt Max.", "en": "Petra loves Max." },
+        { "de": "Ich habe einen Bruder.", "en": "I have a brother." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "The questions Wen? and Was?",
+      "body": "To find the accusative object, ask a question:\n\n- Object is a **person**: **Wen?** (whom?)\n- Object is a **thing**: **Was?** (what?)\n\n*Wen* is the accusative form of *wer*. *Was* does not change: it is the same in the nominative and the accusative.",
+      "examples": [
+        { "de": "Wen liebt Petra? – Petra liebt Max.", "en": "Whom does Petra love? – Petra loves Max." },
+        { "de": "Was kauft er? – Er kauft einen Tisch.", "en": "What does he buy? – He buys a table." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Indefinite articles: ein, eine",
+      "body": "Only the **masculine** changes: **ein → einen**. Feminine (*eine*), neuter (*ein*) and plural (no article) stay the same as in the nominative.",
+      "ar": "المذكر فقط يتغير: ein يصبح einen.",
+      "table": {
+        "head": ["", "masculine", "feminine", "neuter", "plural"],
+        "rows": [
+          ["Nominativ", "ein Apfel", "eine Frau", "ein Baby", "– Äpfel"],
+          ["Akkusativ", "**einen** Apfel", "eine Frau", "ein Baby", "– Äpfel"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich esse einen Apfel.", "en": "I am eating an apple." },
+        { "de": "Ich habe eine Schwester.", "en": "I have a sister." },
+        { "de": "Sie hat ein Baby.", "en": "She has a baby." },
+        { "de": "Er isst ein Sandwich.", "en": "He is eating a sandwich." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Definite articles: der, die, das",
+      "body": "Again only the **masculine** changes: **der → den**. *die*, *das* and plural *die* stay the same.\n\nThe accusative object can also stand at the beginning of the sentence. The verb is still in second position: *Den Apfel esse ich.*",
+      "table": {
+        "head": ["", "masculine", "feminine", "neuter", "plural"],
+        "rows": [
+          ["Nominativ", "der Apfel", "die Frau", "das Baby", "die Äpfel"],
+          ["Akkusativ", "**den** Apfel", "die Frau", "das Baby", "die Äpfel"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich kaufe den Tisch.", "en": "I buy the table." },
+        { "de": "Er liebt die Frau.", "en": "He loves the woman." },
+        { "de": "Den Apfel esse ich.", "en": "I eat the apple (the apple, that is what I eat)." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Negative article: kein, keine",
+      "body": "*kein* follows the pattern of *ein*. Masculine: **kein → keinen**. All the others stay the same.",
+      "table": {
+        "head": ["", "masculine", "feminine", "neuter", "plural"],
+        "rows": [
+          ["Nominativ", "kein Apfel", "keine Frau", "kein Baby", "keine Äpfel"],
+          ["Akkusativ", "**keinen** Apfel", "keine Frau", "kein Baby", "keine Äpfel"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich habe keinen Bruder.", "en": "I do not have a brother." },
+        { "de": "Wir haben keine Zeit.", "en": "We have no time." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Summary: only masculine changes",
+      "body": "Remember one rule: if the accusative object is **masculine singular**, add **-en**: *der → den*, *ein → einen*, *kein → keinen*. Everything else is the same as the nominative.",
+      "table": {
+        "head": ["", "masculine", "feminine", "neuter", "plural"],
+        "rows": [
+          ["der / die / das", "den", "die", "das", "die"],
+          ["ein / eine / ein", "einen", "eine", "ein", "–"],
+          ["kein / keine / kein", "keinen", "keine", "kein", "keine"]
+        ]
+      },
+      "sup": false
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich habe ein Bruder.", "right": "Ich habe einen Bruder.", "why": "*Bruder* is a masculine accusative object: *einen*." },
+    { "wrong": "Ich kaufe der Tisch.", "right": "Ich kaufe den Tisch.", "why": "Masculine accusative: *der* becomes *den*." },
+    { "wrong": "Ich habe keine Hund.", "right": "Ich habe keinen Hund.", "why": "*Hund* is masculine: *keinen*." }
+  ],
+  "pronunciation": [
+    { "de": "ie in lieben", "tip": "*ie* is a long 'ee': *lieben*, *Wiedersehen*." },
+    { "de": "ch in suchen", "tip": "After *u* the *ch* is a rough sound in the throat, as in *Buch*." }
+  ],
+  "dialogues": [
+    {
+      "title": "At home",
+      "lines": [
+        { "who": "A", "de": "Was kaufst du?", "en": "What are you buying?" },
+        { "who": "B", "de": "Ich kaufe einen Tisch.", "en": "I am buying a table." },
+        { "who": "A", "de": "Hast du einen Bruder?", "en": "Do you have a brother?" },
+        { "who": "B", "de": "Ja, ich habe einen Bruder und eine Schwester.", "en": "Yes, I have a brother and a sister." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn nouns with their article. When you learn *der Tisch*, also say *Ich kaufe den Tisch* once.",
+  "comprehension": [
+    { "q": "Which question word do you use for a person in the accusative?", "a": "Wen" },
+    { "q": "Which question word do you use for a thing?", "a": "Was" },
+    { "q": "Which gender changes in the accusative?", "a": "Only the masculine." },
+    { "q": "What happens to 'ein' with a masculine accusative object?", "a": "It becomes 'einen'." },
+    { "q": "Can the accusative object stand at the beginning of the sentence?", "a": "Yes. The verb stays in second position." }
+  ],
+  "exercises": [
+    {
+      "title": "ein, eine or einen?",
+      "type": "fill",
+      "instructions": "Complete with the indefinite article in the accusative (ein / eine / einen).",
+      "items": [
+        { "q": "Ich habe ___ Bruder.", "a": "einen", "expl": "*Bruder* is masculine." },
+        { "q": "Sie hat ___ Schwester.", "a": "eine", "expl": "*Schwester* is feminine." },
+        { "q": "Wir kaufen ___ Tisch.", "a": "einen", "expl": "*Tisch* is masculine." },
+        { "q": "Er hat ___ Baby.", "a": "ein", "expl": "*Baby* is neuter." },
+        { "q": "Ich esse ___ Apfel.", "a": "einen", "expl": "*Apfel* is masculine." },
+        { "q": "Sie kauft ___ Tasche.", "a": "eine", "expl": "*Tasche* is feminine." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "der, den, die or das?",
+      "type": "choose",
+      "instructions": "Choose the correct definite article in the accusative.",
+      "items": [
+        { "q": "Ich kaufe ___ Tisch. (der / den)", "a": "den", "expl": "Masculine accusative." },
+        { "q": "Ich liebe ___ Frau. (die / den)", "a": "die", "expl": "Feminine does not change." },
+        { "q": "Er sucht ___ Buch. (das / den)", "a": "das", "expl": "Neuter does not change." },
+        { "q": "Sie kennt ___ Mann. (der / den)", "a": "den", "expl": "*Mann* is masculine." },
+        { "q": "Ich esse ___ Apfel. (der / den)", "a": "den", "expl": "*Apfel* is masculine." },
+        { "q": "Wir kaufen ___ Bücher. (die / den)", "a": "die", "expl": "Plural accusative stays *die*." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "kein, keine or keinen?",
+      "type": "fill",
+      "instructions": "Complete with the negative article in the accusative.",
+      "items": [
+        { "q": "Ich habe ___ Hund.", "a": "keinen", "expl": "*Hund* is masculine." },
+        { "q": "Wir haben ___ Zeit.", "a": "keine", "expl": "*Zeit* is feminine." },
+        { "q": "Er hat ___ Auto.", "a": "kein", "expl": "*Auto* is neuter." },
+        { "q": "Sie hat ___ Bruder.", "a": "keinen", "expl": "*Bruder* is masculine." },
+        { "q": "Ich habe ___ Kinder.", "a": "keine", "expl": "Plural: *keine*." },
+        { "q": "Wir haben ___ Tisch.", "a": "keinen", "expl": "*Tisch* is masculine." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Wen or Was?",
+      "type": "choose",
+      "instructions": "Choose the correct question word.",
+      "items": [
+        { "q": "___ liebt Petra? – Petra liebt Max. (Wen / Was)", "a": "Wen", "expl": "Max is a person." },
+        { "q": "___ isst du? – Ich esse einen Apfel. (Wen / Was)", "a": "Was", "expl": "An apple is a thing." },
+        { "q": "___ kennst du? – Ich kenne Anna. (Wen / Was)", "a": "Wen", "expl": "Anna is a person." },
+        { "q": "___ kauft sie? – Sie kauft einen Tisch. (Wen / Was)", "a": "Was", "expl": "A table is a thing." },
+        { "q": "___ sucht er? – Er sucht das Buch. (Wen / Was)", "a": "Was", "expl": "A book is a thing." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "The subject is in the nominative; the direct object is in the accusative.",
+    "Ask **Wen?** for persons and **Was?** for things to find the accusative object.",
+    "Only the masculine changes: der → den, ein → einen, kein → keinen.",
+    "Feminine, neuter and plural articles are the same as in the nominative.",
+    "The accusative object can start the sentence, but the verb stays in second position."
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "n": 24,
+  "title": "Possessive Articles",
+  "titleDe": "Possessivartikel",
+  "level": "A1",
+  "sourceNote": "The auto-captions are garbled. The full list of possessive articles and the two-step rule are clear; some of the video's example sentences could not be reconstructed, so the examples here were rebuilt from the rules (those not in the video are marked as supplementary).",
+  "objectives": [
+    "I can name the possessive article for every personal pronoun",
+    "I can choose between mein and meine (etc.) according to the noun",
+    "I know the special forms euer / eure and unser / unsere",
+    "I can say who something belongs to: Das ist mein Auto."
+  ],
+  "vocab": [
+    { "de": "die Familie", "pl": "die Familien", "en": "family", "ar": "عائلة", "note": "" },
+    { "de": "das Auto", "pl": "die Autos", "en": "car", "ar": "سيارة", "note": "" },
+    { "de": "der Freund", "pl": "die Freunde", "en": "friend (male)", "ar": "صديق", "note": "", "sup": true },
+    { "de": "die Freundin", "pl": "die Freundinnen", "en": "friend (female)", "ar": "صديقة", "note": "", "sup": true },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل", "note": "", "sup": true },
+    { "de": "das Haus", "pl": "die Häuser", "en": "house", "ar": "بيت", "note": "", "sup": true },
+    { "de": "das Buch", "pl": "die Bücher", "en": "book", "ar": "كتاب", "note": "", "sup": true },
+    { "de": "die Tasche", "pl": "die Taschen", "en": "bag", "ar": "حقيبة", "note": "", "sup": true },
+    { "de": "der Hund", "pl": "die Hunde", "en": "dog", "ar": "كلب", "note": "", "sup": true },
+    { "de": "die Katze", "pl": "die Katzen", "en": "cat", "ar": "قطة", "note": "", "sup": true },
+    { "de": "das Handy", "pl": "die Handys", "en": "mobile phone", "ar": "هاتف جوال", "note": "", "sup": true },
+    { "de": "der Possessivartikel", "pl": "die Possessivartikel", "en": "possessive article", "ar": "أداة الملكية", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Das ist mein Auto.", "en": "That is my car.", "ar": "" },
+    { "de": "Das ist meine Familie.", "en": "That is my family.", "ar": "" },
+    { "de": "Das ist Ihr Auto.", "en": "That is your car (formal).", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Das ist + [possessive] + [noun].", "ex": "Das ist meine Familie.", "en": "This is my family." },
+    { "form": "Das sind + [possessive + e] + [plural noun].", "ex": "Das sind meine Kinder.", "en": "These are my children." }
+  ],
+  "grammar": [
+    {
+      "title": "What are possessive articles?",
+      "body": "Possessive articles are words like *my, your, his, her*: **mein, dein, sein, ihr ...** They show who something belongs to and they stand **before the noun**, in place of the article.\n\nThere is one possessive article for every personal pronoun (lesson 11): ich, du, er, sie, es, wir, ihr, Sie, sie.",
+      "ar": "لكل ضمير شخصي أداة ملكية خاصة به."
+    },
+    {
+      "title": "Two steps: pronoun, then noun",
+      "body": "Always think of two things:\n\n1. **Which pronoun** is the owner? (ich → *mein-*, du → *dein-*, er/es → *sein-*, sie → *ihr-*, wir → *unser-*, ihr → *euer-*, Sie → *Ihr-*, sie plural → *ihr-*)\n2. **Which article does the noun have?** If it is **der** or **das**, the possessive article has **no ending**. If it is **die** (feminine) or **die** (plural), add **-e**.",
+      "ar": "der / das: بدون نهاية. die (مؤنّث أو جمع): أضف e."
+    },
+    {
+      "title": "All possessive articles (nominative)",
+      "body": "Left column: with der- and das-nouns. Right column: with die-nouns (feminine and plural).",
+      "table": {
+        "head": ["Pronoun", "der / das", "die (f. and pl.)"],
+        "rows": [
+          ["ich", "mein", "meine"],
+          ["du", "dein", "deine"],
+          ["er", "sein", "seine"],
+          ["sie (she)", "ihr", "ihre"],
+          ["es", "sein", "seine"],
+          ["wir", "unser", "unsere"],
+          ["ihr", "euer", "eure"],
+          ["Sie (formal)", "Ihr", "Ihre"],
+          ["sie (they)", "ihr", "ihre"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich bin Peter. Das ist meine Familie.", "en": "I am Peter. This is my family." },
+        { "de": "Das ist mein Auto.", "en": "That is my car." },
+        { "de": "Das ist dein Auto. Das ist deine Familie.", "en": "That is your car. That is your family." },
+        { "de": "Das ist Peter. Das ist sein Auto.", "en": "That is Peter. That is his car." },
+        { "de": "Das ist Julia. Das ist ihre Familie.", "en": "That is Julia. That is her family." }
+      ]
+    },
+    {
+      "title": "Special case: euer becomes eure",
+      "body": "With **ihr** (you, plural) the possessive article is **euer**. Before an ending you drop the **e** before the **r**: **euer Auto**, but **eure Familie** (not *euere*).\n\nOnly **unser** keeps its form: **unser Auto**, **unsere Familie**.",
+      "examples": [
+        { "de": "Das ist euer Auto.", "en": "That is your (pl.) car." },
+        { "de": "Das ist eure Familie.", "en": "That is your (pl.) family." }
+      ]
+    },
+    {
+      "title": "Formal Ihr and plural ihr",
+      "body": "**Ihr / Ihre** with a capital I belongs to formal **Sie** (one person or many). **ihr / ihre** with a small i belongs to **sie** (she) and to **sie** (they).",
+      "examples": [
+        { "de": "Herr Müller, ist das Ihr Auto?", "en": "Mr Müller, is that your car?", "sup": true },
+        { "de": "Das sind Laura und Antonio. Das ist ihr Haus.", "en": "These are Laura and Antonio. That is their house.", "sup": true }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Das ist mein Familie.", "right": "Das ist meine Familie.", "why": "*die Familie* is feminine: add *-e*." },
+    { "wrong": "Das ist euere Familie.", "right": "Das ist eure Familie.", "why": "*euer* loses its middle *e* before the ending." },
+    { "wrong": "Das sind mein Kinder.", "right": "Das sind meine Kinder.", "why": "Plural nouns take the *-e* form." }
+  ],
+  "pronunciation": [
+    { "de": "eu", "tip": "Sounds like 'oy' in 'boy'. *euer*, *eure*." },
+    { "de": "ei", "tip": "Sounds like 'eye'. *mein*, *dein*, *sein*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Family photo",
+      "lines": [
+        { "who": "A", "de": "Ist das deine Familie?", "en": "Is that your family?" },
+        { "who": "B", "de": "Ja, das ist meine Familie. Das ist mein Haus und das ist unser Auto.", "en": "Yes, that is my family. That is my house and that is our car." },
+        { "who": "A", "de": "Und das? Ist das dein Hund?", "en": "And that? Is that your dog?" },
+        { "who": "B", "de": "Ja, das ist mein Hund.", "en": "Yes, that is my dog." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn the table by pronoun: mein, dein, sein, ihr, sein, unser, euer, Ihr, ihr. Then add -e for feminine and plural nouns.",
+  "comprehension": [
+    { "q": "What are the two things to check when choosing a possessive article?", "a": "The personal pronoun (the owner) and the article of the noun (der/das or die)." },
+    { "q": "Which ending do you add before feminine and plural nouns?", "a": "-e (meine, deine, seine ...)." },
+    { "q": "What is the possessive article of wir?", "a": "unser / unsere" },
+    { "q": "What happens to euer before an ending?", "a": "It drops the e: eure." }
+  ],
+  "exercises": [
+    {
+      "title": "Fill in the possessive article",
+      "type": "fill",
+      "instructions": "Write the correct possessive article.",
+      "items": [
+        { "q": "Ich habe ein Auto. Das ist ___ Auto.", "a": "mein" },
+        { "q": "Du hast eine Tasche. Das ist ___ Tasche.", "a": "deine", "expl": "*die Tasche*: add *-e*." },
+        { "q": "Peter hat ein Haus. Das ist ___ Haus.", "a": "sein" },
+        { "q": "Das ist Anna. Das ist ___ Familie.", "a": "ihre", "expl": "Anna = *sie*; *die Familie*: *ihre*." },
+        { "q": "Wir haben ein Auto. Das ist ___ Auto.", "a": "unser" },
+        { "q": "Ihr habt eine Familie. Das ist ___ Familie.", "a": "eure", "expl": "*euer* drops the *e*: *eure*." },
+        { "q": "Herr Müller, ist das ___ Auto? (Sie, formal)", "a": "Ihr" },
+        { "q": "Das sind Laura und Antonio. Das ist ___ Haus.", "a": "ihr", "expl": "sie (plural), *das Haus*: *ihr*." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Choose the correct form",
+      "type": "choose",
+      "instructions": "Choose the correct possessive article.",
+      "items": [
+        { "q": "Das ist ___ Handy. (ich) (mein / meine)", "a": "mein", "expl": "*das Handy*" },
+        { "q": "Das ist ___ Lampe. (ich) (mein / meine)", "a": "meine", "expl": "*die Lampe*" },
+        { "q": "Das ist ___ Hund. (er) (sein / seine)", "a": "sein", "expl": "*der Hund*" },
+        { "q": "Das sind ___ Freunde. (ihr) (euer / eure)", "a": "eure", "expl": "Plural: *eure*." },
+        { "q": "Das sind ___ Kinder. (wir) (unser / unsere)", "a": "unsere" },
+        { "q": "Das ist ___ Katze. (du) (dein / deine)", "a": "deine", "expl": "*die Katze*" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Translate the sentences.",
+      "items": [
+        { "q": "This is my family.", "a": "Das ist meine Familie." },
+        { "q": "That is your car. (du)", "a": "Das ist dein Auto." },
+        { "q": "His house is big.", "a": "Sein Haus ist groß." },
+        { "q": "Our children are happy.", "a": "Unsere Kinder sind glücklich." },
+        { "q": "She is my friend. (female)", "a": "Sie ist meine Freundin." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "There is one possessive article for each personal pronoun: mein, dein, sein, ihr, sein, unser, euer, Ihr, ihr.",
+    "Step 1: choose by the owner (pronoun). Step 2: look at the noun's article.",
+    "With der/das nouns: no ending (mein Auto). With die nouns (feminine and plural): add -e (meine Familie).",
+    "euer becomes eure; unser becomes unsere.",
+    "Ihr (capital) is formal; ihr (small) is 'her' or 'their'."
+  ]
+}

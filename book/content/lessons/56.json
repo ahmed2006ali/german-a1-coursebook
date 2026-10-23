@@ -1,0 +1,223 @@
+{
+  "n": 56,
+  "title": "Taking a Taxi",
+  "titleDe": "Mit dem Taxi fahren",
+  "level": "A1",
+  "sourceNote": "The transcript is very garbled. Phrases were reconstructed into standard German from context; the polite forms *Würden / Könnten Sie ...* are only to be memorised as set phrases at this level.",
+  "objectives": [
+    "I can order a taxi by phone with the time and the address",
+    "I can stop a taxi in the street and say where I want to go",
+    "I can talk to the driver (speed, stopping, how long)",
+    "I can pay, ask for a receipt and give a tip"
+  ],
+  "vocab": [
+    { "de": "das Taxi", "pl": "die Taxis", "en": "taxi", "ar": "تاكسي", "note": "" },
+    { "de": "der Taxistand", "pl": "die Taxistände", "en": "taxi rank", "ar": "موقف سيارات الأجرة", "note": "" },
+    { "de": "der Taxifahrer / die Taxifahrerin", "pl": "die Taxifahrer", "en": "taxi driver", "ar": "سائق تاكسي", "note": "" },
+    { "de": "die Taxizentrale", "pl": "die Taxizentralen", "en": "taxi dispatch centre", "ar": "مركز طلب سيارات الأجرة", "note": "", "sup": true },
+    { "de": "das Taxameter", "pl": "die Taxameter", "en": "taximeter", "ar": "عدّاد التاكسي", "note": "" },
+    { "de": "die Quittung", "pl": "die Quittungen", "en": "receipt", "ar": "إيصال", "note": "" },
+    { "de": "das Trinkgeld", "pl": "die Trinkgelder", "en": "tip", "ar": "بقشيش", "note": "", "sup": true },
+    { "de": "der Flughafen", "pl": "die Flughäfen", "en": "airport", "ar": "مطار", "note": "" },
+    { "de": "der Bahnhof", "pl": "die Bahnhöfe", "en": "train station", "ar": "محطة قطار", "note": "" },
+    { "de": "das Stadtzentrum", "pl": "die Stadtzentren", "en": "city centre", "ar": "وسط المدينة", "note": "" },
+    { "de": "das Hotel", "pl": "die Hotels", "en": "hotel", "ar": "فندق", "note": "" },
+    { "de": "die Straße", "pl": "die Straßen", "en": "street", "ar": "شارع", "note": "" },
+    { "de": "die Bank", "pl": "die Banken", "en": "bank", "ar": "بنك", "note": "" },
+    { "de": "der Kiosk", "pl": "die Kioske", "en": "kiosk", "ar": "كشك", "note": "" },
+    { "de": "das Fenster", "pl": "die Fenster", "en": "window", "ar": "نافذة", "note": "" },
+    { "de": "die Karte", "pl": "die Karten", "en": "card", "ar": "بطاقة", "note": "mit Karte bezahlen", "sup": true },
+    { "de": "bestellen", "en": "to order", "ar": "يطلب", "note": "" },
+    { "de": "bezahlen", "en": "to pay", "ar": "يدفع", "note": "" },
+    { "de": "anhalten", "en": "to stop", "ar": "يتوقف", "note": "Halten Sie hier an." },
+    { "de": "dauern", "en": "to last, to take (time)", "ar": "يستغرق", "note": "Wie lange dauert ...?" },
+    { "de": "frei", "en": "free, available", "ar": "متاح / فارغ", "note": "Sind Sie frei?" },
+    { "de": "schneller", "en": "faster", "ar": "أسرع", "note": "" },
+    { "de": "sofort", "en": "immediately", "ar": "فورًا", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Ich brauche ein Taxi für morgen um 8 Uhr.", "en": "I need a taxi for tomorrow at 8 o'clock.", "ar": "" },
+    { "de": "Ich möchte ein Taxi zum Flughafen bestellen.", "en": "I would like to order a taxi to the airport.", "ar": "" },
+    { "de": "Ich brauche sofort ein Taxi in der Goethestraße.", "en": "I need a taxi immediately in Goethestraße.", "ar": "" },
+    { "de": "Es sind keine Taxis frei.", "en": "There are no taxis available.", "ar": "" },
+    { "de": "Das Taxi ist in zehn Minuten da.", "en": "The taxi will be there in ten minutes.", "ar": "" },
+    { "de": "Entschuldigung, sind Sie frei?", "en": "Excuse me, are you free?", "ar": "" },
+    { "de": "Können Sie mich zum Bahnhof bringen?", "en": "Can you take me to the station?", "ar": "" },
+    { "de": "Würden Sie mich zum Flughafen bringen?", "en": "Would you take me to the airport?", "ar": "" },
+    { "de": "Wohin möchten Sie?", "en": "Where would you like to go?", "ar": "" },
+    { "de": "Zum Flughafen, bitte.", "en": "To the airport, please.", "ar": "" },
+    { "de": "Ist das Taxameter an?", "en": "Is the taximeter on?", "ar": "" },
+    { "de": "Wie lange dauert die Fahrt?", "en": "How long does the ride take?", "ar": "" },
+    { "de": "Ich habe es eilig.", "en": "I'm in a hurry.", "ar": "" },
+    { "de": "Können Sie bitte schneller fahren?", "en": "Can you please drive faster?", "ar": "" },
+    { "de": "Können Sie bitte das Fenster aufmachen?", "en": "Can you please open the window?", "ar": "" },
+    { "de": "Halten Sie bitte hier an.", "en": "Please stop here.", "ar": "" },
+    { "de": "Können Sie bitte an einer Bank anhalten?", "en": "Can you please stop at a bank?", "ar": "" },
+    { "de": "Wie viel macht das?", "en": "How much is that?", "ar": "" },
+    { "de": "Das macht 25 Euro.", "en": "That's 25 euros.", "ar": "" },
+    { "de": "Kann ich mit Karte bezahlen?", "en": "Can I pay by card?", "ar": "" },
+    { "de": "Kann ich eine Quittung haben?", "en": "Can I have a receipt?", "ar": "" },
+    { "de": "Stimmt so. / Der Rest ist für Sie.", "en": "Keep the change.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Ich brauche ein Taxi für + [time] / in + [street].", "ex": "Ich brauche ein Taxi für heute Abend um 20 Uhr.", "en": "I need a taxi for this evening at 8 pm." },
+    { "form": "Ich möchte zum + [masc./neuter place] / zur + [feminine place].", "ex": "Ich möchte zum Bahnhof.", "en": "I would like to go to the station." },
+    { "form": "Können Sie bitte + [...] + [infinitive]?", "ex": "Können Sie bitte schneller fahren?", "en": "Can you please drive faster?" },
+    { "form": "Halten Sie bitte + [place] + an.", "ex": "Halten Sie bitte hier an.", "en": "Please stop here." }
+  ],
+  "grammar": [
+    {
+      "title": "Taxis in Germany",
+      "body": "German taxis are mostly cream-coloured cars with a black and yellow sign on the roof. You find them at a **Taxistand** at train stations, airports, hotels and shopping areas. Usually you take the first taxi in the line, but you may choose another one. You can also call the **Taxizentrale**, book through an app or stop a taxi on the street.\n\nTaxi drivers are usually friendly and often help with the luggage. A taxi can be more expensive at night, on Sundays and on holidays.",
+      "ar": "تاكسي ألمانيا غالبًا بلون كريمي وعليه لوحة سوداء وصفراء."
+    },
+    {
+      "title": "Ordering a taxi by phone",
+      "body": "Give the **time** and the **address**. For the time use **für ... um ...**, for the street use **in der** + street name. If you want the taxi at once, say **sofort**.\n\nThe answer can be bad (**Es sind keine Taxis frei.**) or good (**Das Taxi ist in zehn Minuten da.**).",
+      "examples": [
+        { "de": "Ich brauche ein Taxi für morgen um 8 Uhr.", "en": "I need a taxi for tomorrow at 8 o'clock." },
+        { "de": "Ich möchte ein Taxi zum Flughafen bestellen.", "en": "I would like to order a taxi to the airport." },
+        { "de": "Ich brauche sofort ein Taxi in der Goethestraße.", "en": "I need a taxi immediately in Goethestraße." }
+      ]
+    },
+    {
+      "title": "Stopping a taxi and saying where to go",
+      "body": "In the street: **Entschuldigung, sind Sie frei?** Then say where to go with **zum / zur** (zu + dem / zu + der): **zum** Bahnhof, **zum** Flughafen, **zum** Stadtzentrum, **zur** Bank. The driver asks **Wohin möchten Sie?**\n\nYou will also hear **Würden Sie ...?** and **Könnten Sie ...?** They are more polite forms of *Können Sie ...?* For now just learn them as phrases.",
+      "examples": [
+        { "de": "Wohin möchten Sie? - Zum Flughafen, bitte.", "en": "Where would you like to go? - To the airport, please." },
+        { "de": "Können Sie mich zum Hotel bringen?", "en": "Can you take me to the hotel?" }
+      ]
+    },
+    {
+      "title": "In the taxi",
+      "body": "Check the meter: **Ist das Taxameter an?** Ask how long it takes: **Wie lange dauert die Fahrt?** If you are in a hurry: **Ich habe es eilig. Können Sie bitte schneller fahren?** You can also ask for the window: **Können Sie bitte das Fenster aufmachen / zumachen?**\n\nTo stop use **anhalten**: **Halten Sie bitte hier an.** Note that **an** moves to the end. If you need to do something on the way: **Können Sie bitte an einer Bank anhalten? Ich bin gleich zurück.**",
+      "examples": [
+        { "de": "Wie lange dauert die Fahrt zum Flughafen?", "en": "How long does the ride to the airport take?" },
+        { "de": "Halten Sie bitte hier an.", "en": "Please stop here." }
+      ]
+    },
+    {
+      "title": "Paying",
+      "body": "Ask **Wie viel macht das?** The driver says **Das macht 25 Euro.** Many taxis accept cards, but ask first: **Kann ich mit Karte bezahlen?** Otherwise have cash. For a receipt: **Kann ich eine Quittung haben?** The driver may ask **Möchten Sie eine Quittung?**\n\nTipping: round up to the next euro (say **Stimmt so.** or **Der Rest ist für Sie.**). On long trips 5 to 10 percent of the fare is normal. It is up to you.",
+      "examples": [
+        { "de": "Das macht 12 Euro. - Stimmt so.", "en": "That's 12 euros. - Keep the change." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich möchte zu Bahnhof.", "right": "Ich möchte zum Bahnhof.", "why": "*zu* + *dem* = *zum* (masculine/neuter)." },
+    { "wrong": "Ich möchte zum Bank.", "right": "Ich möchte zur Bank.", "why": "*die Bank* is feminine: *zu der* = *zur*." },
+    { "wrong": "Halten Sie bitte an hier.", "right": "Halten Sie bitte hier an.", "why": "*an* is the separable prefix and goes to the end." }
+  ],
+  "pronunciation": [
+    { "de": "x in Taxi", "tip": "Like 'ks': 'TAK-si'." },
+    { "de": "-straße", "tip": "*ß* is a sharp 's', *st* at the start sounds like 'sht': *Goethestraße* = 'GÖ-te-shtra-sse'." },
+    { "de": "ö", "tip": "Round your lips and say 'e': *Goethe*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Ordering a taxi by phone",
+      "lines": [
+        { "who": "Zentrale", "de": "Taxizentrale, guten Tag.", "en": "Taxi centre, hello." },
+        { "who": "Kunde", "de": "Guten Tag. Ich brauche ein Taxi für morgen um 8 Uhr.", "en": "Hello. I need a taxi for tomorrow at 8 o'clock." },
+        { "who": "Zentrale", "de": "Wohin möchten Sie?", "en": "Where would you like to go?" },
+        { "who": "Kunde", "de": "Zum Flughafen, bitte.", "en": "To the airport, please." },
+        { "who": "Zentrale", "de": "Und wo sind Sie?", "en": "And where are you?" },
+        { "who": "Kunde", "de": "In der Goethestraße 5.", "en": "In Goethestraße 5." },
+        { "who": "Zentrale", "de": "Gut. Das Taxi ist um 8 Uhr da.", "en": "Good. The taxi will be there at 8." }
+      ]
+    },
+    {
+      "title": "In the taxi",
+      "lines": [
+        { "who": "Fahrer", "de": "Wohin möchten Sie?", "en": "Where would you like to go?" },
+        { "who": "Kunde", "de": "Zum Bahnhof, bitte. Wie lange dauert die Fahrt?", "en": "To the station, please. How long does the ride take?" },
+        { "who": "Fahrer", "de": "Etwa zehn Minuten.", "en": "About ten minutes." },
+        { "who": "Kunde", "de": "Halten Sie bitte hier an. Wie viel macht das?", "en": "Please stop here. How much is that?" },
+        { "who": "Fahrer", "de": "Das macht 12 Euro.", "en": "That's 12 euros." },
+        { "who": "Kunde", "de": "Kann ich mit Karte bezahlen?", "en": "Can I pay by card?" },
+        { "who": "Fahrer", "de": "Ja, gern.", "en": "Yes, gladly." }
+      ]
+    }
+  ],
+  "tip": "At the end of the ride say the amount you want to pay and add *Stimmt so.* - the driver keeps the change as a tip.",
+  "comprehension": [
+    { "q": "Where do you usually find a taxi in a German city?", "a": "At a Taxistand, for example at train stations, airports and hotels." },
+    { "q": "How do you order a taxi for tomorrow at 8 o'clock?", "a": "Ich brauche ein Taxi für morgen um 8 Uhr." },
+    { "q": "How do you ask the driver to stop here?", "a": "Halten Sie bitte hier an." },
+    { "q": "How do you ask whether you can pay by card?", "a": "Kann ich mit Karte bezahlen?" },
+    { "q": "What does 'Stimmt so.' mean?", "a": "Keep the change." }
+  ],
+  "exercises": [
+    {
+      "title": "Match",
+      "type": "match",
+      "instructions": "Match the German word with its English meaning.",
+      "items": [
+        { "q": "der Taxistand", "a": "taxi rank" },
+        { "q": "die Quittung", "a": "receipt" },
+        { "q": "das Trinkgeld", "a": "tip" },
+        { "q": "der Flughafen", "a": "airport" },
+        { "q": "der Bahnhof", "a": "train station" },
+        { "q": "das Taxameter", "a": "taximeter" }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentences.",
+      "items": [
+        { "q": "Ich ___ ein Taxi für morgen um 8 Uhr. (brauchen)", "a": "brauche" },
+        { "q": "Ich möchte ___ Flughafen.", "a": "zum", "expl": "*der Flughafen* is masculine: *zu dem* = *zum*." },
+        { "q": "Wohin ___ Sie? (möchten)", "a": "möchten" },
+        { "q": "Kann ich eine ___ haben? (receipt)", "a": "Quittung" },
+        { "q": "Halten Sie bitte hier ___.", "a": "an", "expl": "*anhalten* is separable." },
+        { "q": "Das macht 25 ___.", "a": "Euro" }
+      ]
+    },
+    {
+      "title": "zum or zur?",
+      "type": "choose",
+      "instructions": "Choose the correct word.",
+      "items": [
+        { "q": "Ich möchte ___ Bahnhof. (zum / zur)", "a": "zum", "expl": "*der Bahnhof* is masculine." },
+        { "q": "Ich möchte ___ Stadtzentrum. (zum / zur)", "a": "zum", "expl": "*das Stadtzentrum* is neuter." },
+        { "q": "Ich möchte ___ Bank. (zum / zur)", "a": "zur", "expl": "*die Bank* is feminine." },
+        { "q": "___ Sie frei? (Sind / Ist)", "a": "Sind" },
+        { "q": "Wie lange ___ die Fahrt? (dauert / dauern)", "a": "dauert", "expl": "*die Fahrt* is singular." }
+      ]
+    },
+    {
+      "title": "Word order",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "Ich / ein Taxi / brauche / sofort", "a": "Ich brauche sofort ein Taxi. / Sofort brauche ich ein Taxi." },
+        { "q": "möchten / Sie / Wohin", "a": "Wohin möchten Sie?" },
+        { "q": "Sie / sind / frei / ?", "a": "Sind Sie frei?" },
+        { "q": "bitte / hier / Halten Sie / an", "a": "Halten Sie bitte hier an. / Bitte halten Sie hier an." },
+        { "q": "ich / Kann / Karte / mit / bezahlen", "a": "Kann ich mit Karte bezahlen?" },
+        { "q": "Das / Euro / macht / 25", "a": "Das macht 25 Euro." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I need a taxi for tomorrow at 8 o'clock.", "a": "Ich brauche ein Taxi für morgen um 8 Uhr. / Ich brauche ein Taxi für morgen um acht Uhr." },
+        { "q": "Where would you like to go?", "a": "Wohin möchten Sie?" },
+        { "q": "Please stop here.", "a": "Halten Sie bitte hier an. / Bitte halten Sie hier an." },
+        { "q": "How long does the ride take?", "a": "Wie lange dauert die Fahrt?" },
+        { "q": "Can I have a receipt?", "a": "Kann ich eine Quittung haben?" },
+        { "q": "Keep the change.", "a": "Stimmt so. / Der Rest ist für Sie." }
+      ]
+    }
+  ],
+  "summary": [
+    "Order by phone: **Ich brauche ein Taxi für morgen um 8 Uhr.** / **in der Goethestraße** / **sofort**.",
+    "In the street: **Entschuldigung, sind Sie frei?** Say where: **zum Bahnhof, zum Flughafen, zur Bank**.",
+    "In the taxi: **Ist das Taxameter an? Wie lange dauert die Fahrt? Halten Sie bitte hier an.**",
+    "Paying: **Wie viel macht das? Kann ich mit Karte bezahlen? Kann ich eine Quittung haben? Stimmt so.**"
+  ]
+}

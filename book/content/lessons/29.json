@@ -1,0 +1,182 @@
+{
+  "n": 29,
+  "title": "Question Words (W-Fragen)",
+  "titleDe": "W-Fragen",
+  "level": "A1",
+  "sourceNote": "The transcript is garbled and partly corrupted. The question words and example questions are recognisable; one example (ein Fahrrad) is reconstructed from context.",
+  "objectives": [
+    "I can name the main German question words",
+    "I can ask questions with was, warum, wann, wer, wen, wie and wo",
+    "I can ask with woher, wohin, wie viel, wie viele, wie oft and welche",
+    "I can put the question word first and the verb second"
+  ],
+  "vocab": [
+    { "de": "der Beruf", "pl": "die Berufe", "en": "job, profession", "ar": "المهنة", "note": "", "sup": false },
+    { "de": "traurig", "en": "sad", "ar": "حزين", "note": "", "sup": false },
+    { "de": "heiraten", "en": "to marry", "ar": "يتزوج", "note": "ihr heiratet", "sup": false },
+    { "de": "der Urlaub", "pl": "–", "en": "holiday, vacation", "ar": "إجازة", "note": "im Urlaub: on holiday", "sup": false },
+    { "de": "das Fahrrad", "pl": "die Fahrräder", "en": "bicycle", "ar": "دراجة", "note": "", "sup": false },
+    { "de": "kosten", "en": "to cost", "ar": "يكلّف", "note": "es kostet", "sup": false },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل", "note": "", "sup": false },
+    { "de": "der Fußball", "pl": "die Fußbälle", "en": "football (soccer)", "ar": "كرة القدم", "note": "Fußball spielen", "sup": false },
+    { "de": "die Sprache", "pl": "die Sprachen", "en": "language", "ar": "لغة", "note": "", "sup": false },
+    { "de": "fahren", "en": "to go (by vehicle), to drive", "ar": "يسافر / يقود", "note": "du fährst, ihr fahrt", "sup": true }
+  ],
+  "expressions": [
+    { "de": "Was sind Sie von Beruf?", "en": "What do you do for a living?", "ar": "ما مهنتك؟", "sup": false },
+    { "de": "Warum bist du traurig?", "en": "Why are you sad?", "ar": "لماذا أنت حزين؟", "sup": false },
+    { "de": "Wann heiratet ihr?", "en": "When are you getting married?", "ar": "متى ستتزوجون؟", "sup": false },
+    { "de": "Wer spricht gut Deutsch?", "en": "Who speaks German well?", "ar": "من يتحدث الألمانية جيداً؟", "sup": false },
+    { "de": "Wen liebst du?", "en": "Whom do you love?", "ar": "من تحب؟", "sup": false },
+    { "de": "Wie alt bist du?", "en": "How old are you?", "ar": "كم عمرك؟", "sup": false },
+    { "de": "Wo wohnst du?", "en": "Where do you live?", "ar": "أين تسكن؟", "sup": false },
+    { "de": "Woher kommst du?", "en": "Where are you from?", "ar": "من أين أنت؟", "sup": false },
+    { "de": "Wohin fahrt ihr im Urlaub?", "en": "Where are you going on holiday?", "ar": "إلى أين تسافرون في الإجازة؟", "sup": false },
+    { "de": "Wie viel kostet ein Fahrrad?", "en": "How much does a bicycle cost?", "ar": "كم تكلّف الدراجة؟", "sup": false },
+    { "de": "Wie viele Kinder hast du?", "en": "How many children do you have?", "ar": "كم طفلاً لديك؟", "sup": false },
+    { "de": "Wie oft spielst du Fußball?", "en": "How often do you play football?", "ar": "كم مرة تلعب كرة القدم؟", "sup": false },
+    { "de": "Welche Sprachen sprichst du?", "en": "Which languages do you speak?", "ar": "ما اللغات التي تتحدثها؟", "sup": false }
+  ],
+  "patterns": [
+    { "form": "W-word + verb + subject + ...?", "ex": "Woher kommst du?", "en": "Where are you from?" },
+    { "form": "Wie viele + plural noun + verb + subject?", "ex": "Wie viele Kinder hast du?", "en": "How many children do you have?" },
+    { "form": "Welche + plural noun + verb + subject?", "ex": "Welche Sprachen sprichst du?", "en": "Which languages do you speak?" }
+  ],
+  "grammar": [
+    {
+      "title": "W-Fragen: question words",
+      "body": "Questions that start with a **W-word** ask for information. The **question word** is in position 1 and the **conjugated verb** in position 2: *Woher kommst du?*\n\nThe answer is never just ja or nein.",
+      "ar": "كلمة الاستفهام أولاً ثم الفعل المصرَّف ثانياً.",
+      "table": {
+        "head": ["Question word", "Meaning", "Example"],
+        "rows": [
+          ["was", "what", "Was sind Sie von Beruf?"],
+          ["warum", "why", "Warum bist du traurig?"],
+          ["wann", "when", "Wann heiratet ihr?"],
+          ["wer", "who (subject)", "Wer spricht gut Deutsch?"],
+          ["wen", "whom (accusative)", "Wen liebst du?"],
+          ["wie", "how", "Wie alt bist du?"],
+          ["wo", "where (place)", "Wo wohnst du?"],
+          ["woher", "where from", "Woher kommst du?"],
+          ["wohin", "where to", "Wohin fahrt ihr im Urlaub?"],
+          ["wie viel", "how much", "Wie viel kostet ein Fahrrad?"],
+          ["wie viele", "how many", "Wie viele Kinder hast du?"],
+          ["wie oft", "how often", "Wie oft spielst du Fußball?"],
+          ["welche", "which", "Welche Sprachen sprichst du?"]
+        ]
+      },
+      "sup": false
+    },
+    {
+      "title": "wo, woher, wohin",
+      "body": "These three are often confused:\n\n- **wo** = where (at a place, no movement): *Wo wohnst du?*\n- **woher** = where from (origin): *Woher kommst du?*\n- **wohin** = where to (direction): *Wohin fahrt ihr?*",
+      "ar": "wo = أين، woher = من أين، wohin = إلى أين.",
+      "sup": false
+    },
+    {
+      "title": "wer and wen",
+      "body": "**wer** asks for the **subject** (nominative): *Wer spricht gut Deutsch?*\n\n**wen** asks for the **accusative object** (lesson 26): *Wen liebst du?* – *Ich liebe Anna.*",
+      "sup": false
+    },
+    {
+      "title": "wie viel, wie viele, wie oft, welche",
+      "body": "**wie viel** is used with prices and things you cannot count: *Wie viel kostet das?*\n\n**wie viele** is used with countable plural nouns: *Wie viele Kinder hast du?*\n\n**wie oft** asks about frequency: *Wie oft spielst du Fußball?*\n\n**welche** (which) is used here with plural nouns: *Welche Sprachen sprichst du?*",
+      "sup": false
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Wo kommst du?", "right": "Woher kommst du?", "why": "For the place of origin use *woher*." },
+    { "wrong": "Du wohnst wo?", "right": "Wo wohnst du?", "why": "The question word is in position 1, the verb in position 2." },
+    { "wrong": "Wie viel Kinder hast du?", "right": "Wie viele Kinder hast du?", "why": "Countable plural nouns need *wie viele*." }
+  ],
+  "pronunciation": [
+    { "de": "w", "tip": "German *w* sounds like English 'v': *wer*, *wo*, *wann*, *warum*." },
+    { "de": "wie / wer / wen", "tip": "*wie* = 'vee' (long i). *wer* = 'vair'. *wen* = 'vayn'." }
+  ],
+  "dialogues": [
+    {
+      "title": "Getting to know each other",
+      "lines": [
+        { "who": "A", "de": "Hallo! Woher kommst du?", "en": "Hello! Where are you from?" },
+        { "who": "B", "de": "Ich komme aus Syrien. Und du?", "en": "I come from Syria. And you?" },
+        { "who": "A", "de": "Ich komme aus Berlin. Wo wohnst du jetzt?", "en": "I come from Berlin. Where do you live now?" },
+        { "who": "B", "de": "Ich wohne in Hamburg. Wie viele Sprachen sprichst du?", "en": "I live in Hamburg. How many languages do you speak?" },
+        { "who": "A", "de": "Ich spreche zwei Sprachen.", "en": "I speak two languages." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Make flashcards with the question word on one side and an example question on the other. Think of one personal question for each W-word.",
+  "comprehension": [
+    { "q": "Which question word asks about the place you come from?", "a": "woher" },
+    { "q": "Which question word asks about direction ('where to')?", "a": "wohin" },
+    { "q": "Which question word asks for the accusative object (a person)?", "a": "wen" },
+    { "q": "How do you ask 'How many children do you have?'", "a": "Wie viele Kinder hast du?" },
+    { "q": "In which position is the verb in a W-question?", "a": "In second position, after the question word." }
+  ],
+  "exercises": [
+    {
+      "title": "Choose the question word",
+      "type": "choose",
+      "instructions": "Choose the correct question word.",
+      "items": [
+        { "q": "___ kommst du? – Aus Berlin. (Woher / Wohin / Wo)", "a": "Woher", "expl": "Origin." },
+        { "q": "___ wohnst du? – In Hamburg. (Woher / Wohin / Wo)", "a": "Wo", "expl": "Place." },
+        { "q": "___ fahrt ihr im Urlaub? – Nach Italien. (Woher / Wohin / Wo)", "a": "Wohin", "expl": "Direction." },
+        { "q": "___ alt bist du? – Dreißig. (Wie / Wer / Wo)", "a": "Wie", "expl": "*Wie alt* asks for age." },
+        { "q": "___ Kinder hast du? – Zwei. (Wie viel / Wie viele)", "a": "Wie viele", "expl": "Countable plural." },
+        { "q": "___ kostet das Fahrrad? – 200 Euro. (Wie viel / Wie viele)", "a": "Wie viel", "expl": "Price." },
+        { "q": "___ spricht gut Deutsch? – Anna. (Wer / Wen)", "a": "Wer", "expl": "Anna is the subject." },
+        { "q": "___ liebst du? – Meine Familie. (Wer / Wen)", "a": "Wen", "expl": "Accusative object." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Match question and answer",
+      "type": "match",
+      "instructions": "Match each question with a suitable answer.",
+      "items": [
+        { "q": "Woher kommst du?", "a": "Ich komme aus Syrien." },
+        { "q": "Wo wohnst du?", "a": "Ich wohne in Berlin." },
+        { "q": "Wie alt bist du?", "a": "Ich bin 30 Jahre alt." },
+        { "q": "Wie viele Kinder hast du?", "a": "Ich habe zwei Kinder." },
+        { "q": "Wohin fahrt ihr?", "a": "Wir fahren nach Spanien." },
+        { "q": "Wen liebst du?", "a": "Ich liebe meine Familie." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Form a correct question.",
+      "items": [
+        { "q": "du / kommst / Woher", "a": "Woher kommst du?" },
+        { "q": "wohnst / Wo / du", "a": "Wo wohnst du?" },
+        { "q": "Wie / bist / alt / du", "a": "Wie alt bist du?" },
+        { "q": "Kinder / viele / hast / Wie / du", "a": "Wie viele Kinder hast du?" },
+        { "q": "Sprachen / sprichst / Welche / du", "a": "Welche Sprachen sprichst du?" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Write the question in German (use du where 'you' appears).",
+      "items": [
+        { "q": "Where do you live?", "a": "Wo wohnst du?" },
+        { "q": "Who speaks German well?", "a": "Wer spricht gut Deutsch?" },
+        { "q": "Whom do you love?", "a": "Wen liebst du?" },
+        { "q": "How often do you play football?", "a": "Wie oft spielst du Fußball?" },
+        { "q": "Why are you sad?", "a": "Warum bist du traurig?" }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "W-questions start with a question word; the verb is in second position.",
+    "wo = where, woher = where from, wohin = where to.",
+    "wer asks for the subject, wen for the accusative object.",
+    "wie viel (uncountable / price), wie viele (countable plural), wie oft (frequency), welche (which).",
+    "Others: was, warum, wann, wie."
+  ]
+}

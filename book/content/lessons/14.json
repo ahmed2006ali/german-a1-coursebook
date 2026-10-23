@@ -1,0 +1,184 @@
+{
+  "n": 14,
+  "title": "Regular Verbs",
+  "titleDe": "Regelmäßige Verben",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; the verb forms are standard German, but the exercise sentences at the end were reconstructed from context.",
+  "objectives": [
+    "I can conjugate regular verbs in the present tense",
+    "I can use the endings -e, -st, -t, -en, -t, -en",
+    "I can handle stems ending in s, ß, z, d or t",
+    "I can use common regular verbs in sentences"
+  ],
+  "vocab": [
+    { "de": "wohnen", "en": "to live", "ar": "يسكن" },
+    { "de": "spielen", "en": "to play", "ar": "يلعب" },
+    { "de": "studieren", "en": "to study (at university)", "ar": "يدرس في الجامعة" },
+    { "de": "hören", "en": "to hear / listen", "ar": "يسمع" },
+    { "de": "telefonieren", "en": "to phone", "ar": "يتّصل هاتفيًا" },
+    { "de": "fragen", "en": "to ask", "ar": "يسأل" },
+    { "de": "sagen", "en": "to say", "ar": "يقول" },
+    { "de": "reisen", "en": "to travel", "ar": "يسافر" },
+    { "de": "tanzen", "en": "to dance", "ar": "يرقص" },
+    { "de": "arbeiten", "en": "to work", "ar": "يعمل" },
+    { "de": "warten", "en": "to wait", "ar": "ينتظر" },
+    { "de": "lernen", "en": "to learn", "ar": "يتعلّم" },
+    { "de": "kommen", "en": "to come", "ar": "يأتي" },
+    { "de": "bei", "en": "at (a company)", "ar": "عند / في (شركة)", "note": "bei Siemens = at Siemens" },
+    { "de": "die Mathematik", "pl": "–", "en": "maths", "ar": "الرياضيات" }
+  ],
+  "expressions": [
+    { "de": "Ich studiere Mathematik.", "en": "I study maths." },
+    { "de": "Veronika arbeitet bei Siemens.", "en": "Veronika works at Siemens." },
+    { "de": "Wohnt ihr in Köln?", "en": "Do you (plural) live in Cologne?" }
+  ],
+  "patterns": [
+    { "form": "stem + -e / -st / -t / -en / -t / -en", "ex": "ich wohne, du wohnst, er wohnt", "en": "I live, you live, he lives" },
+    { "form": "stem on -s/-ß/-z + du → -t", "ex": "du reist", "en": "you travel" },
+    { "form": "stem on -d/-t + du → -est", "ex": "du arbeitest", "en": "you work" }
+  ],
+  "grammar": [
+    {
+      "title": "The regular endings",
+      "body": "Regular verbs (*regelmäßige* or *schwache Verben*) keep their stem. You only add the ending that fits the pronoun. Notice that *er / sie / es* and *ihr* have the same ending **-t**, and *wir* and *sie / Sie* have the same ending **-en** (identical to the infinitive).",
+      "table": {
+        "head": ["Pronoun", "Ending", "wohnen", "spielen"],
+        "rows": [
+          ["ich", "-e", "wohne", "spiele"],
+          ["du", "-st", "wohnst", "spielst"],
+          ["er / sie / es", "-t", "wohnt", "spielt"],
+          ["wir", "-en", "wohnen", "spielen"],
+          ["ihr", "-t", "wohnt", "spielt"],
+          ["sie / Sie", "-en", "wohnen", "spielen"]
+        ]
+      },
+      "ar": "الأفعال المنتظمة: نضيف النهاية إلى الجذع فقط."
+    },
+    {
+      "title": "More regular verbs",
+      "body": "All these verbs follow the same pattern. Listen and repeat: *ich studiere, du studierst, er studiert; ich höre, du hörst, er hört; ich frage, du fragst, er fragt; ich sage, du sagst, er sagt.*",
+      "table": {
+        "head": ["", "studieren", "hören", "telefonieren", "fragen", "sagen"],
+        "rows": [
+          ["ich", "studiere", "höre", "telefoniere", "frage", "sage"],
+          ["du", "studierst", "hörst", "telefonierst", "fragst", "sagst"],
+          ["er / sie / es", "studiert", "hört", "telefoniert", "fragt", "sagt"],
+          ["wir", "studieren", "hören", "telefonieren", "fragen", "sagen"],
+          ["ihr", "studiert", "hört", "telefoniert", "fragt", "sagt"],
+          ["sie / Sie", "studieren", "hören", "telefonieren", "fragen", "sagen"]
+        ]
+      }
+    },
+    {
+      "title": "Special case 1: stems ending in -s, -ß, -z",
+      "body": "If the stem already ends in an s-sound (**s, ß, z**), the *du* form only takes **-t**, not *-st*. This avoids a double s-sound.",
+      "table": {
+        "head": ["", "reisen", "tanzen", "heißen"],
+        "rows": [
+          ["ich", "reise", "tanze", "heiße"],
+          ["du", "reist", "tanzt", "heißt"],
+          ["er / sie / es", "reist", "tanzt", "heißt"],
+          ["wir", "reisen", "tanzen", "heißen"],
+          ["ihr", "reist", "tanzt", "heißt"],
+          ["sie / Sie", "reisen", "tanzen", "heißen"]
+        ]
+      }
+    },
+    {
+      "title": "Special case 2: stems ending in -d or -t",
+      "body": "If the stem ends in **-d** or **-t**, you add an extra **e** before *-st* and *-t*, so the verb is easy to pronounce: *du arbeitest*, *er arbeitet*, *ihr arbeitet*. The same applies to *warten*.",
+      "table": {
+        "head": ["", "arbeiten", "warten"],
+        "rows": [
+          ["ich", "arbeite", "warte"],
+          ["du", "arbeitest", "wartest"],
+          ["er / sie / es", "arbeitet", "wartet"],
+          ["wir", "arbeiten", "warten"],
+          ["ihr", "arbeitet", "wartet"],
+          ["sie / Sie", "arbeiten", "warten"]
+        ]
+      },
+      "ar": "إذا انتهى الجذع بـ d أو t نضيف e قبل st و t."
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Du reisst nach Berlin.", "right": "Du reist nach Berlin.", "why": "The stem ends in s, so du takes only -t." },
+    { "wrong": "Du arbeitst bei Siemens.", "right": "Du arbeitest bei Siemens.", "why": "Stems in -t need an extra e: *arbeitest*." },
+    { "wrong": "Er arbeit bei Siemens.", "right": "Er arbeitet bei Siemens.", "why": "*er / sie / es* needs -t, and the stem in -t needs the extra e." }
+  ],
+  "pronunciation": [
+    { "de": "-st / -t", "tip": "In *du arbeitest* you clearly hear the extra *e*: ar-bai-test." },
+    { "de": "z", "tip": "German *z* is *ts*: *tanzen* = 'tan-tsen'." }
+  ],
+  "dialogues": [
+    {
+      "title": "At work",
+      "lines": [
+        { "who": "A", "de": "Wo arbeitest du?", "en": "Where do you work?" },
+        { "who": "B", "de": "Ich arbeite bei Siemens. Und du?", "en": "I work at Siemens. And you?" },
+        { "who": "A", "de": "Ich studiere Mathematik. Ich wohne in Köln.", "en": "I study maths. I live in Cologne." },
+        { "who": "B", "de": "Wohnt Veronika auch in Köln?", "en": "Does Veronika also live in Cologne?" },
+        { "who": "A", "de": "Ja, sie wohnt auch in Köln.", "en": "Yes, she also lives in Cologne." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Do not worry about the long lists. With practice the endings become automatic: ich -e, du -st, er -t, wir -en, ihr -t, sie -en.",
+  "comprehension": [
+    { "q": "Does the stem of a regular verb change?", "a": "No, it stays the same." },
+    { "q": "Which two pronouns have the ending -t?", "a": "er / sie / es and ihr." },
+    { "q": "What happens with *du* when the stem ends in s, ß or z?", "a": "It takes only -t (du reist, du tanzt)." },
+    { "q": "What happens with *du* when the stem ends in -d or -t?", "a": "It takes -est (du arbeitest, du wartest)." }
+  ],
+  "exercises": [
+    {
+      "title": "Conjugate the verb",
+      "type": "fill",
+      "instructions": "Write the correct form of the verb in brackets.",
+      "items": [
+        { "q": "Ich ___ Mathematik. (studieren)", "a": "studiere" },
+        { "q": "Wir ___ in Köln. (wohnen)", "a": "wohnen" },
+        { "q": "Veronika ___ bei Siemens. (arbeiten)", "a": "arbeitet", "expl": "Stem in -t: er/sie + -et." },
+        { "q": "Du ___ Fußball. (spielen)", "a": "spielst" },
+        { "q": "___ ihr in Köln? (wohnen)", "a": "Wohnt", "expl": "Yes/no question: verb first. ihr + -t." },
+        { "q": "Du ___ nach Berlin. (reisen)", "a": "reist", "expl": "Stem in -s: only -t." },
+        { "q": "Anna ___ gut. (tanzen)", "a": "tanzt" },
+        { "q": "Du ___ hier. (warten)", "a": "wartest", "expl": "Stem in -t: extra e." }
+      ]
+    },
+    {
+      "title": "Choose the du-form",
+      "type": "choose",
+      "instructions": "Choose the correct form for du.",
+      "items": [
+        { "q": "tanzen: du ___ (tanzst / tanzt)", "a": "tanzt" },
+        { "q": "arbeiten: du ___ (arbeitst / arbeitest)", "a": "arbeitest" },
+        { "q": "reisen: du ___ (reisst / reist)", "a": "reist" },
+        { "q": "heißen: du ___ (heißst / heißt)", "a": "heißt" },
+        { "q": "fragen: du ___ (fragst / fragt)", "a": "fragst" },
+        { "q": "warten: du ___ (wartst / wartest)", "a": "wartest" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I work.", "a": "Ich arbeite." },
+        { "q": "You (du) dance.", "a": "Du tanzt." },
+        { "q": "We study.", "a": "Wir studieren." },
+        { "q": "She asks.", "a": "Sie fragt." },
+        { "q": "They live in Berlin.", "a": "Sie wohnen in Berlin." },
+        { "q": "Do you (ihr) work in Berlin?", "a": "Arbeitet ihr in Berlin?" }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Regular verbs keep their stem; add: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en.",
+    "Stems in -s, -ß, -z: du takes only -t (du reist, du tanzt, du heißt).",
+    "Stems in -d or -t: add an extra e (du arbeitest, er arbeitet, ihr wartet).",
+    "Learn the pattern, not every verb separately."
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "n": 46,
+  "title": "Perfekt: Forming Partizip II",
+  "titleDe": "Das Perfekt, Teil 3",
+  "level": "A1",
+  "sourceNote": "Transcript is auto-captioned and partly garbled in the middle (irregular verbs section). Rules were reconstructed from the examples; the final promotional part is omitted.",
+  "objectives": [
+    "I can form the Partizip II of regular verbs (ge- + stem + -t)",
+    "I can form the Partizip II of irregular verbs (ge- + stem + -en)",
+    "I can form the Partizip II of separable and inseparable verbs",
+    "I can use the Perfekt in short sentences about the past"
+  ],
+  "vocab": [
+    { "de": "kochen", "en": "to cook", "note": "hat gekocht", "ar": "يطبخ" },
+    { "de": "fotografieren", "en": "to photograph", "note": "hat fotografiert", "ar": "يصوّر" },
+    { "de": "lernen", "en": "to learn", "note": "hat gelernt", "ar": "يتعلم" },
+    { "de": "arbeiten", "en": "to work", "note": "hat gearbeitet", "ar": "يعمل" },
+    { "de": "schreiben", "en": "to write", "note": "hat geschrieben", "ar": "يكتب" },
+    { "de": "finden", "en": "to find", "note": "hat gefunden", "ar": "يجد" },
+    { "de": "denken", "en": "to think", "note": "hat gedacht", "ar": "يفكر" },
+    { "de": "bringen", "en": "to bring", "note": "hat gebracht", "ar": "يحضر" },
+    { "de": "geben", "en": "to give", "note": "hat gegeben", "ar": "يعطي" },
+    { "de": "nehmen", "en": "to take", "note": "hat genommen", "ar": "يأخذ" },
+    { "de": "helfen", "en": "to help", "note": "hat geholfen", "ar": "يساعد" },
+    { "de": "einkaufen", "en": "to shop", "note": "hat eingekauft", "ar": "يتسوق" },
+    { "de": "zumachen", "en": "to close", "note": "hat zugemacht", "ar": "يغلق" },
+    { "de": "mitkommen", "en": "to come along", "note": "ist mitgekommen", "ar": "يأتي معه" },
+    { "de": "fernsehen", "en": "to watch TV", "note": "hat ferngesehen", "ar": "يشاهد التلفاز" },
+    { "de": "anfangen", "en": "to begin", "note": "hat angefangen", "ar": "يبدأ" },
+    { "de": "erklären", "en": "to explain", "note": "hat erklärt", "ar": "يشرح" },
+    { "de": "verstehen", "en": "to understand", "note": "hat verstanden", "ar": "يفهم" },
+    { "de": "bekommen", "en": "to get", "note": "hat bekommen", "ar": "يحصل" },
+    { "de": "gefallen", "en": "to please, to like", "note": "hat gefallen", "ar": "يعجب" },
+    { "de": "erzählen", "en": "to tell", "note": "hat erzählt", "ar": "يروي" },
+    { "de": "entscheiden", "en": "to decide", "note": "hat entschieden", "ar": "يقرر" },
+    { "de": "der Verbstamm", "pl": "die Verbstämme", "en": "verb stem", "ar": "جذر الفعل" },
+    { "de": "regelmäßig", "en": "regular", "ar": "منتظم" },
+    { "de": "unregelmäßig", "en": "irregular", "ar": "غير منتظم" },
+    { "de": "die Innenstadt", "pl": "die Innenstädte", "en": "city centre", "ar": "وسط المدينة" }
+  ],
+  "expressions": [
+    { "de": "Ich habe die Hausaufgabe gemacht.", "en": "I did the homework." },
+    { "de": "Ich habe heute alles verstanden.", "en": "I understood everything today." },
+    { "de": "Wann bist du gestern eingeschlafen?", "en": "When did you fall asleep yesterday?" }
+  ],
+  "patterns": [
+    { "form": "ge + [Verbstamm] + t", "ex": "machen → gemacht", "en": "regular verbs" },
+    { "form": "ge + [Verbstamm] + en", "ex": "schreiben → geschrieben", "en": "irregular verbs" },
+    { "form": "[prefix] + ge + [participle]", "ex": "einkaufen → eingekauft", "en": "separable verbs" },
+    { "form": "[prefix] + [stem] (no ge-)", "ex": "verstehen → verstanden", "en": "inseparable verbs" }
+  ],
+  "grammar": [
+    {
+      "title": "Reminder: the Perfekt",
+      "body": "Hilfsverb (haben/sein) in **position 2**, **Partizip II** at the end. Always learn a verb with its Hilfsverb: *kochen – hat gekocht*, *fahren – ist gefahren*.",
+      "examples": [
+        { "de": "Ich habe gestern lange gekocht.", "en": "I cooked for a long time yesterday." },
+        { "de": "Wir sind gestern in die Innenstadt gefahren.", "en": "We drove to the city centre yesterday." }
+      ]
+    },
+    {
+      "title": "Regular verbs: ge- + stem + -t",
+      "body": "Regular verbs have **no vowel change**. Form: **ge + stem + t** (or **-et** if the stem ends in -t or -d, like *arbeiten*). Verbs ending in **-ieren** have **no ge-**: *studieren – studiert*, *fotografieren – fotografiert*.",
+      "table": {
+        "head": ["Infinitive", "Perfekt", "Example"],
+        "rows": [
+          ["machen", "hat gemacht", "Ich habe die Hausaufgabe gemacht."],
+          ["spielen", "hat gespielt", "Wie lange hast du gestern Musik gespielt?"],
+          ["lernen", "hat gelernt", "Ich habe die neuen Wörter schon gelernt."],
+          ["arbeiten", "hat gearbeitet", "Ich habe auch am Sonntag gearbeitet."],
+          ["studieren", "hat studiert", "Martin hat an der Uni Mathe studiert."],
+          ["fotografieren", "hat fotografiert", "Wie lange hast du die Touristen fotografiert?"]
+        ]
+      },
+      "ar": "الأفعال المنتظمة: ge + الجذر + t. والأفعال المنتهية بـ -ieren لا تأخذ ge."
+    },
+    {
+      "title": "Irregular verbs: ge- + stem + -en",
+      "body": "Irregular (strong) verbs usually take **ge + stem + en**, often with a **vowel change** in the stem. You have to learn them. A few mixed verbs change the vowel **and** end in **-t**: *denken – gedacht*, *bringen – gebracht*.",
+      "table": {
+        "head": ["Infinitive", "Perfekt", "Example"],
+        "rows": [
+          ["schreiben", "hat geschrieben", "Petra hat mir einen Brief geschrieben."],
+          ["finden", "hat gefunden", "Wir haben den Film sehr langweilig gefunden."],
+          ["kommen", "ist gekommen", "Er ist spät nach Hause gekommen."],
+          ["essen", "hat gegessen", ""],
+          ["gehen", "ist gegangen", ""],
+          ["trinken", "hat getrunken", ""],
+          ["fahren", "ist gefahren", ""],
+          ["geben", "hat gegeben", ""],
+          ["helfen", "hat geholfen", ""],
+          ["nehmen", "hat genommen", ""],
+          ["bringen", "hat gebracht", ""],
+          ["denken", "hat gedacht", ""]
+        ]
+      }
+    },
+    {
+      "title": "Separable verbs: prefix + ge + participle",
+      "body": "For a separable verb, **ge** goes **between** the prefix and the participle of the main verb. This works for regular and irregular verbs.",
+      "table": {
+        "head": ["Infinitive", "Perfekt", "Example"],
+        "rows": [
+          ["einkaufen", "hat eingekauft", "Hast du gestern viel eingekauft?"],
+          ["aufstehen", "ist aufgestanden", "Matthias ist heute spät aufgestanden."],
+          ["zumachen", "hat zugemacht", ""],
+          ["mitkommen", "ist mitgekommen", ""],
+          ["fernsehen", "hat ferngesehen", ""],
+          ["anfangen", "hat angefangen", ""],
+          ["einschlafen", "ist eingeschlafen", "Wann bist du gestern eingeschlafen?"]
+        ]
+      }
+    },
+    {
+      "title": "Inseparable verbs: no ge-",
+      "body": "Inseparable verbs (be-, ver-, er-, ent-, ge- ...) have **no extra ge-**. The participle is the verb with its prefix. They can be regular (*-t*) or irregular (*-en*).",
+      "table": {
+        "head": ["Infinitive", "Perfekt", "Example"],
+        "rows": [
+          ["erklären", "hat erklärt", "Meine Lehrerin hat das Thema gut erklärt."],
+          ["verstehen", "hat verstanden", "Ich habe heute alles verstanden."],
+          ["bekommen", "hat bekommen", ""],
+          ["gefallen", "hat gefallen", ""],
+          ["erzählen", "hat erzählt", ""],
+          ["entscheiden", "hat entschieden", ""]
+        ]
+      }
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich habe gestudiert Philosophie.", "right": "Ich habe Philosophie studiert.", "why": "*-ieren* verbs have no *ge-*, and Partizip II goes to the end." },
+    { "wrong": "Das hat mir gegefallen.", "right": "Das hat mir gefallen.", "why": "Inseparable verbs have no extra *ge-*." },
+    { "wrong": "Er hat eingegekauft.", "right": "Er hat eingekauft.", "why": "Separable: prefix + ge + participle; *kaufen* is *gekauft*, so *ein-ge-kauft*." }
+  ],
+  "dialogues": [
+    {
+      "title": "After school",
+      "lines": [
+        { "who": "A", "de": "Hast du die Hausaufgabe gemacht?", "en": "Did you do the homework?" },
+        { "who": "B", "de": "Ja, ich habe alles verstanden. Die Lehrerin hat das Thema gut erklärt.", "en": "Yes, I understood everything. The teacher explained the topic well." },
+        { "who": "A", "de": "Bist du gestern früh aufgestanden?", "en": "Did you get up early yesterday?" },
+        { "who": "B", "de": "Nein, ich bin spät aufgestanden.", "en": "No, I got up late." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Make flash cards with three parts: infinitive on the front, 'hat/ist + Partizip II' on the back. Learn irregular verbs in small groups of five.",
+  "comprehension": [
+    { "q": "How do you form the Partizip II of a regular verb?", "a": "ge + stem + t (e.g. machen → gemacht)." },
+    { "q": "What is the Partizip II of schreiben?", "a": "geschrieben" },
+    { "q": "Where does 'ge' go in the participle of a separable verb?", "a": "Between the prefix and the verb (einkaufen → eingekauft)." },
+    { "q": "Do inseparable verbs get ge-?", "a": "No (verstehen → verstanden)." }
+  ],
+  "exercises": [
+    {
+      "title": "Form the Partizip II",
+      "type": "fill",
+      "instructions": "Write the Partizip II.",
+      "items": [
+        { "q": "machen → hat ___", "a": "gemacht" },
+        { "q": "arbeiten → hat ___", "a": "gearbeitet", "expl": "Stem ends in -t, so *-et*." },
+        { "q": "fotografieren → hat ___", "a": "fotografiert", "expl": "-ieren verbs have no ge-." },
+        { "q": "schreiben → hat ___", "a": "geschrieben" },
+        { "q": "einkaufen → hat ___", "a": "eingekauft", "expl": "ein + ge + kauft." },
+        { "q": "verstehen → hat ___", "a": "verstanden", "expl": "Inseparable: no ge-." },
+        { "q": "aufstehen → ist ___", "a": "aufgestanden", "expl": "auf + ge + standen." }
+      ]
+    },
+    {
+      "title": "Complete the sentence in the Perfekt",
+      "type": "fill",
+      "instructions": "Put the verb in brackets into the Perfekt (Partizip II only; the Hilfsverb is given).",
+      "items": [
+        { "q": "Ich habe die Hausaufgabe ___. (machen)", "a": "gemacht" },
+        { "q": "Martin hat an der Uni Mathe ___. (studieren)", "a": "studiert" },
+        { "q": "Petra hat mir einen Brief ___. (schreiben)", "a": "geschrieben" },
+        { "q": "Er ist spät nach Hause ___. (kommen)", "a": "gekommen" },
+        { "q": "Ich habe heute alles ___. (verstehen)", "a": "verstanden" },
+        { "q": "Matthias ist heute spät ___. (aufstehen)", "a": "aufgestanden" }
+      ]
+    },
+    {
+      "title": "Match",
+      "type": "match",
+      "instructions": "Match the verb with its Perfekt form.",
+      "items": [
+        { "q": "fernsehen", "a": "hat ferngesehen" },
+        { "q": "zumachen", "a": "hat zugemacht" },
+        { "q": "mitkommen", "a": "ist mitgekommen" },
+        { "q": "anfangen", "a": "hat angefangen" },
+        { "q": "erklären", "a": "hat erklärt" },
+        { "q": "entscheiden", "a": "hat entschieden" }
+      ]
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Use the Perfekt.",
+      "items": [
+        { "q": "I cooked for a long time yesterday.", "a": "Ich habe gestern lange gekocht. / Gestern habe ich lange gekocht." },
+        { "q": "We drove to the city centre yesterday.", "a": "Wir sind gestern in die Innenstadt gefahren. / Gestern sind wir in die Innenstadt gefahren." },
+        { "q": "Did you shop a lot yesterday? (du)", "a": "Hast du gestern viel eingekauft?" },
+        { "q": "I worked on Sunday too.", "a": "Ich habe auch am Sonntag gearbeitet." }
+      ]
+    }
+  ],
+  "summary": [
+    "Regular verbs: ge + stem + t (gemacht, gespielt, gelernt); stems in -t get -et (gearbeitet).",
+    "Verbs in -ieren have no ge-: studiert, fotografiert.",
+    "Irregular verbs: ge + stem + en, usually with a vowel change (geschrieben, gefunden, gegessen).",
+    "Separable verbs: prefix + ge + participle (eingekauft, aufgestanden).",
+    "Inseparable verbs have no ge-: verstanden, erklärt, bekommen."
+  ]
+}

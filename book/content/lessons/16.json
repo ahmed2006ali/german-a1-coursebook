@@ -1,0 +1,183 @@
+{
+  "n": 16,
+  "title": "Numbers Above 100",
+  "titleDe": "Zahlen ab 100",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; the numbers and the year example were reconstructed from context and standard German.",
+  "objectives": [
+    "I can say and write the hundreds from 100 to 900",
+    "I can say and write thousands, millions and billions",
+    "I can build numbers like 634 or 3.915 in German",
+    "I can say a year, e.g. 1990"
+  ],
+  "vocab": [
+    { "de": "hundert", "en": "100", "ar": "مئة", "note": "also einhundert" },
+    { "de": "zweihundert", "en": "200", "ar": "مئتان" },
+    { "de": "dreihundert", "en": "300", "ar": "ثلاثمئة" },
+    { "de": "vierhundert", "en": "400", "ar": "أربعمئة" },
+    { "de": "fünfhundert", "en": "500", "ar": "خمسمئة" },
+    { "de": "sechshundert", "en": "600", "ar": "ستمئة" },
+    { "de": "siebenhundert", "en": "700", "ar": "سبعمئة" },
+    { "de": "achthundert", "en": "800", "ar": "ثمانمئة" },
+    { "de": "neunhundert", "en": "900", "ar": "تسعمئة" },
+    { "de": "tausend", "en": "1.000", "ar": "ألف", "note": "also eintausend" },
+    { "de": "zehntausend", "en": "10.000", "ar": "عشرة آلاف", "sup": true },
+    { "de": "elftausend", "en": "11.000", "ar": "أحد عشر ألفًا" },
+    { "de": "hunderttausend", "en": "100.000", "ar": "مئة ألف", "note": "also einhunderttausend" },
+    { "de": "die Million", "pl": "die Millionen", "en": "million", "ar": "مليون" },
+    { "de": "die Milliarde", "pl": "die Milliarden", "en": "billion (1.000.000.000)", "ar": "مليار" },
+    { "de": "das Jahr", "pl": "die Jahre", "en": "year", "ar": "سنة" }
+  ],
+  "expressions": [
+    { "de": "Ich bin 1990 geboren.", "en": "I was born in 1990." },
+    { "de": "Ich bin neunzehnhundertneunzig geboren.", "en": "I was born in nineteen ninety (written out)." },
+    { "de": "Wann bist du geboren?", "en": "When were you born?", "sup": true }
+  ],
+  "patterns": [
+    { "form": "thousands + hundreds + units + und + tens", "ex": "dreitausendneunhundertfünfzehn", "en": "3,915" },
+    { "form": "Year: hundreds-style up to 1999", "ex": "neunzehnhundertneunzig", "en": "1990" }
+  ],
+  "grammar": [
+    {
+      "title": "Hundreds",
+      "body": "Hundreds are easy: take the number and add **hundert**. The word *ein* in front of *hundert* is optional: *hundert* or *einhundert*. Everything is written as **one word**.",
+      "table": {
+        "head": ["Number", "German"],
+        "rows": [
+          ["100", "(ein)hundert"],
+          ["200", "zweihundert"],
+          ["300", "dreihundert"],
+          ["400", "vierhundert"],
+          ["500", "fünfhundert"],
+          ["600", "sechshundert"],
+          ["700", "siebenhundert"],
+          ["800", "achthundert"],
+          ["900", "neunhundert"]
+        ]
+      }
+    },
+    {
+      "title": "Thousands",
+      "body": "Thousands work the same way: **(ein)tausend**, **zweitausend**, **dreitausend** … In German a number with five or more digits uses a **point** as the thousand separator, not a comma: *11.000* = **elftausend**, *12.000* = **zwölftausend**, *20.000* = **zwanzigtausend**. Even large numbers such as *100.000* (**hunderttausend**) or *800.000* (**achthunderttausend**) are written as one word.",
+      "ar": "في الألمانية نكتب فاصل الآلاف بنقطة وليس بفاصلة: 11.000."
+    },
+    {
+      "title": "Million and Milliarde",
+      "body": "*Million* and *Milliarde* are **feminine nouns**, so they are capitalised and written as a **separate word**. For more than one, add *-en* or *-n*: *eine Million*, *zwei Millionen*, *drei Millionen* … *eine Milliarde*, *zwei Milliarden*. In German *eine Milliarde* is 1.000.000.000 (a thousand million).",
+      "examples": [
+        { "de": "1.000.000 = eine Million", "en": "one million" },
+        { "de": "2.000.000 = zwei Millionen", "en": "two million" },
+        { "de": "1.000.000.000 = eine Milliarde", "en": "one billion" },
+        { "de": "2.000.000.000 = zwei Milliarden", "en": "two billion" }
+      ]
+    },
+    {
+      "title": "Combining numbers",
+      "body": "Always say the numbers in the same order as you read them from left to right: first thousands, then hundreds, then the last two digits. The last two digits follow the rule you know from lesson 4: units first, then *und*, then the tens (*vierunddreißig*). Write everything as one word.",
+      "table": {
+        "head": ["Number", "Parts", "German"],
+        "rows": [
+          ["101", "100 + 1", "hunderteins"],
+          ["111", "100 + 11", "hundertelf"],
+          ["634", "600 + 34", "sechshundertvierunddreißig"],
+          ["900", "900", "neunhundert"],
+          ["3.200", "3.000 + 200", "dreitausendzweihundert"],
+          ["3.915", "3.000 + 900 + 15", "dreitausendneunhundertfünfzehn"]
+        ]
+      }
+    },
+    {
+      "title": "Years (das Jahr)",
+      "body": "For years up to 1999 German speakers say the number in hundreds: **1990 = neunzehnhundertneunzig** (nineteen hundred ninety). From 2000 on you say it as a normal number: **2000 = zweitausend**. To say when you were born, use *Ich bin ... geboren*.",
+      "examples": [
+        { "de": "1990 = neunzehnhundertneunzig", "en": "nineteen ninety" },
+        { "de": "2000 = zweitausend", "en": "two thousand" },
+        { "de": "Ich bin 1990 geboren.", "en": "I was born in 1990." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "zwei hundert", "right": "zweihundert", "why": "Numbers up to 999.999 are written as one word." },
+    { "wrong": "zwei Million", "right": "zwei Millionen", "why": "*Million* takes the plural *-en* above one." },
+    { "wrong": "12,000", "right": "12.000", "why": "German uses a point as the thousand separator." }
+  ],
+  "pronunciation": [
+    { "de": "zw", "tip": "*zwei* starts with *ts*: 'tsvai'. Say *zweihundert* as one word: tsvai-hun-dert." },
+    { "de": "-ig / -zig", "tip": "In *dreißig* the *ß* is a sharp s; *zwanzig* ends with a soft *ch* sound in standard German." }
+  ],
+  "tip": "Read long numbers from left to right and write each chunk into one word. Practise with phone numbers, prices and years.",
+  "comprehension": [
+    { "q": "How do you say 200?", "a": "zweihundert." },
+    { "q": "What does German use as thousand separator?", "a": "A point (11.000)." },
+    { "q": "How do you say 2.000.000?", "a": "zwei Millionen." },
+    { "q": "How do you say 634?", "a": "sechshundertvierunddreißig." },
+    { "q": "How do you say the year 1990?", "a": "neunzehnhundertneunzig." }
+  ],
+  "exercises": [
+    {
+      "title": "From words to digits",
+      "type": "fill",
+      "instructions": "Write the number in digits (use a point for thousands).",
+      "items": [
+        { "q": "dreihundert", "a": "300" },
+        { "q": "sechshundertfünf", "a": "605" },
+        { "q": "siebenhundertzwanzig", "a": "720" },
+        { "q": "achthundertneunundvierzig", "a": "849" },
+        { "q": "viertausend", "a": "4.000" },
+        { "q": "elftausend", "a": "11.000" },
+        { "q": "zweihunderttausend", "a": "200.000" },
+        { "q": "dreitausendvierhundert", "a": "3.400" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "From digits to words",
+      "type": "fill",
+      "instructions": "Write the number in words as one word.",
+      "items": [
+        { "q": "200", "a": "zweihundert" },
+        { "q": "500", "a": "fünfhundert" },
+        { "q": "111", "a": "hundertelf / einhundertelf" },
+        { "q": "634", "a": "sechshundertvierunddreißig" },
+        { "q": "915", "a": "neunhundertfünfzehn" },
+        { "q": "2.700", "a": "zweitausendsiebenhundert" },
+        { "q": "15.000", "a": "fünfzehntausend" },
+        { "q": "3.915", "a": "dreitausendneunhundertfünfzehn" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Million or Millionen?",
+      "type": "choose",
+      "instructions": "Choose the correct word.",
+      "items": [
+        { "q": "1.000.000 = eine ___ (Million / Millionen)", "a": "Million" },
+        { "q": "2.000.000 = zwei ___ (Million / Millionen)", "a": "Millionen" },
+        { "q": "3.000.000.000 = drei ___ (Milliarde / Milliarden)", "a": "Milliarden" },
+        { "q": "1.000.000.000 = eine ___ (Milliarde / Milliarden)", "a": "Milliarde" },
+        { "q": "Which thousand separator is correct in German? (12.000 / 12,000)", "a": "12.000" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Years",
+      "type": "translate",
+      "instructions": "Write in German.",
+      "items": [
+        { "q": "1990", "a": "neunzehnhundertneunzig" },
+        { "q": "1985", "a": "neunzehnhundertfünfundachtzig" },
+        { "q": "2000", "a": "zweitausend" },
+        { "q": "I was born in 1990. (use digits)", "a": "Ich bin 1990 geboren." },
+        { "q": "I was born in 1990. (write the year in words)", "a": "Ich bin neunzehnhundertneunzig geboren." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Hundreds: zweihundert, dreihundert … neunhundert (one word; ein- is optional for 100).",
+    "Thousands: (ein)tausend, zweitausend, elftausend; the thousand separator is a point.",
+    "Million and Milliarde are feminine nouns: eine Million, zwei Millionen; eine Milliarde, zwei Milliarden.",
+    "Read left to right: thousands, hundreds, then units + und + tens (sechshundertvierunddreißig).",
+    "Years up to 1999: neunzehnhundertneunzig; from 2000: zweitausend."
+  ]
+}

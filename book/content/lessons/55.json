@@ -1,0 +1,222 @@
+{
+  "n": 55,
+  "title": "In the Department Store",
+  "titleDe": "Im Kaufhaus",
+  "level": "A1",
+  "sourceNote": "The transcript is partly garbled. The shopping phrases were reconstructed into standard German; some details (for example what exactly the customer wants in the first dialogue) were adapted.",
+  "objectives": [
+    "I can name departments and clothes in a department store",
+    "I can say what I am looking for and ask for an opinion",
+    "I can ask for the fitting room and try something on",
+    "I can say if clothes fit, are too big or too small, and buy them"
+  ],
+  "vocab": [
+    { "de": "das Kaufhaus", "pl": "die Kaufhäuser", "en": "department store", "ar": "متجر متعدد الأقسام", "note": "" },
+    { "de": "die Abteilung", "pl": "die Abteilungen", "en": "department", "ar": "قسم", "note": "" },
+    { "de": "die Herrenabteilung", "pl": "die Herrenabteilungen", "en": "men's department", "ar": "قسم الرجال", "note": "" },
+    { "de": "die Damenabteilung", "pl": "die Damenabteilungen", "en": "women's department", "ar": "قسم النساء", "note": "" },
+    { "de": "die Kinderabteilung", "pl": "die Kinderabteilungen", "en": "children's department", "ar": "قسم الأطفال", "note": "" },
+    { "de": "die Babyabteilung", "pl": "die Babyabteilungen", "en": "baby department", "ar": "قسم الرضّع", "note": "" },
+    { "de": "die Umkleidekabine", "pl": "die Umkleidekabinen", "en": "fitting room", "ar": "غرفة القياس", "note": "" },
+    { "de": "der Verkäufer / die Verkäuferin", "pl": "die Verkäufer", "en": "salesperson", "ar": "بائع / بائعة", "note": "" },
+    { "de": "der Kunde / die Kundin", "pl": "die Kunden", "en": "customer", "ar": "زبون / زبونة", "note": "" },
+    { "de": "die Hose", "pl": "die Hosen", "en": "trousers", "ar": "بنطال", "note": "" },
+    { "de": "die Jeans", "pl": "die Jeans", "en": "jeans", "ar": "جينز", "note": "" },
+    { "de": "die Jacke", "pl": "die Jacken", "en": "jacket", "ar": "سترة", "note": "" },
+    { "de": "der Mantel", "pl": "die Mäntel", "en": "coat", "ar": "معطف", "note": "" },
+    { "de": "der Pullover", "pl": "die Pullover", "en": "sweater", "ar": "بلوفر", "note": "" },
+    { "de": "das Kleid", "pl": "die Kleider", "en": "dress", "ar": "فستان", "note": "", "sup": true },
+    { "de": "der Schuh", "pl": "die Schuhe", "en": "shoe", "ar": "حذاء", "note": "" },
+    { "de": "die Nummer", "pl": "die Nummern", "en": "size (number)", "ar": "مقاس", "note": "eine Nummer größer", "sup": true },
+    { "de": "anprobieren", "en": "to try on", "ar": "يجرّب (ملابس)", "note": "ich probiere ... an" },
+    { "de": "nehmen", "en": "to take", "ar": "يأخذ", "note": "ich nehme" },
+    { "de": "zu klein", "en": "too small", "ar": "صغير جدًا", "note": "" },
+    { "de": "zu groß", "en": "too big", "ar": "كبير جدًا", "note": "" },
+    { "de": "zu eng", "en": "too tight", "ar": "ضيق جدًا", "note": "" },
+    { "de": "altmodisch", "en": "old-fashioned", "ar": "قديم الطراز", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Guten Tag, kann ich Ihnen helfen?", "en": "Hello, can I help you?", "ar": "" },
+    { "de": "Ich suche eine Hose.", "en": "I'm looking for trousers.", "ar": "" },
+    { "de": "Ich brauche eine Jacke.", "en": "I need a jacket.", "ar": "" },
+    { "de": "Ich brauche einen Mantel für meinen Vater.", "en": "I need a coat for my father.", "ar": "" },
+    { "de": "Wie gefällt Ihnen diese Hose?", "en": "How do you like these trousers?", "ar": "" },
+    { "de": "Sie gefällt mir gut.", "en": "I like it (feminine).", "ar": "" },
+    { "de": "Er gefällt mir nicht.", "en": "I don't like it (masculine).", "ar": "" },
+    { "de": "Das ist mir zu eng.", "en": "That is too tight for me.", "ar": "" },
+    { "de": "Das ist mir zu altmodisch.", "en": "That is too old-fashioned for me.", "ar": "" },
+    { "de": "Kann ich die Hose anprobieren?", "en": "Can I try on the trousers?", "ar": "" },
+    { "de": "Wo ist die Umkleidekabine?", "en": "Where is the fitting room?", "ar": "" },
+    { "de": "Die Umkleidekabine ist dort.", "en": "The fitting room is over there.", "ar": "" },
+    { "de": "Passt die Hose?", "en": "Do the trousers fit?", "ar": "" },
+    { "de": "Sie passt gut.", "en": "It fits well.", "ar": "" },
+    { "de": "Sie ist mir zu klein.", "en": "It is too small for me.", "ar": "" },
+    { "de": "Haben Sie die Hose eine Nummer größer?", "en": "Do you have the trousers one size bigger?", "ar": "" },
+    { "de": "Ich nehme sie.", "en": "I'll take it.", "ar": "" },
+    { "de": "Was kostet sie?", "en": "How much does it cost?", "ar": "" },
+    { "de": "Danke, auf Wiedersehen.", "en": "Thank you, goodbye.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Ich suche / brauche + [accusative object].", "ex": "Ich brauche einen Pullover.", "en": "I need a sweater." },
+    { "form": "Wie gefällt Ihnen + [dies- + noun]?", "ex": "Wie gefällt Ihnen dieser Pullover?", "en": "How do you like this sweater?" },
+    { "form": "[Pronoun] ist mir zu + [adjective].", "ex": "Er ist mir zu groß.", "en": "It is too big for me." },
+    { "form": "Kann ich + [thing] + anprobieren?", "ex": "Kann ich die Jacke anprobieren?", "en": "Can I try on the jacket?" }
+  ],
+  "grammar": [
+    {
+      "title": "Departments",
+      "body": "A **Kaufhaus** has many **Abteilungen**. Useful ones: **die Herrenabteilung** (men), **die Damenabteilung** (women), **die Kinderabteilung** (children) and **die Babyabteilung** (babies). You find the **Umkleidekabine** (fitting room) near the clothes, often in the **Damenabteilung** or **Herrenabteilung**."
+    },
+    {
+      "title": "Starting the conversation",
+      "body": "The salesperson starts: **Guten Tag, kann ich Ihnen helfen?** The customer says what he or she wants with **Ich suche ...** or **Ich brauche ...** What you want is the accusative object, so use the accusative article: **einen** Pullover, **eine** Hose, **ein** Kleid.\n\nYou can add for whom or for what occasion: **für meinen Vater**.",
+      "examples": [
+        { "de": "Ich brauche einen Mantel für meinen Vater.", "en": "I need a coat for my father." },
+        { "de": "Ich suche eine Hose.", "en": "I'm looking for trousers." }
+      ]
+    },
+    {
+      "title": "Asking for an opinion",
+      "body": "The salesperson asks **Wie gefällt Ihnen ...?** or **Wie finden Sie ...?** and uses **dies-** because the thing is right there (see lesson 54). Change **dies-** according to the article: **dieser** Pullover, **diese** Hose, **dieses** Kleid, **diese** Schuhe.\n\nThe customer answers with **gefallen** and the pronoun that matches the noun (see below). **Ihnen** is the polite dative of *Sie*.",
+      "examples": [
+        { "de": "Wie gefällt Ihnen dieser Pullover?", "en": "How do you like this sweater?" },
+        { "de": "Er gefällt mir gut.", "en": "I like it." },
+        { "de": "Das ist mir zu altmodisch.", "en": "That is too old-fashioned for me." }
+      ]
+    },
+    {
+      "title": "Pronouns for things: er, sie, es",
+      "body": "Instead of repeating the noun, use the pronoun with the same gender as the noun: masculine **er**, feminine **sie**, neuter **es**, plural **sie**. Remember: for plural things use **gefallen** (not *gefällt*).",
+      "table": {
+        "head": ["Noun", "Pronoun", "Example"],
+        "rows": [
+          ["der Pullover", "er", "Er gefällt mir gut."],
+          ["die Hose", "sie", "Sie gefällt mir gut."],
+          ["das Kleid", "es", "Es gefällt mir gut."],
+          ["die Schuhe", "sie", "Sie gefallen mir gut."]
+        ]
+      }
+    },
+    {
+      "title": "Trying it on",
+      "body": "**anprobieren** is separable: **Ich probiere die Hose an.** With **können**: **Kann ich die Hose anprobieren?** Ask **Wo ist die Umkleidekabine?** and the answer can be **dort** or **hier**.\n\nAfterwards say if it fits: **Sie passt gut.** If not: **Sie ist mir zu klein / zu groß / zu eng.** and ask for another size: **Haben Sie die Hose eine Nummer größer / kleiner?** When you like it: **Ich nehme sie.**",
+      "examples": [
+        { "de": "Ich probiere die Jacke an.", "en": "I'm trying on the jacket." },
+        { "de": "Der Mantel ist mir zu groß.", "en": "The coat is too big for me." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich brauche ein Pullover.", "right": "Ich brauche einen Pullover.", "why": "Masculine accusative: *einen*." },
+    { "wrong": "Wie gefällt dir diese Hose? (to a salesperson)", "right": "Wie gefällt Ihnen diese Hose?", "why": "Formal address needs *Ihnen*." },
+    { "wrong": "Die Schuhe gefällt mir.", "right": "Die Schuhe gefallen mir.", "why": "Plural subject: *gefallen*." }
+  ],
+  "pronunciation": [
+    { "de": "Umkleidekabine", "tip": "Stress the *Um-*: 'UM-klai-de-ka-BEE-ne'." },
+    { "de": "ie / ei", "tip": "*ie* is a long 'ee' (*probieren*); *ei* sounds like 'eye' (*Umkleidekabine*)." }
+  ],
+  "dialogues": [
+    {
+      "title": "Buying trousers",
+      "lines": [
+        { "who": "Verkäuferin", "de": "Guten Tag, kann ich Ihnen helfen?", "en": "Hello, can I help you?" },
+        { "who": "Kundin", "de": "Ja, ich suche eine Hose.", "en": "Yes, I'm looking for trousers." },
+        { "who": "Verkäuferin", "de": "Wie gefällt Ihnen diese Hose hier?", "en": "How do you like this pair of trousers here?" },
+        { "who": "Kundin", "de": "Sie gefällt mir gut. Kann ich sie anprobieren?", "en": "I like it. Can I try it on?" },
+        { "who": "Verkäuferin", "de": "Ja, gern. Die Umkleidekabine ist dort.", "en": "Yes, gladly. The fitting room is over there." },
+        { "who": "Verkäuferin", "de": "Passt die Hose?", "en": "Do the trousers fit?" },
+        { "who": "Kundin", "de": "Nein, sie ist mir zu klein. Haben Sie die Hose eine Nummer größer?", "en": "No, it is too small for me. Do you have the trousers one size bigger?" },
+        { "who": "Verkäuferin", "de": "Ja, hier bitte.", "en": "Yes, here you are." },
+        { "who": "Kundin", "de": "Sie passt gut. Ich nehme sie. Danke, auf Wiedersehen!", "en": "It fits well. I'll take it. Thank you, goodbye!" }
+      ]
+    },
+    {
+      "title": "A sweater",
+      "sup": true,
+      "lines": [
+        { "who": "Verkäufer", "de": "Wie gefällt Ihnen dieser Pullover?", "en": "How do you like this sweater?" },
+        { "who": "Kunde", "de": "Er gefällt mir nicht. Er ist mir zu altmodisch.", "en": "I don't like it. It is too old-fashioned for me." },
+        { "who": "Verkäufer", "de": "Und dieser hier?", "en": "And this one here?" },
+        { "who": "Kunde", "de": "Er gefällt mir sehr. Kann ich ihn anprobieren?", "en": "I like it a lot. Can I try it on?" }
+      ]
+    }
+  ],
+  "tip": "In German *die Hose* is singular, although English says 'trousers': *Sie gefällt mir.* (one pair). For plural things like *die Schuhe* it is *Sie gefallen mir.*",
+  "comprehension": [
+    { "q": "What does the salesperson say first?", "a": "Guten Tag, kann ich Ihnen helfen?" },
+    { "q": "How do you ask for the fitting room?", "a": "Wo ist die Umkleidekabine?" },
+    { "q": "Which pronoun do you use for der Pullover?", "a": "er" },
+    { "q": "How do you say that something is too small?", "a": "Das ist mir zu klein." },
+    { "q": "How do you say that you will buy it?", "a": "Ich nehme es / ihn / sie." }
+  ],
+  "exercises": [
+    {
+      "title": "er, sie or es?",
+      "type": "fill",
+      "instructions": "Complete with the correct pronoun.",
+      "items": [
+        { "q": "Wie findest du den Pullover? - ___ gefällt mir.", "a": "Er" },
+        { "q": "Wie findest du die Hose? - ___ gefällt mir.", "a": "Sie" },
+        { "q": "Wie findest du das Kleid? - ___ gefällt mir.", "a": "Es" },
+        { "q": "Wie findest du die Schuhe? - ___ gefallen mir.", "a": "Sie", "expl": "Plural: *sie* + *gefallen*." },
+        { "q": "Wie findest du den Mantel? - ___ ist mir zu groß.", "a": "Er" }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete with the correct word.",
+      "items": [
+        { "q": "Ich ___ eine Hose. (suchen)", "a": "suche" },
+        { "q": "Ich brauche ___ Mantel für meinen Vater. (ein)", "a": "einen", "expl": "*Mantel* is masculine and in the accusative." },
+        { "q": "Wie gefällt ___ diese Jacke? (to a salesperson)", "a": "Ihnen" },
+        { "q": "Kann ich die Jacke ___? (anprobieren)", "a": "anprobieren", "expl": "Infinitive after *kann*." },
+        { "q": "Der Mantel ist mir zu ___. (big)", "a": "groß" },
+        { "q": "Die Hose passt gut. Ich ___ sie. (nehmen)", "a": "nehme" }
+      ]
+    },
+    {
+      "title": "Match",
+      "type": "match",
+      "instructions": "Match the German word with its English meaning.",
+      "items": [
+        { "q": "die Herrenabteilung", "a": "men's department" },
+        { "q": "die Damenabteilung", "a": "women's department" },
+        { "q": "die Kinderabteilung", "a": "children's department" },
+        { "q": "die Umkleidekabine", "a": "fitting room" },
+        { "q": "das Kaufhaus", "a": "department store" },
+        { "q": "zu eng", "a": "too tight" }
+      ]
+    },
+    {
+      "title": "Word order",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order.",
+      "items": [
+        { "q": "ich / Kann / anprobieren / die Hose", "a": "Kann ich die Hose anprobieren?" },
+        { "q": "ist / Wo / die Umkleidekabine", "a": "Wo ist die Umkleidekabine?" },
+        { "q": "zu klein / Die Hose / ist / mir", "a": "Die Hose ist mir zu klein." },
+        { "q": "gefällt / Ihnen / Wie / diese Jacke", "a": "Wie gefällt Ihnen diese Jacke?" },
+        { "q": "nehme / Ich / sie", "a": "Ich nehme sie." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "I'm looking for a jacket.", "a": "Ich suche eine Jacke." },
+        { "q": "Can I try on the trousers?", "a": "Kann ich die Hose anprobieren?" },
+        { "q": "The coat is too big for me.", "a": "Der Mantel ist mir zu groß." },
+        { "q": "Do you have the trousers one size bigger?", "a": "Haben Sie die Hose eine Nummer größer?" },
+        { "q": "I'll take it. (die Jacke)", "a": "Ich nehme sie." }
+      ]
+    }
+  ],
+  "summary": [
+    "Departments: **Herrenabteilung, Damenabteilung, Kinderabteilung, Babyabteilung**; fitting room: **Umkleidekabine**.",
+    "Start: **Kann ich Ihnen helfen? - Ich suche / brauche + accusative** (einen Mantel, eine Hose, ein Kleid).",
+    "Opinion: **Wie gefällt Ihnen dieser / diese / dieses ...?** Answer: **Er / Sie / Es gefällt mir** (plural: **Sie gefallen mir**).",
+    "Trying on: **Kann ich ... anprobieren?** Fit: **Sie passt gut / Sie ist mir zu klein.** Buy: **Ich nehme sie.**"
+  ]
+}

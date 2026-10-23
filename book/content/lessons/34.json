@@ -1,0 +1,215 @@
+{
+  "n": 34,
+  "title": "Time Question Words",
+  "titleDe": "Zeit – Fragewörter der Zeit",
+  "level": "A1",
+  "sourceNote": "The video says 'seit letzte Woche' and 'ab nächste Woche'. In careful German these take the dative (seit letzter Woche, ab nächster Woche), so this lesson avoids them in exercises.",
+  "objectives": [
+    "I can ask and answer questions with wann, bis wann, seit wann and ab wann",
+    "I can ask for the time and say it with gegen, gleich, fast, kurz vor, kurz nach and genau",
+    "I can ask how long something lasts with wie lange",
+    "I can ask and answer how often with wie oft"
+  ],
+  "vocab": [
+    { "de": "der Geburtstag", "pl": "die Geburtstage", "en": "birthday", "ar": "عيد الميلاد" },
+    { "de": "die Uhrzeit", "pl": "die Uhrzeiten", "en": "time of day (clock time)", "ar": "الوقت (الساعة)" },
+    { "de": "die Tageszeit", "pl": "die Tageszeiten", "en": "part of the day", "ar": "وقت من اليوم" },
+    { "de": "die Jahreszeit", "pl": "die Jahreszeiten", "en": "season", "ar": "فصل السنة" },
+    { "de": "der Monat", "pl": "die Monate", "en": "month", "ar": "شهر" },
+    { "de": "die Woche", "pl": "die Wochen", "en": "week", "ar": "أسبوع" },
+    { "de": "der Urlaub", "pl": "die Urlaube", "en": "holiday, vacation", "ar": "إجازة" },
+    { "de": "der Film", "pl": "die Filme", "en": "film", "ar": "فيلم" },
+    { "de": "die Stunde", "pl": "die Stunden", "en": "hour", "ar": "ساعة" },
+    { "de": "dauern", "en": "to last", "ar": "يستمر" },
+    { "de": "schlafen", "en": "to sleep", "ar": "ينام", "note": "du schläfst" },
+    { "de": "immer", "en": "always", "ar": "دائمًا" },
+    { "de": "meistens", "en": "mostly", "ar": "في الغالب" },
+    { "de": "oft", "en": "often", "ar": "غالبًا" },
+    { "de": "manchmal", "en": "sometimes", "ar": "أحيانًا" },
+    { "de": "selten", "en": "rarely", "ar": "نادرًا" },
+    { "de": "nie", "en": "never", "ar": "أبدًا" },
+    { "de": "ab und zu", "en": "now and then", "ar": "من حين لآخر" },
+    { "de": "jeden Tag", "en": "every day", "ar": "كل يوم" },
+    { "de": "nächste Woche", "en": "next week", "ar": "الأسبوع القادم" },
+    { "de": "genau", "en": "exactly", "ar": "تمامًا" },
+    { "de": "gegen", "en": "around (time)", "ar": "حوالي" },
+    { "de": "gleich", "en": "in a moment, almost", "ar": "بعد قليل" },
+    { "de": "fast", "en": "almost", "ar": "تقريبًا" },
+    { "de": "kurz vor", "en": "shortly before", "ar": "قبل قليل من" },
+    { "de": "kurz nach", "en": "shortly after", "ar": "بعد قليل من" }
+  ],
+  "expressions": [
+    { "de": "Wann hast du Geburtstag?", "en": "When is your birthday?" },
+    { "de": "Bis wann schläfst du?", "en": "Until when do you sleep?" },
+    { "de": "Seit wann lernst du Deutsch?", "en": "Since when are you learning German?" },
+    { "de": "Ab wann machst du Urlaub?", "en": "From when are you on holiday?" },
+    { "de": "Von wann bis wann arbeitest du?", "en": "From when until when do you work?" },
+    { "de": "Um wie viel Uhr kommst du?", "en": "At what time are you coming?" },
+    { "de": "Wie spät ist es jetzt?", "en": "What time is it now?" },
+    { "de": "Wie viel Uhr ist es jetzt?", "en": "What time is it now?" },
+    { "de": "Wie lange bleibst du bei mir?", "en": "How long are you staying with me?" },
+    { "de": "Wie lange dauert der Film?", "en": "How long does the film last?" },
+    { "de": "Wie oft gehst du ins Kino?", "en": "How often do you go to the cinema?" }
+  ],
+  "patterns": [
+    { "form": "Wann + [Verb] + [Subjekt] ...?", "ex": "Wann hast du Geburtstag?", "en": "When is your birthday?" },
+    { "form": "Bis wann + [Verb] + [Subjekt] ...?", "ex": "Bis wann bleibst du in Paris?", "en": "Until when are you staying in Paris?" },
+    { "form": "Seit wann + [Verb] + [Subjekt] ...?", "ex": "Seit wann lernst du Deutsch?", "en": "Since when do you learn German?" },
+    { "form": "Ich lerne Deutsch seit + [Zeitraum].", "ex": "Ich lerne Deutsch seit zwei Jahren.", "en": "I have been learning German for two years." },
+    { "form": "Ich arbeite von + [Zeit] bis + [Zeit].", "ex": "Ich arbeite von Montag bis Freitag.", "en": "I work from Monday to Friday." },
+    { "form": "Es ist + gegen / gleich / fast / kurz vor / kurz nach / genau + [Uhrzeit].", "ex": "Es ist kurz vor 6 Uhr.", "en": "It is shortly before 6 o'clock." }
+  ],
+  "grammar": [
+    {
+      "title": "Wann? – answering with a point in time",
+      "body": "**Wann?** asks about a point in time. The answer can be a clock time (**um** 6 Uhr), a part of the day (**am** Abend), a season (**im** Sommer), a month (**im** August), a day (**am** Donnerstag), a date (**am** 6. November) or a time word (**heute**, **nächste Woche**).",
+      "ar": "wann = متى؛ الجواب: um + الساعة، am + اليوم/وقت اليوم، im + الشهر/الفصل.",
+      "table": {
+        "head": ["Type", "Answer"],
+        "rows": [
+          ["Uhrzeit", "um 6 Uhr"],
+          ["Tageszeit", "am Abend"],
+          ["Jahreszeit", "im Sommer"],
+          ["Monat", "im August"],
+          ["Tag", "am Donnerstag"],
+          ["Datum", "am 6. November"],
+          ["Zeitadverb", "heute, nächste Woche"]
+        ]
+      },
+      "examples": [
+        { "de": "Heute habe ich Geburtstag.", "en": "Today is my birthday." },
+        { "de": "Ich habe im November Geburtstag.", "en": "My birthday is in November." },
+        { "de": "Nächste Woche habe ich Geburtstag.", "en": "My birthday is next week." }
+      ]
+    },
+    {
+      "title": "bis, seit, ab, von ... bis",
+      "body": "These question words ask about the limits of a time span.\n\n**Bis wann?** = until when (end). **Seit wann?** = since when (start in the past, still going on). **Ab wann?** = from when (start in the future). **Von wann bis wann?** = from when until when (start and end).\n\nThe answers use the same word without an article: *bis Sonntag*, *bis morgen*, *seit August*, *ab Donnerstag*, *von Montag bis Freitag*.",
+      "ar": "bis = حتى، seit = منذ، ab = ابتداءً من، von ... bis = من ... إلى.",
+      "examples": [
+        { "de": "Ich bleibe bis Sonntag in Paris.", "en": "I am staying in Paris until Sunday." },
+        { "de": "Ich lerne Deutsch seit zwei Jahren.", "en": "I have been learning German for two years." },
+        { "de": "Seit wann bist du in Deutschland? – Seit August.", "en": "Since when are you in Germany? – Since August." },
+        { "de": "Ab morgen mache ich Urlaub.", "en": "From tomorrow I am on holiday." },
+        { "de": "Ich arbeite von Montag bis Freitag von 8:30 Uhr bis 18:00 Uhr.", "en": "I work from Monday to Friday from 8:30 to 18:00." }
+      ]
+    },
+    {
+      "title": "Um wie viel Uhr? and Wie spät?",
+      "body": "**Um wie viel Uhr?** asks for the exact time of an event, so the answer starts with **um**: *Ich komme um 21 Uhr.*\n\n**Wie spät ist es?** and **Wie viel Uhr ist es?** ask for the current time. They mean the same. Answer with *Es ist ...*. You can add a word to say how exact the time is: **genau** (exactly), **gegen** (around), **gleich / fast / kurz vor** (almost), **kurz nach** (a little after).",
+      "ar": "um wie viel Uhr = في أي ساعة؟ ، wie spät = كم الساعة الآن؟",
+      "examples": [
+        { "de": "Es ist genau 11 Uhr.", "en": "It is exactly 11 o'clock." },
+        { "de": "Es ist gegen 6 Uhr.", "en": "It is around 6 o'clock." },
+        { "de": "Es ist gleich 6 Uhr.", "en": "It is almost 6 o'clock." },
+        { "de": "Es ist kurz vor 6 Uhr.", "en": "It is shortly before 6." },
+        { "de": "Es ist fast 6 Uhr.", "en": "It is almost 6." },
+        { "de": "Es ist kurz nach 6 Uhr.", "en": "It is shortly after 6." }
+      ]
+    },
+    {
+      "title": "Wie lange? and Wie oft?",
+      "body": "**Wie lange?** asks about duration. The answer is a period of time without a preposition: *5 Tage*, *1 Woche*, *2 Stunden*.\n\n**Wie oft?** asks about frequency. Answer with a frequency word. From most to least frequent: **immer, meistens, oft, manchmal, selten, nie**. Other answers: **ab und zu, jeden Tag, jeden Montag**.",
+      "ar": "wie lange = كم من الوقت؟ ، wie oft = كم مرة؟",
+      "examples": [
+        { "de": "Ich bleibe 5 Tage bei dir.", "en": "I am staying with you for 5 days." },
+        { "de": "Der Film dauert 2 Stunden.", "en": "The film lasts 2 hours." },
+        { "de": "Ich gehe manchmal ins Kino.", "en": "I sometimes go to the cinema." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Seit wann lernst du Deutsch? – Bis zwei Jahren.", "right": "Seit wann lernst du Deutsch? – Seit zwei Jahren.", "why": "Use *seit* for something that started in the past and still continues." },
+    { "wrong": "Ich komme in 21 Uhr.", "right": "Ich komme um 21 Uhr.", "why": "Clock times use *um*." },
+    { "wrong": "Ich habe in Donnerstag Geburtstag.", "right": "Ich habe am Donnerstag Geburtstag.", "why": "Days use *am*, months and seasons use *im*." }
+  ],
+  "pronunciation": [
+    { "de": "spät", "tip": "The *ä* is like the 'e' in 'bed', but long: 'shpayt'. *Wie spät ist es?*" },
+    { "de": "selten", "tip": "Initial *s* before a vowel sounds like English 'z'." }
+  ],
+  "dialogues": [
+    {
+      "title": "Planning the week",
+      "lines": [
+        { "who": "A", "de": "Wann hast du Geburtstag?", "en": "When is your birthday?" },
+        { "who": "B", "de": "Ich habe im November Geburtstag. Und du?", "en": "My birthday is in November. And you?" },
+        { "who": "A", "de": "Ich habe nächste Woche Geburtstag. Kommst du?", "en": "My birthday is next week. Are you coming?" },
+        { "who": "B", "de": "Ja, gern. Um wie viel Uhr?", "en": "Yes, gladly. At what time?" },
+        { "who": "A", "de": "Um 19 Uhr. Wie lange bleibst du?", "en": "At 7 pm. How long are you staying?" },
+        { "who": "B", "de": "Ich bleibe bis 22 Uhr.", "en": "I am staying until 10 pm." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "The best way to learn these words is to ask yourself the questions and answer them aloud: Wie oft lernst du Deutsch? Seit wann lernst du Deutsch?",
+  "comprehension": [
+    { "q": "Which question word asks for the exact time of an event?", "a": "Um wie viel Uhr?" },
+    { "q": "What is the difference between bis wann and seit wann?", "a": "Bis wann asks for the end of a period; seit wann asks for the start of something that is still going on." },
+    { "q": "Give two ways to ask for the time.", "a": "Wie spät ist es? and Wie viel Uhr ist es?" },
+    { "q": "Name the six frequency words from most to least frequent.", "a": "immer, meistens, oft, manchmal, selten, nie." },
+    { "q": "How do you say 'It is shortly before 6'?", "a": "Es ist kurz vor 6 Uhr." }
+  ],
+  "exercises": [
+    {
+      "title": "Choose the question",
+      "type": "fill",
+      "instructions": "Complete with the correct question word: Wann / Bis wann / Seit wann / Ab wann / Wie lange / Wie oft / Wie spät.",
+      "items": [
+        { "q": "___ hast du Geburtstag? – Am 6. November.", "a": "Wann", "expl": "A date is a point in time." },
+        { "q": "___ lernst du Deutsch? – Seit zwei Jahren.", "a": "Seit wann", "expl": "The answer begins with seit." },
+        { "q": "___ dauert der Film? – Zwei Stunden.", "a": "Wie lange", "expl": "Duration." },
+        { "q": "___ gehst du ins Kino? – Manchmal.", "a": "Wie oft", "expl": "Frequency." },
+        { "q": "___ bleibst du in Paris? – Bis Sonntag.", "a": "Bis wann", "expl": "The answer begins with bis." },
+        { "q": "___ machst du Urlaub? – Ab Montag.", "a": "Ab wann", "expl": "The answer begins with ab." },
+        { "q": "___ ist es jetzt? – Es ist genau 11 Uhr.", "a": "Wie spät / Wie viel Uhr", "expl": "Both ask for the current time." }
+      ]
+    },
+    {
+      "title": "um, am, im, bis, seit, von",
+      "type": "fill",
+      "instructions": "Fill in the correct word: um / am / im / bis / seit / von.",
+      "items": [
+        { "q": "Ich habe ___ November Geburtstag.", "a": "im", "expl": "Months use im." },
+        { "q": "Der Film beginnt ___ 20 Uhr.", "a": "um", "expl": "Clock times use um." },
+        { "q": "Wir haben ___ Donnerstag Deutsch.", "a": "am", "expl": "Days use am.", "sup": true },
+        { "q": "Ich bleibe ___ Sonntag in Paris.", "a": "bis", "expl": "End of a period." },
+        { "q": "Ich lerne Deutsch ___ zwei Jahren.", "a": "seit", "expl": "Started in the past, still continues." },
+        { "q": "Ich arbeite ___ Montag bis Freitag.", "a": "von", "expl": "von ... bis." },
+        { "q": "Wir machen ___ Sommer Urlaub.", "a": "im", "expl": "Seasons use im.", "sup": true }
+      ]
+    },
+    {
+      "title": "How often?",
+      "type": "match",
+      "instructions": "Match the frequency word with its meaning.",
+      "items": [
+        { "q": "immer", "a": "always" },
+        { "q": "meistens", "a": "mostly" },
+        { "q": "oft", "a": "often" },
+        { "q": "manchmal", "a": "sometimes" },
+        { "q": "selten", "a": "rarely" },
+        { "q": "nie", "a": "never" },
+        { "q": "ab und zu", "a": "now and then" }
+      ]
+    },
+    {
+      "title": "What time is it?",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "It is exactly 11 o'clock.", "a": "Es ist genau 11 Uhr." },
+        { "q": "It is shortly after 6 o'clock.", "a": "Es ist kurz nach 6 Uhr." },
+        { "q": "It is around 6 o'clock.", "a": "Es ist gegen 6 Uhr." },
+        { "q": "It is shortly before 6 o'clock.", "a": "Es ist kurz vor 6 Uhr.", "expl": "Also possible: gleich / fast 6 Uhr (almost)." },
+        { "q": "How long does the film last?", "a": "Wie lange dauert der Film?" }
+      ]
+    }
+  ],
+  "summary": [
+    "Wann? = point in time: um 6 Uhr, am Abend, im Sommer, am Donnerstag.",
+    "Bis wann? = end; seit wann? = start in the past; ab wann? = start in the future; von ... bis = both.",
+    "Um wie viel Uhr? asks for the time of an event; wie spät / wie viel Uhr asks for the current time.",
+    "Wie lange? = duration; wie oft? = frequency (immer, meistens, oft, manchmal, selten, nie).",
+    "Make your own questions and answer them aloud."
+  ]
+}

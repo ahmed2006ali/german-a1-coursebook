@@ -1,0 +1,183 @@
+{
+  "n": 31,
+  "title": "Personal Pronouns in Accusative",
+  "titleDe": "Personalpronomen im Akkusativ",
+  "level": "A1",
+  "sourceNote": "The captions are mostly clear. The teacher mixes English and German; all example sentences are given here in correct German.",
+  "objectives": [
+    "I can replace an accusative object with a pronoun",
+    "I can use mich, dich, ihn, sie, es, uns, euch, sie, Sie",
+    "I can tell which pronouns are the same in nominative and accusative",
+    "I can say common sentences such as Ich sehe dich. and Ich mag dich."
+  ],
+  "vocab": [
+    { "de": "kennen", "en": "to know (a person)", "ar": "يعرف", "note": "ich kenne, du kennst", "sup": false },
+    { "de": "finden", "en": "to find; to think (opinion)", "ar": "يجد / يرى", "note": "ich finde ihn nett", "sup": false },
+    { "de": "suchen", "en": "to look for", "ar": "يبحث عن", "note": "", "sup": false },
+    { "de": "sehen", "en": "to see", "ar": "يرى", "note": "ich sehe, du siehst", "sup": false },
+    { "de": "mögen", "en": "to like", "ar": "يحب / يعجبه", "note": "ich mag, du magst", "sup": false },
+    { "de": "besuchen", "en": "to visit", "ar": "يزور", "note": "", "sup": false },
+    { "de": "nett", "en": "nice", "ar": "لطيف", "note": "", "sup": false },
+    { "de": "schön", "en": "beautiful, nice", "ar": "جميل", "note": "", "sup": false },
+    { "de": "interessant", "en": "interesting", "ar": "مثير للاهتمام", "note": "", "sup": false },
+    { "de": "der Architekt", "pl": "die Architekten", "en": "architect", "ar": "مهندس معماري", "note": "", "sup": false },
+    { "de": "studieren", "en": "to study (at university)", "ar": "يدرس في الجامعة", "note": "", "sup": false },
+    { "de": "das Buch", "pl": "die Bücher", "en": "book", "ar": "كتاب", "note": "", "sup": false }
+  ],
+  "expressions": [
+    { "de": "Ich sehe dich.", "en": "I see you.", "ar": "", "sup": false },
+    { "de": "Ich mag dich.", "en": "I like you.", "ar": "", "sup": false },
+    { "de": "Sie besucht ihn.", "en": "She visits him.", "ar": "", "sup": false },
+    { "de": "Entschuldigen Sie mich, bitte.", "en": "Excuse me, please.", "ar": "", "sup": false },
+    { "de": "Ich rufe dich später an.", "en": "I will call you later.", "ar": "سأتصل بك لاحقاً.", "sup": false }
+  ],
+  "patterns": [
+    { "form": "Subject + verb + accusative pronoun.", "ex": "Ich kenne ihn.", "en": "I know him." },
+    { "form": "Ich finde + pronoun + adjective.", "ex": "Ich finde ihn nett.", "en": "I think he is nice." }
+  ],
+  "grammar": [
+    {
+      "title": "Why accusative pronouns?",
+      "body": "Instead of repeating a noun we use a **pronoun**. If the noun is the accusative object, the pronoun must also be in the accusative.\n\n*Das ist Michael. **Er** wohnt in London.* (subject, nominative)\n\n*Ich finde Michael nett.* – *Ich finde **ihn** nett.* (object, accusative: *ihn* replaces *Michael*)",
+      "ar": "عندما يكون المفعول به مذكراً (er) نستعمل ihn.",
+      "examples": [
+        { "de": "Ich finde Michael nett.", "en": "I think Michael is nice." },
+        { "de": "Ich finde ihn nett.", "en": "I think he is nice." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "The table",
+      "body": "Only **ich, du, er, wir, ihr** change. All the others (**Sie, sie, es, sie, Sie**) are identical in the nominative and the accusative.",
+      "table": {
+        "head": ["Nominativ", "Akkusativ", "Example"],
+        "rows": [
+          ["ich", "**mich**", "Kennst du mich?"],
+          ["du", "**dich**", "Ich kenne dich nicht."],
+          ["Sie (formal)", "Sie", "Herr Schmidt, ich suche Sie."],
+          ["er", "**ihn**", "Ich kenne ihn."],
+          ["sie (she)", "sie", "Ich finde sie sehr schön."],
+          ["es", "es", "Ich finde es sehr interessant."],
+          ["wir", "**uns**", "Kennst du uns?"],
+          ["ihr", "**euch**", "Ich kenne euch nicht."],
+          ["sie (they)", "sie", "Ich kenne sie."],
+          ["Sie (formal plural)", "Sie", "Ich suche Sie."]
+        ]
+      },
+      "ar": "تتغير ich وdu وer وwir وihr فقط.",
+      "sup": false
+    },
+    {
+      "title": "Examples for each person",
+      "body": "Notice the subject (nominative) and the object (accusative) in each sentence.",
+      "examples": [
+        { "de": "Hallo, ich bin Maria. Kennst du mich?", "en": "Hello, I am Maria. Do you know me?" },
+        { "de": "Wer bist du? Ich kenne dich nicht.", "en": "Who are you? I do not know you." },
+        { "de": "Herr Schmidt, wo sind Sie? Ich suche Sie.", "en": "Mr Schmidt, where are you? I am looking for you." },
+        { "de": "Das ist Michael. Er ist Architekt. Ich kenne ihn.", "en": "This is Michael. He is an architect. I know him." },
+        { "de": "Das ist Michaela. Sie studiert. Ich finde sie sehr schön.", "en": "This is Michaela. She studies. I find her very beautiful." },
+        { "de": "Das ist mein Buch. Es ist alt. Ich finde es sehr interessant.", "en": "This is my book. It is old. I find it very interesting." },
+        { "de": "Wir sind Samantha und Mike. Kennst du uns?", "en": "We are Samantha and Mike. Do you know us?" },
+        { "de": "Wer seid ihr? Ich kenne euch nicht.", "en": "Who are you (plural)? I do not know you." },
+        { "de": "Das sind Petra und Jürgen. Ich kenne sie.", "en": "These are Petra and Jürgen. I know them." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Capital letters: Sie, sie and du",
+      "body": "- Formal **Sie / Sie** (you, singular or plural) is **always** written with a capital S.\n- *sie* (she) and *sie* (they) are written with a small s, except at the beginning of a sentence.\n- In letters, emails and cards, some people also write *Du, Dich, Dein* with a capital letter out of politeness (**Höflichkeitsform**). It is a style convention, not a grammar rule. You do not have to do this, but you may see it.",
+      "sup": false
+    },
+    {
+      "title": "Gender decides the pronoun",
+      "body": "For nouns use the pronoun of the noun's gender: *der Tisch* → *ihn*, *die Tasche* → *sie*, *das Buch* → *es*, *die Bücher* → *sie*.\n\n*Ich kaufe den Tisch. Ich kaufe ihn.*",
+      "examples": [
+        { "de": "Ich kaufe den Tisch. Ich kaufe ihn.", "en": "I buy the table. I buy it." },
+        { "de": "Er hat das Buch. Er mag es.", "en": "He has the book. He likes it." }
+      ],
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich kenne er.", "right": "Ich kenne ihn.", "why": "*er* is nominative; the object needs *ihn*." },
+    { "wrong": "Kennst du ich?", "right": "Kennst du mich?", "why": "*ich* is nominative; use *mich* for the object." },
+    { "wrong": "Ich suche sie, Herr Schmidt.", "right": "Ich suche Sie, Herr Schmidt.", "why": "Formal *Sie* is always capitalised." }
+  ],
+  "pronunciation": [
+    { "de": "ch in mich, dich, euch", "tip": "After *i* and *e*: a soft hiss like 'h' in 'huge'. *mich*, *dich*." },
+    { "de": "ihn", "tip": "The *h* is silent; it only makes the *i* long: 'een'." }
+  ],
+  "dialogues": [
+    {
+      "title": "Who is that?",
+      "lines": [
+        { "who": "A", "de": "Wer ist das? Ich kenne ihn nicht.", "en": "Who is that? I do not know him." },
+        { "who": "B", "de": "Das ist Michael. Er ist Architekt.", "en": "That is Michael. He is an architect." },
+        { "who": "A", "de": "Ich finde ihn nett. Und wer ist das? Kennst du sie?", "en": "I think he is nice. And who is that? Do you know her?" },
+        { "who": "B", "de": "Ja, das ist Michaela. Ich besuche sie morgen.", "en": "Yes, that is Michaela. I am visiting her tomorrow." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn the five changing pronouns as a song: ich – mich, du – dich, er – ihn, wir – uns, ihr – euch. The others stay the same.",
+  "comprehension": [
+    { "q": "What is the accusative of 'er'?", "a": "ihn" },
+    { "q": "Which pronouns stay the same in the accusative?", "a": "Sie (formal), sie (she), es, sie (they)." },
+    { "q": "What is the accusative of 'wir' and 'ihr'?", "a": "uns and euch." },
+    { "q": "When is 'sie' written with a capital S in the middle of a sentence?", "a": "When it is the formal Sie (you)." },
+    { "q": "What is the Höflichkeitsform?", "a": "Writing du / dich with a capital letter in letters or emails as a sign of politeness." }
+  ],
+  "exercises": [
+    {
+      "title": "Fill in the pronoun",
+      "type": "fill",
+      "instructions": "Complete with the correct accusative pronoun.",
+      "items": [
+        { "q": "Das ist Michael. Ich kenne ___.", "a": "ihn", "expl": "*Michael* = *er* → *ihn*." },
+        { "q": "Du bist Anna. Ich kenne ___.", "a": "dich", "expl": "*du* → *dich*." },
+        { "q": "Wir sind Samantha und Mike. Kennst du ___?", "a": "uns", "expl": "*wir* → *uns*." },
+        { "q": "Ihr seid neu. Ich kenne ___ nicht.", "a": "euch", "expl": "*ihr* → *euch*." },
+        { "q": "Herr Schmidt, ich suche ___.", "a": "Sie", "expl": "Formal *Sie*, capital S." },
+        { "q": "Das ist Michaela. Ich finde ___ nett.", "a": "sie", "expl": "*sie* stays *sie*." },
+        { "q": "Das ist mein Buch. Ich finde ___ interessant.", "a": "es", "expl": "*das Buch* → *es*." },
+        { "q": "Ich kaufe den Tisch. Ich kaufe ___.", "a": "ihn", "expl": "*der Tisch* → *ihn*." }
+      ],
+      "sup": false
+    },
+    {
+      "title": "Choose the pronoun",
+      "type": "choose",
+      "instructions": "Choose the correct pronoun.",
+      "items": [
+        { "q": "Das ist Max. Ich kenne ___. (er / ihn)", "a": "ihn", "expl": "Accusative object." },
+        { "q": "Das ist Maria. Ich liebe ___. (sie / ihn)", "a": "sie", "expl": "Feminine accusative: *sie*." },
+        { "q": "Wo bist du? Ich suche ___. (du / dich)", "a": "dich", "expl": "Accusative of *du*." },
+        { "q": "Kennst du ___? Ich bin Maria. (ich / mich)", "a": "mich", "expl": "Accusative of *ich*." },
+        { "q": "Wir sind hier. Siehst du ___? (wir / uns)", "a": "uns", "expl": "Accusative of *wir*." },
+        { "q": "Das sind Petra und Jürgen. Ich kenne ___. (sie / ihn)", "a": "sie", "expl": "Plural: *sie*." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Write the sentence in German (du = informal you).",
+      "items": [
+        { "q": "I see you.", "a": "Ich sehe dich." },
+        { "q": "I like you.", "a": "Ich mag dich." },
+        { "q": "She visits him.", "a": "Sie besucht ihn." },
+        { "q": "Do you know me?", "a": "Kennst du mich?" },
+        { "q": "We do not know them.", "a": "Wir kennen sie nicht." },
+        { "q": "I am looking for you. (formal)", "a": "Ich suche Sie." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Replace an accusative object with an accusative pronoun.",
+    "ich → mich, du → dich, er → ihn, wir → uns, ihr → euch.",
+    "Sie, sie, es, sie, Sie do not change.",
+    "Formal Sie is always capitalised; sie (she / they) is capitalised only at the start of a sentence.",
+    "Use the pronoun that matches the noun's gender: der Tisch → ihn, das Buch → es."
+  ]
+}

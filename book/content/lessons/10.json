@@ -1,0 +1,379 @@
+{
+  "n": 10,
+  "title": "Sentence Structure, Part 2",
+  "titleDe": "Satzstruktur, Teil 2",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; the sentences were reconstructed from context and the teacher's explanation.",
+  "objectives": [
+    "I can recognise the pronouns ich, du and Sie",
+    "I can explain what verb conjugation is",
+    "I can use the endings -e, -st and -en",
+    "I can conjugate wohnen, kommen, heißen and sprechen with ich, du and Sie"
+  ],
+  "vocab": [
+    {
+      "de": "das Pronomen",
+      "pl": "die Pronomen",
+      "en": "pronoun",
+      "ar": "ضمير"
+    },
+    {
+      "de": "der Infinitiv",
+      "pl": "die Infinitive",
+      "en": "infinitive",
+      "ar": "المصدر"
+    },
+    {
+      "de": "die Endung",
+      "pl": "die Endungen",
+      "en": "ending",
+      "ar": "نهاية الفعل"
+    },
+    {
+      "de": "die Konjugation",
+      "pl": "die Konjugationen",
+      "en": "conjugation",
+      "ar": "تصريف"
+    },
+    {
+      "de": "wohnen",
+      "en": "to live (reside)",
+      "ar": "يسكن"
+    },
+    {
+      "de": "kommen",
+      "en": "to come",
+      "ar": "يأتي"
+    },
+    {
+      "de": "heißen",
+      "en": "to be called",
+      "ar": "يُسمّى"
+    },
+    {
+      "de": "sprechen",
+      "en": "to speak",
+      "ar": "يتكلم",
+      "note": "irregular verb"
+    },
+    {
+      "de": "ich",
+      "en": "I",
+      "ar": "أنا"
+    },
+    {
+      "de": "du",
+      "en": "you (informal)",
+      "ar": "أنت"
+    },
+    {
+      "de": "Sie",
+      "en": "you (formal)",
+      "ar": "أنتَ / أنتِ (رسمي)"
+    }
+  ],
+  "expressions": [
+    {
+      "de": "Ich wohne in Berlin.",
+      "en": "I live in Berlin."
+    },
+    {
+      "de": "Woher kommst du?",
+      "en": "Where do you come from?"
+    },
+    {
+      "de": "Wie heißen Sie?",
+      "en": "What is your name? (formal)"
+    },
+    {
+      "de": "Sprichst du Englisch?",
+      "en": "Do you speak English?"
+    }
+  ],
+  "patterns": [
+    {
+      "form": "stem + -e  (ich)",
+      "ex": "ich wohne",
+      "en": "I live"
+    },
+    {
+      "form": "stem + -st  (du)",
+      "ex": "du kommst",
+      "en": "you come"
+    },
+    {
+      "form": "stem + -en  (Sie)",
+      "ex": "Sie heißen",
+      "en": "you are called (formal)"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Persons: ich, du, Sie",
+      "body": "When you talk about **yourself** you use *ich* (first person). When you talk **to** someone you use the second person: **du** for a friend or child (informal) and **Sie** for a person you do not know well (formal). The pronoun *Sie* (you, formal) is always written with a capital S.",
+      "examples": [
+        {
+          "de": "Ich wohne in Berlin.",
+          "en": "I live in Berlin."
+        },
+        {
+          "de": "Woher kommst du?",
+          "en": "Where do you come from? (informal)"
+        },
+        {
+          "de": "Wie heißen Sie?",
+          "en": "What is your name? (formal)"
+        }
+      ]
+    },
+    {
+      "title": "Conjugation and endings",
+      "body": "The basic form of a verb is the **infinitive**, e.g. *wohnen*. In a sentence the verb is **conjugated**: it gets an ending that depends on the subject. For *ich* the ending is **-e**, for *du* it is **-st**, and for *Sie* it is **-en**. The *Sie* form is identical to the infinitive.",
+      "table": {
+        "head": [
+          "",
+          "wohnen",
+          "kommen",
+          "heißen",
+          "sprechen"
+        ],
+        "rows": [
+          [
+            "ich",
+            "wohne",
+            "komme",
+            "heiße",
+            "spreche"
+          ],
+          [
+            "du",
+            "wohnst",
+            "kommst",
+            "heißt",
+            "sprichst"
+          ],
+          [
+            "Sie",
+            "wohnen",
+            "kommen",
+            "heißen",
+            "sprechen"
+          ]
+        ]
+      },
+      "ar": "النهايات: ich ‎-e ، du ‎-st ، Sie ‎-en."
+    },
+    {
+      "title": "Special cases",
+      "body": "With **heißen** the stem already ends in an s-sound, so *du* only gets **-t**: *du heißt* (not *heißst*).\n\nWith **sprechen** the vowel also changes with *du*: *e* becomes *i*: *du sprichst*. It is an irregular verb; irregular verbs get their own lessons.",
+      "examples": [
+        {
+          "de": "Du heißt Anna.",
+          "en": "Your name is Anna."
+        },
+        {
+          "de": "Du sprichst gut Deutsch.",
+          "en": "You speak German well.",
+          "sup": true
+        }
+      ]
+    }
+  ],
+  "mistakes": [
+    {
+      "wrong": "Du heißst Tom.",
+      "right": "Du heißt Tom.",
+      "why": "The stem *heiß* already has an s-sound, so only *-t* is added."
+    },
+    {
+      "wrong": "Du sprechst Deutsch.",
+      "right": "Du sprichst Deutsch.",
+      "why": "*sprechen* is irregular: e becomes i with *du*."
+    },
+    {
+      "wrong": "Sie kommst aus Wien. (talking to a stranger)",
+      "right": "Sie kommen aus Wien.",
+      "why": "Formal *Sie* (you) always takes the ending *-en*."
+    }
+  ],
+  "pronunciation": [
+    {
+      "de": "ß",
+      "tip": "*ß* sounds like a sharp *s*: *heißen*, *Sie heißen*."
+    },
+    {
+      "de": "sprechen",
+      "tip": "Say *sch-p* at the start: *sprechen*, *sprichst*. The *ch* is soft, as in *ich*."
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Formal and informal: meeting someone new",
+      "lines": [
+        {
+          "who": "A",
+          "de": "Guten Tag! Wie heißen Sie?",
+          "en": "Good day! What is your name?"
+        },
+        {
+          "who": "B",
+          "de": "Ich heiße Martin. Und wie heißen Sie?",
+          "en": "My name is Martin. And what is your name?"
+        },
+        {
+          "who": "C",
+          "de": "Ich heiße Lara. Ich wohne in Paris.",
+          "en": "My name is Lara. I live in Paris."
+        },
+        {
+          "who": "B",
+          "de": "Woher kommst du?",
+          "en": "Where do you come from? (B knows C, so informal)"
+        },
+        {
+          "who": "C",
+          "de": "Ich komme aus Frankreich. Sprichst du Deutsch?",
+          "en": "I come from France. Do you speak German?"
+        }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn each verb with its three forms: ich -e, du -st, Sie -en. Say them aloud as a mini song.",
+  "comprehension": [
+    {
+      "q": "What ending does the verb take with *ich*?",
+      "a": "-e (ich wohne)."
+    },
+    {
+      "q": "What ending does the verb take with *du*?",
+      "a": "-st (du kommst)."
+    },
+    {
+      "q": "What ending does the verb take with *Sie*?",
+      "a": "-en, the same as the infinitive (Sie wohnen)."
+    },
+    {
+      "q": "Why is it *du heißt* and not *du heißst*?",
+      "a": "The stem already ends in an s-sound, so only -t is added."
+    },
+    {
+      "q": "Why is *du sprichst* special?",
+      "a": "Sprechen is irregular: the vowel changes from e to i."
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Conjugate the verb",
+      "type": "fill",
+      "instructions": "Write the correct form of the verb in brackets.",
+      "items": [
+        {
+          "q": "Ich ___ in Paris. (wohnen)",
+          "a": "wohne",
+          "expl": "ich + stem + -e."
+        },
+        {
+          "q": "___ Sie aus Österreich? (kommen)",
+          "a": "Kommen",
+          "expl": "Sie + -en; the yes/no question starts with the verb."
+        },
+        {
+          "q": "Du ___ Englisch. (sprechen)",
+          "a": "sprichst",
+          "expl": "Irregular: e becomes i."
+        },
+        {
+          "q": "Ich ___ Anna. (heißen)",
+          "a": "heiße"
+        },
+        {
+          "q": "Wie ___ du? (heißen)",
+          "a": "heißt",
+          "expl": "Only -t, because the stem ends in ß."
+        },
+        {
+          "q": "Du ___ in Berlin. (wohnen)",
+          "a": "wohnst"
+        },
+        {
+          "q": "Woher ___ Sie? (kommen)",
+          "a": "kommen"
+        },
+        {
+          "q": "Ich ___ Deutsch. (sprechen)",
+          "a": "spreche",
+          "expl": "With ich the vowel does not change."
+        }
+      ]
+    },
+    {
+      "title": "Choose the ending",
+      "type": "choose",
+      "instructions": "Choose the correct form.",
+      "items": [
+        {
+          "q": "Du ___ aus Spanien. (komme / kommst / kommen)",
+          "a": "kommst"
+        },
+        {
+          "q": "Sie ___ in London. (wohne / wohnst / wohnen)",
+          "a": "wohnen",
+          "expl": "Formal *Sie*: -en."
+        },
+        {
+          "q": "Ich ___ Maria. (heiße / heißt / heißen)",
+          "a": "heiße"
+        },
+        {
+          "q": "Du ___ gut Deutsch. (sprichst / sprechst / sprecht)",
+          "a": "sprichst"
+        },
+        {
+          "q": "Wo ___ du? (wohne / wohnst / wohnen)",
+          "a": "wohnst"
+        }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Match German and English",
+      "type": "match",
+      "instructions": "Match each German form with its English meaning.",
+      "items": [
+        {
+          "q": "ich wohne",
+          "a": "I live"
+        },
+        {
+          "q": "du kommst",
+          "a": "you come"
+        },
+        {
+          "q": "Sie heißen",
+          "a": "you are called (formal)"
+        },
+        {
+          "q": "du sprichst",
+          "a": "you speak"
+        },
+        {
+          "q": "ich heiße",
+          "a": "I am called"
+        },
+        {
+          "q": "Sie wohnen",
+          "a": "you live (formal)"
+        }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Pronouns replace nouns: ich (first person), du and Sie (second person).",
+    "The verb is conjugated according to the subject.",
+    "Endings: ich -e, du -st, Sie -en (the Sie form equals the infinitive).",
+    "Stems ending in an s-sound (heißen) take only -t with du: du heißt.",
+    "Irregular verbs such as sprechen change their vowel: du sprichst."
+  ]
+}

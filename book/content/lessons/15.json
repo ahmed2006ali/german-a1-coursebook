@@ -1,0 +1,185 @@
+{
+  "n": 15,
+  "title": "Irregular Verbs",
+  "titleDe": "Unregelmäßige Verben",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; the verb forms are standard German, but the exercise sentences at the end were reconstructed from context.",
+  "objectives": [
+    "I can explain what an irregular verb is",
+    "I can recognise the vowel changes e → i, e → ie, a → ä and au → äu",
+    "I can conjugate the most important irregular verbs for A1",
+    "I can use these verbs correctly with du and er / sie / es"
+  ],
+  "vocab": [
+    { "de": "sprechen", "en": "to speak", "ar": "يتكلم", "note": "e → i" },
+    { "de": "nehmen", "en": "to take", "ar": "يأخذ", "note": "e → i, with more changes" },
+    { "de": "treffen", "en": "to meet", "ar": "يقابل", "note": "e → i" },
+    { "de": "essen", "en": "to eat", "ar": "يأكل", "note": "e → i" },
+    { "de": "lesen", "en": "to read", "ar": "يقرأ", "note": "e → ie" },
+    { "de": "sehen", "en": "to see", "ar": "يرى", "note": "e → ie" },
+    { "de": "fahren", "en": "to drive / go (by vehicle)", "ar": "يقود / يذهب بمركبة", "note": "a → ä" },
+    { "de": "waschen", "en": "to wash", "ar": "يغسل", "note": "a → ä", "sup": true },
+    { "de": "laufen", "en": "to run / walk", "ar": "يركض / يمشي", "note": "au → äu" },
+    { "de": "wissen", "en": "to know (a fact)", "ar": "يعرف", "note": "special verb" },
+    { "de": "das Buch", "pl": "die Bücher", "en": "book", "ar": "كتاب" },
+    { "de": "der Vokalwechsel", "pl": "die Vokalwechsel", "en": "vowel change", "ar": "تغيّر حرف العلّة" }
+  ],
+  "expressions": [
+    { "de": "Du fährst nach Berlin.", "en": "You are going to Berlin.", "sup": false },
+    { "de": "Sprichst du Deutsch und Spanisch?", "en": "Do you speak German and Spanish?" },
+    { "de": "Sabine liest ein Buch.", "en": "Sabine is reading a book." }
+  ],
+  "patterns": [
+    { "form": "Irregular verb: vowel changes only with du and er / sie / es", "ex": "ich spreche, du sprichst, er spricht", "en": "I speak, you speak, he speaks" }
+  ],
+  "grammar": [
+    {
+      "title": "What is different in irregular verbs?",
+      "body": "In irregular verbs (*unregelmäßige* or *starke Verben*) the stem vowel changes, but **only with du and er / sie / es**. All other forms (*ich, wir, ihr, sie / Sie*) are formed like regular verbs. The endings do not change: *-e, -st, -t, -en, -t, -en*.",
+      "ar": "التغيير في حرف العلّة يحدث فقط مع du و er/sie/es."
+    },
+    {
+      "title": "The four vowel changes",
+      "body": "Learn the verbs in groups. The vowel changes are:\n\n**e → i**: sprechen, nehmen, treffen, essen\n**e → ie**: lesen, sehen\n**a → ä**: fahren, waschen\n**au → äu**: laufen\n\nThe verb *nehmen* is an exception: besides the vowel change, the consonant changes too (*du nimmst*, *er nimmt*).",
+      "table": {
+        "head": ["", "e → i: sprechen", "e → i: nehmen", "e → i: treffen", "e → i: essen"],
+        "rows": [
+          ["ich", "spreche", "nehme", "treffe", "esse"],
+          ["du", "sprichst", "nimmst", "triffst", "isst"],
+          ["er / sie / es", "spricht", "nimmt", "trifft", "isst"],
+          ["wir", "sprechen", "nehmen", "treffen", "essen"],
+          ["ihr", "sprecht", "nehmt", "trefft", "esst"],
+          ["sie / Sie", "sprechen", "nehmen", "treffen", "essen"]
+        ]
+      }
+    },
+    {
+      "title": "e → ie: lesen, sehen",
+      "body": "Here the short *e* becomes a long *ie*.",
+      "table": {
+        "head": ["", "lesen", "sehen"],
+        "rows": [
+          ["ich", "lese", "sehe"],
+          ["du", "liest", "siehst"],
+          ["er / sie / es", "liest", "sieht"],
+          ["wir", "lesen", "sehen"],
+          ["ihr", "lest", "seht"],
+          ["sie / Sie", "lesen", "sehen"]
+        ]
+      }
+    },
+    {
+      "title": "a → ä and au → äu",
+      "body": "The vowels *a* and *au* get an umlaut with *du* and *er / sie / es*.",
+      "table": {
+        "head": ["", "fahren", "waschen", "laufen"],
+        "rows": [
+          ["ich", "fahre", "wasche", "laufe"],
+          ["du", "fährst", "wäschst", "läufst"],
+          ["er / sie / es", "fährt", "wäscht", "läuft"],
+          ["wir", "fahren", "waschen", "laufen"],
+          ["ihr", "fahrt", "wascht", "lauft"],
+          ["sie / Sie", "fahren", "waschen", "laufen"]
+        ]
+      }
+    },
+    {
+      "title": "A special verb: wissen",
+      "body": "*Wissen* (to know a fact) is special: the vowel changes in the singular, **including ich**. The *ich* and *er / sie / es* forms have no ending.",
+      "table": {
+        "head": ["Pronoun", "wissen"],
+        "rows": [
+          ["ich", "weiß"],
+          ["du", "weißt"],
+          ["er / sie / es", "weiß"],
+          ["wir", "wissen"],
+          ["ihr", "wisst"],
+          ["sie / Sie", "wissen"]
+        ]
+      },
+      "examples": [
+        { "de": "Ich weiß das nicht.", "en": "I do not know that.", "sup": true }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Er sprecht Deutsch.", "right": "Er spricht Deutsch.", "why": "*sprechen* changes e → i with *er / sie / es*." },
+    { "wrong": "Ich spriche Deutsch.", "right": "Ich spreche Deutsch.", "why": "With *ich* there is no vowel change." },
+    { "wrong": "Du fahrst nach Berlin.", "right": "Du fährst nach Berlin.", "why": "*fahren* has an umlaut with *du*." }
+  ],
+  "pronunciation": [
+    { "de": "ie", "tip": "In *liest* and *siehst* the *ie* is one long *ee* sound, like 'lee-st'." },
+    { "de": "ä", "tip": "*ä* is like the *e* in English 'bed': *fährt*, *läuft*." }
+  ],
+  "dialogues": [
+    {
+      "title": "At the weekend",
+      "lines": [
+        { "who": "A", "de": "Fährst du nach Berlin?", "en": "Are you going to Berlin?" },
+        { "who": "B", "de": "Ja, ich fahre nach Berlin. Ich treffe Sabine.", "en": "Yes, I am going to Berlin. I am meeting Sabine." },
+        { "who": "A", "de": "Sabine? Sie liest immer ein Buch!", "en": "Sabine? She is always reading a book!" },
+        { "who": "B", "de": "Ja! Und sie spricht Deutsch und Spanisch.", "en": "Yes! And she speaks German and Spanish." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn irregular verbs with their du-form and er-form together: sprechen – du sprichst – er spricht.",
+  "comprehension": [
+    { "q": "With which pronouns does the stem vowel change?", "a": "Only with du and er / sie / es." },
+    { "q": "What vowel change does *sprechen* have?", "a": "e → i (du sprichst)." },
+    { "q": "What is the du-form of *lesen*?", "a": "du liest." },
+    { "q": "Which verb is special because even *ich* has a changed form?", "a": "wissen (ich weiß)." },
+    { "q": "What is the du-form of *fahren*?", "a": "du fährst." }
+  ],
+  "exercises": [
+    {
+      "title": "Conjugate the verb",
+      "type": "fill",
+      "instructions": "Write the correct form of the verb in brackets.",
+      "items": [
+        { "q": "Du ___ nach Berlin. (fahren)", "a": "fährst", "expl": "a → ä with du." },
+        { "q": "Er ___ Deutsch. (sprechen)", "a": "spricht", "expl": "e → i." },
+        { "q": "Sabine ___ ein Buch. (lesen)", "a": "liest", "expl": "e → ie." },
+        { "q": "Ich ___ in Berlin. (laufen)", "a": "laufe", "expl": "No vowel change with ich." },
+        { "q": "Du ___ Anna. (treffen)", "a": "triffst" },
+        { "q": "Du ___ ein Buch. (nehmen)", "a": "nimmst", "expl": "nehmen changes the consonant too." },
+        { "q": "Er ___ Anna. (sehen)", "a": "sieht" },
+        { "q": "___ du das? (wissen)", "a": "Weißt" }
+      ]
+    },
+    {
+      "title": "Choose the correct form",
+      "type": "choose",
+      "instructions": "Choose the correct form.",
+      "items": [
+        { "q": "Wir ___ nach Wien. (fahren / fährt)", "a": "fahren", "expl": "No vowel change with wir." },
+        { "q": "Ihr ___ Deutsch. (sprecht / sprichst)", "a": "sprecht", "expl": "No vowel change with ihr." },
+        { "q": "Du ___ ein Buch. (liest / lest)", "a": "liest" },
+        { "q": "Sie ___ Deutsch. (they) (spricht / sprechen)", "a": "sprechen" },
+        { "q": "Anna ___ Deutsch. (spricht / sprechst)", "a": "spricht" },
+        { "q": "Er ___ nach Hamburg. (fährt / fahrt)", "a": "fährt" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Vowel changes",
+      "type": "match",
+      "instructions": "Match each verb with its vowel change.",
+      "items": [
+        { "q": "sprechen", "a": "e → i" },
+        { "q": "lesen", "a": "e → ie" },
+        { "q": "fahren", "a": "a → ä" },
+        { "q": "laufen", "a": "au → äu" },
+        { "q": "treffen", "a": "e → i" },
+        { "q": "sehen", "a": "e → ie" }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Irregular verbs change the stem vowel only with du and er / sie / es.",
+    "Changes: e → i (sprechen, nehmen, treffen, essen), e → ie (lesen, sehen), a → ä (fahren, waschen), au → äu (laufen).",
+    "The endings are the same as for regular verbs.",
+    "nehmen: du nimmst, er nimmt; wissen: ich weiß, du weißt, er weiß."
+  ]
+}

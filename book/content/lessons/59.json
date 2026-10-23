@@ -1,0 +1,212 @@
+{
+  "n": 59,
+  "title": "At the Doctor's",
+  "titleDe": "Beim Arzt",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; the vocabulary and the phone dialogue were reconstructed from context and standard German. The doctor and patient phrases follow the teacher's list as closely as the captions allow; a few extra phrases are marked as additions.",
+  "objectives": [
+    "I can make a doctor's appointment on the phone",
+    "I can describe my symptoms to a doctor",
+    "I can understand the doctor's questions and simple advice",
+    "I can use the key words for medicine and prescriptions"
+  ],
+  "vocab": [
+    { "de": "der Arzt", "pl": "die Ärzte", "en": "doctor (male)", "ar": "طبيب", "note": "feminine: die Ärztin, die Ärztinnen" },
+    { "de": "die Ärztin", "pl": "die Ärztinnen", "en": "doctor (female)", "ar": "طبيبة" },
+    { "de": "der Patient", "pl": "die Patienten", "en": "patient (male)", "ar": "مريض", "note": "feminine: die Patientin" },
+    { "de": "die Patientin", "pl": "die Patientinnen", "en": "patient (female)", "ar": "مريضة" },
+    { "de": "die Arztpraxis", "pl": "die Arztpraxen", "en": "doctor's surgery", "ar": "عيادة الطبيب" },
+    { "de": "der Termin", "pl": "die Termine", "en": "appointment", "ar": "موعد", "note": "einen Termin vereinbaren" },
+    { "de": "die Tablette", "pl": "die Tabletten", "en": "tablet, pill", "ar": "قرص" },
+    { "de": "die Kapsel", "pl": "die Kapseln", "en": "capsule", "ar": "كبسولة" },
+    { "de": "die Tropfen", "pl": "die Tropfen", "en": "drops", "ar": "قطرات", "note": "usually plural" },
+    { "de": "der Saft", "pl": "die Säfte", "en": "juice, syrup", "ar": "شراب (دواء)", "sup": true },
+    { "de": "die Salbe", "pl": "die Salben", "en": "ointment, cream", "ar": "مرهم" },
+    { "de": "das Medikament", "pl": "die Medikamente", "en": "medicine", "ar": "دواء" },
+    { "de": "das Rezept", "pl": "die Rezepte", "en": "prescription", "ar": "وصفة طبية", "note": "also: recipe" },
+    { "de": "das Antibiotikum", "pl": "die Antibiotika", "en": "antibiotic", "ar": "مضاد حيوي" },
+    { "de": "der Blutdruck", "pl": "–", "en": "blood pressure", "ar": "ضغط الدم" },
+    { "de": "die Temperatur", "pl": "die Temperaturen", "en": "temperature", "ar": "درجة الحرارة" },
+    { "de": "die Grippe", "pl": "–", "en": "flu", "ar": "إنفلونزا" },
+    { "de": "die Versichertenkarte", "pl": "die Versichertenkarten", "en": "health insurance card", "ar": "بطاقة التأمين الصحي" },
+    { "de": "die Arbeitsunfähigkeitsbescheinigung", "pl": "die Arbeitsunfähigkeitsbescheinigungen", "en": "sick note, medical certificate", "ar": "إجازة مرضية", "note": "also called: Krankschreibung" },
+    { "de": "untersuchen", "en": "to examine", "ar": "يفحص", "note": "Der Arzt untersucht den Patienten." },
+    { "de": "messen", "en": "to measure", "ar": "يقيس", "note": "er / sie misst, hat gemessen" },
+    { "de": "verschreiben", "en": "to prescribe", "ar": "يصف (دواءً)", "note": "hat verschrieben" },
+    { "de": "vereinbaren", "en": "to arrange, to agree on", "ar": "يتفق على موعد" }
+  ],
+  "expressions": [
+    { "de": "Praxis Dr. Lampert, guten Tag.", "en": "Dr Lampert's surgery, good day." },
+    { "de": "Ich möchte einen Termin vereinbaren.", "en": "I would like to make an appointment." },
+    { "de": "Was haben Sie?", "en": "What is wrong? (What do you have?)" },
+    { "de": "Haben Sie Fieber?", "en": "Do you have a fever?" },
+    { "de": "Seit wann haben Sie die Symptome?", "en": "Since when have you had the symptoms?" },
+    { "de": "Seit gestern. / Seit zwei Tagen.", "en": "Since yesterday. / For two days." },
+    { "de": "Bitte bringen Sie Ihre Versichertenkarte mit.", "en": "Please bring your insurance card with you." },
+    { "de": "Guten Tag, was kann ich für Sie tun?", "en": "Good day, what can I do for you?" },
+    { "de": "Guten Tag, Frau Doktor. Ich fühle mich nicht wohl.", "en": "Good day, doctor. I do not feel well." },
+    { "de": "Ich habe Rückenschmerzen.", "en": "I have back pain." },
+    { "de": "Mir geht es schlecht.", "en": "I feel bad." },
+    { "de": "Ich messe Ihren Blutdruck.", "en": "I will measure your blood pressure." },
+    { "de": "Der Blutdruck ist normal.", "en": "Your blood pressure is normal." },
+    { "de": "Sie haben eine Grippe.", "en": "You have the flu." },
+    { "de": "Ich schreibe Ihnen ein Rezept.", "en": "I will write you a prescription." },
+    { "de": "Trinken Sie viel Tee.", "en": "Drink a lot of tea." },
+    { "de": "Sie müssen im Bett bleiben.", "en": "You have to stay in bed." },
+    { "de": "Vielen Dank, Frau Doktor. Auf Wiedersehen!", "en": "Thank you very much, doctor. Goodbye!" },
+    { "de": "Gute Besserung!", "en": "Get well soon!", "sup": true }
+  ],
+  "patterns": [
+    { "form": "Ich habe + [Symptom].", "ex": "Ich habe Kopfschmerzen und Husten.", "en": "I have a headache and a cough." },
+    { "form": "Seit + [Zeit] + habe ich + [Symptom].", "ex": "Seit gestern habe ich Fieber.", "en": "Since yesterday I have had a fever.", "sup": true },
+    { "form": "Sie müssen + [Infinitiv].", "ex": "Sie müssen im Bett bleiben.", "en": "You have to stay in bed." },
+    { "form": "Ich schreibe Ihnen + [Medikament].", "ex": "Ich schreibe Ihnen ein Rezept.", "en": "I am writing you a prescription." }
+  ],
+  "grammar": [
+    {
+      "title": "Masculine and feminine job words",
+      "body": "Most job words have a masculine and a feminine form. Feminine forms add **-in**, the plural adds **-nen**: **der Arzt – die Ärztin**, **der Patient – die Patientin**. Plurals: *die Ärzte, die Ärztinnen, die Patienten, die Patientinnen*.",
+      "table": {
+        "head": ["", "Singular", "Plural"],
+        "rows": [
+          ["male", "der Arzt", "die Ärzte"],
+          ["female", "die Ärztin", "die Ärztinnen"],
+          ["male", "der Patient", "die Patienten"],
+          ["female", "die Patientin", "die Patientinnen"]
+        ]
+      }
+    },
+    {
+      "title": "den Patienten: a small surprise",
+      "body": "The teacher says: the doctor examines **den Patienten** (not *den Patient*). Here *Patient* gets an extra **-en** in the accusative. You will learn why later; for now just memorise the phrase **Der Arzt untersucht den Patienten.**",
+      "examples": [
+        { "de": "Der Arzt untersucht den Patienten.", "en": "The doctor examines the patient." }
+      ]
+    },
+    {
+      "title": "Irregular and inseparable verbs",
+      "body": "**messen** is irregular: ich messe, du **misst**, er / sie **misst**. **verschreiben** is an inseparable verb (the prefix *ver-* stays on the verb); its participle is **verschrieben**. In the Perfekt: *Der Arzt hat den Blutdruck gemessen.*",
+      "table": {
+        "head": ["Pronoun", "messen"],
+        "rows": [
+          ["ich", "messe"],
+          ["du", "misst"],
+          ["er / sie / es", "misst"],
+          ["wir", "messen"],
+          ["ihr", "messt"],
+          ["sie / Sie", "messen"]
+        ]
+      }
+    },
+    {
+      "title": "Use Sie with the doctor",
+      "body": "Always use the **Sie**-form with the doctor and with the staff in the surgery. Address a female doctor as **Frau Doktor** or **Frau Dr. Lampert**.",
+      "ar": "مع الطبيب نستخدم دائماً صيغة Sie الرسمية."
+    },
+    {
+      "title": "Insurance card and sick note",
+      "body": "Everyone in Germany has an insurance card (**die Versichertenkarte**). Take it with you to the doctor. If you cannot go to work, the doctor can give you a sick note: **die Arbeitsunfähigkeitsbescheinigung**, often called **die Krankschreibung**."
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Der Arzt untersucht den Patient.", "right": "Der Arzt untersucht den Patienten.", "why": "*Patient* takes -en after *den*." },
+    { "wrong": "Du messt den Blutdruck.", "right": "Du misst den Blutdruck.", "why": "*messen* changes e to i in du- and er-form.", "sup": true }
+  ],
+  "pronunciation": [
+    { "de": "ä", "tip": "Like the 'e' in 'bed'. *Ärztin, Säfte, Tabletten*." },
+    { "de": "z", "tip": "Always 'ts'. *Arzt, Rezept, Arztpraxis*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Making an appointment by phone",
+      "lines": [
+        { "who": "A", "de": "Praxis Dr. Lampert, guten Tag.", "en": "Dr Lampert's surgery, good day." },
+        { "who": "B", "de": "Guten Tag, Florian Müller hier. Ich möchte einen Termin vereinbaren.", "en": "Good day, this is Florian Müller. I would like to make an appointment." },
+        { "who": "A", "de": "Was haben Sie?", "en": "What is wrong?" },
+        { "who": "B", "de": "Ich habe Halsschmerzen und Husten.", "en": "I have a sore throat and a cough." },
+        { "who": "A", "de": "Haben Sie Fieber?", "en": "Do you have a fever?" },
+        { "who": "B", "de": "Ja, seit gestern.", "en": "Yes, since yesterday." },
+        { "who": "A", "de": "Können Sie heute Nachmittag kommen?", "en": "Can you come this afternoon?" },
+        { "who": "B", "de": "Ja, gern. Danke. Auf Wiederhören!", "en": "Yes, gladly. Thank you. Goodbye!" }
+      ]
+    },
+    {
+      "title": "At the doctor's",
+      "lines": [
+        { "who": "A", "de": "Guten Tag, was kann ich für Sie tun?", "en": "Good day, what can I do for you?" },
+        { "who": "B", "de": "Guten Tag, Frau Doktor. Ich fühle mich nicht wohl. Ich habe Kopfschmerzen und Fieber.", "en": "Good day, doctor. I do not feel well. I have a headache and a fever." },
+        { "who": "A", "de": "Ich messe Ihre Temperatur und Ihren Blutdruck. Der Blutdruck ist normal. Sie haben eine Grippe.", "en": "I will measure your temperature and your blood pressure. Your blood pressure is normal. You have the flu." },
+        { "who": "A", "de": "Ich schreibe Ihnen ein Rezept. Trinken Sie viel Tee und bleiben Sie im Bett.", "en": "I will write you a prescription. Drink a lot of tea and stay in bed." },
+        { "who": "B", "de": "Vielen Dank, Frau Doktor. Auf Wiedersehen!", "en": "Thank you very much, doctor. Goodbye!" }
+      ]
+    }
+  ],
+  "tip": "Before you go to the doctor, review lesson 43 (being ill) so you can name your symptoms. Always make an appointment first, even when you feel very sick.",
+  "comprehension": [
+    { "q": "What is the feminine form of der Arzt?", "a": "die Ärztin." },
+    { "q": "What do you get from the doctor so that you can buy medicine?", "a": "Ein Rezept (a prescription)." },
+    { "q": "What must you bring to the doctor in Germany?", "a": "Die Versichertenkarte (health insurance card)." },
+    { "q": "What is a sick note called?", "a": "Die Arbeitsunfähigkeitsbescheinigung (or Krankschreibung)." },
+    { "q": "Which form of address do you use with the doctor?", "a": "The formal Sie-form." }
+  ],
+  "exercises": [
+    {
+      "title": "Match the words",
+      "type": "match",
+      "instructions": "Match the German words with their English meanings.",
+      "items": [
+        { "q": "die Tablette", "a": "tablet, pill" },
+        { "q": "die Salbe", "a": "ointment" },
+        { "q": "das Rezept", "a": "prescription" },
+        { "q": "der Termin", "a": "appointment" },
+        { "q": "der Blutdruck", "a": "blood pressure" },
+        { "q": "untersuchen", "a": "to examine" },
+        { "q": "die Grippe", "a": "flu" }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentence with the correct word.",
+      "items": [
+        { "q": "Ich möchte einen ___ vereinbaren. (appointment)", "a": "Termin" },
+        { "q": "Der Arzt ___ den Blutdruck. (messen, er-form)", "a": "misst", "expl": "e changes to i: er misst." },
+        { "q": "Ich schreibe Ihnen ein ___. (prescription)", "a": "Rezept" },
+        { "q": "Der Arzt untersucht den ___. (patient, accusative)", "a": "Patienten", "expl": "*den Patienten* with -en." },
+        { "q": "Bitte bringen Sie Ihre ___ mit. (insurance card)", "a": "Versichertenkarte" },
+        { "q": "Der Plural von *die Ärztin* ist die ___.", "a": "Ärztinnen" }
+      ]
+    },
+    {
+      "title": "Choose the right answer",
+      "type": "choose",
+      "instructions": "Choose the correct word or phrase.",
+      "items": [
+        { "q": "Du ___ den Blutdruck. (misst / messt / messe)", "a": "misst", "expl": "du-form of messen." },
+        { "q": "Mit dem Arzt spricht man ___. (per Sie / per du)", "a": "per Sie" },
+        { "q": "Die Frau ist krank und geht zum Arzt. Sie ist die ___. (Ärztin / Patientin)", "a": "Patientin", "expl": "The sick woman is the patient." },
+        { "q": "Der Arzt gibt mir ein ___ für die Apotheke. (Rezept / Termin)", "a": "Rezept" },
+        { "q": "Seit ___ habe ich Fieber. (gestern / morgen)", "a": "gestern", "expl": "*seit* needs a time in the past." }
+      ]
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Translate the sentences into German.",
+      "items": [
+        { "q": "I have a headache and a fever.", "a": "Ich habe Kopfschmerzen und Fieber." },
+        { "q": "I would like to make an appointment.", "a": "Ich möchte einen Termin vereinbaren." },
+        { "q": "You have the flu.", "a": "Sie haben eine Grippe." },
+        { "q": "You have to stay in bed.", "a": "Sie müssen im Bett bleiben." },
+        { "q": "Your blood pressure is normal.", "a": "Der Blutdruck ist normal. / Ihr Blutdruck ist normal." }
+      ]
+    }
+  ],
+  "summary": [
+    "Ask for an appointment: Ich möchte einen Termin vereinbaren. Say your symptoms with Ich habe ...",
+    "Arzt / Ärztin and Patient / Patientin: feminine forms end in -in, plural -innen.",
+    "The doctor examines (untersuchen), measures (messen: er misst) and prescribes (verschreiben).",
+    "Key words: Tablette, Kapsel, Tropfen, Salbe, Rezept, Medikament.",
+    "Use Sie, and bring your Versichertenkarte. A sick note is a Krankschreibung."
+  ]
+}

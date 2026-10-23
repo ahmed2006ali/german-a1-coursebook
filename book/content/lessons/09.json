@@ -1,0 +1,156 @@
+{
+  "n": 9,
+  "title": "Sentence Structure, Part 1",
+  "titleDe": "Satzstruktur, Teil 1",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled; the sentences were reconstructed from context and the teacher's explanation.",
+  "objectives": [
+    "I can find the subject and the verb in a simple sentence",
+    "I can place the verb in second position in statements",
+    "I can build W-questions with the verb in second position",
+    "I can build yes/no questions with the verb in first position"
+  ],
+  "vocab": [
+    { "de": "das Verb", "pl": "die Verben", "en": "verb", "ar": "فعل" },
+    { "de": "das Subjekt", "pl": "die Subjekte", "en": "subject", "ar": "فاعل" },
+    { "de": "der Satz", "pl": "die Sätze", "en": "sentence", "ar": "جملة" },
+    { "de": "die Frage", "pl": "die Fragen", "en": "question", "ar": "سؤال" },
+    { "de": "die Antwort", "pl": "die Antworten", "en": "answer", "ar": "جواب", "sup": true },
+    { "de": "die Position", "pl": "die Positionen", "en": "position", "ar": "موضع" },
+    { "de": "wie", "en": "how / what (in names)", "ar": "كيف" },
+    { "de": "was", "en": "what", "ar": "ماذا" },
+    { "de": "wo", "en": "where", "ar": "أين" },
+    { "de": "woher", "en": "where from", "ar": "من أين" },
+    { "de": "wer", "en": "who", "ar": "من", "sup": true },
+    { "de": "ja", "en": "yes", "ar": "نعم" },
+    { "de": "nein", "en": "no", "ar": "لا" },
+    { "de": "heute", "en": "today", "ar": "اليوم" }
+  ],
+  "expressions": [
+    { "de": "Ich heiße Monika.", "en": "My name is Monika." },
+    { "de": "Ich wohne in Berlin.", "en": "I live in Berlin." },
+    { "de": "Heute bin ich in Berlin.", "en": "Today I am in Berlin." },
+    { "de": "Wie geht es Ihnen?", "en": "How are you? (formal)" },
+    { "de": "Wie alt sind Sie?", "en": "How old are you? (formal)" },
+    { "de": "Kommst du aus Deutschland?", "en": "Do you come from Germany?" }
+  ],
+  "patterns": [
+    { "form": "Subject + verb + rest.", "ex": "Ich wohne in Berlin.", "en": "I live in Berlin." },
+    { "form": "W-word + verb + subject + rest?", "ex": "Woher kommst du?", "en": "Where do you come from?" },
+    { "form": "Verb + subject + rest? (yes/no)", "ex": "Sprechen Sie Italienisch?", "en": "Do you speak Italian?" }
+  ],
+  "grammar": [
+    {
+      "title": "Subject and verb",
+      "body": "Every sentence needs a **subject** (who does something) and a **verb** (the action or state). The subject decides how the verb is conjugated, so the verb changes its ending: *ich heiße*, but *du heißt*. You will study conjugation in detail in the next lessons.",
+      "examples": [
+        { "de": "Ich heiße Monika.", "en": "Subject: ich. Verb: heiße." },
+        { "de": "Ich wohne in Berlin.", "en": "Subject: ich. Verb: wohne." }
+      ]
+    },
+    {
+      "title": "Statements: the verb is in position 2",
+      "body": "The most important rule of German word order: in a statement the conjugated verb is always the **second element**. The subject can stand before the verb or after it. Only the position of the verb stays fixed.",
+      "ar": "الفعل المصرّف يأتي دائمًا في المرتبة الثانية في الجملة الخبرية.",
+      "examples": [
+        { "de": "Ich bin in Berlin.", "en": "Subject first, verb second." },
+        { "de": "Heute bin ich in Berlin.", "en": "Verb still second; the subject comes after it." }
+      ]
+    },
+    {
+      "title": "W-questions: the verb is in position 2",
+      "body": "Questions that start with a W-word (*wie, was, wo, woher …*) are called **W-Fragen**. The W-word is in position 1, the verb in position 2 and the subject follows the verb.",
+      "examples": [
+        { "de": "Wie heißen Sie?", "en": "What is your name? (verb: heißen, subject: Sie)" },
+        { "de": "Woher kommst du?", "en": "Where do you come from? (verb: kommst, subject: du)" },
+        { "de": "Wie geht es Ihnen?", "en": "How are you?" },
+        { "de": "Wo wohnen Sie?", "en": "Where do you live?" }
+      ]
+    },
+    {
+      "title": "Yes/no questions: the verb is in position 1",
+      "body": "Questions that can be answered with *ja* or *nein* are **Ja/Nein-Fragen**. This is the exception: the conjugated verb is in **first position** and the subject follows directly.",
+      "ar": "في أسئلة (نعم/لا) يأتي الفعل في المرتبة الأولى.",
+      "examples": [
+        { "de": "Haben Sie Kinder?", "en": "Do you have children?" },
+        { "de": "Kommst du aus Deutschland?", "en": "Do you come from Germany?" },
+        { "de": "Sprechen Sie Italienisch?", "en": "Do you speak Italian?" },
+        { "de": "Sind Sie Studentin?", "en": "Are you a student?" }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Heute ich bin in Berlin.", "right": "Heute bin ich in Berlin.", "why": "The verb must stay in second position." },
+    { "wrong": "Du kommst aus Berlin?", "right": "Kommst du aus Berlin?", "why": "A yes/no question starts with the verb." },
+    { "wrong": "Wie Sie heißen?", "right": "Wie heißen Sie?", "why": "In W-questions the verb is in second position." }
+  ],
+  "dialogues": [
+    {
+      "title": "Getting to know each other",
+      "lines": [
+        { "who": "A", "de": "Hallo! Ich heiße Anna. Wie heißen Sie?", "en": "Hello! My name is Anna. What is your name?" },
+        { "who": "B", "de": "Ich heiße Tom. Woher kommen Sie?", "en": "My name is Tom. Where do you come from?" },
+        { "who": "A", "de": "Ich komme aus Deutschland. Kommen Sie aus England?", "en": "I come from Germany. Do you come from England?" },
+        { "who": "B", "de": "Ja, ich komme aus England. Wo wohnen Sie?", "en": "Yes, I come from England. Where do you live?" },
+        { "who": "A", "de": "Ich wohne in Berlin.", "en": "I live in Berlin." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Say the sentence aloud and count the elements: the verb must always be the second one in a statement or a W-question.",
+  "comprehension": [
+    { "q": "In which position is the verb in a statement?", "a": "In second position." },
+    { "q": "In which position is the verb in a yes/no question?", "a": "In first position." },
+    { "q": "What is the verb and what is the subject in *Woher kommst du?*", "a": "Verb: kommst. Subject: du." },
+    { "q": "What are questions that start with wie, was or wo called?", "a": "W-Fragen." }
+  ],
+  "exercises": [
+    {
+      "title": "Word order",
+      "type": "reorder",
+      "instructions": "Put the words in the correct order. Start statements with the subject.",
+      "items": [
+        { "q": "heiße / ich / Tom", "a": "Ich heiße Tom.", "expl": "Statement: subject, then verb." },
+        { "q": "wohne / Ich / in Hamburg", "a": "Ich wohne in Hamburg.", "expl": "Verb in second position." },
+        { "q": "heißen / Sie / Wie", "a": "Wie heißen Sie?", "expl": "W-question: wie, verb, subject." },
+        { "q": "du / kommst / aus England ?", "a": "Kommst du aus England?", "expl": "Yes/no question: verb first." },
+        { "q": "bist / alt / wie / du", "a": "Wie alt bist du?", "expl": "W-question: verb in second position." },
+        { "q": "Sie / Deutsch / sprechen ?", "a": "Sprechen Sie Deutsch?", "expl": "Yes/no question: verb first." }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Find the verb and the subject",
+      "type": "answer",
+      "instructions": "Write the verb or the subject as asked.",
+      "items": [
+        { "q": "Ich bin Marie. Which word is the verb?", "a": "bin" },
+        { "q": "Wie heißen Sie? Which word is the subject?", "a": "Sie" },
+        { "q": "Kommst du aus Italien? Which word is the verb?", "a": "Kommst" },
+        { "q": "Wo wohnen Sie? Which word is the subject?", "a": "Sie" },
+        { "q": "Sprechen Sie Italienisch? Which word is the verb?", "a": "Sprechen" },
+        { "q": "Heute bin ich in Berlin. Which word is the subject?", "a": "ich" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Which type of question?",
+      "type": "choose",
+      "instructions": "Choose W-Frage or Ja/Nein-Frage.",
+      "items": [
+        { "q": "Wie alt sind Sie? (W-Frage / Ja/Nein-Frage)", "a": "W-Frage", "expl": "It starts with the W-word *wie*." },
+        { "q": "Kommst du aus Berlin? (W-Frage / Ja/Nein-Frage)", "a": "Ja/Nein-Frage", "expl": "It can be answered with ja or nein." },
+        { "q": "Woher kommen Sie? (W-Frage / Ja/Nein-Frage)", "a": "W-Frage" },
+        { "q": "Wohnen Sie in Hamburg? (W-Frage / Ja/Nein-Frage)", "a": "Ja/Nein-Frage" },
+        { "q": "Wo wohnst du? (W-Frage / Ja/Nein-Frage)", "a": "W-Frage" }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "A sentence needs a subject and a conjugated verb; the subject decides the verb form.",
+    "In statements the verb is in second position; the subject can stand before or after it.",
+    "W-questions (wie, was, wo, woher …): W-word, verb, subject.",
+    "Yes/no questions: the verb is in first position, followed by the subject."
+  ]
+}

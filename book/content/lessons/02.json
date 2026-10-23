@@ -1,0 +1,181 @@
+{
+  "n": 2,
+  "title": "Common Phrases",
+  "titleDe": "Häufige Redewendungen",
+  "level": "A1",
+  "sourceNote": "The auto-captions are heavily garbled. The phrases were reconstructed from context. The phrase marked as supplementary (Ich verstehe) was cut off in the captions and is added for completeness.",
+  "objectives": [
+    "I can say thank you and answer when someone thanks me",
+    "I can apologise and ask someone to repeat",
+    "I can say which languages I speak",
+    "I can say that I do not know something",
+    "I can answer with yes, no and maybe"
+  ],
+  "vocab": [
+    { "de": "ja", "en": "yes", "ar": "نعم" },
+    { "de": "nein", "en": "no", "ar": "لا" },
+    { "de": "vielleicht", "en": "maybe", "ar": "ربما" },
+    { "de": "Deutsch", "en": "German (language)", "ar": "الألمانية" },
+    { "de": "Englisch", "en": "English (language)", "ar": "الإنجليزية" },
+    { "de": "der Moment", "pl": "die Momente", "en": "moment", "ar": "لحظة", "note": "Einen Moment bitte!" },
+    { "de": "das Problem", "pl": "die Probleme", "en": "problem", "ar": "مشكلة" },
+    { "de": "der Dank", "pl": "–", "en": "thanks", "ar": "شكر", "note": "in: Vielen Dank" }
+  ],
+  "expressions": [
+    { "de": "Danke!", "en": "Thank you! / Thanks!", "ar": "شكرًا" },
+    { "de": "Danke schön!", "en": "Thank you very much!", "ar": "شكرًا جزيلًا" },
+    { "de": "Vielen Dank!", "en": "Many thanks!", "ar": "شكرًا جزيلًا" },
+    { "de": "Bitte!", "en": "You're welcome! / Please!", "ar": "عفوًا / من فضلك" },
+    { "de": "Bitte schön!", "en": "You're welcome! (more polite)", "ar": "عفوًا" },
+    { "de": "Entschuldigen Sie bitte!", "en": "Excuse me! / Sorry! (formal)", "ar": "المعذرة" },
+    { "de": "Entschuldigung!", "en": "Excuse me! / Sorry! (informal)", "ar": "المعذرة" },
+    { "de": "Es tut mir leid.", "en": "I'm sorry.", "ar": "أنا آسف" },
+    { "de": "Wie bitte?", "en": "Pardon? (asking someone to repeat)", "ar": "عفوًا؟ ماذا؟" },
+    { "de": "Noch einmal, bitte!", "en": "Once again, please!", "ar": "مرة أخرى من فضلك" },
+    { "de": "Bitte wiederholen Sie!", "en": "Please repeat! (formal)", "ar": "من فضلك أعد" },
+    { "de": "Sprechen Sie Deutsch?", "en": "Do you speak German?", "ar": "" },
+    { "de": "Sprechen Sie Englisch?", "en": "Do you speak English?", "ar": "" },
+    { "de": "Ich spreche kein Deutsch.", "en": "I do not speak German.", "ar": "" },
+    { "de": "Ich spreche kein Englisch.", "en": "I do not speak English.", "ar": "" },
+    { "de": "Ich spreche ein bisschen Deutsch.", "en": "I speak a little German.", "ar": "" },
+    { "de": "Ich spreche etwas Englisch.", "en": "I speak some English.", "ar": "" },
+    { "de": "Ich verstehe.", "en": "I understand.", "ar": "أنا أفهم", "sup": true },
+    { "de": "Ich weiß nicht.", "en": "I don't know.", "ar": "لا أعرف" },
+    { "de": "Keine Ahnung.", "en": "No idea.", "ar": "لا فكرة لدي" },
+    { "de": "Kein Problem.", "en": "No problem.", "ar": "لا مشكلة" },
+    { "de": "Einen Moment, bitte!", "en": "One moment, please!", "ar": "لحظة من فضلك" }
+  ],
+  "patterns": [
+    { "form": "Sprechen Sie + [Sprache]?", "ex": "Sprechen Sie Englisch?", "en": "Do you speak English?" },
+    { "form": "Ich spreche + kein / ein bisschen / etwas + [Sprache].", "ex": "Ich spreche ein bisschen Deutsch.", "en": "I speak a little German." },
+    { "form": "Entschuldigen Sie bitte! / Entschuldigung!", "ex": "Entschuldigung!", "en": "Excuse me!" }
+  ],
+  "grammar": [
+    {
+      "title": "Bitte has many meanings",
+      "body": "**Bitte** means 'please' and also 'you're welcome'. After **Danke** you answer **Bitte** or **Bitte schön**. A rising voice changes the meaning: **Wie bitte?** is a question ('Pardon?'), while **Noch einmal, bitte** is a polite request.",
+      "ar": "كلمة bitte تعني: من فضلك، وأيضًا عفوًا (ردًّا على شكرًا).",
+      "examples": [
+        { "de": "Danke! – Bitte!", "en": "Thank you! – You're welcome!" },
+        { "de": "Wie bitte?", "en": "Pardon? (with a rising voice)" }
+      ]
+    },
+    {
+      "title": "Formal and informal",
+      "body": "**Entschuldigen Sie bitte** is formal. Between friends you simply say **Entschuldigung** or **Bitte**. **Sprechen Sie ...?** is the formal way to ask someone if they speak a language. The teacher asks you not to analyse the structure yet: repeat the phrases and learn them as units.",
+      "ar": "Sie صيغة رسمية؛ تعلّم العبارات كما هي الآن."
+    },
+    {
+      "title": "kein, ein bisschen, etwas",
+      "body": "To say how well you speak a language use **kein** (none), **ein bisschen** (a little) or **etwas** (some): **Ich spreche kein Deutsch** / **ein bisschen Deutsch** / **etwas Deutsch**. Language names are capitalised.",
+      "examples": [
+        { "de": "Ich spreche kein Englisch.", "en": "I do not speak English." },
+        { "de": "Ich spreche etwas Deutsch.", "en": "I speak some German." }
+      ]
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Ich weis nicht.", "right": "Ich weiß nicht.", "why": "The verb *wissen* is spelled with *ß* (double s sound)." },
+    { "wrong": "Ich spreche nicht Deutsch.", "right": "Ich spreche kein Deutsch.", "why": "Use *kein* for 'no language' in this fixed phrase." }
+  ],
+  "pronunciation": [
+    { "de": "v", "tip": "German v sounds like English f. *Vielen Dank* sounds like 'feelen dank'." },
+    { "de": "ß", "tip": "Sounds like ss. *Ich weiß nicht*, *bisschen* is written with ss." },
+    { "de": "j", "tip": "J sounds like English y. *Ja* sounds like 'yah'." },
+    { "de": "tut", "tip": "In *Es tut mir leid* the vowel in *tut* is long: 'toot'." }
+  ],
+  "dialogues": [
+    {
+      "title": "At a desk",
+      "lines": [
+        { "who": "A", "de": "Entschuldigen Sie bitte! Sprechen Sie Englisch?", "en": "Excuse me! Do you speak English?" },
+        { "who": "B", "de": "Wie bitte?", "en": "Pardon?" },
+        { "who": "A", "de": "Sprechen Sie Englisch?", "en": "Do you speak English?" },
+        { "who": "B", "de": "Nein, ich spreche kein Englisch. Ich spreche ein bisschen Deutsch.", "en": "No, I do not speak English. I speak a little German." },
+        { "who": "A", "de": "Kein Problem. Danke!", "en": "No problem. Thanks!" },
+        { "who": "B", "de": "Bitte!", "en": "You're welcome!" }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "The three most important words in any language: ja, nein, vielleicht. Practise the intonation of Wie bitte? (a question) and Bitte (a request) separately.",
+  "comprehension": [
+    { "q": "What do you answer when someone says Danke?", "a": "Bitte or Bitte schön." },
+    { "q": "How do you ask someone to repeat what they said?", "a": "Wie bitte? or Noch einmal, bitte." },
+    { "q": "How do you say 'I do not speak English'?", "a": "Ich spreche kein Englisch." },
+    { "q": "How do you say 'I don't know'?", "a": "Ich weiß nicht. (or Keine Ahnung.)" },
+    { "q": "What are the three most important words the teacher mentions?", "a": "Ja, nein, vielleicht." }
+  ],
+  "exercises": [
+    {
+      "title": "Match the phrases",
+      "type": "match",
+      "instructions": "Match the German phrase with its English meaning.",
+      "items": [
+        { "q": "Danke schön!", "a": "Thank you very much!" },
+        { "q": "Es tut mir leid.", "a": "I'm sorry." },
+        { "q": "Wie bitte?", "a": "Pardon?" },
+        { "q": "Kein Problem.", "a": "No problem." },
+        { "q": "Keine Ahnung.", "a": "No idea." },
+        { "q": "Einen Moment, bitte!", "a": "One moment, please!" },
+        { "q": "Vielleicht", "a": "Maybe" }
+      ]
+    },
+    {
+      "title": "Choose the best answer",
+      "type": "choose",
+      "instructions": "Choose the correct reply.",
+      "items": [
+        { "q": "Danke! – ___ (Bitte / Nein)", "a": "Bitte", "expl": "Bitte means 'you're welcome' after Danke." },
+        { "q": "Sprechen Sie Deutsch? – Ja, ich spreche ___ Deutsch. (ein bisschen / kein)", "a": "ein bisschen", "expl": "'Ja' means you speak some German, so *kein* does not fit." },
+        { "q": "Sprechen Sie Englisch? – Nein, ich spreche ___ Englisch. (kein / etwas)", "a": "kein", "expl": "'Nein' goes with *kein*." },
+        { "q": "You did not hear what someone said. (Wie bitte? / Kein Problem.)", "a": "Wie bitte?" },
+        { "q": "You step on someone's foot. (Es tut mir leid. / Keine Ahnung.)", "a": "Es tut mir leid." }
+      ]
+    },
+    {
+      "title": "Fill in the gap",
+      "type": "fill",
+      "instructions": "Complete the sentences.",
+      "items": [
+        { "q": "Vielen ___!", "a": "Dank" },
+        { "q": "Ich ___ nicht. (I don't know.)", "a": "weiß", "expl": "Spelled with ß." },
+        { "q": "Es ___ mir leid.", "a": "tut" },
+        { "q": "Ich spreche ___ Deutsch. (a little)", "a": "ein bisschen / etwas", "expl": "Both work; the teacher uses 'ein bisschen' and 'etwas'." },
+        { "q": "Keine ___!", "a": "Ahnung" },
+        { "q": "Einen ___, bitte!", "a": "Moment" }
+      ]
+    },
+    {
+      "title": "Put the words in order",
+      "type": "reorder",
+      "instructions": "Write the correct sentence. The word with a capital letter comes first.",
+      "items": [
+        { "q": "Ich / Deutsch / spreche / kein", "a": "Ich spreche kein Deutsch." },
+        { "q": "Sie / Englisch / Sprechen", "a": "Sprechen Sie Englisch?" },
+        { "q": "mir / Es / leid / tut", "a": "Es tut mir leid." },
+        { "q": "nicht / weiß / Ich", "a": "Ich weiß nicht." },
+        { "q": "Problem / Kein", "a": "Kein Problem." }
+      ]
+    },
+    {
+      "title": "Translate",
+      "type": "translate",
+      "instructions": "Translate into German.",
+      "items": [
+        { "q": "Thank you very much!", "a": "Danke schön! / Vielen Dank!" },
+        { "q": "Do you speak German? (formal)", "a": "Sprechen Sie Deutsch?" },
+        { "q": "I speak some English.", "a": "Ich spreche etwas Englisch. / Ich spreche ein bisschen Englisch." },
+        { "q": "Excuse me! (informal)", "a": "Entschuldigung!" },
+        { "q": "One moment, please!", "a": "Einen Moment, bitte!" }
+      ]
+    }
+  ],
+  "summary": [
+    "Say Danke, Danke schön or Vielen Dank; answer Bitte or Bitte schön.",
+    "Apologise with Entschuldigung, Entschuldigen Sie bitte or Es tut mir leid.",
+    "Ask for repetition with Wie bitte? or Noch einmal, bitte; formally Bitte wiederholen Sie.",
+    "Talk about languages: Sprechen Sie Deutsch? Ich spreche kein / ein bisschen / etwas Deutsch.",
+    "Useful short phrases: Ich weiß nicht, Keine Ahnung, Kein Problem, Einen Moment bitte, and ja, nein, vielleicht."
+  ]
+}

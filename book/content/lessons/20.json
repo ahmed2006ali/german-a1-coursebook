@@ -1,0 +1,162 @@
+{
+  "n": 20,
+  "title": "Indefinite Articles",
+  "titleDe": "Unbestimmte Artikel",
+  "level": "A1",
+  "sourceNote": "The auto-captions are garbled, and the exercise nouns in the video's mini-quiz could only partly be recovered; the exercises below are rebuilt from the rules taught in the video.",
+  "objectives": [
+    "I can explain the difference between definite and indefinite articles",
+    "I can use ein and eine in the nominative",
+    "I know that there is no indefinite article in the plural",
+    "I can choose between ein/eine and der/die/das in a short text"
+  ],
+  "vocab": [
+    { "de": "der Mann", "pl": "die Männer", "en": "man", "ar": "رجل", "note": "" },
+    { "de": "die Frau", "pl": "die Frauen", "en": "woman", "ar": "امرأة", "note": "" },
+    { "de": "das Kind", "pl": "die Kinder", "en": "child", "ar": "طفل", "note": "" },
+    { "de": "die Blume", "pl": "die Blumen", "en": "flower", "ar": "زهرة", "note": "" },
+    { "de": "die Tasche", "pl": "die Taschen", "en": "bag", "ar": "حقيبة", "note": "" },
+    { "de": "der Elefant", "pl": "die Elefanten", "en": "elephant", "ar": "فيل", "note": "" },
+    { "de": "der Hund", "pl": "die Hunde", "en": "dog", "ar": "كلب", "note": "", "sup": true },
+    { "de": "die Katze", "pl": "die Katzen", "en": "cat", "ar": "قطة", "note": "", "sup": true },
+    { "de": "das Auto", "pl": "die Autos", "en": "car", "ar": "سيارة", "note": "", "sup": true },
+    { "de": "der Tisch", "pl": "die Tische", "en": "table", "ar": "طاولة", "note": "", "sup": true },
+    { "de": "die Lampe", "pl": "die Lampen", "en": "lamp", "ar": "مصباح", "note": "", "sup": true },
+    { "de": "das Handy", "pl": "die Handys", "en": "mobile phone", "ar": "هاتف جوال", "note": "", "sup": true },
+    { "de": "schön", "en": "beautiful, nice", "ar": "جميل", "note": "" }
+  ],
+  "expressions": [
+    { "de": "Das ist ein Mann.", "en": "That is a man.", "ar": "" },
+    { "de": "Das ist eine Frau.", "en": "That is a woman.", "ar": "" }
+  ],
+  "patterns": [
+    { "form": "Das ist + ein / eine + [Noun].", "ex": "Das ist eine Blume.", "en": "That is a flower." },
+    { "form": "Das sind + [Plural noun] (no article).", "ex": "Das sind Blumen.", "en": "Those are flowers." }
+  ],
+  "grammar": [
+    {
+      "title": "Definite or indefinite?",
+      "body": "The **definite** article (*der, die, das*) points to one particular person or thing: *the* man. The **indefinite** article is used when we talk about any man, not a particular one: *a* man. English has *a / an* for this.\n\nIn a story you use the indefinite article first and the definite article when you speak about the same person again: *Das ist eine Frau. **Die** Frau ist schön.*",
+      "examples": [
+        { "de": "Das ist ein Mann.", "en": "That is a man." },
+        { "de": "Das ist eine Frau. Die Frau ist schön.", "en": "That is a woman. The woman is beautiful." }
+      ]
+    },
+    {
+      "title": "The indefinite articles (nominative)",
+      "body": "The indefinite article depends on the gender, so you must know the definite article first:\n\n- **der** → **ein**\n- **die** → **eine**\n- **das** → **ein** (same as masculine)\n\nThere is **no indefinite article in the plural**. You simply use the noun without an article.",
+      "table": {
+        "head": ["", "Definite", "Indefinite"],
+        "rows": [
+          ["masculine", "der Mann", "ein Mann"],
+          ["feminine", "die Frau", "eine Frau"],
+          ["neuter", "das Kind", "ein Kind"],
+          ["plural", "die Blumen", "– Blumen (no article)"]
+        ]
+      },
+      "ar": "المفرد المذكّر والمحايد: ein، المؤنّث: eine، ولا يوجد أداة نكرة في الجمع.",
+      "examples": [
+        { "de": "Das ist ein Elefant.", "en": "That is an elephant." },
+        { "de": "Das ist eine Tasche.", "en": "That is a bag." },
+        { "de": "Die Blumen sind schön.", "en": "The flowers are beautiful." },
+        { "de": "Blumen sind schön.", "en": "Flowers are beautiful." }
+      ]
+    },
+    {
+      "title": "Only the nominative",
+      "body": "These forms are for the **nominative** case only. The other cases come in later lessons. You can only learn the indefinite article if you know the definite article of each noun.",
+      "sup": true
+    }
+  ],
+  "mistakes": [
+    { "wrong": "Das ist ein Frau.", "right": "Das ist eine Frau.", "why": "*Frau* is feminine (*die*), so the article is *eine*." },
+    { "wrong": "Das sind eine Blumen.", "right": "Das sind Blumen.", "why": "There is no indefinite article in the plural." },
+    { "wrong": "Das ist eine Kind.", "right": "Das ist ein Kind.", "why": "*Kind* is neuter (*das*), so the article is *ein*." }
+  ],
+  "pronunciation": [
+    { "de": "ei", "tip": "Sounds like English 'eye'. *ein*, *eine*." },
+    { "de": "sch", "tip": "Like English 'sh'. *schön*, *Tasche*." }
+  ],
+  "dialogues": [
+    {
+      "title": "Who is that?",
+      "lines": [
+        { "who": "A", "de": "Wer ist das?", "en": "Who is that?" },
+        { "who": "B", "de": "Das ist eine Frau.", "en": "That is a woman." },
+        { "who": "A", "de": "Ist die Frau schön?", "en": "Is the woman beautiful?" },
+        { "who": "B", "de": "Ja, die Frau ist schön.", "en": "Yes, the woman is beautiful." }
+      ],
+      "sup": true
+    }
+  ],
+  "tip": "Learn the definite article first: ein goes with der and das, eine goes with die.",
+  "comprehension": [
+    { "q": "Which indefinite article goes with a masculine noun?", "a": "ein" },
+    { "q": "Which indefinite article goes with a feminine noun?", "a": "eine" },
+    { "q": "Which indefinite article goes with a neuter noun?", "a": "ein (the same as masculine)." },
+    { "q": "What is the indefinite article in the plural?", "a": "There is none." }
+  ],
+  "exercises": [
+    {
+      "title": "Ein or eine?",
+      "type": "fill",
+      "instructions": "Write the indefinite article (ein or eine).",
+      "items": [
+        { "q": "Das ist ___ Hund.", "a": "ein", "expl": "*der Hund*" },
+        { "q": "Das ist ___ Katze.", "a": "eine", "expl": "*die Katze*" },
+        { "q": "Das ist ___ Auto.", "a": "ein", "expl": "*das Auto*" },
+        { "q": "Das ist ___ Lampe.", "a": "eine", "expl": "*die Lampe*" },
+        { "q": "Das ist ___ Tisch.", "a": "ein", "expl": "*der Tisch*" },
+        { "q": "Das ist ___ Tasche.", "a": "eine", "expl": "*die Tasche*" },
+        { "q": "Das ist ___ Elefant.", "a": "ein", "expl": "*der Elefant*" },
+        { "q": "Das ist ___ Handy.", "a": "ein", "expl": "*das Handy*" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Indefinite or definite?",
+      "type": "choose",
+      "instructions": "Choose the correct article for each gap. The first time we mention something we use the indefinite article.",
+      "items": [
+        { "q": "Das ist ___ Mann. (ein / der) – ___ Mann ist alt. (ein / der)", "a": "ein / Der", "expl": "First mention: *ein*; second mention: *der*." },
+        { "q": "Das ist ___ Frau. (eine / die) – ___ Frau ist schön. (eine / die)", "a": "eine / Die" },
+        { "q": "Das ist ___ Kind. (ein / das) – ___ Kind ist glücklich. (ein / das)", "a": "ein / Das" },
+        { "q": "Das ist ___ Blume. (eine / die) – ___ Blume ist schön. (eine / die)", "a": "eine / Die" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Singular or plural?",
+      "type": "choose",
+      "instructions": "Choose ein, eine or – (no article).",
+      "items": [
+        { "q": "Das sind ___ Blumen. (ein / eine / –)", "a": "–", "expl": "No indefinite article in the plural." },
+        { "q": "Das ist ___ Blume. (ein / eine / –)", "a": "eine" },
+        { "q": "Das sind ___ Kinder. (ein / eine / –)", "a": "–" },
+        { "q": "Das ist ___ Kind. (ein / eine / –)", "a": "ein" },
+        { "q": "Das sind ___ Hunde. (ein / eine / –)", "a": "–" }
+      ],
+      "sup": true
+    },
+    {
+      "title": "Translate into German",
+      "type": "translate",
+      "instructions": "Translate the sentences.",
+      "items": [
+        { "q": "That is a man.", "a": "Das ist ein Mann." },
+        { "q": "That is a woman.", "a": "Das ist eine Frau." },
+        { "q": "That is a child.", "a": "Das ist ein Kind." },
+        { "q": "Those are flowers.", "a": "Das sind Blumen." },
+        { "q": "That is a bag.", "a": "Das ist eine Tasche." }
+      ],
+      "sup": true
+    }
+  ],
+  "summary": [
+    "Definite = a particular one (der, die, das); indefinite = any one (ein, eine).",
+    "der → ein, die → eine, das → ein.",
+    "There is no indefinite article in the plural.",
+    "First mention: ein/eine. Second mention: der/die/das.",
+    "These forms are for the nominative only."
+  ]
+}
